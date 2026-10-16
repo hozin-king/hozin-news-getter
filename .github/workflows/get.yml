@@ -1,0 +1,45 @@
+name: News Getter
+
+on:
+  schedule:
+    # Every 10 minutes
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+# Sequential chain: never run two getters at the same time.
+# If a previous run is still going, the new one waits its turn.
+concurrency:
+  group: news-getter-chain
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  get:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Getter 1 (detik, JawaPos, CNN Indonesia)
+        run: python3 getter1.py
+
+      - name: Getter 2 (Liputan6, Antara)
+        run: python3 getter2.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "hozin-news-getter"
+          git config user.email "news-getter@hozinking.my.id"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No new articles, nothing to commit"
+          else
+            git commit -m "news: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
