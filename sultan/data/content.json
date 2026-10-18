@@ -1,0 +1,1237 @@
+{
+ "updated_at": "2026-10-18T06:37:09.754016+00:00",
+ "fx": {
+  "updated_at": "2026-10-18T06:35:26.340929+00:00",
+  "usd_idr": 18014.03,
+  "source": "https://open.er-api.com/v6/latest/USD"
+ },
+ "billionaires_top100": [
+  {
+   "rank": 1,
+   "name": "Elon Musk",
+   "net_worth_usd": 908519294000,
+   "country": "United States",
+   "source": "Tesla, SpaceX",
+   "industry": "Technology",
+   "age": 55,
+   "forbes_uri": "elon-musk"
+  },
+  {
+   "rank": 2,
+   "name": "Jeff Bezos",
+   "net_worth_usd": 369846673000,
+   "country": "United States",
+   "source": "Amazon",
+   "industry": "Technology",
+   "age": 62,
+   "forbes_uri": "jeff-bezos"
+  },
+  {
+   "rank": 3,
+   "name": "Larry Page",
+   "net_worth_usd": 279334577000,
+   "country": "United States",
+   "source": "Google",
+   "industry": "Technology",
+   "age": 53,
+   "forbes_uri": "larry-page"
+  },
+  {
+   "rank": 4,
+   "name": "Sergey Brin",
+   "net_worth_usd": 257072061000,
+   "country": "United States",
+   "source": "Google",
+   "industry": "Technology",
+   "age": 53,
+   "forbes_uri": "sergey-brin"
+  },
+  {
+   "rank": 5,
+   "name": "Mark Zuckerberg",
+   "net_worth_usd": 243302366000,
+   "country": "United States",
+   "source": "Facebook",
+   "industry": "Technology",
+   "age": 42,
+   "forbes_uri": "mark-zuckerberg"
+  },
+  {
+   "rank": 6,
+   "name": "Michael Dell",
+   "net_worth_usd": 236960854000,
+   "country": "United States",
+   "source": "Dell Technologies",
+   "industry": "Technology",
+   "age": 61,
+   "forbes_uri": "michael-dell"
+  },
+  {
+   "rank": 7,
+   "name": "Jensen Huang",
+   "net_worth_usd": 185576852000,
+   "country": "United States",
+   "source": "Semiconductors",
+   "industry": "Technology",
+   "age": 63,
+   "forbes_uri": "jensen-huang"
+  },
+  {
+   "rank": 8,
+   "name": "Larry Ellison",
+   "net_worth_usd": 167217147000,
+   "country": "United States",
+   "source": "Oracle",
+   "industry": "Technology",
+   "age": 82,
+   "forbes_uri": "larry-ellison"
+  },
+  {
+   "rank": 9,
+   "name": "Steve Ballmer",
+   "net_worth_usd": 163497759000,
+   "country": "United States",
+   "source": "Microsoft",
+   "industry": "Technology",
+   "age": 70,
+   "forbes_uri": "steve-ballmer"
+  },
+  {
+   "rank": 10,
+   "name": "Warren Buffett",
+   "net_worth_usd": 151111538000,
+   "country": "United States",
+   "source": "Berkshire Hathaway",
+   "industry": "Finance & Investments",
+   "age": 96,
+   "forbes_uri": "warren-buffett"
+  },
+  {
+   "rank": 11,
+   "name": "Amancio Ortega",
+   "net_worth_usd": 145362516000,
+   "country": "Spain",
+   "source": "Zara",
+   "industry": "Fashion & Retail",
+   "age": 90,
+   "forbes_uri": "amancio-ortega"
+  },
+  {
+   "rank": 12,
+   "name": "Rob Walton",
+   "net_worth_usd": 142124468000,
+   "country": "United States",
+   "source": "Walmart",
+   "industry": "Fashion & Retail",
+   "age": 81,
+   "forbes_uri": "rob-walton"
+  },
+  {
+   "rank": 13,
+   "name": "Jim Walton",
+   "net_worth_usd": 138910866000,
+   "country": "United States",
+   "source": "Walmart",
+   "industry": "Fashion & Retail",
+   "age": 78,
+   "forbes_uri": "jim-walton"
+  },
+  {
+   "rank": 14,
+   "name": "Alice Walton",
+   "net_worth_usd": 128486789000,
+   "country": "United States",
+   "source": "Walmart",
+   "industry": "Fashion & Retail",
+   "age": 77,
+   "forbes_uri": "alice-walton"
+  },
+  {
+   "rank": 15,
+   "name": "Bernard Arnault",
+   "net_worth_usd": 121153764000,
+   "country": "France",
+   "source": "LVMH",
+   "industry": "Fashion & Retail",
+   "age": 77,
+   "forbes_uri": "bernard-arnault"
+  },
+  {
+   "rank": 16,
+   "name": "Carlos Slim Helu",
+   "net_worth_usd": 120423904000,
+   "country": "Mexico",
+   "source": "Telecom",
+   "industry": "Telecom",
+   "age": 86,
+   "forbes_uri": "carlos-slim-helu"
+  },
+  {
+   "rank": 17,
+   "name": "Bill Gates",
+   "net_worth_usd": 117808701000,
+   "country": "United States",
+   "source": "Microsoft",
+   "industry": "Technology",
+   "age": 70,
+   "forbes_uri": "bill-gates"
+  },
+  {
+   "rank": 18,
+   "name": "Changpeng Zhao",
+   "net_worth_usd": 114611309000,
+   "country": "Canada",
+   "source": "Cryptocurrency exchange",
+   "industry": "Finance & Investments",
+   "age": 49,
+   "forbes_uri": "changpeng-zhao"
+  },
+  {
+   "rank": 19,
+   "name": "Francoise Bettencourt Meyers",
+   "net_worth_usd": 97529200000,
+   "country": "France",
+   "source": "L'Oréal",
+   "industry": "Fashion & Retail",
+   "age": 73,
+   "forbes_uri": "francoise-bettencourt-meyers"
+  },
+  {
+   "rank": 20,
+   "name": "Thomas Peterffy",
+   "net_worth_usd": 96293577000,
+   "country": "United States",
+   "source": "Discount brokerage",
+   "industry": "Finance & Investments",
+   "age": 82,
+   "forbes_uri": "thomas-peterffy"
+  },
+  {
+   "rank": 21,
+   "name": "Michael Bloomberg",
+   "net_worth_usd": 94920000000,
+   "country": "United States",
+   "source": "Bloomberg LP",
+   "industry": "Finance & Investments",
+   "age": 84,
+   "forbes_uri": "michael-bloomberg"
+  },
+  {
+   "rank": 22,
+   "name": "Giancarlo Devasini",
+   "net_worth_usd": 89300000000,
+   "country": "Italy",
+   "source": "Cryptocurrency",
+   "industry": "Finance & Investments",
+   "age": 62,
+   "forbes_uri": "giancarlo-devasini"
+  },
+  {
+   "rank": 23,
+   "name": "Julia Koch",
+   "net_worth_usd": 84627000000,
+   "country": "United States",
+   "source": "Koch, Inc.",
+   "industry": "Diversified",
+   "age": 64,
+   "forbes_uri": "julia-koch"
+  },
+  {
+   "rank": 24,
+   "name": "Zhang Yiming",
+   "net_worth_usd": 84000000000,
+   "country": "China",
+   "source": "TikTok",
+   "industry": "Technology",
+   "age": 42,
+   "forbes_uri": "zhang-yiming"
+  },
+  {
+   "rank": 25,
+   "name": "Mukesh Ambani",
+   "net_worth_usd": 83481163000,
+   "country": "India",
+   "source": "Diversified",
+   "industry": "Diversified",
+   "age": 69,
+   "forbes_uri": "mukesh-ambani"
+  },
+  {
+   "rank": 26,
+   "name": "Gautam Adani",
+   "net_worth_usd": 78547905000,
+   "country": "India",
+   "source": "Infrastructure, commodities",
+   "industry": "Diversified",
+   "age": 64,
+   "forbes_uri": "gautam-adani-1"
+  },
+  {
+   "rank": 27,
+   "name": "Jeff Yass",
+   "net_worth_usd": 77790000000,
+   "country": "United States",
+   "source": "Trading, investments",
+   "industry": "Finance & Investments",
+   "age": 68,
+   "forbes_uri": "jeff-yass"
+  },
+  {
+   "rank": 28,
+   "name": "Charles Koch",
+   "net_worth_usd": 76942000000,
+   "country": "United States",
+   "source": "Koch, Inc.",
+   "industry": "Diversified",
+   "age": 90,
+   "forbes_uri": "charles-koch"
+  },
+  {
+   "rank": 29,
+   "name": "Germán Larrea Mota Velasco",
+   "net_worth_usd": 69324733000,
+   "country": "Mexico",
+   "source": "Mining",
+   "industry": "Metals & Mining",
+   "age": 72,
+   "forbes_uri": "german-larrea-mota-velasco"
+  },
+  {
+   "rank": 30,
+   "name": "Tadashi Yanai",
+   "net_worth_usd": 65492994000,
+   "country": "Japan",
+   "source": "Fashion retail",
+   "industry": "Fashion & Retail",
+   "age": 77,
+   "forbes_uri": "tadashi-yanai"
+  },
+  {
+   "rank": 31,
+   "name": "Masayoshi Son",
+   "net_worth_usd": 60448358000,
+   "country": "Japan",
+   "source": "Telecom, Investments",
+   "industry": "Finance & Investments",
+   "age": 69,
+   "forbes_uri": "masayoshi-son"
+  },
+  {
+   "rank": 32,
+   "name": "Zhong Shanshan",
+   "net_worth_usd": 60181340000,
+   "country": "China",
+   "source": "Beverages, pharmaceuticals",
+   "industry": "Food & Beverage",
+   "age": 71,
+   "forbes_uri": "zhong-shanshan"
+  },
+  {
+   "rank": 33,
+   "name": "Dieter Schwarz",
+   "net_worth_usd": 59307184000,
+   "country": "Germany",
+   "source": "Retail",
+   "industry": "Fashion & Retail",
+   "age": 87,
+   "forbes_uri": "dieter-schwarz"
+  },
+  {
+   "rank": 34,
+   "name": "Ken Griffin",
+   "net_worth_usd": 56948419000,
+   "country": "United States",
+   "source": "Hedge funds",
+   "industry": "Finance & Investments",
+   "age": 58,
+   "forbes_uri": "ken-griffin"
+  },
+  {
+   "rank": 35,
+   "name": "Aliko Dangote",
+   "net_worth_usd": 51646998000,
+   "country": "Nigeria",
+   "source": "Cement, sugar",
+   "industry": "Manufacturing",
+   "age": 69,
+   "forbes_uri": "aliko-dangote"
+  },
+  {
+   "rank": 36,
+   "name": "Jacqueline Mars",
+   "net_worth_usd": 50348000000,
+   "country": "United States",
+   "source": "Candy, pet food",
+   "industry": "Food & Beverage",
+   "age": 87,
+   "forbes_uri": "jacqueline-mars"
+  },
+  {
+   "rank": 37,
+   "name": "John Mars",
+   "net_worth_usd": 50348000000,
+   "country": "United States",
+   "source": "Candy, pet food",
+   "industry": "Food & Beverage",
+   "age": 91,
+   "forbes_uri": "john-mars"
+  },
+  {
+   "rank": 38,
+   "name": "Li Ka-shing",
+   "net_worth_usd": 48669152000,
+   "country": "Hong Kong",
+   "source": "Diversified",
+   "industry": "Diversified",
+   "age": 98,
+   "forbes_uri": "li-ka-shing"
+  },
+  {
+   "rank": 39,
+   "name": "Lukas Walton",
+   "net_worth_usd": 47709683000,
+   "country": "United States",
+   "source": "Walmart",
+   "industry": "Fashion & Retail",
+   "age": 40,
+   "forbes_uri": "lukas-walton"
+  },
+  {
+   "rank": 40,
+   "name": "Gianluigi Aponte",
+   "net_worth_usd": 46846513000,
+   "country": "Switzerland",
+   "source": "Shipping",
+   "industry": "Logistics",
+   "age": 86,
+   "forbes_uri": "gianluigi-aponte"
+  },
+  {
+   "rank": 41,
+   "name": "Rafaela Aponte-Diamant",
+   "net_worth_usd": 46846513000,
+   "country": "Switzerland",
+   "source": "Shipping",
+   "industry": "Logistics",
+   "age": 81,
+   "forbes_uri": "rafaela-aponte-diamant"
+  },
+  {
+   "rank": 42,
+   "name": "Giovanni Ferrero",
+   "net_worth_usd": 46464499000,
+   "country": "Italy",
+   "source": "Nutella, chocolates",
+   "industry": "Food & Beverage",
+   "age": 62,
+   "forbes_uri": "giovanni-ferrero"
+  },
+  {
+   "rank": 43,
+   "name": "Liang Wenfeng",
+   "net_worth_usd": 46023226000,
+   "country": "China",
+   "source": "AI, hedge fund",
+   "industry": "Technology",
+   "age": 41,
+   "forbes_uri": "liang-wenfeng"
+  },
+  {
+   "rank": 44,
+   "name": "Robin Zeng",
+   "net_worth_usd": 45804858000,
+   "country": "Hong Kong",
+   "source": "Batteries",
+   "industry": "Energy",
+   "age": 57,
+   "forbes_uri": "robin-zeng"
+  },
+  {
+   "rank": 45,
+   "name": "Ma Huateng",
+   "net_worth_usd": 45340107000,
+   "country": "China",
+   "source": "Online games",
+   "industry": "Technology",
+   "age": 54,
+   "forbes_uri": "ma-huateng"
+  },
+  {
+   "rank": 46,
+   "name": "Iris Fontbona",
+   "net_worth_usd": 44471769000,
+   "country": "Chile",
+   "source": "Mining",
+   "industry": "Metals & Mining",
+   "age": 83,
+   "forbes_uri": "iris-fontbona"
+  },
+  {
+   "rank": 47,
+   "name": "Mark Mateschitz",
+   "net_worth_usd": 43637898000,
+   "country": "Austria",
+   "source": "Red Bull",
+   "industry": "Food & Beverage",
+   "age": 34,
+   "forbes_uri": "mark-mateschitz"
+  },
+  {
+   "rank": 48,
+   "name": "William Ding",
+   "net_worth_usd": 42253006000,
+   "country": "China",
+   "source": "Online games",
+   "industry": "Technology",
+   "age": 55,
+   "forbes_uri": "william-ding"
+  },
+  {
+   "rank": 49,
+   "name": "Abigail Johnson",
+   "net_worth_usd": 41635256000,
+   "country": "United States",
+   "source": "Fidelity",
+   "industry": "Finance & Investments",
+   "age": 64,
+   "forbes_uri": "abigail-johnson"
+  },
+  {
+   "rank": 50,
+   "name": "Andrea Pignataro",
+   "net_worth_usd": 40623945000,
+   "country": "Italy",
+   "source": "Financial software",
+   "industry": "Finance & Investments",
+   "age": 56,
+   "forbes_uri": "andrea-pignataro"
+  },
+  {
+   "rank": 51,
+   "name": "Alain Wertheimer",
+   "net_worth_usd": 39401620000,
+   "country": "France",
+   "source": "Chanel",
+   "industry": "Fashion & Retail",
+   "age": 78,
+   "forbes_uri": "alain-wertheimer"
+  },
+  {
+   "rank": 52,
+   "name": "Gerard Wertheimer",
+   "net_worth_usd": 39401620000,
+   "country": "France",
+   "source": "Chanel",
+   "industry": "Fashion & Retail",
+   "age": 75,
+   "forbes_uri": "gerard-wertheimer-1"
+  },
+  {
+   "rank": 53,
+   "name": "Stephen Schwarzman",
+   "net_worth_usd": 39299609000,
+   "country": "United States",
+   "source": "Investments",
+   "industry": "Finance & Investments",
+   "age": 79,
+   "forbes_uri": "stephen-schwarzman"
+  },
+  {
+   "rank": 54,
+   "name": "Eduardo Saverin",
+   "net_worth_usd": 39250299000,
+   "country": "Brazil",
+   "source": "Facebook",
+   "industry": "Technology",
+   "age": 44,
+   "forbes_uri": "eduardo-saverin"
+  },
+  {
+   "rank": 55,
+   "name": "Savitri Jindal",
+   "net_worth_usd": 38275502000,
+   "country": "India",
+   "source": "Steel",
+   "industry": "Metals & Mining",
+   "age": 76,
+   "forbes_uri": "savitri-jindal"
+  },
+  {
+   "rank": 56,
+   "name": "Paolo Ardoino",
+   "net_worth_usd": 38000000000,
+   "country": "Italy",
+   "source": "Cryptocurrency",
+   "industry": "Finance & Investments",
+   "age": 41,
+   "forbes_uri": "paolo-ardoino"
+  },
+  {
+   "rank": 57,
+   "name": "Jean-Louis van der Velde",
+   "net_worth_usd": 38000000000,
+   "country": "Netherlands",
+   "source": "Cryptocurrency",
+   "industry": "Finance & Investments",
+   "age": 62,
+   "forbes_uri": "jean-louis-van-der-velde"
+  },
+  {
+   "rank": 58,
+   "name": "Eric Schmidt",
+   "net_worth_usd": 37971035000,
+   "country": "United States",
+   "source": "Google",
+   "industry": "Technology",
+   "age": 71,
+   "forbes_uri": "eric-schmidt"
+  },
+  {
+   "rank": 59,
+   "name": "Thomas Frist, Jr.",
+   "net_worth_usd": 37407864000,
+   "country": "United States",
+   "source": "Hospitals",
+   "industry": "Healthcare",
+   "age": 88,
+   "forbes_uri": "thomas-frist-jr"
+  },
+  {
+   "rank": 60,
+   "name": "He Xiangjian",
+   "net_worth_usd": 37128107000,
+   "country": "China",
+   "source": "Home appliances",
+   "industry": "Manufacturing",
+   "age": 84,
+   "forbes_uri": "he-xiangjian"
+  },
+  {
+   "rank": 61,
+   "name": "Alexey Mordashov",
+   "net_worth_usd": 36897064000,
+   "country": "Russia",
+   "source": "Steel, investments",
+   "industry": "Metals & Mining",
+   "age": 61,
+   "forbes_uri": "alexey-mordashov"
+  },
+  {
+   "rank": 62,
+   "name": "Marilyn Simons",
+   "net_worth_usd": 36573100000,
+   "country": "United States",
+   "source": "Hedge funds",
+   "industry": "Finance & Investments",
+   "age": 75,
+   "forbes_uri": "marilyn-simons"
+  },
+  {
+   "rank": 63,
+   "name": "Peter Thiel",
+   "net_worth_usd": 36410307000,
+   "country": "United States",
+   "source": "Facebook, investments",
+   "industry": "Finance & Investments",
+   "age": 59,
+   "forbes_uri": "peter-thiel"
+  },
+  {
+   "rank": 64,
+   "name": "Andreas von Bechtolsheim",
+   "net_worth_usd": 36028800000,
+   "country": "Germany",
+   "source": "Google",
+   "industry": "Technology",
+   "age": 71,
+   "forbes_uri": "andreas-von-bechtolsheim"
+  },
+  {
+   "rank": 65,
+   "name": "Eyal Ofer",
+   "net_worth_usd": 35809991000,
+   "country": "Israel",
+   "source": "Real estate, shipping",
+   "industry": "Diversified",
+   "age": 76,
+   "forbes_uri": "eyal-ofer"
+  },
+  {
+   "rank": 66,
+   "name": "Len Blavatnik",
+   "net_worth_usd": 35457876000,
+   "country": "United States",
+   "source": "Music, chemicals",
+   "industry": "Diversified",
+   "age": 69,
+   "forbes_uri": "len-blavatnik"
+  },
+  {
+   "rank": 67,
+   "name": "Melinda French Gates",
+   "net_worth_usd": 34304930000,
+   "country": "United States",
+   "source": "Microsoft",
+   "industry": "Technology",
+   "age": 62,
+   "forbes_uri": "melinda-french-gates"
+  },
+  {
+   "rank": 68,
+   "name": "Pham Nhat Vuong",
+   "net_worth_usd": 33801572000,
+   "country": "Vietnam",
+   "source": "Diversified",
+   "industry": "Diversified",
+   "age": 58,
+   "forbes_uri": "pham-nhat-vuong"
+  },
+  {
+   "rank": 69,
+   "name": "Elaine Marshall",
+   "net_worth_usd": 32239000000,
+   "country": "United States",
+   "source": "Koch Inc.",
+   "industry": "Diversified",
+   "age": 84,
+   "forbes_uri": "elaine-marshall"
+  },
+  {
+   "rank": 70,
+   "name": "Henry Samueli",
+   "net_worth_usd": 31385797000,
+   "country": "United States",
+   "source": "Semiconductors",
+   "industry": "Technology",
+   "age": 72,
+   "forbes_uri": "henry-samueli"
+  },
+  {
+   "rank": 71,
+   "name": "Miriam Adelson",
+   "net_worth_usd": 31032098000,
+   "country": "United States",
+   "source": "Casinos",
+   "industry": "Gambling & Casinos",
+   "age": 81,
+   "forbes_uri": "miriam-adelson"
+  },
+  {
+   "rank": 72,
+   "name": "Lakshmi Mittal",
+   "net_worth_usd": 30725703000,
+   "country": "India",
+   "source": "Steel",
+   "industry": "Metals & Mining",
+   "age": 76,
+   "forbes_uri": "lakshmi-mittal"
+  },
+  {
+   "rank": 73,
+   "name": "Shiv Nadar",
+   "net_worth_usd": 30508919000,
+   "country": "India",
+   "source": "Software services",
+   "industry": "Technology",
+   "age": 81,
+   "forbes_uri": "shiv-nadar"
+  },
+  {
+   "rank": 74,
+   "name": "Lyndal Stephens Greth",
+   "net_worth_usd": 30355546000,
+   "country": "United States",
+   "source": "Oil & gas",
+   "industry": "Energy",
+   "age": 52,
+   "forbes_uri": "lyndal-stephens-greth"
+  },
+  {
+   "rank": 75,
+   "name": "Idan Ofer",
+   "net_worth_usd": 30214551000,
+   "country": "Israel",
+   "source": "Shipping",
+   "industry": "Diversified",
+   "age": 71,
+   "forbes_uri": "idan-ofer"
+  },
+  {
+   "rank": 76,
+   "name": "Vladimir Potanin",
+   "net_worth_usd": 29740299000,
+   "country": "Russia",
+   "source": "Metals",
+   "industry": "Metals & Mining",
+   "age": 65,
+   "forbes_uri": "vladimir-potanin"
+  },
+  {
+   "rank": 77,
+   "name": "Robert Pera",
+   "net_worth_usd": 29624850000,
+   "country": "United States",
+   "source": "Wireless networking",
+   "industry": "Technology",
+   "age": 48,
+   "forbes_uri": "robert-pera"
+  },
+  {
+   "rank": 78,
+   "name": "Vagit Alekperov",
+   "net_worth_usd": 29475064000,
+   "country": "Russia",
+   "source": "Oil",
+   "industry": "Energy",
+   "age": 76,
+   "forbes_uri": "vagit-alekperov"
+  },
+  {
+   "rank": 79,
+   "name": "Colin Huang",
+   "net_worth_usd": 28536743000,
+   "country": "China",
+   "source": "E-commerce",
+   "industry": "Technology",
+   "age": 46,
+   "forbes_uri": "colin-huang"
+  },
+  {
+   "rank": 80,
+   "name": "David Tepper",
+   "net_worth_usd": 28504000000,
+   "country": "United States",
+   "source": "Hedge funds",
+   "industry": "Finance & Investments",
+   "age": 69,
+   "forbes_uri": "david-tepper"
+  },
+  {
+   "rank": 81,
+   "name": "Leonid Mikhelson",
+   "net_worth_usd": 28301370000,
+   "country": "Russia",
+   "source": "Gas, chemicals",
+   "industry": "Energy",
+   "age": 71,
+   "forbes_uri": "leonid-mikhelson"
+  },
+  {
+   "rank": 82,
+   "name": "John Tu",
+   "net_worth_usd": 28219898000,
+   "country": "United States",
+   "source": "Computer hardware",
+   "industry": "Technology",
+   "age": 85,
+   "forbes_uri": "john-tu"
+  },
+  {
+   "rank": 83,
+   "name": "David Sun",
+   "net_worth_usd": 28199420000,
+   "country": "United States",
+   "source": "Computer hardware",
+   "industry": "Technology",
+   "age": 75,
+   "forbes_uri": "david-sun"
+  },
+  {
+   "rank": 84,
+   "name": "Jay Y. Lee",
+   "net_worth_usd": 27855174000,
+   "country": "South Korea",
+   "source": "Samsung",
+   "industry": "Technology",
+   "age": 58,
+   "forbes_uri": "jay-y-lee"
+  },
+  {
+   "rank": 85,
+   "name": "Stanley Kroenke",
+   "net_worth_usd": 27588800000,
+   "country": "United States",
+   "source": "Sports, real estate",
+   "industry": "Sports",
+   "age": 79,
+   "forbes_uri": "stanley-kroenke"
+  },
+  {
+   "rank": 86,
+   "name": "Israel Englander",
+   "net_worth_usd": 27555932000,
+   "country": "United States",
+   "source": "Hedge funds",
+   "industry": "Finance & Investments",
+   "age": 78,
+   "forbes_uri": "israel-englander"
+  },
+  {
+   "rank": 87,
+   "name": "Cyrus Poonawalla",
+   "net_worth_usd": 27342665000,
+   "country": "India",
+   "source": "Vaccines",
+   "industry": "Healthcare",
+   "age": 85,
+   "forbes_uri": "cyrus-poonawalla"
+  },
+  {
+   "rank": 88,
+   "name": "MacKenzie Scott",
+   "net_worth_usd": 27331650000,
+   "country": "United States",
+   "source": "Amazon",
+   "industry": "Technology",
+   "age": 56,
+   "forbes_uri": "mackenzie-scott"
+  },
+  {
+   "rank": 89,
+   "name": "Reinhold Wuerth",
+   "net_worth_usd": 27327110000,
+   "country": "Germany",
+   "source": "Fasteners",
+   "industry": "Manufacturing",
+   "age": 91,
+   "forbes_uri": "reinhold-wuerth"
+  },
+  {
+   "rank": 90,
+   "name": "Steve Cohen",
+   "net_worth_usd": 26670639000,
+   "country": "United States",
+   "source": "Hedge funds",
+   "industry": "Finance & Investments",
+   "age": 70,
+   "forbes_uri": "steve-cohen"
+  },
+  {
+   "rank": 91,
+   "name": "Jack Ma",
+   "net_worth_usd": 26055150000,
+   "country": "China",
+   "source": "E-commerce",
+   "industry": "Technology",
+   "age": 62,
+   "forbes_uri": "jack-ma"
+  },
+  {
+   "rank": 92,
+   "name": "Vicky Safra",
+   "net_worth_usd": 25914275000,
+   "country": "Greece",
+   "source": "Banking",
+   "industry": "Finance & Investments",
+   "age": 74,
+   "forbes_uri": "vicky-safra"
+  },
+  {
+   "rank": 93,
+   "name": "Suleiman Kerimov",
+   "net_worth_usd": 25662204000,
+   "country": "Russia",
+   "source": "Gold",
+   "industry": "Finance & Investments",
+   "age": 60,
+   "forbes_uri": "suleiman-kerimov-family"
+  },
+  {
+   "rank": 94,
+   "name": "Vladimir Lisin",
+   "net_worth_usd": 25532466000,
+   "country": "Russia",
+   "source": "Steel, transport",
+   "industry": "Metals & Mining",
+   "age": 70,
+   "forbes_uri": "vladimir-lisin"
+  },
+  {
+   "rank": 95,
+   "name": "Greg Brockman",
+   "net_worth_usd": 25486000000,
+   "country": "United States",
+   "source": "OpenAI",
+   "industry": "Technology",
+   "age": 37,
+   "forbes_uri": "greg-brockman"
+  },
+  {
+   "rank": 96,
+   "name": "Phil Knight",
+   "net_worth_usd": 25429113000,
+   "country": "United States",
+   "source": "Nike",
+   "industry": "Fashion & Retail",
+   "age": 88,
+   "forbes_uri": "phil-knight"
+  },
+  {
+   "rank": 97,
+   "name": "Chen Jianhua",
+   "net_worth_usd": 25200422000,
+   "country": "China",
+   "source": "Chemicals",
+   "industry": "Manufacturing",
+   "age": 55,
+   "forbes_uri": "chen-jianhua"
+  },
+  {
+   "rank": 98,
+   "name": "Rupert Murdoch",
+   "net_worth_usd": 25067795000,
+   "country": "United States",
+   "source": "Newspapers, TV network",
+   "industry": "Media & Entertainment",
+   "age": 95,
+   "forbes_uri": "rupert-murdoch"
+  },
+  {
+   "rank": 99,
+   "name": "Dilip Shanghvi",
+   "net_worth_usd": 24996251000,
+   "country": "India",
+   "source": "Pharmaceuticals",
+   "industry": "Healthcare",
+   "age": 71,
+   "forbes_uri": "dilip-shanghvi"
+  },
+  {
+   "rank": 100,
+   "name": "Prince Alwaleed Bin Talal Alsaud",
+   "net_worth_usd": 24949085000,
+   "country": "Saudi Arabia",
+   "source": "investments",
+   "industry": "Finance & Investments",
+   "age": 71,
+   "forbes_uri": "prince-alwaleed-bin-talal-alsaud"
+  }
+ ],
+ "logos": {
+  "msi": {
+   "name": "MSI",
+   "file": "sultan/data/logos/msi.png",
+   "bytes": 2192
+  },
+  "nvidia": {
+   "name": "NVIDIA",
+   "file": "sultan/data/logos/nvidia.png",
+   "bytes": 1607
+  },
+  "intel": {
+   "name": "Intel",
+   "file": "sultan/data/logos/intel.png",
+   "bytes": 728
+  },
+  "apple": {
+   "name": "Apple",
+   "file": "sultan/data/logos/apple.png",
+   "bytes": 2468
+  },
+  "samsung": {
+   "name": "Samsung",
+   "file": "sultan/data/logos/samsung.png",
+   "bytes": 6563
+  },
+  "xiaomi": {
+   "name": "Xiaomi",
+   "file": "sultan/data/logos/xiaomi.png",
+   "bytes": 4084
+  },
+  "oppo": {
+   "name": "OPPO",
+   "file": "sultan/data/logos/oppo.png",
+   "bytes": 867
+  },
+  "vivo": {
+   "name": "vivo",
+   "file": "sultan/data/logos/vivo.png",
+   "bytes": 1312
+  },
+  "asus": {
+   "name": "ASUS",
+   "file": "sultan/data/logos/asus.png",
+   "bytes": 5513
+  },
+  "sony": {
+   "name": "Sony",
+   "file": "sultan/data/logos/sony.png",
+   "bytes": 408
+  },
+  "lenovo": {
+   "name": "Lenovo",
+   "file": "sultan/data/logos/lenovo.png",
+   "bytes": 248
+  },
+  "dell": {
+   "name": "Dell",
+   "file": "sultan/data/logos/dell.png",
+   "bytes": 388
+  },
+  "hp": {
+   "name": "HP",
+   "file": "sultan/data/logos/hp.png",
+   "bytes": 1166
+  },
+  "qualcomm": {
+   "name": "Qualcomm",
+   "file": "sultan/data/logos/qualcomm.png",
+   "bytes": 832
+  },
+  "mediatek": {
+   "name": "MediaTek",
+   "file": "sultan/data/logos/mediatek.png",
+   "bytes": 1553
+  },
+  "toyota": {
+   "name": "Toyota",
+   "file": "sultan/data/logos/toyota.png",
+   "bytes": 528
+  },
+  "honda": {
+   "name": "Honda",
+   "file": "sultan/data/logos/honda.png",
+   "bytes": 2429
+  },
+  "yamaha": {
+   "name": "Yamaha",
+   "file": "sultan/data/logos/yamaha.png",
+   "bytes": 25893
+  },
+  "ducati": {
+   "name": "Ducati",
+   "file": "sultan/data/logos/ducati.png",
+   "bytes": 917
+  },
+  "kawasaki": {
+   "name": "Kawasaki",
+   "file": "sultan/data/logos/kawasaki.png",
+   "bytes": 4269
+  },
+  "bmw": {
+   "name": "BMW",
+   "file": "sultan/data/logos/bmw.png",
+   "bytes": 726
+  },
+  "mercedes-benz": {
+   "name": "Mercedes-Benz",
+   "file": "sultan/data/logos/mercedes-benz.png",
+   "bytes": 6910
+  },
+  "porsche": {
+   "name": "Porsche",
+   "file": "sultan/data/logos/porsche.png",
+   "bytes": 6503
+  },
+  "ferrari": {
+   "name": "Ferrari",
+   "file": "sultan/data/logos/ferrari.png",
+   "bytes": 1145
+  },
+  "lamborghini": {
+   "name": "Lamborghini",
+   "file": "sultan/data/logos/lamborghini.png",
+   "bytes": 3784
+  },
+  "rolls-royce": {
+   "name": "Rolls-Royce",
+   "file": "sultan/data/logos/rolls-royce.png",
+   "bytes": 2118
+  },
+  "ford": {
+   "name": "Ford",
+   "file": "sultan/data/logos/ford.png",
+   "bytes": 4635
+  },
+  "tesla": {
+   "name": "Tesla",
+   "file": "sultan/data/logos/tesla.png",
+   "bytes": 2613
+  },
+  "spacex": {
+   "name": "SpaceX",
+   "file": "sultan/data/logos/spacex.png",
+   "bytes": 579
+  },
+  "boeing": {
+   "name": "Boeing",
+   "file": "sultan/data/logos/boeing.png",
+   "bytes": 334
+  },
+  "airbus": {
+   "name": "Airbus",
+   "file": "sultan/data/logos/airbus.png",
+   "bytes": 1454
+  },
+  "garuda-indonesia": {
+   "name": "Garuda Indonesia",
+   "file": "sultan/data/logos/garuda-indonesia.png",
+   "bytes": 3285
+  },
+  "rolex": {
+   "name": "Rolex",
+   "file": "sultan/data/logos/rolex.png",
+   "bytes": 2762
+  },
+  "louis-vuitton": {
+   "name": "Louis Vuitton",
+   "file": "sultan/data/logos/louis-vuitton.png",
+   "bytes": 1636
+  },
+  "netflix": {
+   "name": "Netflix",
+   "file": "sultan/data/logos/netflix.png",
+   "bytes": 1468
+  },
+  "spotify": {
+   "name": "Spotify",
+   "file": "sultan/data/logos/spotify.png",
+   "bytes": 2417
+  },
+  "openai": {
+   "name": "OpenAI",
+   "file": "sultan/data/logos/openai.png",
+   "bytes": 2556
+  },
+  "asml": {
+   "name": "ASML",
+   "file": "sultan/data/logos/asml.png",
+   "bytes": 577
+  },
+  "tsmc": {
+   "name": "TSMC",
+   "file": "sultan/data/logos/tsmc.png",
+   "bytes": 263
+  },
+  "microsoft": {
+   "name": "Microsoft",
+   "file": "sultan/data/logos/microsoft.png",
+   "bytes": 426
+  },
+  "google": {
+   "name": "Google",
+   "file": "sultan/data/logos/google.png",
+   "bytes": 6958
+  },
+  "meta": {
+   "name": "Meta",
+   "file": "sultan/data/logos/meta.png",
+   "bytes": 3273
+  },
+  "amazon": {
+   "name": "Amazon",
+   "file": "sultan/data/logos/amazon.png",
+   "bytes": 658
+  },
+  "bytedance": {
+   "name": "ByteDance",
+   "file": "sultan/data/logos/bytedance.png",
+   "bytes": 726
+  },
+  "starbucks": {
+   "name": "Starbucks",
+   "file": "sultan/data/logos/starbucks.png",
+   "bytes": 6396
+  }
+ }
+}

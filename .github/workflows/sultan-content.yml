@@ -1,0 +1,30 @@
+name: Sultan Content Scraper
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # 08:00 WIB setiap hari
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scrape konten Sultan
+        run: python3 sultan/scrape.py
+
+      - name: Commit bila ada perubahan
+        run: |
+          git config user.name "sultan-content-scraper"
+          git config user.email "sultan@hozinking.my.id"
+          git add sultan/
+          if git diff --cached --quiet; then
+            echo "Tidak ada konten baru, nothing to commit"
+          else
+            git commit -m "sultan-content: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
