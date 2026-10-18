@@ -1,0 +1,36 @@
+name: CCTV Scraper
+
+on:
+  schedule:
+    # Every 6 hours (00:17, 06:17, ... UTC)
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Scrape CCTV publik Indonesia
+        run: python3 cctv/scrape.py
+
+      - name: Commit updated cctv.json
+        run: |
+          git config user.name "hozin-news-getter"
+          git config user.email "news-getter@hozinking.my.id"
+          git add cctv/cctv.json
+          if git diff --cached --quiet; then
+            echo "No CCTV changes, nothing to commit"
+          else
+            git commit -m "cctv: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
