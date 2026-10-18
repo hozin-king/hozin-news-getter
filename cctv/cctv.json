@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T00:54:16+07:00",
+ "updated_at": "2026-10-19T03:10:52+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -6102,13 +6102,6 @@
      "stream": "https://cctv.ctptollways.com:2254/streams/cam_14/index.m3u8",
      "lat": -6.268522,
      "lon": 107.093273
-    },
-    {
-     "nama": "MR STA 30",
-     "lokasi": "MR STA 30",
-     "stream": "https://cctv.ctptollways.com:2254/streams/cam_41/index.m3u8",
-     "lat": -6.11828,
-     "lon": 106.969347
     },
     {
      "nama": "MR STA 33",
