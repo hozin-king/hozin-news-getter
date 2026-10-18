@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 """Scraper CCTV publik Indonesia -> cctv.json (per wilayah).
 
+Tiap run 2 PASS:
+  (a) VERIFIKASI: cek semua URL stream lama (HEAD/GET+Range, paralel);
+      yang mati -> cari pengganti dari sumber sama, kalau tidak ada -> hapus.
+  (b) DISCOVERY: scrape normal untuk kamera baru/perubahan.
+Log tiap run: dicek/mati/diganti/dihapus/baru.
+
 Sumber AKTIF (terverifikasi 18 Okt 2026):
   - BPJT (bpjt.pu.go.id/cctv): ~1500 kamera tol, stream m3u8 langsung di JSON halaman.
   - Kemenhub (mudik.kemenhub.go.id/cctv): ~290 kamera m3u8 langsung (array JS di halaman).
@@ -192,12 +198,118 @@ def parse_bandung():
              "kamera": sorted(kams, key=lambda k: k["nama"])}]
 
 
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
+
+LOGO_BASE = ("https://raw.githubusercontent.com/hozin-king/hozin-news-getter"
+             "/main/cctv/logos")
+LOGOS = {
+    "BPJT": LOGO_BASE + "/bpjt.png",
+    "Kemenhub": LOGO_BASE + "/kemenhub.png",
+    "Pelindung Bandung": LOGO_BASE + "/pelindung.png",
+}
+
+
+def check_url_alive(url, timeout=10):
+    """Cek cepat tanpa download full stream: HEAD, fallback GET + Range."""
+    if not url:
+        return False
+    for method in ("HEAD", "GET"):
+        try:
+            h = {"User-Agent": UA}
+            if method == "GET":
+                h["Range"] = "bytes=0-1023"
+            req = urllib.request.Request(url, headers=h, method=method)
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                if r.status < 400:
+                    if method == "GET":
+                        r.read(1024)
+                    return True
+        except Exception:
+            continue
+    return False
+
+
+def ckey(sumber, nama):
+    return (str(sumber or "").strip().lower(),
+            str(nama or "").strip().lower())
+
+
 def main():
+    # ---- muat data lama ----
+    old = {}
+    if os.path.exists(OUT_PATH):
+        try:
+            d = json.load(open(OUT_PATH, encoding="utf-8"))
+            for w in d.get("wilayah", []):
+                for k in w.get("kamera", []):
+                    old[ckey(w.get("sumber"), k.get("nama"))] = (w, k)
+        except Exception as e:
+            print(f"  ! baca {OUT_PATH} gagal: {e}", file=sys.stderr)
+
+    # ---- PASS A: verifikasi URL lama (paralel) ----
+    items = list(old.items())
+    alive = {}
+    if items:
+        print(f"VERIFY: cek {len(items)} URL stream ...", flush=True)
+        with ThreadPoolExecutor(max_workers=20) as ex:
+            futs = {ex.submit(check_url_alive, k.get("stream", "")): key
+                    for key, (w, k) in items}
+            for f in as_completed(futs):
+                try:
+                    alive[futs[f]] = bool(f.result())
+                except Exception:
+                    alive[futs[f]] = False
+
+    # ---- PASS B: discovery (scrape normal) ----
     wilayah = []
     wilayah += parse_bpjt()
     wilayah += parse_kemenhub()
     wilayah += parse_bandung()
-    total = sum(len(w["kamera"]) for w in wilayah)
+    fresh = {}
+    for w in wilayah:
+        for k in w.get("kamera", []):
+            fresh[ckey(w.get("sumber"), k.get("nama"))] = (
+                w.get("nama", ""), w.get("sumber", ""), k)
+
+    # ---- gabung ----
+    n_dead = n_replaced = n_removed = n_new = 0
+    merged = {}
+
+    def get_w(nama_w, sumber):
+        k = (nama_w, sumber)
+        if k not in merged:
+            merged[k] = {"nama": nama_w, "sumber": sumber,
+                         "logo": LOGOS.get(sumber, ""),
+                         "kamera": []}
+        return merged[k]
+
+    for key, (w_old, k_old) in items:
+        if alive.get(key):
+            if key in fresh:  # hidup: pakai data fresh (URL mungkin berubah)
+                wn, src, k_new = fresh[key]
+                get_w(wn, src)["kamera"].append(k_new)
+            else:
+                get_w(w_old.get("nama", ""),
+                      w_old.get("sumber", ""))["kamera"].append(k_old)
+        else:
+            n_dead += 1
+            if key in fresh:  # mati tapi ada pengganti dari sumber sama
+                wn, src, k_new = fresh[key]
+                get_w(wn, src)["kamera"].append(k_new)
+                n_replaced += 1
+            else:  # mati dan tidak ada gantinya -> hapus
+                n_removed += 1
+
+    for key, (wn, src, k_new) in fresh.items():
+        if key not in old:
+            get_w(wn, src)["kamera"].append(k_new)
+            n_new += 1
+
+    wilayah_out = sorted(merged.values(), key=lambda w: w["nama"])
+    for w in wilayah_out:
+        w["kamera"] = sorted(w["kamera"], key=lambda k: k["nama"])
+    total = sum(len(w["kamera"]) for w in wilayah_out)
     data = {
         "updated_at": datetime.now(WIB).isoformat(timespec="seconds"),
         "sumber_gagal": [
@@ -207,11 +319,14 @@ def main():
             "Yogyakarta: tidak terjangkau dari jaringan scraper",
             "Bina Marga: mirror data BPJT (sengaja tidak diduplikasi)",
         ],
-        "wilayah": wilayah,
+        "wilayah": wilayah_out,
     }
     with open(OUT_PATH, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
-    print(f"SELESAI: {len(wilayah)} wilayah, {total} kamera -> {OUT_PATH}")
+    print(f"VERIFY: {len(items)} dicek, {n_dead} mati "
+          f"({n_replaced} diganti, {n_removed} dihapus)")
+    print(f"DISCOVERY: {n_new} kamera baru")
+    print(f"SELESAI: {len(wilayah_out)} wilayah, {total} kamera -> {OUT_PATH}")
 
 
 if __name__ == "__main__":
