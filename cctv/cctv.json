@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T12:47:37+07:00",
+ "updated_at": "2026-10-19T13:10:40+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -9385,13 +9385,6 @@
      "stream": "https://jmlive.jasamarga.com/hls/16/6adc65ab-5438-4f99-ac4a-2b334b169027/index.m3u8",
      "lat": -7.39038634321311,
      "lon": 111.07400894165
-    },
-    {
-     "nama": "(JSN) KM 546+650",
-     "lokasi": "SRAGEN - NGAWI",
-     "stream": "https://jmlive.jasamarga.com/hls/16/baed8058-205c-406e-9dc5-6ceec92a417c/index.m3u8",
-     "lat": -7.38178937469104,
-     "lon": 111.119499206543
     },
     {
      "nama": "(JSN) KM 549+650",
