@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T07:52:39+07:00",
+ "updated_at": "2026-10-19T12:47:37+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3171,20 +3171,6 @@
      "lon": null
     },
     {
-     "nama": "05+700 A",
-     "lokasi": "Pekanbaru - Dumai",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/sJ5f4j2wtqbj1670832840524.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "05+700 B",
-     "lokasi": "Pekanbaru - Dumai",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/jMBfWL7lpW2Y1670832877655.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "12+750 A",
      "lokasi": "Serpong - Balaraja Seksi 1",
      "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10019.m3u8",
@@ -3318,69 +3304,6 @@
      "lon": null
     },
     {
-     "nama": "177+000 B",
-     "lokasi": "Terbanggi Besar - Pematang Panggang - Kayu Agung",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/zseTdMT4F4k71675840224773.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "178+000 A",
-     "lokasi": "Terbanggi Besar - Pematang Panggang - Kayu Agung",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/H8SldyRHjwEE1675840265034.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "178+000 B",
-     "lokasi": "Terbanggi Besar - Pematang Panggang - Kayu Agung",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/1CgtcZsGfhab1675840288909.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "179+000 A",
-     "lokasi": "Terbanggi Besar - Pematang Panggang - Kayu Agung",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/59mjV0gznWTK1675840319332.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "179+000 B",
-     "lokasi": "Terbanggi Besar - Pematang Panggang - Kayu Agung",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/wROy4zaNh2pI1675840341308.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "180+000 A",
-     "lokasi": "Terbanggi Besar - Pematang Panggang - Kayu Agung",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/Sz66S9K9q8wO1676355519747.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "180+000 B",
-     "lokasi": "Terbanggi Besar - Pematang Panggang - Kayu Agung",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/OYvGskpG5Xgx1675840402605.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "181+000 A",
-     "lokasi": "Terbanggi Besar - Pematang Panggang - Kayu Agung",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/t8nGJjBmGrrn1675840443964.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "181+000 B",
-     "lokasi": "Terbanggi Besar - Pematang Panggang - Kayu Agung",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/OAAGJkYZD1c41675840461119.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "19+850",
      "lokasi": "JORR S",
      "stream": "https://pub.hk-opt.com/LiveApp/streams/675323017321643087627650.m3u8",
@@ -3479,188 +3402,6 @@
      "lon": null
     },
     {
-     "nama": "58+400 A",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/687489889091511277827377.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "58+400 B",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/501264524429471982550467.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "59+000 A",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/095660838019901274554950.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "59+000 B",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/956464037412277558025165.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "59+400 A",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/675323017321643087627650.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "59+400 B",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/675323017321643087627650.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "60+000 A",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/062223762734246730973930.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "60+000 B",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/381024135984437558197100.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "61+400 A",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/756751654695732090756915.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "61+400 B",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/241370079371388169899174.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "AKSES CIAWI SELATAN",
-     "lokasi": "Ciawi-Sukabumi (Ciawi - Cibadak)",
-     "stream": "https://www.tjt-info.co.id/LiveApp/streams/327294924686013390782781.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "AKSES CIGOMBONG",
-     "lokasi": "Ciawi-Sukabumi (Ciawi - Cibadak)",
-     "stream": "https://www.tjt-info.co.id/LiveApp/streams/261350381912633467488420.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ATP GT KB BAWANG",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/710404214066673275657182.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ATP GT KOJA BARAT",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/800925316301503102079844.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ATP GT KOJA DIRECT",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/539029826611825636156852.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ATP GT SEMPER II",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/539029826611825636156852.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Akses Tol Bandar Arah Perak",
-     "lokasi": "Jombang-Mojokerto",
-     "stream": "https://toljomo.margaharjaya.co.id/video/AKSESBANDARARAHPERAK/aksesbandararahperak.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Balaraja Barat Entrance",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/balbar/entrance/entrance.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Balaraja Barat Exit",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/balbar/exit/exit.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Balaraja Timur Exit",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/baltim/exit/exit.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Cikupa 1 Entrance",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/cikupa/entrance/entrance.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Cikupa 2 Exit",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/cikupa/exit/exit.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Cikupa Entrance",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/cikupa/entrance/entrance.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Cikupa Exit",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/cikupa/exit/exit.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Ciltim Entrance",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/ciltim/entrance/entrance.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Ciltim Exit",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/ciltim/exit/exit.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "Danau Offramp",
      "lokasi": "Cimanggis-Cibitung",
      "stream": "https://streaming-cct.co.id/LiveApp/streams/271375403748522730558046.m3u8",
@@ -3671,125 +3412,6 @@
      "nama": "Danau Onramp",
      "lokasi": "Cimanggis-Cibitung",
      "stream": "https://streaming-cct.co.id/LiveApp/streams/982374323250229269609334.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ENTRANCE BALONGBENDO/Lebani",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/984725404389959654354617.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ENTRANCE BUNDER",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/847256887139548671784810.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ENTRANCE CERME",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/960586018493109826517896.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ENTRANCE GENDING",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/136246164069906379647553.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ENTRANCE KEDAMEAN/BELAHANREJO",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/041189990739437517920329.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ENTRANCE LEBANI GRESIK",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/984725404389959654354617.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ENTRANCE PROBOLINGGO BARAT",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/174043395880923150640353.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ENTRANCE PROBOLINGGO TIMUR",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/942948743941198219268639.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "EXIT BALONGBENDO/Lebani",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/331265484994449150672379.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "EXIT BUNDER",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/375153524514321029341240.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "EXIT CERME",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/006355372207807401078801.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "EXIT GENDING",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/977167874427763451746762.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "EXIT KEDAMEAN/BELAHANREJO",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/511709328065419305139203.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "GATE GENDING",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/649541773858342348334288.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "GENDING 0+800",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/127541450610142836446649.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "GENDING 3+300",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/165508286173376779404196.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "GENDING KM 1+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/864495125690853914623791.m3u8",
      "lat": null,
      "lon": null
     },
@@ -3829,79 +3451,9 @@
      "lon": null
     },
     {
-     "nama": "GT MINAS",
-     "lokasi": "Pekanbaru - Dumai",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/jXCel7yLte2r1670833245076.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "GT. CIAWI SELATAN",
-     "lokasi": "Ciawi-Sukabumi (Ciawi - Cibadak)",
-     "stream": "https://www.tjt-info.co.id/LiveApp/streams/227374319950729322701285.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "GT. Caringin",
-     "lokasi": "Ciawi-Sukabumi (Ciawi - Cibadak)",
-     "stream": "https://www.tjt-info.co.id/LiveApp/streams/035462094731391708865402.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "GT. Cigombong A",
-     "lokasi": "Ciawi-Sukabumi (Ciawi - Cibadak)",
-     "stream": "https://www.tjt-info.co.id/LiveApp/streams/577208699430530699650671.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "GT. Cigombong B",
-     "lokasi": "Ciawi-Sukabumi (Ciawi - Cibadak)",
-     "stream": "https://www.tjt-info.co.id/LiveApp/streams/390022051470745093489871.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "IC CARINGIN KM. 53+380",
-     "lokasi": "Ciawi-Sukabumi (Ciawi - Cibadak)",
-     "stream": "https://www.tjt-info.co.id/LiveApp/streams/998223146655371157400972.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "IC CIAWI SELATAN KM 48+200",
-     "lokasi": "Ciawi-Sukabumi (Ciawi - Cibadak)",
-     "stream": "https://www.tjt-info.co.id/LiveApp/streams/357514173892609384751207.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "IC CIGOMBONG KM. 60+150",
-     "lokasi": "Ciawi-Sukabumi (Ciawi - Cibadak)",
-     "stream": "https://www.tjt-info.co.id/LiveApp/streams/336845911722359113982848.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "IC CIKEUSAL",
      "lokasi": "Serang - Panimbang Seksi 1 (Serang - Rangkasbitung)",
      "stream": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/9/index.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "IC Cerme",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/704245419955557974280759.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "IC Kedamean",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/370001241597855866249572.m3u8",
      "lat": null,
      "lon": null
     },
@@ -3913,44 +3465,9 @@
      "lon": null
     },
     {
-     "nama": "IC Sumo",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/236819452805180776792138.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "IC TUNJUNGTEJA",
      "lokasi": "Serang - Panimbang Seksi 1 (Serang - Rangkasbitung)",
      "stream": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/17/index.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "JC Wringinanom On Ramp 5",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/175371378340482202976674.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "JC Wringinanom On Ramp 8",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/306917244009412935401766.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "JC Wringinanom RAMP 4",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/048785164245493046337198.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "JC Wringinanom Ramp 5",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/678963470455811390923273.m3u8",
      "lat": null,
      "lon": null
     },
@@ -4018,156 +3535,9 @@
      "lon": null
     },
     {
-     "nama": "KM 00+954",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/323488124604250617743735.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 01+775",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/274591739819863986114875.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 04+400",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/818123076705089838222760.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 05+400",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/350951419512183414606584.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 06+500 JEMBATAN",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/361979054215261289199844.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 07+500",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/960735591922704870290477.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 10+408",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/054748348552116874910983.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 11+467",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/528916500083901007009581.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 12+431",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/842202782341896448890548.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 14+390",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/825588406148061120496120.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 15+392",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/756303659651485412306606.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 16+425",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/892664223519713740462868.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 17+418",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/891135508812924818614830.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 18+415",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/777174388175367313054019.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 19+478",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/508865423269463325705998.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 20+392",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/331329686553155425247544.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 21+455",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/752071176627300352963208.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 22+375",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/710993991763834252257517.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 23+937",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/621066352683466838258622.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 24+000",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/716294693568887939935263.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "KM 24+100 (KM 50+100)",
      "lokasi": "Cimanggis-Cibitung",
      "stream": "https://streaming-cct.co.id/LiveApp/streams/862319596737576314743177.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 24+940",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/055074335929058295473265.m3u8",
      "lat": null,
      "lon": null
     },
@@ -4179,13 +3549,6 @@
      "lon": null
     },
     {
-     "nama": "KM 25+947",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/246115504123339846509710.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "KM 26+000 (KM 52+000)",
      "lokasi": "Cimanggis-Cibitung",
      "stream": "https://streaming-cct.co.id/LiveApp/streams/411377605747041200436339.m3u8",
@@ -4193,58 +3556,9 @@
      "lon": null
     },
     {
-     "nama": "KM 26+966",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/312407351781794628193012.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "KM 27+000 (KM 53+000)",
      "lokasi": "Cimanggis-Cibitung",
      "stream": "https://streaming-cct.co.id/LiveApp/streams/233910204183508555696473.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 27+822",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/662159049044107697247838.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 28+900",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/733621788774298967360274.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 29+700 B",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/km29/bandung/bandung.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 4+100",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/130886110950527754855565.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 47+200 A",
-     "lokasi": "Ciawi-Sukabumi (Ciawi - Cibadak)",
-     "stream": "https://www.tjt-info.co.id/LiveApp/streams/796749052161901029073168.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 51+050 B",
-     "lokasi": "Ciawi-Sukabumi (Ciawi - Cibadak)",
-     "stream": "https://www.tjt-info.co.id/LiveApp/streams/211884290923669138161535.m3u8",
      "lat": null,
      "lon": null
     },
@@ -4270,13 +3584,6 @@
      "lon": null
     },
     {
-     "nama": "KM 55+000 A",
-     "lokasi": "Ciawi-Sukabumi (Ciawi - Cibadak)",
-     "stream": "https://www.tjt-info.co.id/LiveApp/streams/021325546274001698409340.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "KM 55+400",
      "lokasi": "Cimanggis-Cibitung",
      "stream": "https://streaming-cct.co.id/LiveApp/streams/419578865556916403624234.m3u8",
@@ -4287,384 +3594,6 @@
      "nama": "KM 56+000",
      "lokasi": "Cimanggis-Cibitung",
      "stream": "https://streaming-cct.co.id/LiveApp/streams/808428562383454739684500.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 672 Interchange Bandar",
-     "lokasi": "Jombang-Mojokerto",
-     "stream": "https://toljomo.margaharjaya.co.id/video/ICBANDARA/icbandara.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 678 Rest Area Karangdagangan Entrance",
-     "lokasi": "Jombang-Mojokerto",
-     "stream": "https://toljomo.margaharjaya.co.id/video/KDGBELAKANGARAHMASUK/kdgbelakangarahmasuk.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 687 Gerbang Tol Jombang",
-     "lokasi": "Jombang-Mojokerto",
-     "stream": "https://toljomo.margaharjaya.co.id/video/JOMBANGEXIT/jombangexit.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 687 Jombang",
-     "lokasi": "Jombang-Mojokerto",
-     "stream": "https://toljomo.margaharjaya.co.id/video/ICJBGB/icjbgb.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 695 Rest Area Teras Melati",
-     "lokasi": "Jombang-Mojokerto",
-     "stream": "https://toljomo.margaharjaya.co.id/video/TRMDEPANTENAN/trmdepantenan.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 697 Kedung Melati",
-     "lokasi": "Jombang-Mojokerto",
-     "stream": "https://toljomo.margaharjaya.co.id/video/TERASMELATI/terasmelati.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 702 Gerbang Tol Bandar",
-     "lokasi": "Jombang-Mojokerto",
-     "stream": "https://toljomo.margaharjaya.co.id/video/BANDAREXIT/bandarexit.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 706 Interchange Mojokerto Barat",
-     "lokasi": "Jombang-Mojokerto",
-     "stream": "https://toljomo.margaharjaya.co.id/video/ICMBRB/icmbrb.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 710 Mojokerto",
-     "lokasi": "Jombang-Mojokerto",
-     "stream": "https://toljomo.margaharjaya.co.id/video/ICMOKERB/icmokerb.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 8+500",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/616404066652360340518757.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 810 + 600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/603051285018002692970336.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 810+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/603051285018002692970336.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 811+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/660011994949291506047736.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 812+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/467002712011475607849820.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 814+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/850624910033858702045963.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 815 + 600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/473469474383881364192561.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 816+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/780853487480279093113728.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 817+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/769806833982183866159035.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 818+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/153607100062936513539767.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 819+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/852569410602614130238996.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 820+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/478184298798558214796515.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 821 + 400",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/024706872032197526544544.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 822+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/534741448151386578152418.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 823 + 800",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/977818719725664754568594.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 824 + 800",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/651428215499232705074127.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 825+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/397773696542452974233016.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 826+400",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/476762456914388295410153.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 827+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/346319360442059851330070.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 828+700",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/974837894908936792549097.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 829+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/876612651510271482463854.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 830+400",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/429116568988808629681091.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 831+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/639950837391592463593257.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 832+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/573944506372310203236551.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 833+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/790157582234312576991950.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 834+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/559197965184207160445190.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 835+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/754429532384656537827202.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 836+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/527183863489632386912926.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 837+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/138982752655280577416057.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 838+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/032345822622120538354045.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 839",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/847354038320835610947051.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 841+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/954022855801602338173268.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 842+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/445611965027008738399060.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 843+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/027664306647094286999949.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 844+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/289329487202780435350069.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 845+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/369911633632709343267317.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 846+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/662943616394767421464155.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 847+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/889668200271021187586189.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 848+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/021426076840212161848246.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 849+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/647965804800924367765078.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 94+800 A",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/km94/ambon/ambon.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 94+800 B",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/km94/bandung/bandung.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 96+500 B",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/km96/ambon/ambon.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 97+000 A",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/km97/ambon/ambon.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "LECES-GERBANG TOL DUA ARAH",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/520833524897806366480188.m3u8",
      "lat": null,
      "lon": null
     },
@@ -4746,27 +3675,6 @@
      "lon": null
     },
     {
-     "nama": "MUNENG-GERBANG TOL DUA ARAH",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/022505356374069784559605.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Merak Entrance",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/merak/entrance/entrance.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Merak Exit",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/merak/exit/exit.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "OFF RAMP WALANTAKA",
      "lokasi": "Serang - Panimbang Seksi 1 (Serang - Rangkasbitung)",
      "stream": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/2/index.m3u8",
@@ -4784,27 +3692,6 @@
      "nama": "ON RAMP WALANTAKA",
      "lokasi": "Serang - Panimbang Seksi 1 (Serang - Rangkasbitung)",
      "stream": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/1/index.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ONRAM PROBOLINGGO BARAT",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/473460519396227269211289.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ONRAM PROBOLINGGO TIMUR",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/585635181782798115202256.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ONRAMP GENDING",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/672818584293968095947208.m3u8",
      "lat": null,
      "lon": null
     },
@@ -4847,209 +3734,6 @@
      "nama": "PALINDRA IC Pemulutan",
      "lokasi": "Palembang - Indralaya",
      "stream": "https://pub.hk-opt.com/LiveApp/streams/100831563641835272155645.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "PROBAR ENTRANCE",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/174043395880923150640353.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "PROBAR EXIT",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/022505356374069784559605.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "PROBAR ON RAMP",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/473460519396227269211289.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "PROTIM ENTRANCE",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/942948743941198219268639.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "PROTIM EXIT",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/520833524897806366480188.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "PROTIM ON RAMP",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/585635181782798115202256.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "REST AREA KM 819 A",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/963461951075123625014025.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "REST AREA KM 819 B",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/189530564497933264861995.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "REST AREA KM 833 A",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/847770972495312341731872.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "REST AREA KM 833 B",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/038896763966983826110576.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "SS GENDING",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/375660359233015132536155.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "SS LECES",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/712388008082188521327590.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "SS MUNENG",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/522727009812233734982666.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "SS PROBAR",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/522727009812233734982666.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "SS PROTIM",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/712388008082188521327590.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "SS TONGAS",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/694088991606329521268796.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Sertim Entrance",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/sertim/entrance/entrance.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Sertim Exit",
-     "lokasi": "Tangerang-Merak",
-     "stream": "https://pantau.margamandala.co.id:3443/sertim/exit/exit.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "TI KM819 A",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/963461951075123625014025.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "TI KM819 B",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/189530564497933264861995.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "TI KM833 A",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/847770972495312341731872.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "TI KM833 B",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/038896763966983826110576.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "TONGAS EXIT",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/398826826886110577614293.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "TONGAS GERBANG TOL DUA ARAH",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/398826826886110577614293.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "TONGAS ON RAMP",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/161007307462757885238581.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Ujung Lebani",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/173701300195740936261885.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Ujung cerme",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/515608024425012375631589.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Ujung/Akses Bunder",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/402167080005467010903661.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Ujung/Akses Kedamean",
-     "lokasi": "Krian - Legundi - Bunder -Manyar (Krian - Legundi - Bunder)",
-     "stream": "https://cctv.waskitabumiwira.com/LiveApp/streams/116882800699685741425356.m3u8",
      "lat": null,
      "lon": null
     },
@@ -8960,13 +7644,6 @@
      "lon": 99.1411341
     },
     {
-     "nama": "(JMKT) KM 80+000",
-     "lokasi": "SEI RAMPAH - TEBING TINGGI",
-     "stream": "https://jmlive.jasamarga.com/hls/25/2edf751b-918e-460a-a8ad-1a2f7529b235/index.m3u8",
-     "lat": 3.4335691,
-     "lon": 99.143052
-    },
-    {
      "nama": "(JMKT) KM 81+000",
      "lokasi": "SEI RAMPAH - TEBING TINGGI",
      "stream": "https://jmlive.jasamarga.com/hls/25/250b6a81-4d5d-437b-b2e0-f9846d106290/index.m3u8",
@@ -8994,13 +7671,6 @@
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
    "kamera": [
-    {
-     "nama": "PACIN GT KAPALO HILALANG ENTRANCE",
-     "lokasi": "PACIN GT KAPALO HILALANG ENTRANCE",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/ZcdASbMzvoSh1739452492750.m3u8",
-     "lat": -0.5281584,
-     "lon": 100.3060466
-    },
     {
      "nama": "PACIN GT PADANG ENTRANCE",
      "lokasi": "PACIN GT PADANG ENTRANCE",
@@ -9385,20 +8055,6 @@
      "stream": "https://pptrlive.co.id/memfs/f0a96354-8aed-41b0-a3cd-441029a47090.m3u8",
      "lat": 1.090970595,
      "lon": -6.925904
-    },
-    {
-     "nama": "KM 299 + 700 JALUR A",
-     "lokasi": "KM 299 + 700 JALUR A",
-     "stream": "https://pptrlive.co.id/memfs/b0ebbe6a-1173-4a44-9625-97844400e8a2.m3u8",
-     "lat": -6.938066,
-     "lon": 109.3233
-    },
-    {
-     "nama": "KM 299 + 700 JALUR B",
-     "lokasi": "KM 299 + 700 JALUR B",
-     "stream": "https://pptrlive.co.id/memfs/fa122671-2b5a-4156-87bb-9bc2742bb281.m3u8",
-     "lat": 1.093232852,
-     "lon": -6.9380656
     },
     {
      "nama": "KM 301 + 600 JALUR A",
@@ -9910,13 +8566,6 @@
      "stream": "https://jmlive.jasamarga.com/hls/13/81831383-f182-4f49-b29e-9c0b7a590487/index.m3u8",
      "lat": -6.9992770328221035,
      "lon": 110.45069684521006
-    },
-    {
-     "nama": "KM 421 + 000 - A/A (Klampisan)",
-     "lokasi": "KRAPYAK - SS KRAPYAK",
-     "stream": "https://jmlive.jasamarga.com/hls/13/49255a20-c774-40f1-ad8f-cce1445d796a/index.m3u8",
-     "lat": -7.00074040524139,
-     "lon": 110.371098518372
     },
     {
      "nama": "KM 421 + 800 - A/B (GT. Manyaran)",
@@ -10537,27 +9186,6 @@
    ]
   },
   {
-   "nama": "Tol Serpong - Cinere",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "CSJ KM 27+200",
-     "lokasi": "CSJ KM 27+200",
-     "stream": "https://jmlive.jasamarga.com/hls/32/5d315fb7-2c6e-4906-b058-8a36dfb2f33d/index.m3u8",
-     "lat": -6.313959,
-     "lon": 106.716343
-    },
-    {
-     "nama": "CSJ KM 33+000",
-     "lokasi": "CSJ KM 33+000",
-     "stream": "https://jmlive.jasamarga.com/hls/32/b8cadefc-4463-4708-b1c3-0d05feaf6e03/index.m3u8",
-     "lat": -6.336496,
-     "lon": 106.74912
-    }
-   ]
-  },
-  {
    "nama": "Tol Sigli - Banda Aceh",
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
@@ -10792,13 +9420,6 @@
      "stream": "https://jmlive.jasamarga.com/hls/16/879915bc-6b8d-4b35-8710-e6d471f12267/index.m3u8",
      "lat": -7.41541022924382,
      "lon": 111.406173706055
-    },
-    {
-     "nama": "(JSN) KM 582+650",
-     "lokasi": "SRAGEN - NGAWI",
-     "stream": "https://jmlive.jasamarga.com/hls/16/64061fbf-9d23-42d2-9a18-53038f523836/index.m3u8",
-     "lat": -7.43787944559651,
-     "lon": 111.436214447021
     }
    ]
   },
@@ -10912,20 +9533,6 @@
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
    "kamera": [
-    {
-     "nama": "TERPEKA KM 162+000 A",
-     "lokasi": "TERPEKA KM 162+000 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/bAoUDud5E4YR1675822282333.m3u8",
-     "lat": -4.694793,
-     "lon": 105.192596
-    },
-    {
-     "nama": "TERPEKA KM 162+000 B",
-     "lokasi": "TERPEKA KM 162+000 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/rdxGSmqvd5kN1675831415195.m3u8",
-     "lat": -4.694793,
-     "lon": 105.192596
-    },
     {
      "nama": "TERPEKA KM 207+000 A",
      "lokasi": "TERPEKA KM 207+000 A",
