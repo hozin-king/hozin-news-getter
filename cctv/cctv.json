@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-19T05:50:14+07:00",
+ "updated_at": "2026-10-19T07:52:39+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -8531,13 +8531,6 @@
      "stream": "https://cctv.hmwtoll.com/camera/bearer/jlp/3/133/index.m3u8",
      "lat": 99.418439,
      "lon": 3.370416
-    },
-    {
-     "nama": "Akses Simpang Panei",
-     "lokasi": "Akses Simpang Panei",
-     "stream": "https://cctv.hmwtoll.com/camera/bearer/jlp/3/289/index.m3u8",
-     "lat": 99.037857,
-     "lon": 2.925714
     },
     {
      "nama": "Akses Sinaksak",
