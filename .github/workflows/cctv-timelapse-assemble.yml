@@ -1,0 +1,52 @@
+name: CCTV Timelapse Assemble
+
+# Tiap hari 00:10 WIB: rakit frame-frame kemarin jadi 1 MP4 per kamera,
+# unggah ke GitHub Release rolling `cctv-timelapse`, prune aset > 7 hari,
+# dan tulis ulang cctv/timelapse_index.json.
+
+on:
+  schedule:
+    # 17:10 UTC = 00:10 WIB
+    - cron: '10 17 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Jakarta
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Tanggal WIB kemarin
+        run: echo "TL_DATE=$(date -d 'yesterday' +%F)" >> "$GITHUB_ENV"
+
+      - name: Unduh frame kemarin
+        uses: actions/download-artifact@v4
+        with:
+          name: tl-frames-${{ env.TL_DATE }}
+          path: frames/
+
+      - name: Rakit MP4 + unggah ke rilis + tulis index
+        run: python3 cctv/timelapse_assemble.py --frames-dir frames --date "${{ env.TL_DATE }}"
+
+      - name: Commit timelapse_index.json
+        run: |
+          git config user.name "hozin-news-getter"
+          git config user.email "news-getter@hozinking.my.id"
+          git add cctv/timelapse_index.json
+          if git diff --cached --quiet; then
+            echo "Index tidak berubah"
+          else
+            git commit -m "cctv-timelapse: index ${{ env.TL_DATE }}"
+            git push
+          fi

@@ -1,0 +1,53 @@
+name: CCTV Timelapse Capture
+
+# Tiap 5 menit: potret 1 frame (480x270 JPEG) dari tiap kamera kurasi
+# (cctv/timelapse_cameras.json). Frame dikumpulkan antar-run lewat artifact
+# harian `tl-frames-YYYY-MM-DD` (retensi 2 hari), lalu dirakit jadi MP4
+# oleh workflow cctv-timelapse-assemble.yml.
+
+on:
+  schedule:
+    # Tiap 5 menit (UTC; label tanggal memakai WIB di dalam job)
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cctv-timelapse-capture
+  cancel-in-progress: true
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Jakarta
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Tanggal WIB hari ini
+        run: echo "TL_DATE=$(date +%F)" >> "$GITHUB_ENV"
+
+      - name: Unduh frame hari ini (bila ada)
+        uses: actions/download-artifact@v4
+        with:
+          name: tl-frames-${{ env.TL_DATE }}
+          path: frames/
+        continue-on-error: true
+
+      - name: Potret frame tiap kamera
+        run: python3 cctv/timelapse_capture.py
+
+      - name: Unggah frame hari ini
+        uses: actions/upload-artifact@v4
+        with:
+          name: tl-frames-${{ env.TL_DATE }}
+          path: frames/
+          retention-days: 2
+          overwrite: true
