@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-21T05:10:18+07:00",
+ "updated_at": "2026-10-21T08:20:43+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -6872,55 +6872,6 @@
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/542240865799532088567034.m3u8",
      "lat": -6.307987,
      "lon": 106.8738921
-    }
-   ]
-  },
-  {
-   "nama": "Tol JORR W1",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "KM 0+500 B",
-     "lokasi": "KM 0+500 B",
-     "stream": "https://cctvjorrw1.com/KM/0+500B.m3u8",
-     "lat": -6.12085,
-     "lon": 106.73195
-    },
-    {
-     "nama": "KM 3+415 A",
-     "lokasi": "KM 3+415 A",
-     "stream": "https://cctvjorrw1.com/JLB/KM3+415A.m3u8",
-     "lat": -6.14678,
-     "lon": 106.72834
-    },
-    {
-     "nama": "KM 3+415 B",
-     "lokasi": "KM 3+415 B",
-     "stream": "https://cctvjorrw1.com/JLB/KM3+415B.m3u8",
-     "lat": -6.14678,
-     "lon": 106.72834
-    },
-    {
-     "nama": "KM 4+380 B",
-     "lokasi": "KM 4+380 B",
-     "stream": "https://cctvjorrw1.com/JLB/KM4+380B.m3u8",
-     "lat": -6.15422,
-     "lon": 106.7275
-    },
-    {
-     "nama": "KM 4+900 B",
-     "lokasi": "KM 4+900 B",
-     "stream": "https://cctvjorrw1.com/JLB/KM4+900B.m3u8",
-     "lat": -6.1602,
-     "lon": 106.7272
-    },
-    {
-     "nama": "KM 7+950 B",
-     "lokasi": "KM 7+950 B",
-     "stream": "https://cctvjorrw1.com/KM/7+950B.m3u8",
-     "lat": -6.18717,
-     "lon": 106.73063
     }
    ]
   },
