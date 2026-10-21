@@ -1,5 +1,106 @@
 {
- "updated_at": "2026-10-21T18:46:49+07:00",
- "count": 0,
- "sources": []
+ "updated_at": "2026-10-21T18:55:11+07:00",
+ "count": 10,
+ "sources": [
+  {
+   "name": "republika",
+   "url": "https://republika.co.id/rss",
+   "added_at": "2026-10-21T18:50:42+07:00",
+   "last_ok": "2026-10-21T18:50:42+07:00",
+   "fail_count": 0,
+   "ok_streak": 0,
+   "status": "probation",
+   "origin": "seed"
+  },
+  {
+   "name": "mediaindonesia",
+   "url": "https://mediaindonesia.com/feed",
+   "added_at": "2026-10-21T18:51:55+07:00",
+   "last_ok": "2026-10-21T18:51:55+07:00",
+   "fail_count": 0,
+   "ok_streak": 0,
+   "status": "probation",
+   "origin": "seed"
+  },
+  {
+   "name": "katadata",
+   "url": "https://katadata.co.id/rss",
+   "added_at": "2026-10-21T18:52:22+07:00",
+   "last_ok": "2026-10-21T18:52:22+07:00",
+   "fail_count": 0,
+   "ok_streak": 0,
+   "status": "probation",
+   "origin": "seed"
+  },
+  {
+   "name": "sindonews",
+   "url": "https://sindonews.com/rss",
+   "added_at": "2026-10-21T18:52:37+07:00",
+   "last_ok": "2026-10-21T18:52:37+07:00",
+   "fail_count": 0,
+   "ok_streak": 0,
+   "status": "probation",
+   "origin": "seed"
+  },
+  {
+   "name": "inews",
+   "url": "https://inews.id/feed",
+   "added_at": "2026-10-21T18:52:40+07:00",
+   "last_ok": "2026-10-21T18:52:40+07:00",
+   "fail_count": 0,
+   "ok_streak": 0,
+   "status": "probation",
+   "origin": "seed"
+  },
+  {
+   "name": "jpnn",
+   "url": "https://jpnn.com/rss",
+   "added_at": "2026-10-21T18:53:23+07:00",
+   "last_ok": "2026-10-21T18:53:23+07:00",
+   "fail_count": 0,
+   "ok_streak": 0,
+   "status": "probation",
+   "origin": "seed"
+  },
+  {
+   "name": "harianjogja",
+   "url": "https://harianjogja.com/rss",
+   "added_at": "2026-10-21T18:53:50+07:00",
+   "last_ok": "2026-10-21T18:53:50+07:00",
+   "fail_count": 0,
+   "ok_streak": 0,
+   "status": "probation",
+   "origin": "seed"
+  },
+  {
+   "name": "beritajatim",
+   "url": "https://beritajatim.com/rss",
+   "added_at": "2026-10-21T18:54:38+07:00",
+   "last_ok": "2026-10-21T18:54:38+07:00",
+   "fail_count": 0,
+   "ok_streak": 0,
+   "status": "probation",
+   "origin": "seed"
+  },
+  {
+   "name": "akurat",
+   "url": "https://akurat.co/rss",
+   "added_at": "2026-10-21T18:54:56+07:00",
+   "last_ok": "2026-10-21T18:54:56+07:00",
+   "fail_count": 0,
+   "ok_streak": 0,
+   "status": "probation",
+   "origin": "seed"
+  },
+  {
+   "name": "wartaekonomi",
+   "url": "https://wartaekonomi.co.id/rss",
+   "added_at": "2026-10-21T18:55:11+07:00",
+   "last_ok": "2026-10-21T18:55:11+07:00",
+   "fail_count": 0,
+   "ok_streak": 0,
+   "status": "probation",
+   "origin": "seed"
+  }
+ ]
 }
