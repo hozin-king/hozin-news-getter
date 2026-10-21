@@ -1,0 +1,43 @@
+# Domain media Indonesia untuk diburu discover.py (satu per baris).
+# Domain yang sudah menjadi sumber getter1/getter2 atau sources_auto
+# akan dilewati otomatis. Baris diawali # = komentar.
+detik.com
+kompas.com
+tribunnews.com
+tempo.co
+republika.co.id
+antaranews.com
+liputan6.com
+cnnindonesia.com
+jawapos.com
+merdeka.com
+okezone.com
+suara.com
+viva.co.id
+beritasatu.com
+mediaindonesia.com
+bisnis.com
+kontan.co.id
+katadata.co.id
+cnbcindonesia.com
+sindonews.com
+inews.id
+tvonenews.com
+metrotvnews.com
+jpnn.com
+pikiran-rakyat.com
+ayobandung.com
+harianjogja.com
+solopos.com
+suaramerdeka.com
+surya.co.id
+beritajatim.com
+timesindonesia.co.id
+akurat.co
+rmol.id
+wartaekonomi.co.id
+investor.id
+bola.com
+bolasport.com
+indosport.com
+fajar.co.id

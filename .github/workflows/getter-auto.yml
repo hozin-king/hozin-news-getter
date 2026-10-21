@@ -1,0 +1,44 @@
+name: News Getter Auto
+
+on:
+  # Chained: run only after the main getter chain (get.yml) finishes.
+  workflow_run:
+    workflows: ["News Getter"]
+    types: [completed]
+  workflow_dispatch:
+
+# Same group as the main chain so commits to data/ never collide.
+concurrency:
+  group: news-getter-chain
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  get-auto:
+    # For workflow_run, only proceed when the getter chain succeeded.
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Getter Auto (sources from discover.py)
+        run: python3 getter_auto.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "hozin-news-getter"
+          git config user.email "news-getter@hozinking.my.id"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No new articles, nothing to commit"
+          else
+            git commit -m "news-auto: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

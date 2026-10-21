@@ -1,0 +1,42 @@
+name: Source Discovery
+
+on:
+  schedule:
+    # Tiap 3 hari: 03:23 UTC
+    - cron: '23 3 */3 * *'
+  workflow_dispatch:
+
+# Same group as the getter chain: sources_auto.json lives in data/
+# and is also written by getter-auto, so never run concurrently.
+concurrency:
+  group: news-getter-chain
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Discover & revalidate auto sources
+        run: python3 discover.py
+
+      - name: Commit source list
+        run: |
+          git config user.name "hozin-news-getter"
+          git config user.email "news-getter@hozinking.my.id"
+          git add data/sources_auto.json data/seed_domains.txt
+          if git diff --cached --quiet; then
+            echo "No source changes, nothing to commit"
+          else
+            git commit -m "discovery: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
