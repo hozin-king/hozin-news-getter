@@ -25,3 +25,20 @@ Repo ini **publik** supaya GitHub Actions minutes-nya unlimited.
 
 Edit `SOURCES` di `getter1.py` / `getter2.py`. Format: `("nama_sumber", "https://...rss")`.
 Pakai stdlib Python aja (tanpa pip install) biar run CI cepat.
+
+## Sumber otomatis (penemuan mandiri)
+
+Selain sumber tetap di atas, pipa ini bisa menemukan sumbernya sendiri:
+
+- `discover.py` — jalan **mingguan** (Senin 03:17 UTC, workflow
+  `source-discovery.yml`). Berburu feed dari domain di
+  `data/seed_domains.txt` + domain sumber artikel Google News RSS,
+  memvalidasi ketat (feed ter-parse, >= 3 item, terbaru <= 7 hari,
+  heuristik Bahasa Indonesia), lalu menulis `data/sources_auto.json`.
+  Sumber baru berstatus `probation`; yang gagal 3x atau mati > 14
+  hari di-drop otomatis. Maks 30 sumber, maks 10 baru per run.
+- `getter_auto.py` — jalan setelah rantai getter utama selesai
+  (workflow `getter-auto.yml`), mengambil artikel dari sumber
+  otomatis (maks 10/sumber) ke `articles.jsonl` dengan
+  `getter: "auto"`. Sumber `probation` yang sukses 3 run berturut
+  naik jadi `active`.

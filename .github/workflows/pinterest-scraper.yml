@@ -1,0 +1,41 @@
+name: Pinterest Scraper
+
+on:
+  schedule:
+    # Every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+# Never overlap two Pinterest runs.
+concurrency:
+  group: pinterest-scraper
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Scrape Pinterest per topik
+        run: python3 pinterest/scrape.py
+
+      - name: Commit updated pinterest data
+        run: |
+          git config user.name "hozin-news-getter"
+          git config user.email "news-getter@hozinking.my.id"
+          git add pinterest/
+          if git diff --cached --quiet; then
+            echo "No Pinterest changes, nothing to commit"
+          else
+            git commit -m "pinterest: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi

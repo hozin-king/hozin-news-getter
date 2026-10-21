@@ -1,0 +1,42 @@
+name: News Rollup
+
+on:
+  schedule:
+    # Every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+# Share the getter chain group so rollup never races the getters
+# (both touch data/ and push to the same repo).
+concurrency:
+  group: news-getter-chain
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  rollup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Rollup latest + archive
+        run: python3 rollup_news.py
+
+      - name: Commit rollup results
+        run: |
+          git config user.name "hozin-news-getter"
+          git config user.email "news-getter@hozinking.my.id"
+          git add data/latest.json data/archive/
+          if git diff --cached --quiet; then
+            echo "No rollup changes, nothing to commit"
+          else
+            git commit -m "news-rollup: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
