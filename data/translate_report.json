@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-10-23T02:02:51+07:00",
+ "updated_at": "2026-10-23T05:57:18+07:00",
  "mode": "google",
  "translated": [
-  "1fde2d03650613c2",
-  "0c4e6333045e389d",
-  "fa17e13ef97b72d4",
-  "094410b3df982066",
-  "cbf17d480a556230",
-  "388ccb93f0f14da7",
-  "5c80e2beebc0cc5e",
-  "4787f91986e6edf5",
-  "cda53ec8d0860285",
-  "6e2206183e8560b5"
+  "892a5c277c4fe99b",
+  "332e07f231d57577",
+  "12c850e1a3596641",
+  "86bae704b2ef98d6",
+  "25af6733440a5ba8",
+  "a374e27f414a64eb",
+  "fc3b6fb271cf22bf",
+  "a4272c8ec8fe7a46",
+  "4f5b64ccd8020a07",
+  "5c9bf4ee226114c0"
  ],
  "failed": [],
  "held_partial": 0,
- "candidates": 25
+ "candidates": 16
 }

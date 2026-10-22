@@ -1,1408 +1,1363 @@
 {
- "updated_at": "2026-10-23T02:02:51+07:00",
+ "updated_at": "2026-10-23T05:57:18+07:00",
  "count": 100,
  "articles": [
   {
    "source": "geeky-gadgets",
    "getter": "auto",
-   "title": "Di dalam Gunther Werks Brundle Edition Turbo Baru yang Menakjubkan",
-   "link": "https://www.geeky-gadgets.com/gunther-werks-brundle-edition-turbo/",
-   "pubDate": "Thu, 22 Oct 2026 15:00:08 +0000",
-   "description": "Gunther Werks telah memperkenalkan Brundle Edition Turbo, kendaraan ultra-eksklusif yang dibatasi hanya lima unit. Kreasi khusus ini merupakan hasil kolaborasi unik antara legenda motorsport Martin Brundle dan putrinya, desainer otomotif Charlie Brundle. Dengan menggabungkan karir balap Martin yang termasyhur dengan keahlian desain Charlie, Brundle Edition Turbo mengubah keahlian otomotif yang dipersonalisasi. Ini secara mulus mengintegrasikan teknik inovatif dengan seniman yang sangat pribadi",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
+   "title": "Alloop Trio Hands-On: Perangkat Kesehatan Modular Dengan Agen AI yang Dapat Anda Ajak Bicara",
+   "link": "https://www.geeky-gadgets.com/alloop-trio-hands-on/",
+   "pubDate": "Thu, 22 Oct 2026 16:54:58 +0000",
+   "description": "Perangkat kesehatan semakin baik dalam mengumpulkan informasi, namun memahami data tersebut tetap berarti membuka aplikasi, menavigasi dasbor, dan menafsirkan metrik individual. Pada peluncurannya pada tanggal 21 Oktober di New York City, Alloop mendemonstrasikan pendekatan berbeda dengan Trio, perangkat wearable modular yang dirancang berdasarkan agen kesehatan AI percakapan.\n\nSeperti apa seharusnya agen AI pribadi di masa depan? Bagian paling menarik dari demonstrasi Alloop adalah bagaimana perangkat wearable tersebut menghubungkan pengguna secara langsung",
+   "fetched_at": "2026-10-22T20:04:29+07:00",
    "source_lang": "en",
    "categories": [],
    "content_status": "full",
-   "content_chars": 3707,
-   "video_type": "youtube",
-   "video_id": "text-only-7",
-   "video_url": "https://www.youtube.com/watch?v=text-only-7",
-   "original_title": "Inside the Stunning New Gunther Werks Brundle Edition Turbo",
+   "content_chars": 4471,
+   "original_title": "Alloop Trio Hands-On: A Modular Health Wearable With an AI Agent You Can Talk To",
    "translated": true
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Kebocoran Bagian Dalam Galaxy S27 Ultra: Baterai Besar, Desain Radikal, dan Perubahan Besar",
-   "link": "https://www.geeky-gadgets.com/samsung-galaxy-s27-ultra-rumors-35/",
-   "pubDate": "Thu, 22 Oct 2026 14:00:08 +0000",
-   "description": "Samsung Galaxy S27 Ultra memperkenalkan serangkaian kemajuan inovatif yang meningkatkan kinerja smartphone andalan ke tingkat yang lebih tinggi. Dari teknologi baterai yang ditingkatkan hingga sistem kamera yang ditingkatkan, S27 Ultra menjadikan dirinya sebagai tolok ukur untuk perangkat premium. Namun, inovasi ini disertai dengan kenaikan harga yang signifikan, yang mencerminkan tren yang lebih luas di industri ponsel pintar. Di bawah ini adalah pandangan mendalam tentang fitur-fitur utama dan faktor-faktor yang membentuk rilis ini. Video di bawah ini dari TechTalkT",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 5902,
-   "video_type": "youtube",
-   "video_id": "1ytS7x7g6do",
-   "video_url": "https://www.youtube.com/watch?v=1ytS7x7g6do",
-   "original_title": "Inside the Galaxy S27 Ultra Leaks: Massive Battery, Radical Design, and Big Changes",
-   "translated": true
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Tiongkok Targetkan Kapasitas Energi Terbarukan sebesar 3.500 GW pada tahun 2030",
-   "link": "https://www.geeky-gadgets.com/china-renewable-energy-goals-2030/",
-   "pubDate": "Thu, 22 Oct 2026 13:17:00 +0000",
-   "description": "Rencana Lima Tahun ke-15 Tiongkok yang baru-baru ini diluncurkan menguraikan peta jalan ambisius untuk membentuk kembali sektor energinya, yang memiliki implikasi besar terhadap sistem energi global. Inti dari strategi ini adalah sasaran untuk mencapai kapasitas energi terbarukan sebesar 3.500 GW pada tahun 2030, sebuah peningkatan dramatis yang menegaskan skala komitmen negara terhadap keberlanjutan. Just Have a Think mengkaji bagaimana rencana ini memprioritaskan teknologi canggih seperti saluran transmisi tegangan ultra-tinggi (UHV) untuk menghubungkan jaringan listrik jarak jauh.",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 8516,
-   "video_type": "youtube",
-   "video_id": "63-ViTZQ5ZI",
-   "video_url": "https://www.youtube.com/watch?v=63-ViTZQ5ZI",
-   "original_title": "China Targets 3,500 GW of Renewable Energy Capacity By 2030",
-   "translated": true
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Kebocoran iPhone Air 2 Terbaru Menunjukkan Kejutan Besar Dari Apple",
-   "link": "https://www.geeky-gadgets.com/iphone-air-2-rumors-11/",
-   "pubDate": "Thu, 22 Oct 2026 13:00:06 +0000",
-   "description": "IPhone Air 2 akan menjadi salah satu rilisan Apple yang paling dinantikan, menggabungkan teknologi inovatif dengan desain ramping dan ultra-tipis. Meskipun Apple belum mengonfirmasi rincian resminya, kebocoran menunjukkan kemajuan signifikan dalam kinerja, kemampuan kamera, konektivitas, dan masa pakai baterai. Jika Anda mempertimbangkan untuk mengupgrade ponsel cerdas Anda, perangkat ini dapat menetapkan tolok ukur baru mengenai apa yang diharapkan dari perangkat generasi berikutnya. Video di bawah dari Tech Town memberi kita detail lebih lanjut.\n\nDi Sini'",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 4931,
-   "video_type": "youtube",
-   "video_id": "XdWp5RjRwh0",
-   "video_url": "https://www.youtube.com/watch?v=XdWp5RjRwh0",
-   "original_title": "The Latest iPhone Air 2 Leak Points to a Major Surprise From Apple",
-   "translated": true
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Raksasa Teknologi Konfirmasi Samsung Galaxy S27 Ultra",
-   "link": "https://www.geeky-gadgets.com/galaxy-s27-ultra-rumors-3/",
-   "pubDate": "Wed, 21 Oct 2026 14:00:00 +0000",
-   "description": "Samsung telah secara resmi mengumumkan seri Galaxy S27 mendatang, yang dijadwalkan untuk dirilis pada awal tahun 2027. Jajaran produk andalan yang sangat dinanti ini akan memperkenalkan desain penting dan kemajuan fungsional, yang bertujuan untuk memenuhi tuntutan pasar ponsel pintar premium yang terus berkembang. Dengan semakin ketatnya persaingan, penawaran terbaru Samsung berupaya untuk mencapai keseimbangan antara inovasi dan ekspektasi konsumen, memposisikan dirinya sebagai pesaing yang menonjol di industri. Video di bawah ini memberi kita rincian lebih lanjut.",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3975,
-   "video_type": "youtube",
-   "video_id": "4s7fBgAkyvA",
-   "video_url": "https://www.youtube.com/watch?v=4s7fBgAkyvA",
-   "original_title": "Tech Giant Confirms the Samsung Galaxy S27 Ultra",
-   "translated": true
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Hemat Jam Kerja dengan 10 Perintah Copilot Microsoft Ini",
-   "link": "https://www.geeky-gadgets.com/best-microsoft-copilot-prompts-work/",
-   "pubDate": "Wed, 21 Oct 2026 13:17:00 +0000",
-   "description": "David Fortin telah menyusun daftar 10 perintah Microsoft Copilot yang bertujuan menyederhanakan tugas di tempat kerja dan meningkatkan efisiensi. Setelah menguji lebih dari 100 opsi, ia menyoroti contoh praktis, seperti menggunakan perintah untuk mengatur email berdasarkan proyek atau prioritas di Outlook, memastikan pesan penting mudah ditemukan. Pendekatan terfokus ini menunjukkan bagaimana perintah spesifik dapat mengatasi tantangan umum di seluruh platform seperti Excel, PowerPoint, dan Outlook.\n\nJelajahi cara membersihkan kumpulan data di Excel",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 4796,
-   "video_type": "youtube",
-   "video_id": "D-DvmrPb324",
-   "video_url": "https://www.youtube.com/watch?v=D-DvmrPb324",
-   "original_title": "Save Hours of Work with These 10 Microsoft Copilot Prompts",
-   "translated": true
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Cara Menguasai Pencahayaan Video iPhone untuk Konten Menakjubkan Setiap Saat",
-   "link": "https://www.geeky-gadgets.com/master-iphone-video-lighting/",
-   "pubDate": "Wed, 21 Oct 2026 13:00:22 +0000",
-   "description": "Membuat video berkualitas tinggi dengan iPhone Anda memerlukan lebih dari sekadar menekan tombol rekam. Pencahayaan memainkan peran penting dalam membentuk daya tarik visual, suasana hati, dan dampak keseluruhan dari rekaman Anda. Dengan mempelajari cara bekerja dengan kondisi pencahayaan berbeda dan menggunakan fitur bawaan iPhone, Anda dapat meningkatkan produksi video Anda ke tingkat profesional. Baik Anda membuat film di dalam atau di luar ruangan, memahami prinsip pencahayaan akan membantu Anda membuat konten yang menarik secara visual",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3938,
-   "video_type": "youtube",
-   "video_id": "wP6FlfsWB-0",
-   "video_url": "https://www.youtube.com/watch?v=wP6FlfsWB-0",
-   "original_title": "How to Master iPhone Video Lighting for Stunning Content Every Time",
-   "translated": true
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Gemini 4 Carbon Diproyeksikan 400% Lebih Murah Dibandingkan GPT Astra",
-   "link": "https://www.geeky-gadgets.com/gemini-4-carbon-anthropic-loss/",
-   "pubDate": "Wed, 21 Oct 2026 12:45:00 +0000",
-   "description": "Industri AI sedang menjalani periode perubahan signifikan, yang ditandai dengan kemajuan baru dan tantangan yang mendesak. Dalam fitur terbaru dari Universe of AI, perhatian tertuju pada pengembangan utama seperti Gemini 4 Carbon dari Google DeepMind, model yang dirancang untuk memberikan penghematan biaya 400% dibandingkan dengan GPT Astra sekaligus meningkatkan fungsionalitas di berbagai bidang seperti pembuatan adegan 3D. Sementara itu, sektor AI Tiongkok mengalami kemajuan dengan Qwen 4 dan Kimmy K3.1, yang terakhir menekankan desain model open-weight untuk membantu",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 7669,
-   "video_type": "youtube",
-   "video_id": "KFfT9S-rQqY",
-   "video_url": "https://www.youtube.com/watch?v=KFfT9S-rQqY",
-   "original_title": "Gemini 4 Carbon Projected to Be 400% Cheaper Than GPT Astra",
-   "translated": true
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Mode PC VR pada Valve Steam Frame Menderita Artefak Video",
-   "link": "https://www.geeky-gadgets.com/valve-steam-frame-review-2/",
-   "pubDate": "Wed, 21 Oct 2026 12:15:00 +0000",
-   "description": "Valve Steam Frame telah menarik perhatian besar sejak dirilis, karena menampilkan kecepatan refresh 144Hz, sensor kapasitif, dan fungsionalitas game mandiri. Menurut Tyriel Wood, meskipun perangkat ini memperkenalkan beberapa elemen menarik seperti bentuk yang ringan dan bantalan wajah yang lembut untuk menambah kenyamanan, perangkat ini juga mengungkapkan kekurangan yang menonjol. Misalnya, tidak adanya tali pengikat atas sering kali mengharuskan pengguna untuk menyesuaikan ukurannya selama sesi yang lebih lama dan pengontrol mungkin merasa membatasinya.",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 8550,
-   "video_type": "youtube",
-   "video_id": "y4u3RNQQZRc",
-   "video_url": "https://www.youtube.com/watch?v=y4u3RNQQZRc",
-   "original_title": "PC VR Mode on Valve Steam Frame Suffers from Video Artifacts",
-   "translated": true
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Drone Antigravity A1 Merekam Video 8K 360 Seharga $799",
-   "link": "https://www.geeky-gadgets.com/antigravity-a1-follow-me-bundle/",
-   "pubDate": "Wed, 21 Oct 2026 11:47:00 +0000",
-   "description": "Drone Antigravity A1, yang ditampilkan oleh Chase the Summit, menawarkan kombinasi unik antara teknologi canggih dan kemudahan penggunaan, menjadikannya pilihan yang menonjol bagi penggemar fotografi udara. Inti dari daya tariknya adalah “Follow Me Bundle,” yang menggantikan pengontrol tradisional dengan remote yang dikenakan di pergelangan tangan dan pengontrol cincin, menyederhanakan pengoperasian tanpa mengorbankan fungsionalitas. Dengan fitur-fitur seperti pengambilan video 360°, pelacakan GPS, dan penghindaran rintangan, drone ini dirancang untuk menangani kedua situasi.",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 7219,
-   "video_type": "youtube",
-   "video_id": "HcMGa7Rqic4",
-   "video_url": "https://www.youtube.com/watch?v=HcMGa7Rqic4",
-   "original_title": "Antigravity A1 Drone Shoots 8K 360 Video For $799",
-   "translated": true
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Every New Feature in iOS 27.2 RC: Apple Music, Apple TV Profiles, and More",
-   "link": "https://www.geeky-gadgets.com/ios-27-2-rc-features-2/",
-   "pubDate": "Wed, 21 Oct 2026 11:30:49 +0000",
-   "description": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/ios-27.2-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"ios 27.2\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/ios-27.2-2.jpg 1280w, https://www.geeky-gadgets.com/wp-content/uploads/2026/10/ios-27.2-2-300x169.jpg 300w, https://www.geeky-gadgets.com/wp-content/uploads/",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 5294,
-   "video_type": "youtube",
-   "video_id": "tT4jkgFeThU",
-   "video_url": "https://www.youtube.com/watch?v=tT4jkgFeThU"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Quest 3 vs New Meta VR Headset: Which One Should You Buy?",
-   "link": "https://www.geeky-gadgets.com/quest-3-vs-new-meta-vr/",
-   "pubDate": "Wed, 21 Oct 2026 11:17:00 +0000",
-   "description": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/vr-headset-comparison.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Side-by-side comparison of the Meta Quest 3 and the upcoming 2027 Meta VR headset.\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/vr-headset-comparison.jpg 1280w, https://www.geeky-gadgets.com/wp-conten",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3937,
-   "video_type": "youtube",
-   "video_id": "vVFEByaTElQ",
-   "video_url": "https://www.youtube.com/watch?v=vVFEByaTElQ"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "tvOS 27.2 RC Brings Siri AI to the Apple TV 4K",
-   "link": "https://www.geeky-gadgets.com/tvos-27-2-rc-features/",
-   "pubDate": "Wed, 21 Oct 2026 11:00:29 +0000",
-   "description": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/tvos-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"tvOS 27.2 RC\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/tvos-1.jpg 1280w, https://www.geeky-gadgets.com/wp-content/uploads/2026/10/tvos-1-300x169.jpg 300w, https://www.geeky-gadgets.com/wp-content/uploads/2026/10/",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 5271,
-   "video_type": "youtube",
-   "video_id": "8dnlkS1FFLQ",
-   "video_url": "https://www.youtube.com/watch?v=8dnlkS1FFLQ"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Home Assistant Gains Natural Voice Control via Claude AI",
-   "link": "https://www.geeky-gadgets.com/home-assistant-claude-ai-integration/",
-   "pubDate": "Wed, 21 Oct 2026 10:45:00 +0000",
-   "description": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/claude-home-assistant.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Claude AI interface connected to a Home Assistant dashboard.\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/claude-home-assistant.jpg 1280w, https://www.geeky-gadgets.com/wp-content/uploads/2026/10/clau",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 6883,
-   "video_type": "youtube",
-   "video_id": "LV9rnSw5VzU",
-   "video_url": "https://www.youtube.com/watch?v=LV9rnSw5VzU"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Apple Officially Confirms New Macs Are Arriving Next Week",
-   "link": "https://www.geeky-gadgets.com/macbook-pro-3/",
-   "pubDate": "Wed, 21 Oct 2026 10:30:57 +0000",
-   "description": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/macbook-pro.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"M6 MacBook Pro\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/macbook-pro.jpg 1280w, https://www.geeky-gadgets.com/wp-content/uploads/2026/10/macbook-pro-300x169.jpg 300w, https://www.geeky-gadgets.com/wp-content",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 4975,
-   "video_type": "youtube",
-   "video_id": "PlrgtGtDzG4",
-   "video_url": "https://www.youtube.com/watch?v=PlrgtGtDzG4"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "iOS 27.2 RC Is Available: Did Apple Finally Fix What Was Broken",
-   "link": "https://www.geeky-gadgets.com/intel-event/",
-   "pubDate": "Wed, 21 Oct 2026 10:30:05 +0000",
-   "description": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/ios-release-candidate.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"The iOS 27.2 release candidate software update screen on an iPhone\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/ios-release-candidate.jpg 1280w, https://www.geeky-gadgets.com/wp-content/uploads/2026/1",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3662,
-   "video_type": "youtube",
-   "video_id": "gGKdZQrnWUE",
-   "video_url": "https://www.youtube.com/watch?v=gGKdZQrnWUE"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Rumored Xbox Project Helix Estimates Hit a Massive $1,800 Price",
-   "link": "https://www.geeky-gadgets.com/xbox-project-helix-delay-rumors/",
-   "pubDate": "Wed, 21 Oct 2026 10:17:00 +0000",
-   "description": "<img width=\"1600\" height=\"895\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/xbox-project-helix-1.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"The rumored Xbox Project Helix console concept design.\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/xbox-project-helix-1.jpg 1600w, https://www.geeky-gadgets.com/wp-content/uploads/2026/10/xbox-project",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 5419,
-   "video_type": "youtube",
-   "video_id": "UcVO1qeXBao",
-   "video_url": "https://www.youtube.com/watch?v=UcVO1qeXBao"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "The $149 HomePod Mini 2 Is Here — But Does It Justify the Price Hike?",
-   "link": "https://www.geeky-gadgets.com/homepod-mini/",
-   "pubDate": "Wed, 21 Oct 2026 10:00:46 +0000",
-   "description": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/08/homepod-mini-2.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"HomePod Mini 2\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/08/homepod-mini-2.jpg 1280w, https://www.geeky-gadgets.com/wp-content/uploads/2026/08/homepod-mini-2-300x169.jpg 300w, https://www.geeky-gadgets.com/w",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 4535,
-   "video_type": "youtube",
-   "video_id": "lTaGHs4XNXY",
-   "video_url": "https://www.youtube.com/watch?v=lTaGHs4XNXY"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "6 Best ESP32 and loT Simulators: Test Code Without Hardware",
-   "link": "https://www.geeky-gadgets.com/best-esp32-simulators/",
-   "pubDate": "Wed, 21 Oct 2026 09:43:00 +0000",
-   "description": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/esp32-circuit-simulator.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A virtual circuit simulator interface showing an ESP32 board and wiring.\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/esp32-circuit-simulator.jpg 1280w, https://www.geeky-gadgets.com/wp-content/uplo",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 6800,
-   "video_type": "youtube",
-   "video_id": "y2mwzL0vaao",
-   "video_url": "https://www.youtube.com/watch?v=y2mwzL0vaao"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Just Updated to One UI 9? Change These Settings Immediately",
-   "link": "https://www.geeky-gadgets.com/galaxy-device/",
-   "pubDate": "Wed, 21 Oct 2026 09:30:29 +0000",
-   "description": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/One-UI-9-.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"One UI 9\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/One-UI-9-.jpg 1280w, https://www.geeky-gadgets.com/wp-content/uploads/2026/10/One-UI-9--300x169.jpg 300w, https://www.geeky-gadgets.com/wp-content/uploads/202",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 4806,
-   "video_type": "youtube",
-   "video_id": "pkA92gL3sZA",
-   "video_url": "https://www.youtube.com/watch?v=pkA92gL3sZA"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Valve Rebuilding Steam Deals and Sales Systems for 2027 Launch",
-   "link": "https://www.geeky-gadgets.com/steam-sales-algorithm-update/",
-   "pubDate": "Wed, 21 Oct 2026 09:17:00 +0000",
-   "description": "<img width=\"1600\" height=\"875\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/steam-sales-algorithm.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A user browsing personalized game recommendations on the Steam store.\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/steam-sales-algorithm.jpg 1600w, https://www.geeky-gadgets.com/wp-content/uploads/202",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 8409,
-   "video_type": "youtube",
-   "video_id": "lVL9D84TGy8",
-   "video_url": "https://www.youtube.com/watch?v=lVL9D84TGy8"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Next-Gen Xbox Project Helix May Replace Blu-Ray with Cartridges",
-   "link": "https://www.geeky-gadgets.com/next-gen-xbox-helix-rumors/",
-   "pubDate": "Wed, 21 Oct 2026 08:47:00 +0000",
-   "description": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/next-gen-xbox-helix.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A conceptual design of the rumored next-generation Xbox Helix console.\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/next-gen-xbox-helix.jpg 1280w, https://www.geeky-gadgets.com/wp-content/uploads/2026/1",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 8624,
-   "video_type": "youtube",
-   "video_id": "_Q9z0Gc2Lm4",
-   "video_url": "https://www.youtube.com/watch?v=_Q9z0Gc2Lm4"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "The Truth About How Apple iCloud Actually Works",
-   "link": "https://www.geeky-gadgets.com/how-icloud-works-guide/",
-   "pubDate": "Wed, 21 Oct 2026 08:30:46 +0000",
-   "description": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/icloud.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Apple iCloud\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/icloud.jpg 1280w, https://www.geeky-gadgets.com/wp-content/uploads/2026/10/icloud-300x169.jpg 300w, https://www.geeky-gadgets.com/wp-content/uploads/2026/10/",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 5503,
-   "video_type": "youtube",
-   "video_id": "m3LgEIn2l6c",
-   "video_url": "https://www.youtube.com/watch?v=m3LgEIn2l6c"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Which ESP32 Should You Choose? Variants and Features 2026 Guide",
-   "link": "https://www.geeky-gadgets.com/esp32-microcontroller-guide/",
-   "pubDate": "Wed, 21 Oct 2026 08:17:00 +0000",
-   "description": "<img width=\"1600\" height=\"900\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/esp32-microcontroller-family.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"A collection of different ESP32 microcontroller boards arranged on a table.\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/esp32-microcontroller-family.jpg 1600w, https://www.geeky-gadgets.com/wp",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 4802,
-   "video_type": "youtube",
-   "video_id": "CfIjInYch7U",
-   "video_url": "https://www.youtube.com/watch?v=CfIjInYch7U"
-  },
-  {
-   "source": "geeky-gadgets",
-   "getter": "auto",
-   "title": "Samsung Galaxy S27 Release Date, Lineup, and Everything We Know So Far",
-   "link": "https://www.geeky-gadgets.com/samsung-galaxy-s27-release-date-2/",
-   "pubDate": "Wed, 21 Oct 2026 08:00:23 +0000",
-   "description": "<img width=\"1280\" height=\"720\" src=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/samsung-galaxy-s27.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Front view of the expected Samsung Galaxy S27 smartphone.\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"\" decoding=\"async\" srcset=\"https://www.geeky-gadgets.com/wp-content/uploads/2026/10/samsung-galaxy-s27.jpg 1280w, https://www.geeky-gadgets.com/wp-content/uploads/2026/10/samsung-galax",
-   "fetched_at": "2026-10-22T16:06:04+07:00",
-   "source_lang": "en",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 4873,
-   "video_type": "youtube",
-   "video_id": "EbxEJLzBWig",
-   "video_url": "https://www.youtube.com/watch?v=EbxEJLzBWig"
   },
   {
    "source": "fajar",
    "getter": "auto",
-   "title": "Dedi Mulyadi Melesat Ungguli Prabowo dan Anies di Survei Capres SMRC",
-   "link": "https://fajar.co.id/2026/10/22/dedi-mulyadi-melesat-ungguli-prabowo-dan-anies-di-survei-capres-smrc/",
-   "pubDate": "Thu, 22 Oct 2026 15:58:00 +0000",
-   "description": "FAJAR.CO.ID, JAKARTA — Gubernur Jawa Barat Dedi Mulyadi mencatatkan kejutan politik dengan meraih elektabilitas tertinggi...",
-   "fetched_at": "2026-10-22T16:05:59+07:00",
+   "title": "AHY Tumbangkan Wapres Gibran di Head-to-Head Capres 2029",
+   "link": "https://fajar.co.id/2026/10/22/ahy-tumbangkan-wapres-gibran-di-head-to-head-capres-2029/",
+   "pubDate": "Thu, 22 Oct 2026 13:53:30 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA — Temuan mengejutkan dirilis oleh lembaga survei Saiful Mujani Research and Consulting (SMRC)...",
+   "fetched_at": "2026-10-22T20:04:24+07:00",
    "categories": [
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 2811
+   "content_chars": 2622
   },
   {
    "source": "fajar",
    "getter": "auto",
-   "title": "Jokowi Ngaku SMA Tahun 1977, Dokter Tifa Bongkar SMAN 6 Surakarta Baru Berdiri 1985",
-   "link": "https://fajar.co.id/2026/10/22/jokowi-ngaku-sma-tahun-1977-dokter-tifa-bongkar-sman-6-surakarta-baru-berdiri-1985/",
-   "pubDate": "Thu, 22 Oct 2026 15:21:59 +0000",
-   "description": "FAJAR.CO.ID, JAKARTA — Kubu terdakwa Tifauzia Tyassuma alias Dokter Tifa melayangkan rentetan catatan kritis usai...",
-   "fetched_at": "2026-10-22T16:05:59+07:00",
+   "title": "Prabowo Sebut Indonesia Diserang, Bahlil Pertimbangkan Setop Ekspor Gas ke Singapura",
+   "link": "https://fajar.co.id/2026/10/22/prabowo-sebut-indonesia-diserang-bahlil-pertimbangkan-setop-ekspor-gas-ke-singapura/",
+   "pubDate": "Thu, 22 Oct 2026 13:45:16 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA — Pemerintah Indonesia tengah mempertimbangkan opsi untuk menghentikan ekspor gas ke negara tetangga....",
+   "fetched_at": "2026-10-22T20:04:24+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2677
+  },
+  {
+   "source": "fajar",
+   "getter": "auto",
+   "title": "Prabowo Bilang ‘Saya Bangga Jadi Pemimpinmu’, Saidiman Ahmad: Langsung Terbayang Kata-kata Mandra “Sombong Amat!”",
+   "link": "https://fajar.co.id/2026/10/22/prabowo-bilangsaya-bangga-jadi-pemimpinmu-saidiman-ahmad-langsung-terbayang-kata-kata-mandra-sombong-amat/",
+   "pubDate": "Thu, 22 Oct 2026 13:28:06 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA — Peneliti Lembaga Survei Saiful Mujani Research and Consulting (SMRC), Saidiman Ahmad, menyampaikan...",
+   "fetched_at": "2026-10-22T20:04:24+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2574
+  },
+  {
+   "source": "fajar",
+   "getter": "auto",
+   "title": "Anggota Parlemen Malaysia Minta Tolong Prabowo Pakai Bahasa Jawa Soal Karhutla, Ahmad Khozinudin Beri Sindiran Keras",
+   "link": "https://fajar.co.id/2026/10/22/anggota-parlemen-malaysia-minta-tolong-prabowo-pakai-bahasa-jawa-soal-karhutla-ahmad-khozinudin-beri-sindiran-keras/",
+   "pubDate": "Thu, 22 Oct 2026 13:20:38 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA — Mantan pengacara Roy Suryo, Ahmad Khozinudin, menyampaikan permohonan maaf secara terbuka kepada...",
+   "fetched_at": "2026-10-22T20:04:24+07:00",
+   "categories": [
+    "kebakaran",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2745
+  },
+  {
+   "source": "fajar",
+   "getter": "auto",
+   "title": "Polri Jerat 11 Perusahaan sebagai Tersangka Karhutla, Tiga di Antaranya Milik Asing",
+   "link": "https://fajar.co.id/2026/10/22/polri-jerat-11-perusahaan-sebagai-tersangka-karhutla-tiga-di-antaranya-milik-asing/",
+   "pubDate": "Thu, 22 Oct 2026 13:20:22 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA — Kepolisian Negara Republik Indonesia (Polri) menetapkan 11 korporasi sebagai tersangka dalam kasus...",
+   "fetched_at": "2026-10-22T20:04:24+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "kebakaran"
+   ],
+   "content_status": "full",
+   "content_chars": 2735
+  },
+  {
+   "source": "fajar",
+   "getter": "auto",
+   "title": "Darije Kalezic Sebut PSM Layak Menang atas Persebaya, Muhammad Ardiansyah Persembahkan untuk Sang Ibu",
+   "link": "https://fajar.co.id/2026/10/22/darije-kalezic-sebut-psm-layak-menang-atas-persebaya-muhammad-ardiansyah-persembahkan-untuk-sang-ibu/",
+   "pubDate": "Thu, 22 Oct 2026 13:15:00 +0000",
+   "description": "Selebrasi Pemain PSM Makassar usai Mencetak Gol ke Gawang Persebaya Surabaya. (Foto: PSM Makassar).",
+   "fetched_at": "2026-10-22T20:04:24+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 2528
+  },
+  {
+   "source": "fajar",
+   "getter": "auto",
+   "title": "Alumni Singapura Celingak-celinguk Soal Sekolah Gibran, Dosen IPB Buka Suara",
+   "link": "https://fajar.co.id/2026/10/22/alumni-singapura-celingak-celinguk-soal-sekolah-gibran-dosen-ipb-buka-suara/",
+   "pubDate": "Thu, 22 Oct 2026 13:12:38 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA — Isu riwayat pendidikan Wakil Presiden Gibran Rakabuming Raka kembali menjadi bahan perbincangan...",
+   "fetched_at": "2026-10-22T20:04:24+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2817
+  },
+  {
+   "source": "fajar",
+   "getter": "auto",
+   "title": "Dugaan Pemalsuan Dokumen Suket Wapres Gibran Dilaporkan ke Bareskrim Polri, PSI: Niat Jahat Nggak akan Bawa Mereka Kemana-Mana",
+   "link": "https://fajar.co.id/2026/10/22/dugaan-pemalsuan-dokumen-suket-wapres-gibran-dilaporkan-ke-bareskrim-polri-psi-niat-jahat-nggak-akan-bawa-mereka-kemana-mana/",
+   "pubDate": "Thu, 22 Oct 2026 13:01:12 +0000",
+   "description": "Wakil Presiden Republik Indonesia (Wapres RI) yang menjabat di Periode 2024-2029, Gibran Rakabuming Raka.",
+   "fetched_at": "2026-10-22T20:04:24+07:00",
    "categories": [
     "hukum-kriminal",
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 2629
+   "content_chars": 2367
   },
   {
    "source": "fajar",
    "getter": "auto",
-   "title": "Ferry Koto Sebut Lutfi Berhalusinasi Soal Singapura Tekan MSCI: Jika Indonesia Dikeluarkan, Dana Singapura Justru Keluar",
-   "link": "https://fajar.co.id/2026/10/22/ferry-koto-sebut-lutfi-berhalusinasi-soal-singapura-tekan-msci-jika-indonesia-dikeluarkan-dana-singapura-justru-keluar/",
-   "pubDate": "Thu, 22 Oct 2026 15:10:57 +0000",
-   "description": "FAJAR.CO.ID, JAKARTA — Pegiat media sosial, Ferry Koto, angkat bicara terkait polemik penurunan status pasar...",
-   "fetched_at": "2026-10-22T16:05:59+07:00",
+   "title": "Dedi Mulyadi Tak Tampak Saat Prabowo Sapa Kepala Daerah, Presiden Celetuk: Ke Mana KDM Itu?",
+   "link": "https://fajar.co.id/2026/10/22/dedi-mulyadi-tak-tampak-saat-prabowo-sapa-kepala-daerah-presiden-celetuk-ke-mana-kdm-itu/",
+   "pubDate": "Thu, 22 Oct 2026 12:52:04 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA — Momen unik dan penuh kehangatan mewarnai Rapat Koordinasi Nasional (Rakornas) Tim Percepatan...",
+   "fetched_at": "2026-10-22T20:04:24+07:00",
    "categories": [
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 2924
+   "content_chars": 2767
   },
   {
    "source": "fajar",
    "getter": "auto",
-   "title": "Dino Patti Djalal Tepis Isu Konspirasi Singapura Jatuhkan Pasar Modal Indonesia: Tidak Masuk Akal!",
-   "link": "https://fajar.co.id/2026/10/22/dino-patti-djalal-tepis-isu-konspirasi-singapura-jatuhkan-pasar-modal-indonesia-tidak-masuk-akal/",
-   "pubDate": "Thu, 22 Oct 2026 15:04:19 +0000",
-   "description": "FAJAR.CO.ID, JAKARTA — Eks Wakil Menteri Luar Negeri Indonesia, Dino Patti Djalal, merespons keras isu...",
-   "fetched_at": "2026-10-22T16:05:59+07:00",
+   "title": "Ray Rangkuti Skakmat Wacana Ubah Definisi Korupsi, Sebut Luhut Masih Bawa-Bawa Tabiat Era Jokowi",
+   "link": "https://fajar.co.id/2026/10/22/ray-rangkuti-skakmat-wacana-ubah-definisi-korupsi-sebut-luhut-masih-bawa-bawa-tabiat-era-jokowi/",
+   "pubDate": "Thu, 22 Oct 2026 09:29:20 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA — Pengamat politik Ray Rangkuti melayangkan kritik pedas terhadap wacana Dewan Ekonomi Nasional...",
+   "fetched_at": "2026-10-22T20:04:24+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2671
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "Jaksa Minta Korupsi Febrie Adriansyah Dibuktikan di Sidang",
+   "link": "https://www.akurat.co/hukum/900804/jaksa-minta-korupsi-febrie-adriansyah-dibuktikan-di-sidang",
+   "pubDate": "Fri, 23 Oct 2026 00:07:32 +0700",
+   "description": "",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi"
+   ],
+   "content_status": "full",
+   "content_chars": 2599
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "Soal KMP Batumandi, Capt. Hakeng: ASDP Tunjukkan Kesiapsiagaan Krisis, Investigasi Jadi Kunci Perbaikan",
+   "link": "https://www.akurat.co/riil/900805/soal-kmp-batumandi-capt-hakeng-asdp-tunjukkan-kesiapsiagaan-krisis-investigasi-jadi-kunci-perbaikan",
+   "pubDate": "Thu, 22 Oct 2026 23:55:00 +0700",
+   "description": "",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "full",
+   "content_chars": 3407
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "Perusahaan Manipulasi Saham",
+   "link": "https://www.akurat.co/infografis/900799/perusahaan-manipulasi-saham",
+   "pubDate": "Thu, 22 Oct 2026 23:49:28 +0700",
+   "description": "",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 252
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "Riset Evident Institute: Dialog Dua Arah Jadi Kunci Keberhasilan Komunikasi Pemerintah",
+   "link": "https://www.akurat.co/politik/900798/riset-evident-institute-dialog-dua-arah-jadi-kunci-keberhasilan-komunikasi-pemerintah",
+   "pubDate": "Thu, 22 Oct 2026 23:47:57 +0700",
+   "description": "",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2594
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "Jawab Kritik Publik, Pemerintah Perlu Perbaiki Tata Kelola MBG dan Kopdes Merah Putih",
+   "link": "https://www.akurat.co/nasional/900796/jawab-kritik-publik-pemerintah-perlu-perbaiki-tata-kelola-mbg-dan-kopdes-merah-putih",
+   "pubDate": "Thu, 22 Oct 2026 23:46:01 +0700",
+   "description": "",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2278
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "3 Alasan Menonton Drama China The Lament of Autumn, Kisah Cinta Penuh Intrik",
+   "link": "https://www.akurat.co/showbiz/900790/3-alasan-menonton-drama-china-the-lament-of-autumn-kisah-cinta-penuh-intrik",
+   "pubDate": "Thu, 22 Oct 2026 23:32:56 +0700",
+   "description": "",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 2390
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "WCCE 2026, Indonesia Targetkan Jakarta Vision Masuk Agenda Sidang Umum PBB",
+   "link": "https://www.akurat.co/nasional/900788/wcce-2026-indonesia-targetkan-jakarta-vision-masuk-agenda-sidang-umum-pbb",
+   "pubDate": "Thu, 22 Oct 2026 23:30:26 +0700",
+   "description": "",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2305
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "Spesifikasi Poco X8s: Layar OLED 120Hz, Baterai 6.330 mAh, dan Fast Charging 100W",
+   "link": "https://www.akurat.co/gadget/900785/spesifikasi-poco-x8s-layar-oled-120hz-baterai-6-330-mah-dan-fast-charging-100w",
+   "pubDate": "Thu, 22 Oct 2026 23:23:53 +0700",
+   "description": "",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 2047
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "GTA V Bisa Dimainkan di Perangkat Apa Saja? Ini Daftar PC dan Konsol yang Mendukung",
+   "link": "https://www.akurat.co/trend/900784/gta-v-bisa-dimainkan-di-perangkat-apa-saja-ini-daftar-pc-dan-konsol-yang-mendukung",
+   "pubDate": "Thu, 22 Oct 2026 23:17:20 +0700",
+   "description": "",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 3161
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "Voxpol Center Catat 63,3 Persen Responden Yakin Prabowo Mampu Jalankan Pemerintahan",
+   "link": "https://www.akurat.co/nasional/900782/voxpol-center-catat-63-3-persen-responden-yakin-prabowo-mampu-jalankan-pemerintahan",
+   "pubDate": "Thu, 22 Oct 2026 23:16:07 +0700",
+   "description": "",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 1727
+  },
+  {
+   "source": "wartaekonomi",
+   "getter": "auto",
+   "title": "PSI Dian Sandi Rela Terbang ke Solo untuk Minta Maaf Langsung ke Jokowi, Efek Blunder Perkara Ijazah",
+   "link": "https://wartaekonomi.co.id/read642893/psi-dian-sandi-rela-terbang-ke-solo-untuk-minta-maaf-langsung-ke-jokowi-efek-blunder-perkara-ijazah",
+   "pubDate": "Fri, 23 Oct 2026 02:40:00 +0700",
+   "description": "Jubir Partai Solidaritas Indonesia (PSI) Dian Sandi Utama mengaku pergi untuk meminta maaf kepada Jokowi. Ia merasa bersalah usai mengunggah foto ijazah.",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "full",
+   "content_chars": 2831
+  },
+  {
+   "source": "wartaekonomi",
+   "getter": "auto",
+   "title": "Negara Tetangga Mulai 'Keras', Bahlil Ancam Hentikan Kirim Gas dan Fokus Kebutuhan Dalam Negeri",
+   "link": "https://wartaekonomi.co.id/read642892/negara-tetangga-mulai-keras-bahlil-ancam-hentikan-kirim-gas-dan-fokus-kebutuhan-dalam-negeri",
+   "pubDate": "Fri, 23 Oct 2026 02:30:00 +0700",
+   "description": "Bahlil mengatakan, setiap kementerian perlu mengimplementasikan arahan Presiden untuk menghadapi kondisi yang ada.",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2033
+  },
+  {
+   "source": "wartaekonomi",
+   "getter": "auto",
+   "title": "PSI Jadi Sorotan, Unggahan Pertama Foto Ijazah Jokowi Ternyata Didapat dari Akun Misterius",
+   "link": "https://wartaekonomi.co.id/read642891/psi-jadi-sorotan-unggahan-pertama-foto-ijazah-jokowi-ternyata-didapat-dari-akun-misterius",
+   "pubDate": "Fri, 23 Oct 2026 02:20:00 +0700",
+   "description": "Pengakuan Juru Bicara Partai Solidaritas Indonesia (PSI) Dian Sandi Utama. Ijazah Jokowi yang ia unggah ternyata didapat dari akun anonim @hyperpoison.",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "full",
+   "content_chars": 3231
+  },
+  {
+   "source": "wartaekonomi",
+   "getter": "auto",
+   "title": "PSI Belum Pernah Lihat Wujud Fisik Ijazah Asli Jokowi, Begini Pengakuan Jubirnya",
+   "link": "https://wartaekonomi.co.id/read642889/psi-belum-pernah-lihat-wujud-fisik-ijazah-asli-jokowi-begini-pengakuan-jubirnya",
+   "pubDate": "Fri, 23 Oct 2026 01:40:00 +0700",
+   "description": "Juru Bicara Partai Solidaritas Indonesia (PSI) Dian Sandi Utama memberikan kesaksian mengejutkan. Ia mengaku belum pernah melihat wujud ijazah asli Jokowi.",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2903
+  },
+  {
+   "source": "wartaekonomi",
+   "getter": "auto",
+   "title": "Buruh Minta UMP 2027 Naik 7,5-9,5 Persen, Ketum Kadin Bahas Produktivitas Pekerja",
+   "link": "https://wartaekonomi.co.id/read642890/buruh-minta-ump-2027-naik-75-95-persen-ketum-kadin-bahas-produktivitas-pekerja",
+   "pubDate": "Fri, 23 Oct 2026 01:30:00 +0700",
+   "description": "Selain produktivitas pekerja, Anindya menyoroti perkembangan teknologi, termasuk kecerdasan buatan atau artificial intelligence (AI),",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 3838
+  },
+  {
+   "source": "wartaekonomi",
+   "getter": "auto",
+   "title": "Sentilan Prabowo Cari Dedi Mulyadi di Rakornas TPAKD 2026: Paling Dekat Kok Malah Enggak Hadir",
+   "link": "https://wartaekonomi.co.id/read642888/sentilan-prabowo-cari-dedi-mulyadi-di-rakornas-tpakd-2026-paling-dekat-kok-malah-enggak-hadir",
+   "pubDate": "Fri, 23 Oct 2026 01:20:00 +0700",
+   "description": "Absennya Gubernur Jabar Dedi Mulyadi memantik sentilan jenaka dari Presiden Prabowo. Padahal Kader Gerindra dan wilayahnya paling dekat dengan ibu kota.",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 3119
+  },
+  {
+   "source": "wartaekonomi",
+   "getter": "auto",
+   "title": "Presiden Prabowo: Listyo Sigit, Mantan Kapolri, Jangan Jauh-Jauh Deket Aja Terus",
+   "link": "https://wartaekonomi.co.id/read642885/presiden-prabowo-listyo-sigit-mantan-kapolri-jangan-jauh-jauh-deket-aja-terus",
+   "pubDate": "Fri, 23 Oct 2026 01:00:00 +0700",
+   "description": "Presiden Prabowo berkelakar dengan KSP Listyo Sigit Prabowo soal nama 'Prabowo' dan Menteri UMKM Maman soal keturunan India di Rakornas TPAKD.",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 1786
+  },
+  {
+   "source": "wartaekonomi",
+   "getter": "auto",
+   "title": "Prabowo Taruh Perhatian Khusus ke Bintang PDIP: Yang Ada Bowo-bowo Itu Lho",
+   "link": "https://wartaekonomi.co.id/read642887/prabowo-taruh-perhatian-khusus-ke-bintang-pdip-yang-ada-bowo-bowo-itu-lho",
+   "pubDate": "Fri, 23 Oct 2026 00:40:00 +0700",
+   "description": "TPAKD 2026: Presiden Prabowo menyapa hangat salah satu bintang gubernur asal PDIP. Kesamaan unsur nama menjadi kelakar yang mencairkan suasana.",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2584
+  },
+  {
+   "source": "wartaekonomi",
+   "getter": "auto",
+   "title": "Bakom Klaim 2 Tahun Pemerintahan Prabowo, Tak Ada Satu Orang Pun Ditangkap, Koalisi Langsung Tunjuk Data 703 Warga Sipil",
+   "link": "https://wartaekonomi.co.id/read642886/bakom-klaim-2-tahun-pemerintahan-prabowo-tak-ada-satu-orang-pun-ditangkap-koalisi-langsung-tunjuk-data-703-warga-sipil",
+   "pubDate": "Fri, 23 Oct 2026 00:20:00 +0700",
+   "description": "Bakom klaim tak ada penangkapan karena hina Presiden Prabowo selama 2 tahun, bertolak belakang dengan laporan KPF soal 703 warga usai demo Agustus 2025.",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2013
+  },
+  {
+   "source": "wartaekonomi",
+   "getter": "auto",
+   "title": "Prabowo: Letkol Mau Ngatur, Gue ini Presiden Ted!",
+   "link": "https://wartaekonomi.co.id/read642884/prabowo-letkol-mau-ngatur-gue-ini-presiden-ted",
+   "pubDate": "Fri, 23 Oct 2026 00:10:00 +0700",
+   "description": "Presiden Prabowo Subianto berkelakar disemprit Seskab Teddy Indra Wijaya agar menyudahi pidatonya saat menghadiri Rakornas TPAKD 2026.",
+   "fetched_at": "2026-10-22T20:04:22+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 1558
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Kapolres Malang Pimpin Pemadaman Karhutla di Gunung Arjuno",
+   "link": "https://beritajatim.com/kapolres-malang-pimpin-pemadaman-karhutla-di-gunung-arjuno",
+   "pubDate": "Thu, 22 Oct 2026 19:28:06 +0000",
+   "description": "<a href=\"https://beritajatim.com/kapolres-malang-pimpin-pemadaman-karhutla-di-gunung-arjuno\" title=\"Kapolres Malang Pimpin Pemadaman Karhutla di Gunung Arjuno\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/kapolres-malang.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://cdnmedia.beritajatim.com",
+   "fetched_at": "2026-10-22T20:04:21+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "full",
+   "content_chars": 3399
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Lewat TSC Jatim Park Kenalkan Layanan Wisata Terpadu dan Paket Liburan Eksklusif",
+   "link": "https://beritajatim.com/lewat-tsc-jatim-park-kenalkan-layanan-wisata-terpadu-dan-paket-liburan-eksklusif",
+   "pubDate": "Thu, 22 Oct 2026 18:12:10 +0000",
+   "description": "<a href=\"https://beritajatim.com/lewat-tsc-jatim-park-kenalkan-layanan-wisata-terpadu-dan-paket-liburan-eksklusif\" title=\"Lewat TSC Jatim Park Kenalkan Layanan Wisata Terpadu dan Paket Liburan Eksklusif\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/Jatim-Park.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" s",
+   "fetched_at": "2026-10-22T20:04:21+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 6277
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Ruang Jaringan Untag Surabaya Terbakar, DSI YPTA Targetkan Pemulihan Internet 24 Jam",
+   "link": "https://beritajatim.com/ruang-jaringan-untag-surabaya-terbakar-dsi-ypta-targetkan-pemulihan-internet-24-jam",
+   "pubDate": "Thu, 22 Oct 2026 18:06:12 +0000",
+   "description": "<a href=\"https://beritajatim.com/ruang-jaringan-untag-surabaya-terbakar-dsi-ypta-targetkan-pemulihan-internet-24-jam\" title=\"Ruang Jaringan Untag Surabaya Terbakar, DSI YPTA Targetkan Pemulihan Internet 24 Jam\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/Kebakaran-Untag.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decodi",
+   "fetched_at": "2026-10-22T20:04:21+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "full",
+   "content_chars": 2670
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Jaga Stamina Pejuang Karhutla, Pertagas Salurkan Logistik dan APD",
+   "link": "https://beritajatim.com/jaga-stamina-pejuang-karhutla-pertagas-salurkan-logistik-dan-apd",
+   "pubDate": "Thu, 22 Oct 2026 18:04:34 +0000",
+   "description": "<a href=\"https://beritajatim.com/jaga-stamina-pejuang-karhutla-pertagas-salurkan-logistik-dan-apd\" title=\"Jaga Stamina Pejuang Karhutla, Pertagas Salurkan Logistik dan APD\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/karhutla-palembang.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://cdnmedia",
+   "fetched_at": "2026-10-22T20:04:21+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran"
+   ],
+   "content_status": "full",
+   "content_chars": 3232
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Bawa 16 Tuntutan, Masyarakat Sipil Surabaya Demo di Grahadi",
+   "link": "https://beritajatim.com/bawa-16-tuntutan-masyarakat-sipil-surabaya-demo-di-grahadi",
+   "pubDate": "Thu, 22 Oct 2026 18:00:43 +0000",
+   "description": "<a href=\"https://beritajatim.com/bawa-16-tuntutan-masyarakat-sipil-surabaya-demo-di-grahadi\" title=\"Bawa 16 Tuntutan, Masyarakat Sipil Surabaya Demo di Grahadi\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/demo-grahadi.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://cdnmedia.beritajatim.com/i",
+   "fetched_at": "2026-10-22T20:04:21+07:00",
+   "categories": [
+    "kebakaran",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2992
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Demo IMM Nyatakan Jember Darurat Pendidikan",
+   "link": "https://beritajatim.com/demo-imm-nyatakan-jember-darurat-pendidikan",
+   "pubDate": "Thu, 22 Oct 2026 17:21:31 +0000",
+   "description": "<a href=\"https://beritajatim.com/demo-imm-nyatakan-jember-darurat-pendidikan\" title=\"Demo IMM Nyatakan Jember Darurat Pendidikan\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/demo-IMM-Jember.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://cdnmedia.beritajatim.com/images/2026/10/demo-IMM-Jembe",
+   "fetched_at": "2026-10-22T20:04:21+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2918
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Penggerebekan Gudang LPG Candi, Bareskrim Sita 1.820 Tabung Gas",
+   "link": "https://beritajatim.com/penggerebekan-gudang-lpg-candi-bareskrim-sita-1-820-tabung-gas",
+   "pubDate": "Thu, 22 Oct 2026 17:17:45 +0000",
+   "description": "<a href=\"https://beritajatim.com/penggerebekan-gudang-lpg-candi-bareskrim-sita-1-820-tabung-gas\" title=\"Penggerebekan Gudang LPG Candi, Bareskrim Sita 1.820 Tabung Gas\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/elpiji-oplosan.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://cdnmedia.beritaj",
+   "fetched_at": "2026-10-22T20:04:21+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 3430
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Gentlewoman Asal Thailand Resmi Buka Store di Pakuwon Mall Surabaya",
+   "link": "https://beritajatim.com/gentlewoman-asal-thailand-resmi-buka-store-di-pakuwon-mall-surabaya",
+   "pubDate": "Thu, 22 Oct 2026 17:14:42 +0000",
+   "description": "<a href=\"https://beritajatim.com/gentlewoman-asal-thailand-resmi-buka-store-di-pakuwon-mall-surabaya\" title=\"Gentlewoman Asal Thailand Resmi Buka Store di Pakuwon Mall Surabaya\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/11zon_resized-14_11zon-2.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https",
+   "fetched_at": "2026-10-22T20:04:21+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 3932
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Warga Sumenep Tipu Warga Lamongan Ratusan Juta Berdalih Pinjaman Modal Usaha",
+   "link": "https://beritajatim.com/warga-sumenep-tipu-warga-lamongan-ratusan-juta-berdalih-pinjaman-modal-usaha",
+   "pubDate": "Thu, 22 Oct 2026 16:59:03 +0000",
+   "description": "<a href=\"https://beritajatim.com/warga-sumenep-tipu-warga-lamongan-ratusan-juta-berdalih-pinjaman-modal-usaha\" title=\"Warga Sumenep Tipu Warga Lamongan Ratusan Juta Berdalih Pinjaman Modal Usaha\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/penipuan.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"htt",
+   "fetched_at": "2026-10-22T20:04:21+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "full",
+   "content_chars": 2902
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Kekeringan Lumajang Parah, PCNU Kirim Bantuan 1 Juta Liter Air di Hari Santri",
+   "link": "https://beritajatim.com/kekeringan-lumajang-parah-pcnu-kirim-bantuan-1-juta-liter-air-di-hari-santri",
+   "pubDate": "Thu, 22 Oct 2026 16:52:07 +0000",
+   "description": "<a href=\"https://beritajatim.com/kekeringan-lumajang-parah-pcnu-kirim-bantuan-1-juta-liter-air-di-hari-santri\" title=\"Kekeringan Lumajang Parah, PCNU Kirim Bantuan 1 Juta Liter Air di Hari Santri\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/kekeringan-lumajang.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\"",
+   "fetched_at": "2026-10-22T20:04:21+07:00",
+   "categories": [
+    "bencana",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2727
+  },
+  {
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "Cek Jadwal KA Bandara YIA Jumat 23 Oktober 2026",
+   "link": "https://jogjapolitan.harianjogja.com/r-1276042/cek-jadwal-ka-bandara-yia-jumat-23-oktober-2026",
+   "pubDate": "Fri, 23 Oct 2026 02:37:22 +0700",
+   "description": "Jadwal KA Bandara YIA 23 Oktober 2026 tersedia 24 perjalanan. Cek jam keberangkatan dari YIA ke Stasiun Tugu dan sebaliknya.",
+   "fetched_at": "2026-10-22T20:04:19+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 5316
+  },
+  {
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "PSIM Jogja Terpuruk, Yusaku Yamadera Berharap Bisa Main Reguler",
+   "link": "https://sport.harianjogja.com/r-1275994/psim-jogja-terpuruk-yusaku-yamadera-berharap-bisa-main-reguler",
+   "pubDate": "Fri, 23 Oct 2026 02:17:28 +0700",
+   "description": "Yusaku Yamadera ingin mendapat menit bermain reguler di PSIM Jogja. Ia juga menilai tim perlu mencari solusi menghadapi persaingan Super League.",
+   "fetched_at": "2026-10-22T20:04:19+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 4051
+  },
+  {
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "Jadwal KSPN Jogja ke Gunungkidul Jumat 23 Oktober 2026, Cek Tarif",
+   "link": "https://jogjapolitan.harianjogja.com/r-1276041/jadwal-kspn-jogja-ke-gunungkidul-jumat-23-oktober-2026-cek-tarif",
+   "pubDate": "Fri, 23 Oct 2026 01:37:15 +0700",
+   "description": "Jadwal KSPN Jogja ke Gunungkidul 23 Oktober 2026 tersedia untuk rute Obelix Sea View dan Pantai Drini. Cek tarif dan jam keberangkatannya.",
+   "fetched_at": "2026-10-22T20:04:19+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 3907
+  },
+  {
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "PSS Sleman Kalah dari Persik, Pieter Huistra Soroti Pertahanan",
+   "link": "https://sport.harianjogja.com/r-1276049/pss-sleman-kalah-dari-persik-pieter-huistra-soroti-pertahanan",
+   "pubDate": "Fri, 23 Oct 2026 01:17:27 +0700",
+   "description": "PSS Sleman kalah 1-2 dari Persik Kediri. Pieter Huistra menyoroti kesalahan pertahanan, keputusan wasit, dan perkembangan permainan tim.",
+   "fetched_at": "2026-10-22T20:04:19+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 4066
+  },
+  {
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "Jadwal SIM Keliling Polda DIY Jumat 23 Oktober 2026, Cek Lokasinya",
+   "link": "https://jogjapolitan.harianjogja.com/r-1276033/jadwal-sim-keliling-polda-diy-jumat-23-oktober-2026-cek-lokasinya",
+   "pubDate": "Fri, 23 Oct 2026 00:37:17 +0700",
+   "description": "Cek jadwal SIM Keliling Jogja Jumat 23 Oktober 2026 di Godean, SIM Corner JCM dan Ramai Mall, beserta syarat perpanjangan SIM A dan C.",
+   "fetched_at": "2026-10-22T20:04:19+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "full",
+   "content_chars": 4505
+  },
+  {
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "KKP Salurkan Tiga Sarana Pascapanen Ikan ke Kelompok Usaha Kulonprogo",
+   "link": "https://jogjapolitan.harianjogja.com/r-1276017/kkp-salurkan-tiga-sarana-pascapanen-ikan-ke-kelompok-usaha-kulonprogo",
+   "pubDate": "Fri, 23 Oct 2026 00:17:41 +0700",
+   "description": "KKP menyalurkan tiga sarana pascapanen dan satu kendaraan ATI kepada kelompok usaha perikanan di Kulonprogo untuk meningkatkan daya saing produk.",
+   "fetched_at": "2026-10-22T20:04:19+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 4541
+  },
+  {
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "Karhutla Meluas, Jateng Minta Jalur Pendakian Gunung Ditutup",
+   "link": "https://jateng.harianjogja.com/r-1276039/karhutla-meluas-jateng-minta-jalur-pendakian-gunung-ditutup",
+   "pubDate": "Thu, 22 Oct 2026 23:57:04 +0700",
+   "description": "Pemprov Jawa Tengah meminta penutupan sementara jalur pendakian gunung untuk mengantisipasi karhutla di Lawu, Sumbing, dan kawasan Dieng.",
+   "fetched_at": "2026-10-22T20:04:19+07:00",
    "categories": [
     "bencana",
     "kebakaran",
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 2825
+   "content_chars": 3986
   },
   {
-   "source": "fajar",
+   "source": "harianjogja",
    "getter": "auto",
-   "title": "Demo 2 Tahun Prabowo-Gibran di Makassar Ricuh, Motor Listrik Kampus Dibakar dan Petugas Keamanan Diduga Dianiaya",
-   "link": "https://fajar.co.id/2026/10/22/demo-2-tahun-prabowo-gibran-di-makassar-ricuh-motor-listrik-kampus-dibakar-dan-petugas-keamanan-diduga-dianiaya/",
-   "pubDate": "Thu, 22 Oct 2026 14:48:42 +0000",
-   "description": "FAJAR.CO.ID, MAKASSAR &#8212; Aksi unjuk rasa memperingati dua tahun pemerintahan Presiden Prabowo Subianto dan Wakil...",
-   "fetched_at": "2026-10-22T16:05:59+07:00",
+   "title": "SIM Keliling Jogja Jumat 23 Oktober 2026 di Alun-Alun Kidul dan MPP, Cek Jadwalnya",
+   "link": "https://jogjapolitan.harianjogja.com/r-1276032/sim-keliling-jogja-jumat-23-oktober-2026-di-alun-alun-kidul-dan-mpp-cek-jadwalnya",
+   "pubDate": "Thu, 22 Oct 2026 23:47:56 +0700",
+   "description": "SIM Keliling Jogja Jumat 23 Oktober 2026 melayani malam hari di Alun-Alun Kidul. Simak jadwal, lokasi, jam layanan, dan syarat perpanjangan SIM.",
+   "fetched_at": "2026-10-22T20:04:19+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 3056
+  },
+  {
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "Jadwal KRL Solo-Jogja Jumat 23 Oktober 2026, Cek Jam Tiap Stasiun",
+   "link": "https://jogjapolitan.harianjogja.com/r-1276046/jadwal-krl-solo-jogja-jumat-23-oktober-2026-cek-jam-tiap-stasiun",
+   "pubDate": "Thu, 22 Oct 2026 23:37:36 +0700",
+   "description": "Cek jadwal KRL Palur-Jogja Jumat 23 Oktober 2026. Tersedia 12 jadwal keberangkatan dari Palur hingga Stasiun Yogyakarta.",
+   "fetched_at": "2026-10-22T20:04:19+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 3988
+  },
+  {
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "Polemik Kerugian Negara, Pakar Hukum Soroti Batas Risiko Bisnis",
+   "link": "https://news.harianjogja.com/r-1276047/polemik-kerugian-negara-pakar-hukum-soroti-batas-risiko-bisnis",
+   "pubDate": "Thu, 22 Oct 2026 23:27:51 +0700",
+   "description": "Hardjuno Wiwoho menilai batas risiko bisnis dan korupsi perlu diperjelas agar kepastian hukum terjaga tanpa melemahkan pemberantasan korupsi.",
+   "fetched_at": "2026-10-22T20:04:19+07:00",
    "categories": [
+    "hukum-kriminal",
+    "korupsi",
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 2603
+   "content_chars": 5953
   },
   {
-   "source": "fajar",
+   "source": "jpnn",
    "getter": "auto",
-   "title": "Resmikan Jalan Burung-Burung–Bili-Bili, Gubernur Andi Sudirman: ini Memberikan Ruang yang Memadai untuk Masyarakat",
-   "link": "https://fajar.co.id/2026/10/22/resmikan-jalan-burung-burung-bili-bili-gubernur-andi-sudirman-ini-memberikan-ruang-yang-memadai-untuk-masyarakat/",
-   "pubDate": "Thu, 22 Oct 2026 14:45:00 +0000",
-   "description": "Gubernur Sulawesi Selatan, Andi Sudirman Sulaiman melakukan peresmian ruas jalan Burung-Burung–Bili-Bili sepanjang 6,95 kilometer di Kecamatan Pattallassang, Kabupaten Gowa, Rabu (21/10/2026).",
-   "fetched_at": "2026-10-22T16:05:59+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 2689
-  },
-  {
-   "source": "fajar",
-   "getter": "auto",
-   "title": "PSI Tegas Katakan Jokowi dan Gibran Siap Hadir jika dapat Panggilan Soal Isu Ijazah",
-   "link": "https://fajar.co.id/2026/10/22/psi-tegas-katakan-jokowi-dan-gibran-siap-hadir-jika-dapat-panggilan-soal-isu-ijazah/",
-   "pubDate": "Thu, 22 Oct 2026 14:35:44 +0000",
-   "description": "Ketua DPP dan Juru Bicara Partai Solidaritas Indonesia, Dedek Prayudi saat jadi Narasumber di Kompas Petang. (Foto: Tangkapan Layar).",
-   "fetched_at": "2026-10-22T16:05:59+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 2522
-  },
-  {
-   "source": "fajar",
-   "getter": "auto",
-   "title": "Denny Indrayana Desak Gibran Jo-Gate Diusut Tuntas, Kembali Serukan Pemakzulan",
-   "link": "https://fajar.co.id/2026/10/22/denny-indrayana-desak-gibran-jo-gate-diusut-tuntas-kembali-serukan-pemakzulan/",
-   "pubDate": "Thu, 22 Oct 2026 14:27:30 +0000",
-   "description": "FAJAR.CO.ID, JAKARTA — Pakar hukum tata negara Denny Indrayana mendesak agar persoalan yang ia sebut...",
-   "fetched_at": "2026-10-22T16:05:59+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 2718
-  },
-  {
-   "source": "fajar",
-   "getter": "auto",
-   "title": "Usai Bersaksi di Sidang Dokter Tifa, Dian Sandi PSI: Saya Orang yang Paling Bahagia",
-   "link": "https://fajar.co.id/2026/10/22/usai-bersaksi-di-sidang-dokter-tifa-dian-sandi-psi-saya-orang-yang-paling-bahagia/",
-   "pubDate": "Thu, 22 Oct 2026 14:26:15 +0000",
-   "description": "FAJAR.CO.ID, JAKARTA &#8212; Direktur Media Sosial (Medsos) Partai Solidaritas Indonesia (PSI), Dian Sandi Utama, mengaku...",
-   "fetched_at": "2026-10-22T16:05:59+07:00",
+   "title": "Seorang Pria Tewas Ditembak di Deli Serdang",
+   "link": "https://www.jpnn.com/news/seorang-pria-tewas-ditembak-di-deli-serdang",
+   "pubDate": "Fri, 23 Oct 2026 02:50:00 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/10/22/pihak-kepolisian-daerah-polda-sumatera-utara-menunjukkan-bar-jhsq.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong> - Penyidik Kepolisian Daerah Sumatera Utara (Polda Sumut) mengungkap kasus penembakan dengan senjata api di Kecamatan Tanjung Morawa, Kabupaten Deli Serdang yang menewaskan pria berinisial D.",
+   "fetched_at": "2026-10-22T20:04:18+07:00",
    "categories": [
     "hukum-kriminal"
    ],
    "content_status": "full",
-   "content_chars": 2695
+   "content_chars": 1383
   },
   {
-   "source": "fajar",
+   "source": "jpnn",
    "getter": "auto",
-   "title": "Soal Wacana Jokowi Jadi Ketum PSI, Pengamat: Mending Kudeta Partai Golkar",
-   "link": "https://fajar.co.id/2026/10/22/soal-wacana-jokowi-jadi-ketum-psi-pengamat-mending-kudeta-partai-golkar/",
-   "pubDate": "Thu, 22 Oct 2026 13:55:46 +0000",
-   "description": "FAJAR.CO.ID, JAKARTA &#8212; Wacana Wakil Ketua Umum PSI, Andy Budiman atau yang akrab disapa Bro...",
-   "fetched_at": "2026-10-22T16:05:59+07:00",
+   "title": "Rincian Uang Korupsi Jalan di Sumut yang Diterima 8 Tersangka",
+   "link": "https://www.jpnn.com/news/rincian-uang-korupsi-jalan-di-sumut-yang-diterima-8-tersangka",
+   "pubDate": "Fri, 23 Oct 2026 02:02:00 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/10/22/mantan-kepala-balai-besar-pelaksanaan-jalan-nasional-bbpjn-s-9kj0.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong> - Komisi Pemberantasan Korupsi (KPK) mengungkapkan rincian uang yang diterima oleh delapan tersangka pengembangan kasus dugaan korupsi proyek pembangunan jalan di Sumatera Utara (Sumut).",
+   "fetched_at": "2026-10-22T20:04:18+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi"
+   ],
+   "content_status": "full",
+   "content_chars": 2134
+  },
+  {
+   "source": "jpnn",
+   "getter": "auto",
+   "title": "Di Balik Langkah Kemenag Libatkan PBNU Perkuat Pesantren Adaptif & Kembangkan Dakwah Digital",
+   "link": "https://www.jpnn.com/news/di-balik-langkah-kemenag-libatkan-pbnu-perkuat-pesantren-adaptif-kembangkan-dakwah-digital",
+   "pubDate": "Fri, 23 Oct 2026 01:52:11 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/10/23/kemenag-melibatkan-pbnu-untuk-mengembangkan-pesantren-adapti-u7yf.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - <a href=\"https://www.jpnn.com/tag/kemenag\" title=\"Semua artikel tentang Kementerian Agama\">Kementerian Agama</a> berkolaborasi dengan Pengurus Besar Nahdlatul Ulama (PBNU) untuk menjalankan program Pesantren Adaptif dan Mandiri, Santri 5.0, serta Dakwah Digital. Dirjen Pesantren ",
+   "fetched_at": "2026-10-22T20:04:18+07:00",
    "categories": [
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 2595
+   "content_chars": 2263
   },
   {
-   "source": "wartaekonomi",
+   "source": "jpnn",
    "getter": "auto",
-   "title": "Potensi Mineral dan Migas Papua Jadi Akselerator Pembangunan, IA-ITB Soroti Kesenjangan IPM",
-   "link": "https://wartaekonomi.co.id/read642866/potensi-mineral-dan-migas-papua-jadi-akselerator-pembangunan-ia-itb-soroti-kesenjangan-ipm",
-   "pubDate": "Thu, 22 Oct 2026 22:47:00 +0700",
-   "description": "Tanah Papua menyimpan kekayaan mineral dan migas yang luar biasa—mulai dari emas, tembaga, nikel, hingga minyak dan gas bumi.",
-   "fetched_at": "2026-10-22T16:05:57+07:00",
+   "title": "Menjelang YE Live in Jakarta: Bangun Antusiasme, Perkuat Kolaborasi",
+   "link": "https://www.jpnn.com/news/menjelang-ye-live-in-jakarta-bangun-antusiasme-perkuat-kolaborasi",
+   "pubDate": "Fri, 23 Oct 2026 01:20:00 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/10/22/andre-troutman-kiri-music-director-untuk-ye-hadir-dalam-konf-8ogr.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - Raw Vision Collective&nbsp;siap menggelar <a href=\"https://www.jpnn.com/tag/ye-live-in-jakarta\" title=\"Semua artikel tentang YE Live in Jakarta\">YE Live in Jakarta</a>, yang akan berlangsung di Stadion Utama Gelora Bung Karno (GBK), Jakarta, Sabtu, 24 Oktober 2026.",
+   "fetched_at": "2026-10-22T20:04:18+07:00",
    "categories": [
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 3951
+   "content_chars": 3069
   },
   {
-   "source": "wartaekonomi",
+   "source": "jpnn",
    "getter": "auto",
-   "title": "Industri Susu RI Masih Bergantung Impor 80%, Menperin Dorong Peternak Lokal",
-   "link": "https://wartaekonomi.co.id/read642856/industri-susu-ri-masih-bergantung-impor-80-menperin-dorong-peternak-lokal",
-   "pubDate": "Thu, 22 Oct 2026 22:41:00 +0700",
-   "description": "Ketergantungan impor bahan baku susu mencapai 80%. Kemenperin mendorong peternak lokal meningkatkan produksi dan kualitas susu segar dalam negeri.",
-   "fetched_at": "2026-10-22T16:05:57+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 3740
-  },
-  {
-   "source": "wartaekonomi",
-   "getter": "auto",
-   "title": "Mendagri Pastikan Insentif untuk Pemda di 2027 Tetap Ada, Total Rp2 Triliun",
-   "link": "https://wartaekonomi.co.id/read642870/mendagri-pastikan-insentif-untuk-pemda-di-2027-tetap-ada-total-rp2-triliun",
-   "pubDate": "Thu, 22 Oct 2026 22:40:00 +0700",
-   "description": "Tito menyebut pemerintah sudah menyiapkan total anggaran Rp2 triliun. Besaran angka tersebut merupakan hasil koordinasi dengan Menkeu Suahasil Nazara.",
-   "fetched_at": "2026-10-22T16:05:57+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 2068
-  },
-  {
-   "source": "wartaekonomi",
-   "getter": "auto",
-   "title": "Laporan WNA Malaysia Naik Penyidikan, Bareskrim Dalami Dugaan Penipuan Investasi Tambang",
-   "link": "https://wartaekonomi.co.id/read642859/laporan-wna-malaysia-naik-penyidikan-bareskrim-dalami-dugaan-penipuan-investasi-tambang",
-   "pubDate": "Thu, 22 Oct 2026 22:30:00 +0700",
-   "description": "Bareskrim Polri meningkatkan penanganan kasus dugaan tindak pidana penipuan dan penggelapan terkait investasi tambang ke tahap penyidikan.",
-   "fetched_at": "2026-10-22T16:05:57+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "full",
-   "content_chars": 1624
-  },
-  {
-   "source": "wartaekonomi",
-   "getter": "auto",
-   "title": "Fitch Ungkap Tiga Risiko Ekonomi RI: Investor, Rupiah, dan APBN",
-   "link": "https://wartaekonomi.co.id/read642872/fitch-ungkap-tiga-risiko-ekonomi-ri-investor-rupiah-dan-apbn",
-   "pubDate": "Thu, 22 Oct 2026 22:30:00 +0700",
-   "description": "kepercayaan investor yang masih rapuh, tekanan terhadap rupiah, dan ruang fiskal yang terbatas, jadi sorotan fitch",
-   "fetched_at": "2026-10-22T16:05:57+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 3263
-  },
-  {
-   "source": "wartaekonomi",
-   "getter": "auto",
-   "title": "Waskita Karya Catat Kenaikan Pendapatan Hingga 53,73 Persen, Lanjutkan Strategi Penguatan Kinerja Keuangan",
-   "link": "https://wartaekonomi.co.id/read642881/waskita-karya-catat-kenaikan-pendapatan-hingga-5373-persen-lanjutkan-strategi-penguatan-kinerja-keuangan",
-   "pubDate": "Thu, 22 Oct 2026 22:24:00 +0700",
-   "description": "PT Waskita Karya (Persero) Tbk melanjutkan strategi penguatan kinerja keuangan dan berhasil dicetak Perseroan sepanjang Januari hingga September 2026.",
-   "fetched_at": "2026-10-22T16:05:57+07:00",
+   "title": "Menuju BFN 2026, AFTECH dan IARFC Indonesia Dorong Ekosistem Fintech yang Aman dan Tepercaya",
+   "link": "https://www.jpnn.com/news/menuju-bfn-2026-aftech-dan-iarfc-indonesia-dorong-ekosistem-fintech-yang-aman-dan-tepercaya",
+   "pubDate": "Fri, 23 Oct 2026 01:12:15 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/10/23/president-kblpx-geiv.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - Asosiasi Fintech Indonesia (AFTECH) dan International Association of Registered Financial Consultants (IARFC) Indonesia hari ini mengikat kerja sama melalui nota kesepahaman pengembangan Program Verified Finfluencer sekaligus menggelar diskusi panel di ruang Infinity kantor OJK, Jakarta.",
+   "fetched_at": "2026-10-22T20:04:18+07:00",
    "categories": [],
    "content_status": "full",
-   "content_chars": 3387
+   "content_chars": 2090
   },
   {
-   "source": "wartaekonomi",
+   "source": "jpnn",
    "getter": "auto",
-   "title": "Disetujui OJK, AIA Financial Alihkan Portofolio Asuransi Syariah ke AIA Syariah",
-   "link": "https://wartaekonomi.co.id/read642880/disetujui-ojk-aia-financial-alihkan-portofolio-asuransi-syariah-ke-aia-syariah",
-   "pubDate": "Thu, 22 Oct 2026 22:24:00 +0700",
-   "description": "Pengalihan portofolio direncanakan berlaku efektif pada 1 November 2026 atau pada tanggal lain yang akan ditetapkan kemudian sesuai persetujuan regulator.",
-   "fetched_at": "2026-10-22T16:05:57+07:00",
+   "title": "Perusahaan Asing Harus Bertanggung Jawab atas Karhutla, Prabowo: Saya Cabut Izinnya",
+   "link": "https://www.jpnn.com/news/perusahaan-asing-harus-bertanggung-jawab-atas-karhutla-prabowo-saya-cabut-izinnya",
+   "pubDate": "Fri, 23 Oct 2026 01:01:00 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/10/22/presiden-prabowo-saat-rapat-koordinasi-nasional-rakornas-tim-ekw2.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - Presiden Prabowo Subianto menegaskan bahwa pemerintah akan menindak tegas perusahaan asing yang terbukti berkontribusi terhadap kebakaran hutan dan lahan (<a href=\"https://www.jpnn.com/tag/karhutla\" title=\"Semua artikel tentang karhutla\">karhutla</a>) di sejumlah wilayah Indonesi",
+   "fetched_at": "2026-10-22T20:04:18+07:00",
+   "categories": [
+    "kebakaran",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 1592
+  },
+  {
+   "source": "jpnn",
+   "getter": "auto",
+   "title": "Gelar Doa Bersama & Santuni Anak Yatim, Kakorlantas Berharap Pelayanan Polantas Makin Baik",
+   "link": "https://www.jpnn.com/news/gelardoa-bersama-santuni-anak-yatim-kakorlantas-berharap-pelayanan-polantas-makin-baik",
+   "pubDate": "Fri, 23 Oct 2026 00:39:19 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/10/23/korlantas-menggelar-doa-bersama-dan-santunan-anak-yatim-dok-pcyx.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - Korlantas Polri menggelar <a href=\"https://www.jpnn.com/tag/doa-bersama\" title=\"Semua artikel tentang doa bersama\">doa bersama</a> dan memberikan santunan kepada anak yatim piatu di Masjid At-Taqwa, Korlantas Polri, Jakarta, Kamis (22/10). Kegiatan ini menjadi bentuk ikhtiar spiri",
+   "fetched_at": "2026-10-22T20:04:18+07:00",
    "categories": [],
    "content_status": "full",
-   "content_chars": 3294
+   "content_chars": 2286
   },
   {
-   "source": "wartaekonomi",
+   "source": "jpnn",
    "getter": "auto",
-   "title": "Dua Tahun Prabowo-Gibran, Keberpihakan ke Rakyat Harus Dilindungi dari Penyimpangan",
-   "link": "https://wartaekonomi.co.id/read642878/dua-tahun-prabowo-gibran-keberpihakan-ke-rakyat-harus-dilindungi-dari-penyimpangan",
-   "pubDate": "Thu, 22 Oct 2026 22:19:00 +0700",
-   "description": "Besarnya anggaran dan luasnya jangkauan program harus dibarengi pengawasan ketat agar manfaat untuk rakyat tidak bocor akibat penyimpangan.",
-   "fetched_at": "2026-10-22T16:05:57+07:00",
+   "title": "Pemerintah Kirim Bantuan Rp1,2 Triliun ke 7 Provinsi Terdampak Karhutla",
+   "link": "https://www.jpnn.com/news/pemerintah-kirim-bantuan-rp12-triliun-ke-7-provinsi-terdampak-karhutla",
+   "pubDate": "Fri, 23 Oct 2026 00:22:00 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/10/22/menteri-koordinator-bidang-pembangunan-manusia-dan-kebudayaa-f9yz.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - Pemerintah pusat mengirimkan bantuan anggaran ke tujuh provinsi dan 35 kabupaten/kota yang terdampak kebakaran hutan dan lahan (<a href=\"https://www.jpnn.com/tag/karhutla\" title=\"Semua artikel tentang karhutla\">karhutla</a>) paling parah dengan total Rp1,23 triliun.",
+   "fetched_at": "2026-10-22T20:04:18+07:00",
+   "categories": [
+    "kebakaran",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 1487
+  },
+  {
+   "source": "jpnn",
+   "getter": "auto",
+   "title": "Indonesia Dorong Integrasi Perubahan Iklim di Kurikulum PAUD",
+   "link": "https://www.jpnn.com/news/indonesia-dorong-integrasi-perubahan-iklim-di-kurikulum-paud",
+   "pubDate": "Fri, 23 Oct 2026 00:22:00 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/watermark/2026/10/22/dirjen-paud-dasmen-gogot-suharwoto-diapit-direktur-seameo-ce-mgw7.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - Forum regional Asia-Pasifik untuk pendidikan anak usia dini resmi ditutup.",
+   "fetched_at": "2026-10-22T20:04:18+07:00",
    "categories": [
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 3710
+   "content_chars": 1693
   },
   {
-   "source": "wartaekonomi",
+   "source": "jpnn",
    "getter": "auto",
-   "title": "Meski Tak Anggap Enteng MSCI, Danantara Sebut Fundamental Emiten Kuat",
-   "link": "https://wartaekonomi.co.id/read642857/meski-tak-anggap-enteng-msci-danantara-sebut-fundamental-emiten-kuat",
-   "pubDate": "Thu, 22 Oct 2026 22:17:00 +0700",
-   "description": "Danantara tidak ingin menganggap ringan isu reklasifikasi pasar modal Indonesia oleh MSCI, dari Emerging Market ke Standalone Market.",
-   "fetched_at": "2026-10-22T16:05:57+07:00",
+   "title": "Madura United Taklukkan Persib, Jose Gomes Sebut Ini Kemenangan Berbeda",
+   "link": "https://www.jpnn.com/news/madura-united-taklukkan-persib-jose-gomes-sebut-ini-kemenangan-berbeda",
+   "pubDate": "Fri, 23 Oct 2026 00:20:00 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/10/23/madura-united-memenangkan-duel-kontra-persib-bandung-di-peka-awon.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, MADURA - <a href=\"https://www.jpnn.com/tag/madura-united\" title=\"Semua artikel tentang Madura United\">Madura United</a> memenangkan duel kontra Persib Bandung di pekan ke-6 BRI Super League 2026/2027 pada Kamis (22/10) malam.",
+   "fetched_at": "2026-10-22T20:04:18+07:00",
    "categories": [],
    "content_status": "full",
-   "content_chars": 2841
+   "content_chars": 1512
   },
   {
-   "source": "wartaekonomi",
+   "source": "sindonews",
    "getter": "auto",
-   "title": "BCA Dorong Bisnis UMKM Asal Bandung Tumbuh hingga 200 Persen",
-   "link": "https://wartaekonomi.co.id/read642869/bca-dorong-bisnis-umkm-asal-bandung-tumbuh-hingga-200-persen",
-   "pubDate": "Thu, 22 Oct 2026 22:16:00 +0700",
-   "description": "UMKM asal Bandung, mencatat pertumbuhan omzet sekitar 200 persen setelah memperkuat manajemen usaha dengan dukungan pembiayaan dan program pemberdayaan BCA",
-   "fetched_at": "2026-10-22T16:05:57+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3014
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Perkuat Pengamanan Aset dan GCG, PT KAI Daop 7 Madiun Gandeng Kejari Kabupaten Kediri Tangani Masalah Hukum Datun",
-   "link": "https://beritajatim.com/perkuat-pengamanan-aset-dan-gcg-pt-kai-daop-7-madiun-gandeng-kejari-kabupaten-kediri-tangani-masalah-hukum-datun",
-   "pubDate": "Thu, 22 Oct 2026 15:58:33 +0000",
-   "description": "<a href=\"https://beritajatim.com/perkuat-pengamanan-aset-dan-gcg-pt-kai-daop-7-madiun-gandeng-kejari-kabupaten-kediri-tangani-masalah-hukum-datun\" title=\"Perkuat Pengamanan Aset dan GCG, PT KAI Daop 7 Madiun Gandeng Kejari Kabupaten Kediri Tangani Masalah Hukum Datun\" rel=\"nofollow\"><img width=\"2560\" height=\"1706\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/WhatsApp-Image-2026-10-21-at-20.08.44_11zon.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"di",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "full",
-   "content_chars": 3392
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "WCCE 2026 Resmi Dibuka di Jakarta, Perkuat Arah Kolaborasi Ekonomi Kreatif Global",
-   "link": "https://beritajatim.com/wcce-2026-resmi-dibuka-di-jakarta-perkuat-arah-kolaborasi-ekonomi-kreatif-global",
-   "pubDate": "Thu, 22 Oct 2026 15:55:59 +0000",
-   "description": "<a href=\"https://beritajatim.com/wcce-2026-resmi-dibuka-di-jakarta-perkuat-arah-kolaborasi-ekonomi-kreatif-global\" title=\"WCCE 2026 Resmi Dibuka di Jakarta, Perkuat Arah Kolaborasi Ekonomi Kreatif Global\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/WCCE.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
+   "title": "Bansos dan Ketahanan Pangan Penguat Kepuasan Publik Terhadap Kinerja Pemerintah",
+   "link": "https://nasional.sindonews.com/read/1763699/12/bansos-dan-ketahanan-pangan-penguat-kepuasan-publik-terhadap-kinerja-pemerintah-1792685455",
+   "pubDate": "Thu, 22 Oct 2026 23:55:21 +0700",
+   "description": "Pengamat politik Adi Prayitno menilai upaya pemerintah menyalurkan bantuan sosial dan ketahanan pangan menjadi faktor yang menguatkan kepuasan publik terhadap kinerja pemerintah.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
    "categories": [
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 3722
+   "content_chars": 1496
   },
   {
-   "source": "beritajatim",
+   "source": "sindonews",
    "getter": "auto",
-   "title": "Kebakaran Lahan Jati 4 Hektare di Gunung Bancak Magetan Berhasil Dipadamkan",
-   "link": "https://beritajatim.com/kebakaran-lahan-jati-4-hektare-di-gunung-bancak-magetan-berhasil-dipadamkan",
-   "pubDate": "Thu, 22 Oct 2026 15:53:57 +0000",
-   "description": "<a href=\"https://beritajatim.com/kebakaran-lahan-jati-4-hektare-di-gunung-bancak-magetan-berhasil-dipadamkan\" title=\"Kebakaran Lahan Jati 4 Hektare di Gunung Bancak Magetan Berhasil Dipadamkan\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/Magetan1.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
+   "title": "Kepala BNPPDT Kunjungi Pulau Miangas, Identifikasi Kebutuhan Pembangunan Perbatasan",
+   "link": "https://daerah.sindonews.com/read/1763703/174/kepala-bnppdt-kunjungi-pulau-miangas-identifikasi-kebutuhan-pembangunan-perbatasan-1792685449",
+   "pubDate": "Thu, 22 Oct 2026 23:52:12 +0700",
+   "description": "Kepala Badan Nasional Pengelola Perbatasan dan Daerah Terpencil (BNPPDT) Jenderal TNI Maruli Simanjuntak mengunjungi Pulau Miangas, Kabupaten Kepulauan Talaud, Sulawesi Utara hari ini.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 1660
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Hari Santri Nasional 2026 Jadi Momentum Perkuat Pencegahan Kekerasan di Pesantren",
+   "link": "https://nasional.sindonews.com/read/1763701/15/hari-santri-nasional-2026-jadi-momentum-perkuat-pencegahan-kekerasan-di-pesantren-1792685454",
+   "pubDate": "Thu, 22 Oct 2026 23:47:12 +0700",
+   "description": "Peringatan Hari Santri Nasional 2026 menjadi momentum bagi pengelola pondok pesantren untuk memperkuat pengawasan terhadap potensi perundungan. Termasuk kekerasan fisik, dan kekerasan seksual di lingkungan pendidikan berasrama.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 1717
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Kuasa Hukum Bakal Tunjukkan Ijazah SMP hingga S1 Gibran di PTUN",
+   "link": "https://nasional.sindonews.com/read/1763695/13/kuasa-hukum-bakal-tunjukkan-ijazah-smp-hingga-s1-gibran-di-ptun-1792685417",
+   "pubDate": "Thu, 22 Oct 2026 23:17:07 +0700",
+   "description": "Tim kuasa hukum Wakil Presiden Gibran Rakabuming Raka menyatakan siap membuktikan kelengkapan ijazah Gibran dalam persidangan di Pengadilan Tata Usaha Negara (PTUN).",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
    "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 1578
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Hadapi Pemilu 2029, Hanura Andalkan Mesin Politik Solid dan Naturalisasi Figur",
+   "link": "https://nasional.sindonews.com/read/1763697/12/hadapi-pemilu-2029-hanura-andalkan-mesin-politik-solid-dan-naturalisasi-figur-1792685434",
+   "pubDate": "Thu, 22 Oct 2026 23:16:07 +0700",
+   "description": "Ketua Tim Task Force Dewan Pimpinan Pusat (DPP) Partai Hanura Patrice Rio Capella mengatakan bahwa fenomena keluar masuk kader atau figur politik merupakan hal lumrah.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2090
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Ada Negara Mengolok-olok Indonesia soal Karhutla, Prabowo: Kita Cool, Kita Bertanggung Jawab",
+   "link": "https://nasional.sindonews.com/read/1763587/12/ada-negara-mengolok-olok-indonesia-soal-karhutla-prabowo-kita-cool-kita-bertanggung-jawab-1792663851",
+   "pubDate": "Thu, 22 Oct 2026 23:10:56 +0700",
+   "description": "Presiden Prabowo Subianto merespons adanya sejumlah negara yang mengolok-olok atau menghina Indonesia terkait kebakaran hutan dan lahan (karhutla).",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [
+    "kebakaran",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 1985
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "KPK-PN Apresiasi Respons ASDP Tangani Kebakaran KMP Batumandi",
+   "link": "https://daerah.sindonews.com/read/1763693/174/kpk-pn-apresiasi-respons-asdp-tangani-kebakaran-kmp-batumandi-1792681828",
+   "pubDate": "Thu, 22 Oct 2026 23:00:23 +0700",
+   "description": "Penanganan insiden kapal terbakar tidak dapat dinilai hanya dari kondisi akhir kapal, tetapi harus dilihat secara menyeluruh berdasarkan prioritas penyelamatan jiwa.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [
+    "kebakaran",
+    "korupsi"
+   ],
+   "content_status": "full",
+   "content_chars": 3538
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Bukti Komitmen Presiden Prabowo Dukung Santri dan Madrasah: Tingkatkan Kesejahteraan Guru hingga Beasiswa",
+   "link": "https://nasional.sindonews.com/read/1763665/15/bukti-komitmen-presiden-prabowo-dukung-santri-dan-madrasah-tingkatkan-kesejahteraan-guru-hingga-beasiswa-1792678206",
+   "pubDate": "Thu, 22 Oct 2026 22:01:09 +0700",
+   "description": "Kepala Bakom Syahganda Nainggolan mengatakan, dalam dua tahun pemerintahan Presiden Prabowo, perhatian terhadap guru madrasah, santri, dan pesantren terus diperkuat.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 1875
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Satukan Ribuan UMKM Kerajinan agar Naik Kelas Jadi Target Pengurus Baru ASEPHI",
+   "link": "https://ekbis.sindonews.com/read/1763667/34/satukan-ribuan-umkm-kerajinan-agar-naik-kelas-jadi-target-pengurus-baru-asephi-1792678229",
+   "pubDate": "Thu, 22 Oct 2026 21:57:44 +0700",
+   "description": "Hatman sebagai Ketua Umum Asosiasi Eksportir dan Produsen Handicraft Indonesia (ASEPHI) periode 2026-2029 ungkap tantangan utama bagaimana menyatukan ribuan UMKM agar naik kelas.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 1602,
+   "video_type": "youtube",
+   "video_id": "2uXsyf3R22Y",
+   "video_url": "https://www.youtube.com/watch?v=2uXsyf3R22Y"
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Pertamina Foundation Dampingi Siswa Netra Kuasai Teknologi Digital",
+   "link": "https://ekbis.sindonews.com/read/1763663/34/pertamina-foundation-dampingi-siswa-netra-kuasai-teknologi-digital-1792678215",
+   "pubDate": "Thu, 22 Oct 2026 21:53:03 +0700",
+   "description": "Pertamina Foundation menyerahkan bantuan smartphone berfitur aksesibilitas kepada 10 siswa penyandang disabilitas netra di SLB Negeri 1 dan SLB Negeri 2 Lombok Tengah, Nusa Tenggara Barat.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 1757
+  },
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "Aliansi Ulama Demo di DPRD Jatim, Dorong Wacana Pemakzulan Wapres Gibran",
+   "link": "https://www.inews.id/regional/jatim/aliansi-ulama-demo-di-dprd-jatim-dorong-wacana-pemakzulan-wapres-gibran",
+   "pubDate": "Fri, 23 Oct 2026 01:36:00 +0700",
+   "description": "Ratusan ulama, kiai, habib, serta tokoh masyarakat Jawa Timur menggelar aksi unjuk rasa di depan DPRD Provinsi Jawa Timur.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 1831
+  },
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "Satgas Teritorial Koops TNI Habema Bangun Jembatan dan Beri Pengobatan Gratis Warga Papua",
+   "link": "https://www.inews.id/regional/papua/satgas-teritorial-koops-tni-habema-bangun-jembatan-dan-beri-pengobatan-gratis-warga-papua",
+   "pubDate": "Fri, 23 Oct 2026 01:10:00 +0700",
+   "description": "Satgas Teritorial Koops TNI Habema membangun jembatan, membina ketahanan pangan, memberikan pengobatan gratis, dan menyalurkan bantuan pokok bagi warga Papua.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 1390
+  },
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "Aksi Demo Karhutla di Jambi Ricuh, Massa Robohkan Pagar Kantor Gubernur",
+   "link": "https://www.inews.id/regional/regional/aksi-demo-karhutla-di-jambi-ricuh-massa-robohkan-pagar-kantor-gubernur",
+   "pubDate": "Fri, 23 Oct 2026 00:45:00 +0700",
+   "description": "Aksi demonstrasi menuntut penanganan Kebakaran Hutan dan Lahan (Karhutla) di depan Kompleks Perkantoran Gubernur Jambi, berujung ricuh.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [
+    "kebakaran",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 1680
+  },
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "Inspiratif! Mahasiswa UGM Pakai Beasiswa Rp500.000 Rintis Peternakan Ayam hingga Punya Puluhan Indukan",
+   "link": "https://www.inews.id/news/nasional/inspiratif-mahasiswa-ugm-pakai-beasiswa-rp500000-rintis-peternakan-ayam-hingga-punya-puluhan-indukan",
+   "pubDate": "Fri, 23 Oct 2026 00:30:00 +0700",
+   "description": "Kisah inspiratif Anjeli Astriani, mahasiswa UGM merintis Bejo Farm di Klaten dengan modal Rp500.000 dari tabungan beasiswa dan mengembangkan usaha ayam petelur.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 1679
+  },
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "BGN Libatkan Posyandu Awasi Proses Memasak hingga Distribusi MBG",
+   "link": "https://www.inews.id/news/nasional/bgn-libatkan-posyandu-awasi-proses-memasak-hingga-distribusi-mbg",
+   "pubDate": "Thu, 22 Oct 2026 23:50:00 +0700",
+   "description": "Badan Gizi Nasional (BGN) menggandeng Tim Pembina Posyandu Pusat untuk memperkuat pengawasan pelaksanaan program Makan Bergizi Gratis (MBG)",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 1762
+  },
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "Karhutla Gunung Ciremai Meluas Tembus 60 Hektare, Angin Kencang Hambat Pemadaman",
+   "link": "https://www.inews.id/regional/jabar/karhutla-gunung-ciremai-meluas-tembus-60-hektare-angin-kencang-hambat-pemadaman",
+   "pubDate": "Thu, 22 Oct 2026 23:15:00 +0700",
+   "description": "Karhutla di kawasan Taman Nasional Gunung Ciremai (TNGC), Kabupaten Kuningan, Jawa Barat, semakin meluas hingga Kamis (22/10/2026) malam.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [
+    "bencana",
     "kebakaran"
    ],
    "content_status": "full",
-   "content_chars": 4243
+   "content_chars": 1326
   },
   {
-   "source": "beritajatim",
+   "source": "inews",
    "getter": "auto",
-   "title": "Penertiban Pasar Pahing Kediri Masuki SP3, Dirut Buka Suara",
-   "link": "https://beritajatim.com/penertiban-pasar-pahing-kediri-masuki-sp3-dirut-buka-suara",
-   "pubDate": "Thu, 22 Oct 2026 15:50:21 +0000",
-   "description": "<a href=\"https://beritajatim.com/penertiban-pasar-pahing-kediri-masuki-sp3-dirut-buka-suara\" title=\"Penertiban Pasar Pahing Kediri Masuki SP3, Dirut Buka Suara\" rel=\"nofollow\"><img width=\"1280\" height=\"960\" src=\"https://cdnmedia.beritajatim.com/images/2026/09/WhatsApp-Image-2026-09-23-at-23.01.54_11zon.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"ht",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
+   "title": "Sarwendah Siap Lunasi Utang Rumah Rp13 Miliar, tapi Minta Vila Ruben Onsu",
+   "link": "https://www.inews.id/lifestyle/seleb/sarwendah-siap-lunasi-utang-rumah-rp13-miliar-tapi-minta-vila-ruben-onsu",
+   "pubDate": "Thu, 22 Oct 2026 23:13:00 +0700",
+   "description": "Sarwendah menawarkan penyelesaian utang kredit rumah senilai Rp13 miliar dalam mediasi gugatan wanprestasi terhadap mantan suaminya, Ruben Onsu.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
    "categories": [],
    "content_status": "full",
-   "content_chars": 3744
+   "content_chars": 1622
   },
   {
-   "source": "beritajatim",
+   "source": "inews",
    "getter": "auto",
-   "title": "Kapolresta Tuban Beri Edukasi Keselamatan Berlalu Lintas Kepada Anak-Anak",
-   "link": "https://beritajatim.com/kapolresta-tuban-beri-edukasi-keselamatan-berlalu-lintas-kepada-anak-anak",
-   "pubDate": "Thu, 22 Oct 2026 15:48:30 +0000",
-   "description": "<a href=\"https://beritajatim.com/kapolresta-tuban-beri-edukasi-keselamatan-berlalu-lintas-kepada-anak-anak\" title=\"Kapolresta Tuban Beri Edukasi Keselamatan Berlalu Lintas Kepada Anak-Anak\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/Kapolres-Tuban.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"htt",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 2965
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Jargas Diklaim Hemat 30 Persen, Warga Bojonegoro Berharap Jangkau Pelosok Desa",
-   "link": "https://beritajatim.com/jargas-diklaim-hemat-30-persen-warga-bojonegoro-berharap-jangkau-pelosok-desa",
-   "pubDate": "Thu, 22 Oct 2026 15:48:25 +0000",
-   "description": "<a href=\"https://beritajatim.com/jargas-diklaim-hemat-30-persen-warga-bojonegoro-berharap-jangkau-pelosok-desa\" title=\"Jargas Diklaim Hemat 30 Persen, Warga Bojonegoro Berharap Jangkau Pelosok Desa\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/Bimbingan-Teknis-migas.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"a",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
+   "title": "Gunung Semeru Erupsi Beruntun Malam Ini, Muntahkan Abu Vulkanik 800 Meter",
+   "link": "https://www.inews.id/regional/jatim/gunung-semeru-erupsi-beruntun-malam-ini-muntahkan-abu-vulkanik-800-meter",
+   "pubDate": "Thu, 22 Oct 2026 22:42:00 +0700",
+   "description": "Aktivitas vulkanik Gunung Semeru di Kabupaten Lumajang, Jawa Timur, kembali meningkat. Gunung tertinggi di Pulau Jawa itu erupsi beruntun malam ini.",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
    "categories": [
-    "pemerintahan"
+    "bencana"
    ],
    "content_status": "full",
-   "content_chars": 4325
+   "content_chars": 1466
   },
   {
-   "source": "beritajatim",
+   "source": "inews",
    "getter": "auto",
-   "title": "Ketua DPRD Sidoarjo H Abdillah Nasih Pimpin Upacara Hari Santri",
-   "link": "https://beritajatim.com/ketua-dprd-sidoarjo-h-abdillah-nasih-pimpin-upacara-hari-santri",
-   "pubDate": "Thu, 22 Oct 2026 15:38:04 +0000",
-   "description": "<a href=\"https://beritajatim.com/ketua-dprd-sidoarjo-h-abdillah-nasih-pimpin-upacara-hari-santri\" title=\"Ketua DPRD Sidoarjo H Abdillah Nasih Pimpin Upacara Hari Santri\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/Hari-santri1.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://cdnmedia.beritaja",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
+   "title": "Hasil French Open 2026: Ubed Comeback Gila, Hajar Koki Watanabe dan Lolos Perempat Final",
+   "link": "https://www.inews.id/sport/all-sport/hasil-french-open-2026-ubed-comeback-gila-hajar-koki-watanabe-dan-lolos-perempat-final",
+   "pubDate": "Thu, 22 Oct 2026 20:53:00 +0700",
+   "description": "Moh Zaki Ubaidillah lolos ke perempat final French Open 2026",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 1490
+  },
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "Greenpeace Sebut Karhutla Indonesia Capai 1,9 Juta Hektare, Data Pemerintah 202.010 Hektare",
+   "link": "https://www.inews.id/news/nasional/greenpeace-sebut-karhutla-indonesia-capai-19-juta-hektare-data-pemerintah-202010-hektare",
+   "pubDate": "Thu, 22 Oct 2026 20:44:00 +0700",
+   "description": "Organisasi lingkungan Greenpeace Indonesia menyebut kebakaran hutan dan lahan (karhutla) di Indonesia mencapai 1,9 juta hektare sepanjang Januari-September 2026",
+   "fetched_at": "2026-10-22T20:04:16+07:00",
    "categories": [
+    "kebakaran",
     "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 7727
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Brace Ernesto Gomes Bawa Persik Kediri Bekuk PSS Sleman 2-1 di Stadion Brawijaya",
-   "link": "https://beritajatim.com/brace-ernesto-gomes-bawa-persik-kediri-bekuk-pss-sleman-2-1-di-stadion-brawijaya",
-   "pubDate": "Thu, 22 Oct 2026 15:37:06 +0000",
-   "description": "<a href=\"https://beritajatim.com/brace-ernesto-gomes-bawa-persik-kediri-bekuk-pss-sleman-2-1-di-stadion-brawijaya\" title=\"Brace Ernesto Gomes Bawa Persik Kediri Bekuk PSS Sleman 2-1 di Stadion Brawijaya\" rel=\"nofollow\"><img width=\"1027\" height=\"685\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/WhatsApp-Image-2026-10-22-at-20.11.45-1_11zon.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" l",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 2950
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Mantan Sekretaris DPRD Jember Jadi Tersangka Korupsi Sosraperda",
-   "link": "https://beritajatim.com/mantan-sekretaris-dprd-jember-jadi-tersangka-korupsi-sosraperda",
-   "pubDate": "Thu, 22 Oct 2026 15:36:36 +0000",
-   "description": "<a href=\"https://beritajatim.com/mantan-sekretaris-dprd-jember-jadi-tersangka-korupsi-sosraperda\" title=\"Mantan Sekretaris DPRD Jember Jadi Tersangka Korupsi Sosraperda\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/Sutiyoso.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://cdnmedia.beritajatim.",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 2651
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Sempat Dihentikan, Turnamen Piala AF Sport U-17 Dilanjutkan Tanpa Suporter",
-   "link": "https://beritajatim.com/sempat-dihentikan-turnamen-piala-af-sport-u-17-dilanjutkan-tanpa-suporter",
-   "pubDate": "Thu, 22 Oct 2026 15:33:43 +0000",
-   "description": "<a href=\"https://beritajatim.com/sempat-dihentikan-turnamen-piala-af-sport-u-17-dilanjutkan-tanpa-suporter\" title=\"Sempat Dihentikan, Turnamen Piala AF Sport U-17 Dilanjutkan Tanpa Suporter\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/piala-AF.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3637
-  },
-  {
-   "source": "akurat",
-   "getter": "auto",
-   "title": "Madura United vs Persib: Gol Tunggal Dimitar Mitkov Bikin Maung Tumbang di Pamelingan!",
-   "link": "https://www.akurat.co/bola/900765/madura-united-vs-persib-gol-tunggal-dimitar-mitkov-bikin-maung-tumbang-di-pamelingan",
-   "pubDate": "Thu, 22 Oct 2026 21:57:34 +0700",
-   "description": "",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 2698
-  },
-  {
-   "source": "akurat",
-   "getter": "auto",
-   "title": "BGN Libatkan Kader Posyandu Pastikan Program MBG Tepat Sasaran",
-   "link": "https://www.akurat.co/nasional/900777/bgn-libatkan-kader-posyandu-pastikan-program-mbg-tepat-sasaran",
-   "pubDate": "Thu, 22 Oct 2026 22:56:47 +0700",
-   "description": "",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 2912
-  },
-  {
-   "source": "akurat",
-   "getter": "auto",
-   "title": "Survei Voxpol Center: 63,1 Persen Responden Percaya dengan Pemerintahan Prabowo",
-   "link": "https://www.akurat.co/nasional/900776/survei-voxpol-center-63-1-persen-responden-percaya-dengan-pemerintahan-prabowo",
-   "pubDate": "Thu, 22 Oct 2026 22:45:04 +0700",
-   "description": "",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 2091
-  },
-  {
-   "source": "akurat",
-   "getter": "auto",
-   "title": "Atlet Triatlon Andy Wibowo Beberkan Pengembangan Sepatu Lari Guna Tingkatkan Peforma",
-   "link": "https://www.akurat.co/sportainment/900774/atlet-triatlon-andy-wibowo-beberkan-pengembangan-sepatu-lari-guna-tingkatkan-peforma",
-   "pubDate": "Thu, 22 Oct 2026 22:41:53 +0700",
-   "description": "",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3034
-  },
-  {
-   "source": "akurat",
-   "getter": "auto",
-   "title": "KPK Buka Peluang Kembangkan Kasus Korupsi Jalan Sumut ke Pemprov, Bobby Nasution Disorot",
-   "link": "https://www.akurat.co/hukum/900773/kpk-buka-peluang-kembangkan-kasus-korupsi-jalan-sumut-ke-pemprov-bobby-nasution-disorot",
-   "pubDate": "Thu, 22 Oct 2026 22:31:23 +0700",
-   "description": "",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 2050
-  },
-  {
-   "source": "akurat",
-   "getter": "auto",
-   "title": "Jadi Primadona Baru, Pembeli Saham dan ETF AS Tertokenisasi di PINTU Naik 68 Persen",
-   "link": "https://www.akurat.co/nasional/900772/jadi-primadona-baru-pembeli-saham-dan-etf-as-tertokenisasi-di-pintu-naik-68-persen",
-   "pubDate": "Thu, 22 Oct 2026 22:31:17 +0700",
-   "description": "",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3672
-  },
-  {
-   "source": "akurat",
-   "getter": "auto",
-   "title": "Bukan Keran Gol Perdana di Persija, Victor Dethan Mengaku Hanya Ikuti Instruksi Pelatih",
-   "link": "https://www.akurat.co/bola/900771/bukan-keran-gol-perdana-di-persija-victor-dethan-mengaku-hanya-ikuti-instruksi-pelatih",
-   "pubDate": "Thu, 22 Oct 2026 22:29:47 +0700",
-   "description": "",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 2069
-  },
-  {
-   "source": "akurat",
-   "getter": "auto",
-   "title": "Bagaimana Cara Membaca Prakiraan Cuaca BMKG? Kenali Simbol dan Artinya",
-   "link": "https://www.akurat.co/trend/900770/bagaimana-cara-membaca-prakiraan-cuaca-bmkg-kenali-simbol-dan-artinya",
-   "pubDate": "Thu, 22 Oct 2026 22:22:19 +0700",
-   "description": "",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 6362
-  },
-  {
-   "source": "akurat",
-   "getter": "auto",
-   "title": "Kawal Program Prioritas Prabowo, PGK Banten Dorong Pemberdayaan Ekonomi Generasi Muda",
-   "link": "https://www.akurat.co/nasional/900769/kawal-program-prioritas-prabowo-pgk-banten-dorong-pemberdayaan-ekonomi-generasi-muda",
-   "pubDate": "Thu, 22 Oct 2026 22:18:14 +0700",
-   "description": "",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 2508
-  },
-  {
-   "source": "akurat",
-   "getter": "auto",
-   "title": "AFTECH Gandeng IARFC Indonesia Siapkan Finfluencer Terverifikasi, Perkuat Peran Penyampai Informasi Keuangan",
-   "link": "https://www.akurat.co/nasional/900768/aftech-gandeng-iarfc-indonesia-siapkan-finfluencer-terverifikasi-perkuat-peran-penyampai-informasi-keuangan",
-   "pubDate": "Thu, 22 Oct 2026 22:16:34 +0700",
-   "description": "",
-   "fetched_at": "2026-10-22T16:05:56+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 2960
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "Kemarau Panjang, Kemenag Kulonprogo Gelar Salat Istisqa",
-   "link": "https://jogjapolitan.harianjogja.com/r-1275984/kemarau-panjang-kemenag-kulonprogo-gelar-salat-istisqa",
-   "pubDate": "Thu, 22 Oct 2026 22:57:33 +0700",
-   "description": "Kemenag Kulonprogo menggelar salat istisqa di Pengasih saat kemarau panjang. Warga diajak beristighfar, menjaga lingkungan, dan menghemat air.",
-   "fetched_at": "2026-10-22T16:05:53+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 4926
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "Gol Bunuh Diri Yuran Fernandes Bawa PSM Taklukkan Persebaya",
-   "link": "https://sport.harianjogja.com/r-1276036/gol-bunuh-diri-yuran-fernandes-bawa-psm-taklukkan-persebaya",
-   "pubDate": "Thu, 22 Oct 2026 22:47:26 +0700",
-   "description": "PSM Makassar menang 1-0 atas Persebaya Surabaya lewat gol bunuh diri Yuran Fernandes. Agung Mannan mendapat kartu merah pada menit 90+3.",
-   "fetched_at": "2026-10-22T16:05:53+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3162
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "Pemerintah Anggarkan Rp639,6 Triliun untuk 43 Program Bansos",
-   "link": "https://news.harianjogja.com/r-1276037/pemerintah-anggarkan-rp6396-triliun-untuk-43-program-bansos",
-   "pubDate": "Thu, 22 Oct 2026 22:37:36 +0700",
-   "description": "Pemerintah mengalokasikan Rp639,6 triliun untuk 43 program perlindungan sosial pada 2026. Sebanyak 33,1 juta keluarga menerima bantuan.",
-   "fetched_at": "2026-10-22T16:05:53+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 3307
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "Persib Tumbang di Kandang Madura United, Mitkov Jadi Penentu",
-   "link": "https://sport.harianjogja.com/r-1276035/persib-tumbang-di-kandang-madura-united-mitkov-jadi-penentu",
-   "pubDate": "Thu, 22 Oct 2026 22:27:53 +0700",
-   "description": "Madura United mengalahkan Persib Bandung 1-0 pada pekan keenam Super League 2026/2027 lewat gol Dimitar Mitkov pada menit ke-89.",
-   "fetched_at": "2026-10-22T16:05:53+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3635
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "Kemarau Ganggu Budidaya Ikan di Sleman, Panen Perlu Diatur",
-   "link": "https://jogjapolitan.harianjogja.com/r-1275972/kemarau-ganggu-budidaya-ikan-di-sleman-panen-perlu-diatur",
-   "pubDate": "Thu, 22 Oct 2026 22:17:22 +0700",
-   "description": "Kemarau berdampak pada budidaya ikan di Sleman, terutama kolam tanah. Pembudidaya diminta mengatur panen dan menunda penebaran benih.",
-   "fetched_at": "2026-10-22T16:05:53+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3008
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "KKP Bangun 7 Kampung Nelayan Merah Putih di DIY",
-   "link": "https://jogjapolitan.harianjogja.com/r-1276016/kkp-bangun-7-kampung-nelayan-merah-putih-di-diy",
-   "pubDate": "Thu, 22 Oct 2026 22:07:31 +0700",
-   "description": "KKP merencanakan pembangunan tujuh Kampung Nelayan Merah Putih di DIY untuk meningkatkan kesejahteraan nelayan dan memperkuat usaha perikanan.",
-   "fetched_at": "2026-10-22T16:05:53+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 3394
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "Sertifikasi Halal Mundur ke 2028, Ini Alasan Menteri UMKM",
-   "link": "https://news.harianjogja.com/r-1276034/sertifikasi-halal-mundur-ke-2028-ini-alasan-menteri-umkm",
-   "pubDate": "Thu, 22 Oct 2026 21:57:20 +0700",
-   "description": "Menteri UMKM Maman Abdurrahman menjelaskan penundaan wajib sertifikasi halal hingga 2028 untuk mempertimbangkan kesiapan dan beban biaya UMKM.",
-   "fetched_at": "2026-10-22T16:05:53+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 6855
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "GIFTS 2026 UGM Hasilkan 51 Kerja Sama, 79 Startup Temui Investor",
-   "link": "https://ekbis.harianjogja.com/r-1276010/gifts-2026-ugm-hasilkan-51-kerja-sama-79-startup-temui-investor",
-   "pubDate": "Thu, 22 Oct 2026 21:47:36 +0700",
-   "description": "GIFTS 2026 UGM menghasilkan 51 dokumen kerja sama dan mempertemukan 79 startup terkurasi dengan 30 calon investor.",
-   "fetched_at": "2026-10-22T16:05:53+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 5023
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "Gunungkidul Evaluasi Wisata Sepi, Embung Sriten Disiapkan untuk Camping",
-   "link": "https://jogjapolitan.harianjogja.com/r-1275973/gunungkidul-evaluasi-wisata-sepi-embung-sriten-disiapkan-untuk-camping",
-   "pubDate": "Thu, 22 Oct 2026 21:37:08 +0700",
-   "description": "Bupati Gunungkidul meminta destinasi wisata yang sepi dievaluasi, mulai dari Embung Sriten hingga pantai dan gua, sesuai potensi kawasan.",
-   "fetched_at": "2026-10-22T16:05:53+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 3984
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "PEVS 2026 Hadirkan 38 Merek Kendaraan Listrik, Ini Daftarnya",
-   "link": "https://ototekno.harianjogja.com/r-1276031/pevs-2026-hadirkan-38-merek-kendaraan-listrik-ini-daftarnya",
-   "pubDate": "Thu, 22 Oct 2026 21:27:13 +0700",
-   "description": "PEVS 2026 berlangsung 29 Oktober–1 November di JIExpo Kemayoran dengan 38 peserta, termasuk merek mobil dan motor listrik.",
-   "fetched_at": "2026-10-22T16:05:53+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3487
-  },
-  {
-   "source": "jpnn",
-   "getter": "auto",
-   "title": "IHSG Kembali Bangkit Berkat Saham-Saham BUMN Perkasa",
-   "link": "https://www.jpnn.com/news/ihsg-kembali-bangkit-berkat-saham-saham-bumn-perkasa",
-   "pubDate": "Thu, 22 Oct 2026 22:55:15 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/galeri/normal/2022/01/03/pekerja-melintas-di-depan-layar-indeks-harga-saham-gabungan-ljeb.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - Indeks Harga Saham Gabungan (<a href=\"https://www.jpnn.com/tag/ihsg\" title=\"Semua artikel tentang IHSG\">IHSG</a>) kembali menguat seusai sempat tertekan dalam beberapa waktu terakhir. Kebangkitan IHSG disebut berkat andil saham-saham <a href=\"https://www.jpnn.com/tag/bumn\" title=",
-   "fetched_at": "2026-10-22T16:05:51+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 1714
-  },
-  {
-   "source": "jpnn",
-   "getter": "auto",
-   "title": "40 Kader Posyandu di Prafi Rintis Usaha Camilan, Untung Rp 1,2 Juta Sekali Jualan",
-   "link": "https://www.jpnn.com/news/40-kader-posyandu-di-prafi-rintis-usaha-camilan-untung-rp-12-juta-sekali-jualan",
-   "pubDate": "Thu, 22 Oct 2026 22:48:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/10/22/40-kader-posyandu-di-prafi-merintis-usaha-camilan-untungnya-r6f8.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - Para <a href=\"https://www.jpnn.com/tag/kader-posyandu\" title=\"Semua artikel tentang kader posyandu\">kader posyandu</a> di Distrik Prafi, Kabupaten Manokwari, Papua Barat, kini mulai memiliki sumber penghasilan tambahan. Mereka mengolah hasil kebun sendiri menjadi aneka camilan unt",
-   "fetched_at": "2026-10-22T16:05:51+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 1821
-  },
-  {
-   "source": "jpnn",
-   "getter": "auto",
-   "title": "Gandeng Investor Global di NAF 2026, Danantara Targetkan Mobilisasi Investasi 30 Miliar Dolar AS",
-   "link": "https://www.jpnn.com/news/gandeng-investor-global-di-naf-2026-danantara-targetkan-mobilisasi-investasi-30-miliar-dolar-as",
-   "pubDate": "Thu, 22 Oct 2026 22:46:14 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/10/22/danantara-indonesia-menargetkan-mobilisasi-investasi-sebesar-7ol6.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - <a href=\"https://www.jpnn.com/tag/danantara\" title=\"Semua artikel tentang Danantara\">Danantara</a> Indonesia menargetkan mobilisasi investasi sebesar 30 miliar dolar AS melalui New Asia Forum (NAF) 2026 yang akan diselenggarakan pada 3&ndash;4 Desember 2026 di Bali.",
-   "fetched_at": "2026-10-22T16:05:51+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 2310
-  },
-  {
-   "source": "jpnn",
-   "getter": "auto",
-   "title": "Perkuat Keterbukaan Informasi Publik, Imigrasi Sukabumi Gandeng Insan Pers",
-   "link": "https://www.jpnn.com/news/perkuat-keterbukaan-informasi-publik-imigrasi-sukabumi-gandeng-insan-pers",
-   "pubDate": "Thu, 22 Oct 2026 22:46:02 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/10/22/kantor-imigrasi-kelas-i-non-tpi-sukabumi-menggandeng-insan-p-f2qx.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, SUKABUMI - Kantor Imigrasi Kelas I Non TPI Sukabumi menggandeng insan pers untuk memperkuat keterbukaan informasi publik dan meningkatkan kualitas komunikasi dengan masyarakat.",
-   "fetched_at": "2026-10-22T16:05:51+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 1948
-  },
-  {
-   "source": "jpnn",
-   "getter": "auto",
-   "title": "Momen Prabowo Cari Dedi Mulyadi di Rakor TPKAD: Pasti Sibuk",
-   "link": "https://jabar.jpnn.com/politik/33940/momen-prabowo-cari-dedi-mulyadi-di-rakor-tpkad-pasti-sibuk",
-   "pubDate": "Thu, 22 Oct 2026 22:40:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/jatim/news/normal/2026/10/22/gubernur-jawa-barat-dedi-mulyadi-ikut-memadamkan-api-yang-me-vr1o.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jabar.jpnn.com</strong>, KOTA BANDUNG - Gubernur Jawa Barat Dedi Mulyadi tidak hadir dalam rapat Koordinasi Nasional Tim Percepatan Akses Keuangan Daerah (TPKAD) 2026 di JIExpo Kemayoran, Jakarta, Kamis (22/10/2026).",
-   "fetched_at": "2026-10-22T16:05:51+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 1504
-  },
-  {
-   "source": "jpnn",
-   "getter": "auto",
-   "title": "11 Orang Ditangkap Saat Ikut Aksi Peringatan 2 Tahun Prabowo-Gibran di Surabaya",
-   "link": "https://jatim.jpnn.com/jatim-terkini/49620/11-orang-ditangkap-saat-ikut-aksi-peringatan-2-tahun-prabowo-gibran-di-surabaya",
-   "pubDate": "Thu, 22 Oct 2026 22:35:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/jatim/news/watermark/2026/10/22/massa-aksi-saat-menggelar-aksi-demonstrasi-di-gedung-negara-wkgf.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jatim.jpnn.com</strong>, SURABAYA - Sebanyak 11 orang ditangkap saat mengikuti aksi peringatan kepemimpinan Presiden Prabowo Subianto dan wakilnya Gibran Rakabumin Raka, di Surabaya, Kamis (22/10).",
-   "fetched_at": "2026-10-22T16:05:51+07:00",
-   "categories": [
-    "hukum-kriminal"
    ],
    "content_status": "partial",
-   "content_chars": 395
+   "content_chars": 160
   },
   {
-   "source": "jpnn",
+   "source": "katadata",
    "getter": "auto",
-   "title": "Persib Kalah 0-1 di Madura, Igor Tolic Pilih Fokus ke Pertandingan Selanjutnya",
-   "link": "https://jabar.jpnn.com/olahraga/33939/persib-kalah-0-1-di-madura-igor-tolic-pilih-fokus-ke-pertandingan-selanjutnya",
-   "pubDate": "Thu, 22 Oct 2026 22:35:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/jatim/news/normal/2026/10/11/pelatih-persib-igor-tolic-dalam-konferensi-pers-pralaga-bri-t2sm.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jabar.jpnn.com</strong>, KOTA BANDUNG - Persib Bandung harus mengakui keunggulan tuan rumah Madura United dalam pertandingan pekan ke-6 BRI Super League 2026/2027.",
-   "fetched_at": "2026-10-22T16:05:51+07:00",
+   "title": "BSSN Ungkap Cara Mitigasi Potensi Kena Hack Imbas Celah PHP2Shell",
+   "link": "https://katadata.co.id/digital/teknologi/6ada5a1fb2ec6/bssn-ungkap-cara-mitigasi-potensi-kena-hack-imbas-celah-php2shell",
+   "pubDate": "Fri, 23 Oct 2026 01:46:00 +0700",
+   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/23/PHP_PHP2SHELL-2026_10_23-01_46_20_41103d718ebb5aa2d63d8b366c8bff24_620x413_thumb.jpg\" alt=\"PHP, PHP2SHELL \" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>BSSN memberikan tiga rekomendasi mitigasi untuk mengatasi kerawanan kritis PHP yang memungkinkan serangan remote code execution atau PHP2Shell pada server.</p>",
+   "fetched_at": "2026-10-22T20:04:15+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 358
+   "content_chars": 392
   },
   {
-   "source": "jpnn",
+   "source": "katadata",
    "getter": "auto",
-   "title": "Warga Tidak Berhak Sita KTP dan Pelat Nomor Seusai Kecelakaan, Bisa Terancam Pidana",
-   "link": "https://www.jpnn.com/news/warga-tidak-berhak-sita-ktp-dan-pelat-nomor-seusai-kecelakaan-bisa-terancam-pidana",
-   "pubDate": "Thu, 22 Oct 2026 22:34:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2017/04/23/8d5bef67c8c3b5706d4d2748ed519602.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - Menahan KTP dan mencopot pelat nomor kendaraan pihak yang terlibat kecelakaan bukan cara yang dibenarkan untuk menuntut ganti rugi.",
-   "fetched_at": "2026-10-22T16:05:51+07:00",
+   "title": "BSSN Beri Peringatan soal PHP2SHELL, Server Berisiko Diambil Alih Hacker",
+   "link": "https://katadata.co.id/digital/teknologi/6ada5adf3c250/bssn-beri-peringatan-soal-php2shell-server-berisiko-diambil-alih-hacker",
+   "pubDate": "Fri, 23 Oct 2026 01:31:00 +0700",
+   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/23/Celah_Kerentanan_PHP-2026_10_23-01_31_15_136e9a48e97d9f19e0600c71689899a0_620x413_thumb.jpg\" alt=\"Celah Kerentanan PHP \" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>BSSN memperingatkan soal dua kerentanan kritis PHP bernama PHP2Shell yang bisa dimanfaatkan hacker untuk jalankan kode berbahaya pada server tanpa autentikasi.</p>",
+   "fetched_at": "2026-10-22T20:04:15+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 318
+   "content_chars": 409
   },
   {
-   "source": "jpnn",
+   "source": "katadata",
    "getter": "auto",
-   "title": "Terlibat Penipuan Lowonogan Kerja, Pasutri di Serang Ditangkap Polisi",
-   "link": "https://www.jpnn.com/news/terlibat-penipuan-lowonogan-kerja-pasutri-di-serang-ditangkap-polisi",
-   "pubDate": "Thu, 22 Oct 2026 22:30:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/watermark/2026/10/22/kasatreskrim-polres-serang-akp-andi-kurniady-eka-setyabudi-n-bted.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong> - Unit Jatanras Satreskrim Polres Serang menangkap pasangan suami istri (pasutri) atas kasus penipuan lowongan kerja.",
-   "fetched_at": "2026-10-22T16:05:51+07:00",
+   "title": "Celah PHP Picu Jutaan Upaya Eksploitasi Hacker, Apa Itu PHP2SHELL dan Bahayanya?",
+   "link": "https://katadata.co.id/digital/teknologi/6ada5b122ddf7/celah-php-picu-jutaan-upaya-eksploitasi-hacker-apa-itu-php2shell-dan-bahayanya",
+   "pubDate": "Fri, 23 Oct 2026 00:46:00 +0700",
+   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/23/Kerentanan_pada_PHP-2026_10_23-00_45_52_84dbc2920b82955a1566acc2afc8faa0_620x413_thumb.jpg\" alt=\"Kerentanan pada PHP \" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Kerentanan kritis pada PHP memicu peringatan keamanan global setelah AI temukan celah yang tersembunyi lebih dari satu dekade, mendorong jutaan upaya eksploitasi. Apa itu PHP dan kenapa berbahaya?</p>",
+   "fetched_at": "2026-10-22T20:04:15+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 444
+  },
+  {
+   "source": "katadata",
+   "getter": "auto",
+   "title": "AS, Cina hingga Eropa Waswas PHP2SHELL Dipakai Hacker, Situs Pemerintah Ditutup",
+   "link": "https://katadata.co.id/digital/teknologi/6ada5bd0eaecc/as-cina-hingga-eropa-waswas-php2shell-dipakai-hacker-situs-pemerintah-ditutup",
+   "pubDate": "Fri, 23 Oct 2026 00:25:00 +0700",
+   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/23/Kerentanan_pada_PHP-2026_10_23-00_46_03_99f4497b79faedd573b0510b04ef7a8e_620x413_thumb.jpg\" alt=\"Kerentanan pada PHP \" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Jutaan upaya eksploitasi terdeteksi setelah kerentanan kritis PHP atau PHP2SHELL terungkap. AS, Cina, hingga sejumlah negara Eropa meningkatkan kewaspadaan dan memperkuat keamanan sistem.</p>",
+   "fetched_at": "2026-10-22T20:04:15+07:00",
    "categories": [
-    "hukum-kriminal"
+    "pemerintahan"
    ],
    "content_status": "partial",
-   "content_chars": 329
+   "content_chars": 435
   },
   {
-   "source": "jpnn",
+   "source": "katadata",
    "getter": "auto",
-   "title": "Gaya Vanness Wu Makin Keren di Usia 48 Tahun, dari Rambut Hingga Perhiasan",
-   "link": "https://www.jpnn.com/news/gaya-vanness-wu-makin-keren-di-usia-48-tahun-dari-rambut-hingga-perhiasan",
-   "pubDate": "Thu, 22 Oct 2026 22:23:17 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/10/22/penyanyi-sekaligus-aktor-taiwan-vanness-wu-foto-wanda-house-8uce.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - <a href=\"https://www.jpnn.com/tag/vanness-wu\" title=\"Semua artikel tentang Vanness Wu\">Vanness Wu</a>, personel F4 yang dikenal lewat serial Meteor Garden, menunjukkan perubahan penampilannya setelah lebih dari dua dekade berkarier di industri hiburan. Dia kini tampil dengan perpa",
-   "fetched_at": "2026-10-22T16:05:51+07:00",
-   "categories": [],
+   "title": "Jutaan Upaya Hacker Dideteksi, Bank hingga Pemerintah Jepang dan Eropa Waspada",
+   "link": "https://katadata.co.id/digital/teknologi/6ada4c2120f53/jutaan-upaya-hacker-dideteksi-bank-hingga-pemerintah-jepang-dan-eropa-waspada",
+   "pubDate": "Fri, 23 Oct 2026 00:10:00 +0700",
+   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2024/06/25/Ilustrasi_hacker-2024_06_25-18_15_45_8c393917b2cb1b2968b72df8af605207_620x413_thumb.jpg\" alt=\"Ilustrasi, hacker.\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Jutaan upaya eksploitasi terdeteksi setelah celah keamanan PHP terungkap. Sejumlah bank, maskapai, dan instansi pemerintah di Jepang hingga Eropa menangguhkan layanan daring.</p>",
+   "fetched_at": "2026-10-22T20:04:15+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 417
+  },
+  {
+   "source": "katadata",
+   "getter": "auto",
+   "title": "Dino Patti Djalal Ingatkan Risiko Terkikisnya Kredibilitas Diplomasi Indonesia",
+   "link": "https://katadata.co.id/berita/nasional/6ada3c14afd58/dino-patti-djalal-ingatkan-risiko-terkikisnya-kredibilitas-diplomasi-indonesia",
+   "pubDate": "Thu, 22 Oct 2026 23:38:00 +0700",
+   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/02/05/Mantan_Wakil_Menteri_Luar_Negeri_Dino_Patti_Djalal_di_Istana_Kep-2026_02_05-09_40_36_69150db2295de887b03fc7e3a0e9eebb_620x413_thumb.png\" alt=\"Mantan Wakil Menteri Luar Negeri Dino Patti Djalal di Istana Kepresidenan, Jakarta, Rabu (4/2).\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Mantan Wakil Menteri Luar Negeri (Wamenlu), Dino Patti Djalal, mengingatkan pemerintah agar cermat menjaga arah kebijakan politik luar n",
+   "fetched_at": "2026-10-22T20:04:15+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
    "content_status": "partial",
    "content_chars": 500
   },
   {
-   "source": "sindonews",
+   "source": "katadata",
    "getter": "auto",
-   "title": "Guru Besar Hukum Pidana Apresiasi Kejagung Jerat Korporasi, Sesuai Asta Cita Presiden",
-   "link": "https://nasional.sindonews.com/read/1763691/13/guru-besar-hukum-pidana-apresiasi-kejagung-jerat-korporasi-sesuai-asta-cita-presiden-1792681825",
-   "pubDate": "Thu, 22 Oct 2026 22:43:21 +0700",
-   "description": "Langkah Kejagung menetapkan dua korporasi sebagai tersangka dalam perkara dugaan korupsi mendapat apresiasi dari Guru Besar Hukum Pidana Universitas Jenderal Soedirman, Prof Hibnu Nugroho.",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 188
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "Usut Dugaan Pelanggaran BBM Subsidi Ilegal di Perairan Semarang",
-   "link": "https://ekbis.sindonews.com/read/1763689/34/usut-dugaan-pelanggaran-bbm-subsidi-ilegal-di-perairan-semarang-1792681815",
-   "pubDate": "Thu, 22 Oct 2026 22:42:57 +0700",
-   "description": "Dugaan pelanggaran pengangkutan 4406 kiloliter (KL) BBM jenis solar B50 menggunakan kapal (Self-Propelled Oil Barge (SPOB) NURFAIZAH 03 tengah ditindaklanjuti oleh Direktorat Jenderal Penegakan Hukum ESDM.",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
+   "title": "Tender PLTN Tunggu Penetapan Tapak, ESDM Kaji Tambahan Kandidat Lokasi",
+   "link": "https://katadata.co.id/berita/energi/6ada3a8dbc6b3/tender-pltn-tunggu-penetapan-tapak-esdm-kaji-tambahan-kandidat-lokasi",
+   "pubDate": "Thu, 22 Oct 2026 23:32:00 +0700",
+   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2025/08/11/Ilustrasi_PLTN-2025_08_11-12_30_24_4c429c5c2507373695b92882cafdb82a_620x413_thumb.jpg\" alt=\"Ilustrasi PLTN\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Kementerian Energi dan Sumber Daya Mineral (ESDM) menyatakan proses tender pembangunan pembangkit listrik tenaga nuklir (PLTN) masih menunggu penetapan lokasi atau tapak.</p>",
+   "fetched_at": "2026-10-22T20:04:15+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 205
+   "content_chars": 407
   },
   {
-   "source": "sindonews",
+   "source": "katadata",
    "getter": "auto",
-   "title": "Kado Hari Santri, Universitas Sunan Gresik Siapkan 25 Beasiswa Kedokteran Gigi untuk Santri",
-   "link": "https://edukasi.sindonews.com/read/1763687/211/kado-hari-santri-universitas-sunan-gresik-siapkan-25-beasiswa-kedokteran-gigi-untuk-santri-1792681800",
-   "pubDate": "Thu, 22 Oct 2026 22:29:04 +0700",
-   "description": "Universitas Sunan Gresik (USG) menyiapkan 25 beasiswa bagi santri untuk menempuh pendidikan kedokteran gigi di Fakultas Kedokteran Gigi (FKG) USG.",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
-   "categories": [],
-   "content_status": "partial",
-   "content_chars": 146
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "Peringati Hari Santri, BEM PTNU Salurkan 1 Juta Liter Air Bersih",
-   "link": "https://nasional.sindonews.com/read/1763683/15/peringati-hari-santri-bem-ptnu-salurkan-1-juta-liter-air-bersih-1792681839",
-   "pubDate": "Thu, 22 Oct 2026 22:27:22 +0700",
-   "description": "Memperingati Hari Santri Nasional, BEM PTNU Se-Nusantara menyalurkan 1 juta liter air bersih kepada masyarakat terdampak karhutla dan kekeringan ekstrem.",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
-   "categories": [],
-   "content_status": "partial",
-   "content_chars": 153
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "WCCE 2026 Angkat Fenomena Pacu Jalur, Indonesia Bidik Peluang Ekonomi Kreatif Global",
-   "link": "https://ekbis.sindonews.com/read/1763685/34/wcce-2026-angkat-fenomena-pacu-jalur-indonesia-bidik-peluang-ekonomi-kreatif-global-1792681816",
-   "pubDate": "Thu, 22 Oct 2026 22:27:09 +0700",
-   "description": "Menteri Ekonomi Kreatif, Teuku Riefky Harsya menilai fenomena pacu jalur ini menunjukkan bagaimana kreativitas yang berakar pada budaya lokal dapat menembus batas negara.",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
-   "categories": [],
-   "content_status": "partial",
-   "content_chars": 170
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "Dua Tahun Pemerintahan Prabowo: Harga Pupuk Turun 20 Persen, Kesejahteraan Petani Meningkat",
-   "link": "https://nasional.sindonews.com/read/1763679/15/dua-tahun-pemerintahan-prabowo-harga-pupuk-turun-20-persen-kesejahteraan-petani-meningkat-1792681848",
-   "pubDate": "Thu, 22 Oct 2026 22:24:29 +0700",
-   "description": "Upaya memperkuat sektor pertanian nasional dalam dua tahun gerak nyata pemerintahan Prabowo terlihat dari hal yang cukup mendasar, yaitu menekan biaya produksi dan meningkatkan kesejahteraan petani.",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
+   "title": "Prabowo Sebut Indonesia Masuk Daftar IMF Sebagai Negara dengan Ekonomi Terbesar",
+   "link": "https://katadata.co.id/berita/nasional/6ada396acbc4a/prabowo-sebut-indonesia-masuk-daftar-imf-sebagai-negara-dengan-ekonomi-terbesar",
+   "pubDate": "Thu, 22 Oct 2026 23:27:00 +0700",
+   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/21/2026_10_21-16_54_00_b0628bc2-cd3d-11f1-a46b-0242ac120005_620x413_thumb.jpg\" alt=\"Sidang Kabinet Paripurna di Istana Kepresidenan\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Presiden Prabowo Subianto mengatakan Indonesia masuk dalam jajaran negara dengan ekonomi terbesar di dunia.</p>",
+   "fetched_at": "2026-10-22T20:04:15+07:00",
    "categories": [
     "pemerintahan"
    ],
    "content_status": "partial",
-   "content_chars": 198
+   "content_chars": 366
   },
   {
-   "source": "sindonews",
+   "source": "katadata",
    "getter": "auto",
-   "title": "Peringatan Hari Santri 2026: Kolaborasi Lintas Ormas dan Umat Beragama Sajikan Simbol Persatuan Bangsa",
-   "link": "https://nasional.sindonews.com/read/1763671/15/peringatan-hari-santri-2026-kolaborasi-lintas-ormas-dan-umat-beragama-sajikan-simbol-persatuan-bangsa-1792681837",
-   "pubDate": "Thu, 22 Oct 2026 22:12:23 +0700",
-   "description": "Mengusung tema besar Hari Santri 2026: Menguatkan Negeri Menuju Indonesia Emas, pelaksanaan upacara tahun ini menjadi simbol nyata persatuan nasional.",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
+   "title": "Kredit Bank Mandiri Capai Rp1.592 T Hingga Akhir Agustus, Tumbuh 17% YoY",
+   "link": "https://katadata.co.id/finansial/korporasi/6ada52af61574/kredit-bank-mandiri-capai-rp1592-t-hingga-akhir-agustus-tumbuh-17-yoy",
+   "pubDate": "Thu, 22 Oct 2026 21:25:00 +0700",
+   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/23/Ilustrasi_Bank_Mandiri-2026_10_23-01_09_23_df61989f9ffc0b5e8fc002967fccf9c6_620x413_thumb.jpg\" alt=\"Ilustrasi Bank Mandiri\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Kredit Bank Mandiri menembus angka Rp1.592 triliun hingga akhir Agustus 2026, tumbuh 17, 6% secara tahunan, dengan rasio NPL 1%.</p>",
+   "fetched_at": "2026-10-22T20:04:15+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 150
+   "content_chars": 381
   },
   {
-   "source": "sindonews",
+   "source": "republika",
    "getter": "auto",
-   "title": "Dorong PNBP lewat Payment Gateway, Finnet dan Distrik Navigasi Tipe B Tanjung Priok Jalin Kerjasama",
-   "link": "https://ekbis.sindonews.com/read/1763673/34/dorong-pnbp-lewat-payment-gateway-finnet-dan-distrik-navigasi-tipe-b-tanjung-priok-jalin-kerjasama-1792681849",
-   "pubDate": "Thu, 22 Oct 2026 22:10:32 +0700",
-   "description": "PT Finnet Indonesia (Finpay) dan Distrik Navigasi Tipe B Tanjung Priok jalin kerjasama, dalam penyediaan payment gateway untuk pembayaran Penerimaan Negara Bukan Pajak (PNBP) pada layanan BLU melalui website SIMOLI.",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
+   "title": "NTT Studi Tiru Pajak Kendaraan Air Kaltara Demi Dongkrak PAD",
+   "link": "https://news.republika.co.id/berita/tnbrlt3930000/ntt-studi-tiru-pajak-kendaraan-air-kaltara-demi-dongkrak-pad",
+   "pubDate": "Fri, 23 Oct 2026 03:01:05 +0700",
+   "description": "REPUBLIKA.CO.ID, TANJUNG SELOR, – Pemerintah Provinsi Nusa Tenggara Timur (NTT) melakukan studi tiru ke Kalimantan Utara (Kaltara) untuk mempelajari penerapan Pajak Kendaraan di Atas Air (PKAA). Langkah ini diambil...",
+   "fetched_at": "2026-10-22T20:04:14+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 215
+   "content_chars": 217
   },
   {
-   "source": "sindonews",
+   "source": "republika",
    "getter": "auto",
-   "title": "China Kenalkan Robot Pengawal yang Bisa Menyerang dan Angkat Mobil",
-   "link": "https://tekno.sindonews.com/read/1763669/123/china-kenalkan-robot-pengawal-yang-bisa-menyerang-dan-angkat-mobil-1792681804",
-   "pubDate": "Thu, 22 Oct 2026 22:09:02 +0700",
-   "description": "Seorang penyusup bersenjata pisau berhasil dilumpuhkan. Sebuah mobil diangkat untuk menyelamatkan korban yang terjebak di bawahnya. Seorang pejalan kaki ditarik keluar dari jalur kendaraan yang melaju",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
+   "title": "Bandit Jalanan Rampas HP dan Todong Pelajar di Garut Pakai Pistol Mainan",
+   "link": "https://rejabar.republika.co.id/berita/tnbj8p282/bandit-jalanan-rampas-hp-dan-todong-pelajar-di-garut-pakai-pistol-mainan",
+   "pubDate": "Fri, 23 Oct 2026 02:55:00 +0700",
+   "description": "REPUBLIKA.CO.ID, GARUT -- Seorang pelajar berusia 12 tahun menjadi korban pencurian dengan kekerasan di Kampung Tambakan, RT 02/12, Desa Margahayu, Kecamatan Leuwigoong, Kabupaten Garut, Jawa Barat pada Rabu (21/10/2026)...",
+   "fetched_at": "2026-10-22T20:04:14+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 200
+   "content_chars": 223
   },
   {
-   "source": "sindonews",
+   "source": "republika",
    "getter": "auto",
-   "title": "Putin, Xi Jinping, dan Trump Mungkin akan Gelar Pertemuan Puncak Bersejarah",
-   "link": "https://international.sindonews.com/read/1763643/41/putin-xi-jinping-dan-trump-mungkin-akan-gelar-pertemuan-puncak-bersejarah-1792674618",
-   "pubDate": "Thu, 22 Oct 2026 22:06:23 +0700",
-   "description": "Presiden Rusia Vladimir Putin, Presiden China Xi Jinping, dan Presiden Amerika Serikat Donald Trump mungkin akan mengadakan pertemuan tiga pihak yang bersejarah dalam KTT APEC di China. Pernyataan itu diungkap ajudan Kremlin, Yury Ushakov.",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
+   "title": "Jabar Luncurkan Platform SAWER, Perkuat Ekspor IKM Lewat Intelijen Pasar",
+   "link": "https://news.republika.co.id/berita/tnbqvu6630000/jabar-luncurkan-platform-sawer-perkuat-ekspor-ikm-lewat-intelijen-pasar",
+   "pubDate": "Fri, 23 Oct 2026 02:45:30 +0700",
+   "description": "REPUBLIKA.CO.ID, BANDUNG, – Dinas Perindustrian dan Perdagangan (Disperindag) Jawa Barat memperkuat perdagangan ekspor industri kecil dan menengah (IKM) melalui peluncuran platform market intelligence SAWER (Smart Analysis West Java Export)...",
+   "fetched_at": "2026-10-22T20:04:14+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 239
+   "content_chars": 243
   },
   {
-   "source": "inews",
+   "source": "republika",
    "getter": "auto",
-   "title": "Kemenag Buka Pendaftaran PPG Guru Madrasah, Simak Jadwal dan Syaratnya",
-   "link": "https://www.inews.id/news/nasional/kemenag-buka-pendaftaran-ppg-guru-madrasah-simak-jadwal-dan-syaratnya",
-   "pubDate": "Thu, 22 Oct 2026 22:45:00 +0700",
-   "description": "Kementerian Agama (Kemenag) membuka pendaftaran Pendidikan Profesi Guru (PPG) Dalam Jabatan (Daljab) 2026 bagi guru madrasah",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
-   "categories": [],
-   "content_status": "partial",
-   "content_chars": 124
-  },
-  {
-   "source": "inews",
-   "getter": "auto",
-   "title": "Gunung Semeru Erupsi Beruntun Malam Ini, Muntahkan Abu Vulknaik 800 Meter",
-   "link": "https://www.inews.id/regional/jatim/gunung-semeru-erupsi-beruntun-malam-ini-muntahkan-abu-vulknaik-800-meter",
-   "pubDate": "Thu, 22 Oct 2026 22:42:00 +0700",
-   "description": "Aktivitas vulkanik Gunung Semeru di Kabupaten Lumajang, Jawa Timur, kembali meningkat. Gunung tertinggi di Pulau Jawa itu erupsi beruntun malam ini.",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
+   "title": "Pemkab Malinau Perkuat Sektor Pertanian Jadi Sumber Pertumbuhan Ekonomi Alternatif",
+   "link": "https://news.republika.co.id/berita/tnbq6g9630000/pemkab-malinau-perkuat-sektor-pertanian-jadi-sumber-pertumbuhan-ekonomi-alternatif",
+   "pubDate": "Fri, 23 Oct 2026 02:30:16 +0700",
+   "description": "REPUBLIKA.CO.ID, MALINAU, – Pemerintah Kabupaten (Pemkab) Malinau, Kalimantan Utara (Kaltara), memperkuat sektor pertanian untuk menjadi sumber pertumbuhan ekonomi alternatif. Langkah ini diambil agar perekonomian daerah tidak lagi bergantung sepenuhnya...",
+   "fetched_at": "2026-10-22T20:04:14+07:00",
    "categories": [
-    "bencana"
+    "pemerintahan"
    ],
    "content_status": "partial",
-   "content_chars": 148
+   "content_chars": 256
   },
   {
-   "source": "inews",
+   "source": "republika",
    "getter": "auto",
-   "title": "Pitra Romadoni Sebut Karhutla Libatkan Pihak Asing: Mereka Bakar, Kita Sibuk Memadamkan",
-   "link": "https://www.inews.id/news/nasional/pitra-romadoni-sebut-karhutla-libatkan-pihak-asing-mereka-bakar-kita-sibuk-memadamkan",
-   "pubDate": "Thu, 22 Oct 2026 22:20:00 +0700",
-   "description": "Presiden Petisi Ahli, Pitra Romadoni menyoroti dugaan keterlibatan pihak asing dalam kebakaran hutan dan lahan (karhutla) di Indonesia",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 134
-  },
-  {
-   "source": "inews",
-   "getter": "auto",
-   "title": "Usai Taklukkan 7 Maraton Dunia, Febby Rastanty Kini Ramaikan Jakarta Running Festival 2026",
-   "link": "https://www.inews.id/sport/all-sport/usai-taklukkan-7-maraton-dunia-febby-rastanty-kini-ramaikan-jakarta-running-festival-2026",
-   "pubDate": "Thu, 22 Oct 2026 22:00:00 +0700",
-   "description": "Febby Rastanty kembali mengikuti lomba lari di Indonesia melalui Jakarta Running Festival 2026",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
+   "title": "GTRA Bima Gandeng Perbankan Perluas Akses Modal UMKM Lewat Reforma Agraria 2026",
+   "link": "https://news.republika.co.id/berita/tnbphh5830000/gtra-bima-gandeng-perbankan-perluas-akses-modal-umkm-lewat-reforma-agraria-2026",
+   "pubDate": "Fri, 23 Oct 2026 02:15:17 +0700",
+   "description": "REPUBLIKA.CO.ID, BIMA, – Gugus Tugas Reforma Agraria (GTRA) Kabupaten Bima, Nusa Tenggara Barat, menggandeng sektor perbankan untuk memperluas akses permodalan bagi pelaku usaha mikro, kecil, dan menengah (UMKM). Langkah...",
+   "fetched_at": "2026-10-22T20:04:14+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 94
+   "content_chars": 223
   },
   {
-   "source": "inews",
+   "source": "republika",
    "getter": "auto",
-   "title": "KY Sanksi Etik Hakim Ad Hoc Tipikor Jambi, Kasus Apa?",
-   "link": "https://www.inews.id/news/nasional/ky-sanksi-etik-hakim-ad-hoc-tipikor-jambi-kasus-apa",
-   "pubDate": "Thu, 22 Oct 2026 21:45:00 +0700",
-   "description": "Komisi Yudisial (KY) menjatuhkan sanksi etik berupa teguran tertulis kepada hakim ad hoc Tindak Pidana Korupsi (Tipikor) Pengadilan Negeri Jambi",
-   "fetched_at": "2026-10-22T16:05:49+07:00",
+   "title": "Sekda Denpasar Dorong Kreativitas Siswa Lewat BPS Festival ke-4",
+   "link": "https://news.republika.co.id/berita/tnbosi4830000/sekda-denpasar-dorong-kreativitas-siswa-lewat-bps-festival-ke4",
+   "pubDate": "Fri, 23 Oct 2026 02:00:18 +0700",
+   "description": "REPUBLIKA.CO.ID, DENPASAR, – Sekretaris Daerah (Sekda) Kota Denpasar, I Gusti Ngurah Eddy Mulya, secara resmi membuka Bali Public School (BPS) Festival ke-4 di SD Bali Public School, Kamis. Festival...",
+   "fetched_at": "2026-10-22T20:04:14+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 201
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "Sindikasi Pemilu dan Demokrasi Soroti Ketimpangan Anggaran dan Membengkaknya Jabatan",
+   "link": "https://news.republika.co.id/berita/tnbjao320/sindikasi-pemilu-dan-demokrasi-soroti-ketimpangan-anggaran-dan-membengkaknya-jabatan",
+   "pubDate": "Fri, 23 Oct 2026 02:00:00 +0700",
+   "description": "REPUBLIKA.CO.ID,&nbsp;JAKARTA &mdash; Sindikasi Pemilu dan Demokrasi (SPD) menyoroti ketimpangan antara pembagian jabatan kabinet dan distribusi anggaran dalam dua tahun pemerintahan Presiden Prabowo Subianto dan Wakil Presiden Gibran Rakabuming Raka.\nBerdasarkan...",
+   "fetched_at": "2026-10-22T20:04:14+07:00",
    "categories": [
-    "korupsi"
+    "pemerintahan"
    ],
    "content_status": "partial",
-   "content_chars": 144
+   "content_chars": 266
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "Dishub Bali Seleksi Operator untuk 11 Bus Listrik Hibah, Uji Coba Gratis Hingga 2026",
+   "link": "https://news.republika.co.id/berita/tnbo3i1830000/dishub-bali-seleksi-operator-untuk-11-bus-listrik-hibah-uji-coba-gratis-hingga-2026",
+   "pubDate": "Fri, 23 Oct 2026 01:45:18 +0700",
+   "description": "REPUBLIKA.CO.ID, DENPASAR, – Dinas Perhubungan (Dishub) Bali saat ini sedang menyeleksi perusahaan operator untuk mengelola 11 unit bus listrik hibah. Armada ramah lingkungan ini akan menjalani uji coba sebagai...",
+   "fetched_at": "2026-10-22T20:04:14+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 213
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "Pemprov Sumut Imbau ASN Bijak Berinvestasi, Utamakan Legalitas dan Keamanan",
+   "link": "https://news.republika.co.id/berita/tnbnef3030000/pemprov-sumut-imbau-asn-bijak-berinvestasi-utamakan-legalitas-dan-keamanan",
+   "pubDate": "Fri, 23 Oct 2026 01:30:15 +0700",
+   "description": "REPUBLIKA.CO.ID, MEDAN, – Pemerintah Provinsi Sumatera Utara (Pemprov Sumut) mengimbau seluruh Aparatur Sipil Negara (ASN) di lingkungannya untuk bijak berinvestasi dengan mengutamakan aspek legalitas dan keamanan. Imbauan ini disampaikan...",
+   "fetched_at": "2026-10-22T20:04:14+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 241
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "Dakwah Muhammadiyah Harus Teguh dalam Akidah, Luwes dalam Pendekatan",
+   "link": "https://news.republika.co.id/berita/tnbc5j451/dakwah-muhammadiyah-harus-teguh-dalam-akidah-luwes-dalam-pendekatan",
+   "pubDate": "Fri, 23 Oct 2026 01:24:00 +0700",
+   "description": "REPUBLIKA.CO.ID,&nbsp;JAKARTA -- Ketua Bidang Tabligh Global Majelis Tabligh Pimpinan Pusat Muhammadiyah, Fahmi Salim, mengingatkan para mubaligh agar tidak mengorbankan prinsip akidah dalam menghadapi perubahan sosial dan tantangan pemikiran kontemporer....",
+   "fetched_at": "2026-10-22T20:04:14+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 258
   }
  ]
 }
