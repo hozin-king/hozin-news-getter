@@ -29,6 +29,31 @@ jobs:
       - name: Enrich full text + categories (artikel baru saja)
         run: python3 enrich.py
 
+      - name: Translate foreign articles EN -> ID (Google, tanpa API key)
+        id: translate_google
+        run: |
+          python3 translate.py --engine google
+          FAILED=$(python3 -c "import json;print(len(json.load(open('data/translate_report.json')).get('failed',[])))")
+          echo "failed=$FAILED" >> "$GITHUB_OUTPUT"
+          echo "Item gagal terjemahan (google): $FAILED"
+
+      - name: Install Argos Translate (fallback offline)
+        if: steps.translate_google.outputs.failed != '0'
+        run: pip install argostranslate
+
+      - name: Argos EN->ID model + translate fallback
+        if: steps.translate_google.outputs.failed != '0'
+        run: |
+          python3 - <<'EOF'
+          import argostranslate.package as pkg
+          pkg.update_package_index()
+          model = next(p for p in pkg.get_available_packages()
+                       if p.from_code == "en" and p.to_code == "id")
+          pkg.install_from_path(model.download())
+          print("model argos en->id terpasang")
+          EOF
+          python3 translate.py --engine argos
+
       - name: Rollup latest + archive
         run: python3 rollup_news.py
 
@@ -36,7 +61,7 @@ jobs:
         run: |
           git config user.name "hozin-news-getter"
           git config user.email "news-getter@hozinking.my.id"
-          git add data/latest.json data/full.json data/fulltext.jsonl data/categories/ data/archive/
+          git add data/latest.json data/full.json data/fulltext.jsonl data/translations.jsonl data/translate_report.json data/categories/ data/archive/
           if git diff --cached --quiet; then
             echo "No rollup changes, nothing to commit"
           else

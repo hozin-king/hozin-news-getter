@@ -108,6 +108,9 @@ def main():
             "content_source": res["content_source"],
             "content_chars": res["content_chars"],
             "categories": cats,
+            "video_type": res.get("video_type", ""),
+            "video_id": res.get("video_id", ""),
+            "video_url": res.get("video_url", ""),
             "enriched_at": now_iso(),
         }
         done += 1

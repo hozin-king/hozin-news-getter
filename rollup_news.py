@@ -24,6 +24,7 @@ judul+ringkasannya (news_lib.classify) dan content_status-nya
 Dijalankan oleh workflow news-rollup.yml setelah enrich.py.
 Hanya stdlib — tanpa dependensi.
 """
+import hashlib
 import json
 import os
 import sys
@@ -36,6 +37,7 @@ ARTICLES_FILE = os.path.join(DATA, "articles.jsonl")
 LATEST_FILE = os.path.join(DATA, "latest.json")
 FULL_FILE = os.path.join(DATA, "full.json")
 CACHE_FILE = os.path.join(DATA, "fulltext.jsonl")
+TRANS_FILE = os.path.join(DATA, "translations.jsonl")
 CATEGORIES_DIR = os.path.join(DATA, "categories")
 ARCHIVE_DIR = os.path.join(DATA, "archive")
 MAX_LATEST = 100
@@ -83,23 +85,68 @@ def load_fulltext():
     return cache
 
 
-def decorate(article, cache):
+def load_translations():
+    """Cache terjemahan (translate.py): {url_hash: row}."""
+    cache = {}
+    if os.path.exists(TRANS_FILE):
+        with open(TRANS_FILE, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    row = json.loads(line)
+                    cache[row["hash"]] = row
+                except (json.JSONDecodeError, KeyError):
+                    continue
+    return cache
+
+
+def _content_hash(text):
+    return hashlib.sha256((text or "").encode("utf-8")).hexdigest()[:16]
+
+
+def decorate(article, cache, translations=None):
     """Salin artikel + tempel categories/content_status/content_chars
-    (+ content bila with_content). Tidak mengubah dict asal."""
+    (+ content bila with_content). Tidak mengubah dict asal.
+
+    Field aditif: video_* dari cache enrich (bila artikel punya video
+    tertanam) dan — untuk artikel sumber asing yang sudah diterjemahkan
+    translate.py — title/description/content versi Bahasa Indonesia
+    plus penanda translated/source_lang/original_title. Terjemahan
+    hanya ditempel bila content_hash-nya cocok dengan isi saat ini.
+    """
     a = dict(article)
     a.pop("feed_content", None)  # bahan mentah, bukan konsumsi aplikasi
-    row = cache.get(url_hash(a.get("link", "")))
+    h = url_hash(a.get("link", ""))
+    row = cache.get(h)
     if row:
         a["categories"] = row.get("categories", [])
         a["content_status"] = row.get("content_status", "partial")
         a["content_chars"] = row.get("content_chars", 0)
         content = row.get("content", "")
+        if row.get("video_url"):
+            a["video_type"] = row.get("video_type", "")
+            a["video_id"] = row.get("video_id", "")
+            a["video_url"] = row.get("video_url", "")
     else:
         a["categories"] = news_lib.classify(
             a.get("title", ""), a.get("description", ""))
         a["content_status"] = "partial"
         a["content_chars"] = len(a.get("description", ""))
         content = a.get("description", "")
+    trow = (translations or {}).get(h)
+    if (trow and trow.get("content")
+            and trow.get("content_hash") == _content_hash(content)):
+        a["original_title"] = trow.get("original_title",
+                                       a.get("title", ""))
+        a["title"] = trow.get("title", a.get("title", ""))
+        if trow.get("description"):
+            a["description"] = trow["description"]
+        a["translated"] = True
+        a["source_lang"] = "en"
+        content = trow["content"]
+        a["content_chars"] = len(content)
     return a, content
 
 
@@ -121,12 +168,13 @@ def main():
 
     now = datetime.now(WIB).isoformat(timespec="seconds")
     cache = load_fulltext()
+    translations = load_translations()
 
     # ---- dekorasi: categories + status isi (+ isi untuk varian full) ----
     slim = []        # tanpa content — untuk latest & arsip
     withfull = []    # dengan content — untuk full.json & per-kategori
     for a in articles:
-        s, content = decorate(a, cache)
+        s, content = decorate(a, cache, translations)
         slim.append(s)
         wf = dict(s)
         wf["content"] = content
@@ -213,9 +261,11 @@ def main():
               encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=1)
 
+    n_translated = sum(1 for a in withfull if a.get("translated"))
     print(f"SELESAI: {len(articles)} artikel dibaca; latest={len(latest)}; "
           f"arsip {len(by_day)} hari, total terarsip={index['total']}; "
-          f"cache fulltext={len(cache)}; per-kategori={cat_counts}")
+          f"cache fulltext={len(cache)}; terjemahan aktif={n_translated}; "
+          f"per-kategori={cat_counts}")
 
 
 if __name__ == "__main__":

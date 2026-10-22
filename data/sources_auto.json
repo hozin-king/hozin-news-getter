@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-22T18:40:52+07:00",
- "count": 13,
+ "updated_at": "2026-10-22T19:45:53+07:00",
+ "count": 14,
  "sources": [
   {
    "name": "republika",
@@ -131,6 +131,18 @@
    "ok_streak": 1,
    "status": "probation",
    "origin": "googlenews"
+  },
+  {
+   "name": "geeky-gadgets",
+   "url": "https://www.geeky-gadgets.com/feed/",
+   "added_at": "2026-10-22T19:45:53+07:00",
+   "fail_count": 0,
+   "ok_streak": 0,
+   "status": "active",
+   "origin": "manual",
+   "lang": "en",
+   "translate": true,
+   "max_per_run": 25
   }
  ]
 }

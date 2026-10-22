@@ -182,6 +182,60 @@ def html_to_text(html_text):
 
 
 # ---------------------------------------------------------------------------
+# Ekstraksi video tertanam
+# ---------------------------------------------------------------------------
+_YT_ID = r"([A-Za-z0-9_-]{11})"
+# Urutan = prioritas: embed iframe resmi lebih dulu, lalu penanda plugin
+# WP YouTube Lyte (div id="WYL_<id>" / "lyte_<id>"), tautan youtu.be /
+# watch, terakhir thumbnail i.ytimg.com/vi/<id>/ (jejak embed terakhir).
+_YT_PATTERNS = [
+    re.compile(r"youtube(?:-nocookie)?\.com/embed/" + _YT_ID),
+    re.compile(r"WYL_" + _YT_ID),
+    re.compile(r"lyte_" + _YT_ID),
+    re.compile(r"youtu\.be/" + _YT_ID),
+    re.compile(r"youtube\.com/watch\?[^\"'\s<>]*[?&]v=" + _YT_ID),
+    re.compile(r"youtube\.com/watch\?v=" + _YT_ID),
+    re.compile(r"youtube\.com/shorts/" + _YT_ID),
+    re.compile(r"i\.ytimg\.com/vi/" + _YT_ID + r"/"),
+]
+_VIDEO_SRC_PATTERNS = [
+    re.compile(r"<video[^>]*\bsrc=[\"']([^\"']+)[\"']", re.I),
+    re.compile(r"<source[^>]*\bsrc=[\"']([^\"']+\.(?:mp4|webm|m3u8)(?:\?[^\"']*)?)"
+               r"[\"']", re.I),
+]
+
+_VIDEO_EMPTY = {"video_type": "", "video_id": "", "video_url": ""}
+
+
+def extract_video(html_text):
+    """Ekstrak video tertanam pertama dari HTML artikel.
+
+    Return dict {video_type: 'youtube'|'file', video_id, video_url}
+    atau dict kosong-string bila tidak ada video. Untuk YouTube,
+    video_url adalah URL kanonis watch; untuk berkas langsung,
+    video_url adalah URL berkasnya.
+    """
+    if not html_text:
+        return dict(_VIDEO_EMPTY)
+    for pat in _YT_PATTERNS:
+        m = pat.search(html_text)
+        if m:
+            vid = m.group(1)
+            return {"video_type": "youtube", "video_id": vid,
+                    "video_url": f"https://www.youtube.com/watch?v={vid}"}
+    for pat in _VIDEO_SRC_PATTERNS:
+        m = pat.search(html_text)
+        if m:
+            url = html.unescape(m.group(1)).strip()
+            if url.startswith("//"):
+                url = "https:" + url
+            if url.startswith("http"):
+                return {"video_type": "file", "video_id": "",
+                        "video_url": url}
+    return dict(_VIDEO_EMPTY)
+
+
+# ---------------------------------------------------------------------------
 # Pengambilan isi full
 # ---------------------------------------------------------------------------
 FULL_MIN_CHARS = 600      # isi di bawah ini tidak layak disebut full
@@ -201,21 +255,31 @@ def get_full_content(article, fetcher):
     # supaya field content selalu teks polos.
     desc = html_to_text(raw_desc) if "<" in raw_desc else raw_desc
 
+    # Video tertanam: cari di feed_content dulu; hasil dari halaman
+    # artikel (jalur b) menimpa bila ketemu (HTML halaman lebih lengkap).
+    video = extract_video(article.get("feed_content") or "")
+
     # (a) isi penuh dari feed (content:encoded)
     feed_text = html_to_text(article.get("feed_content") or "")
     if len(feed_text) >= FEED_MIN_CHARS and len(feed_text) > len(desc):
         return {"content": feed_text, "content_status": "full",
-                "content_source": "feed", "content_chars": len(feed_text)}
+                "content_source": "feed", "content_chars": len(feed_text),
+                **video}
 
     # (b) halaman artikel
     try:
         raw = fetcher(article["link"])
-        page_text = html_to_paragraphs(raw.decode("utf-8", "ignore"))
+        page_html = raw.decode("utf-8", "ignore")
+        page_text = html_to_paragraphs(page_html)
+        page_video = extract_video(page_html)
+        if page_video["video_url"]:
+            video = page_video
     except Exception:
         page_text = ""
     if len(page_text) >= FULL_MIN_CHARS and len(page_text) > len(desc):
         return {"content": page_text, "content_status": "full",
-                "content_source": "page", "content_chars": len(page_text)}
+                "content_source": "page", "content_chars": len(page_text),
+                **video}
 
     # Gagal full: pakai yang lebih panjang antara ringkasan & hasil parsial,
     # tapi status tetap partial (jujur — bukan isi lengkap).
@@ -225,4 +289,5 @@ def get_full_content(article, fetcher):
     if len(feed_text) > len(best):
         best = feed_text
     return {"content": best, "content_status": "partial",
-            "content_source": "summary", "content_chars": len(best)}
+            "content_source": "summary", "content_chars": len(best),
+            **video}

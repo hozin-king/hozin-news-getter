@@ -92,9 +92,15 @@ def main():
         if s.get("status") == "probation" and s["ok_streak"] >= PROMOTE_STREAK:
             s["status"] = "active"
             print(f"[auto] {name}: naik status -> active", flush=True)
+        # Batas per sumber bisa ditimpa per entri ("max_per_run") —
+        # berguna untuk sumber baru yang perlu mengejar antrean feed.
+        try:
+            cap = int(s.get("max_per_run") or MAX_PER_SOURCE)
+        except (TypeError, ValueError):
+            cap = MAX_PER_SOURCE
         fresh = 0
         for it in items:
-            if fresh >= MAX_PER_SOURCE:
+            if fresh >= cap:
                 break
             h = url_hash(it["link"])
             if h in seen:
@@ -113,6 +119,10 @@ def main():
             }
             if it.get("feed_content"):
                 art["feed_content"] = it["feed_content"]
+            # Penanda bahasa sumber (aditif) — dipakai translate.py untuk
+            # memilih artikel yang perlu diterjemahkan.
+            if s.get("lang"):
+                art["source_lang"] = s["lang"]
             new_articles.append(art)
         print(f"[auto] {name}: {len(items)} items, {fresh} new", flush=True)
 
