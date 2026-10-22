@@ -344,6 +344,14 @@ def main():
         raw_desc = (a.get("description") or "").strip()
         desc = (news_lib.html_to_text(raw_desc) if "<" in raw_desc
                 else raw_desc)[:500]
+        # Deskripsi feed bisa RUSAK sebagai ringkasan: mis. feed Geeky
+        # Gadgets yang description-nya diawali tag <img> raksasa lalu
+        # terpotong 500 char di tengah tag (tak ada teks sama sekali,
+        # html_to_text tak bisa membuang tag tak tertutup). Bila hasil
+        # bersih masih mengandung tag / terlalu pendek, ambil ringkasan
+        # dari ISI artikel (paragraf pembuka — teks bersih dari enrich).
+        if "<" in desc or len(desc) < 40:
+            desc = content[:500]
         try:
             res, engine = translate_item(a.get("title", ""), desc,
                                          content, mode)
