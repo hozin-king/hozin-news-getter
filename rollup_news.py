@@ -1,22 +1,32 @@
 #!/usr/bin/env python3
 """Rollup berita: data/articles.jsonl -> data/latest.json + arsip harian.
 
-Prinsip data (biar repo tidak bengkak), pola sama dengan Pinterest:
+Keluaran:
   - data/latest.json : MAKS 100 artikel terbaru (berdasarkan fetched_at,
-    terbaru dulu).
+    terbaru dulu). TETAP RINGKAS (aplikasi memuatnya tiap dibuka): kini
+    ditambah field categories + content_status + content_chars, TANPA
+    badan isi.
+  - data/full.json : 100 artikel yang sama DENGAN isi lengkap (content)
+    dari cache enrich (data/fulltext.jsonl) — untuk layar baca artikel.
+  - data/categories/<slug>.json : per kategori (categories.json), MAKS
+    100 artikel berkategori itu dari kolam 300 artikel terbaru, DENGAN
+    isi lengkap.
   - data/archive/<TAHUN>/<BULAN>/<TANGGAL>.jsonl : artikel per tanggal
-    fetched_at, 1 JSON per baris, MAKS 500 baris/hari (yang terbaru
-    yang dipertahankan). Dibangun ulang dari articles.jsonl tiap run,
-    jadi isinya selalu konsisten dengan sumber.
+    fetched_at, 1 JSON per baris, MAKS 500 baris/hari. Dibangun ulang
+    dari articles.jsonl tiap run; kini membawa categories +
+    content_status (badan isi TIDAK diarsipkan — ada di fulltext.jsonl).
   - data/archive/index.json : jumlah artikel per hari / minggu ISO /
     bulan / tahun, dibuat ulang dari file arsip yang ada.
 
-Tidak mengubah perilaku getter1/getter2 — skrip ini hanya membaca
-articles.jsonl. Dijalankan oleh workflow news-rollup.yml.
+Artikel lama yang belum lewat enrich tetap diklasifikasikan dari
+judul+ringkasannya (news_lib.classify) dan content_status-nya
+'partial' sampai enrich memprosesnya.
+Dijalankan oleh workflow news-rollup.yml setelah enrich.py.
 Hanya stdlib — tanpa dependensi.
 """
 import json
 import os
+import sys
 from datetime import datetime, timezone, timedelta
 
 WIB = timezone(timedelta(hours=7))
@@ -24,9 +34,18 @@ BASE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(BASE, "data")
 ARTICLES_FILE = os.path.join(DATA, "articles.jsonl")
 LATEST_FILE = os.path.join(DATA, "latest.json")
+FULL_FILE = os.path.join(DATA, "full.json")
+CACHE_FILE = os.path.join(DATA, "fulltext.jsonl")
+CATEGORIES_DIR = os.path.join(DATA, "categories")
 ARCHIVE_DIR = os.path.join(DATA, "archive")
 MAX_LATEST = 100
 MAX_ARCHIVE_PER_DAY = 500
+MAX_PER_CATEGORY = 100
+CATEGORY_POOL = 300
+
+sys.path.insert(0, BASE)
+from common import url_hash  # noqa: E402
+import news_lib  # noqa: E402
 
 
 def load_articles():
@@ -47,6 +66,43 @@ def load_articles():
     return items
 
 
+def load_fulltext():
+    """Cache enrich: {url_hash: {content, content_status, categories}}."""
+    cache = {}
+    if os.path.exists(CACHE_FILE):
+        with open(CACHE_FILE, encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                try:
+                    row = json.loads(line)
+                    cache[row["hash"]] = row
+                except (json.JSONDecodeError, KeyError):
+                    continue
+    return cache
+
+
+def decorate(article, cache):
+    """Salin artikel + tempel categories/content_status/content_chars
+    (+ content bila with_content). Tidak mengubah dict asal."""
+    a = dict(article)
+    a.pop("feed_content", None)  # bahan mentah, bukan konsumsi aplikasi
+    row = cache.get(url_hash(a.get("link", "")))
+    if row:
+        a["categories"] = row.get("categories", [])
+        a["content_status"] = row.get("content_status", "partial")
+        a["content_chars"] = row.get("content_chars", 0)
+        content = row.get("content", "")
+    else:
+        a["categories"] = news_lib.classify(
+            a.get("title", ""), a.get("description", ""))
+        a["content_status"] = "partial"
+        a["content_chars"] = len(a.get("description", ""))
+        content = a.get("description", "")
+    return a, content
+
+
 def article_day(a):
     """Tanggal (YYYY-MM-DD) dari fetched_at; '' bila tidak valid."""
     ts = str(a.get("fetched_at") or "")
@@ -64,16 +120,46 @@ def main():
     articles.sort(key=lambda a: str(a.get("fetched_at") or ""), reverse=True)
 
     now = datetime.now(WIB).isoformat(timespec="seconds")
+    cache = load_fulltext()
 
-    # ---- latest: 100 terbaru ----
-    latest = articles[:MAX_LATEST]
+    # ---- dekorasi: categories + status isi (+ isi untuk varian full) ----
+    slim = []        # tanpa content — untuk latest & arsip
+    withfull = []    # dengan content — untuk full.json & per-kategori
+    for a in articles:
+        s, content = decorate(a, cache)
+        slim.append(s)
+        wf = dict(s)
+        wf["content"] = content
+        withfull.append(wf)
+
+    # ---- latest: 100 terbaru (ringkas) ----
+    latest = slim[:MAX_LATEST]
     with open(LATEST_FILE, "w", encoding="utf-8") as f:
         json.dump({"updated_at": now, "count": len(latest),
                    "articles": latest}, f, ensure_ascii=False, indent=1)
 
-    # ---- arsip per hari (bangun ulang dari sumber) ----
+    # ---- full: 100 yang sama, dengan isi lengkap ----
+    full = withfull[:MAX_LATEST]
+    with open(FULL_FILE, "w", encoding="utf-8") as f:
+        json.dump({"updated_at": now, "count": len(full),
+                   "articles": full}, f, ensure_ascii=False, indent=1)
+
+    # ---- per kategori: dari kolam artikel terbaru, dengan isi ----
+    os.makedirs(CATEGORIES_DIR, exist_ok=True)
+    cat_counts = {}
+    for slug in news_lib.load_categories():
+        items = [a for a in withfull[:CATEGORY_POOL]
+                 if slug in a.get("categories", [])][:MAX_PER_CATEGORY]
+        cat_counts[slug] = len(items)
+        with open(os.path.join(CATEGORIES_DIR, f"{slug}.json"), "w",
+                  encoding="utf-8") as f:
+            json.dump({"updated_at": now, "category": slug,
+                       "count": len(items), "articles": items},
+                      f, ensure_ascii=False, indent=1)
+
+    # ---- arsip per hari (bangun ulang dari sumber; tanpa badan isi) ----
     by_day = {}
-    for a in articles:
+    for a in slim:
         day = article_day(a)
         if day:
             by_day.setdefault(day, []).append(a)
@@ -128,7 +214,8 @@ def main():
         json.dump(index, f, ensure_ascii=False, indent=1)
 
     print(f"SELESAI: {len(articles)} artikel dibaca; latest={len(latest)}; "
-          f"arsip {len(by_day)} hari, total terarsip={index['total']}")
+          f"arsip {len(by_day)} hari, total terarsip={index['total']}; "
+          f"cache fulltext={len(cache)}; per-kategori={cat_counts}")
 
 
 if __name__ == "__main__":

@@ -21,6 +21,24 @@ Repo ini **publik** supaya GitHub Actions minutes-nya unlimited.
 - `data/articles.jsonl` — 1 JSON per baris: `source`, `getter`, `title`, `link`, `pubDate`, `description`, `fetched_at`
 - `data/seen.json` — hash URL yang udah diambil (dibatasi 5000 terakhir)
 
+## Kategori sensitif + isi FULL
+
+- `enrich.py` — jalan di workflow `news-rollup.yml` (tiap jam, sebelum
+  rollup). Untuk tiap artikel BARU: ambil isi selengkap mungkin —
+  `content:encoded` dari feed dulu, kalau tidak ada unduh halaman
+  artikelnya (1 request/artikel) dan ekstrak badan artikelnya. Hasil +
+  status jujurnya (`content_status: full|partial`) dicache di
+  `data/fulltext.jsonl`; artikel yang gagal full tetap masuk dengan
+  ringkasannya sebagai `partial`, tidak pernah ditandai full.
+- `categories.json` — daftar kata kunci kategori (mudah diedit):
+  `kebakaran` (termasuk karhutla), `korupsi`, `pemerintahan`,
+  `hukum-kriminal`, `bencana`. Klasifikasi di `news_lib.py` berbasis
+  kata kunci Bahasa Indonesia pada judul + ringkasan + isi.
+- Keluaran rollup: `data/latest.json` tetap ringkas (ditambah
+  `categories`, `content_status`, `content_chars`); isi lengkap ada di
+  `data/full.json` (100 terbaru) dan `data/categories/<slug>.json`
+  (maks 100 per kategori).
+
 ## Tambah sumber
 
 Edit `SOURCES` di `getter1.py` / `getter2.py`. Format: `("nama_sumber", "https://...rss")`.

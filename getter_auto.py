@@ -101,7 +101,7 @@ def main():
                 continue
             seen.add(h)
             fresh += 1
-            new_articles.append({
+            art = {
                 "source": name,
                 "getter": "auto",
                 "title": it["title"],
@@ -110,7 +110,10 @@ def main():
                 "description": it["description"],
                 "fetched_at": time.strftime("%Y-%m-%dT%H:%M:%S+07:00",
                                             time.localtime()),
-            })
+            }
+            if it.get("feed_content"):
+                art["feed_content"] = it["feed_content"]
+            new_articles.append(art)
         print(f"[auto] {name}: {len(items)} items, {fresh} new", flush=True)
 
     if new_articles:

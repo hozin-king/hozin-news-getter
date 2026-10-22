@@ -57,8 +57,13 @@ def fetch(url, timeout=25, retries=3):
     raise last_err
 
 
+CONTENT_ENCODED = "{http://purl.org/rss/1.0/modules/content/}encoded"
+
+
 def parse_rss(xml_bytes):
-    """Return list of dicts: title, link, pubDate, description."""
+    """Return list of dicts: title, link, pubDate, description,
+    feed_content (isi dari <content:encoded> bila feed menyediakannya,
+    HTML mentah, '' bila tidak ada). Atom <entry> juga ditangani."""
     items = []
     try:
         root = ET.fromstring(xml_bytes)
@@ -77,6 +82,34 @@ def parse_rss(xml_bytes):
             "link": link,
             "pubDate": text("pubDate"),
             "description": text("description")[:500],
+            "feed_content": text(CONTENT_ENCODED)[:60000],
+        })
+    if items:
+        return items
+    # Atom: <entry> dengan namespace atom
+    ns = {"a": "http://www.w3.org/2005/Atom",
+          "c": "http://purl.org/rss/1.0/modules/content/"}
+    for entry in root.iter("{http://www.w3.org/2005/Atom}entry"):
+        def atext(tag):
+            el = entry.find(f"a:{tag}", ns)
+            return (el.text or "").strip() if el is not None and el.text else ""
+        title = atext("title")
+        link = ""
+        for el in entry.findall("a:link", ns):
+            if el.get("rel") in (None, "alternate") and el.get("href"):
+                link = el.get("href")
+                break
+        if not title or not link:
+            continue
+        content_el = entry.find("a:content", ns)
+        feed_content = ((content_el.text or "") if content_el is not None
+                        else "")
+        items.append({
+            "title": title,
+            "link": link,
+            "pubDate": atext("published") or atext("updated"),
+            "description": atext("summary")[:500],
+            "feed_content": feed_content[:60000],
         })
     return items
 
@@ -120,7 +153,7 @@ def run_getter(name, sources):
                 continue
             seen.add(h)
             fresh += 1
-            new_articles.append({
+            art = {
                 "source": source_name,
                 "getter": name,
                 "title": it["title"],
@@ -128,7 +161,12 @@ def run_getter(name, sources):
                 "pubDate": it["pubDate"],
                 "description": it["description"],
                 "fetched_at": time.strftime("%Y-%m-%dT%H:%M:%S+07:00", time.localtime()),
-            })
+            }
+            # content:encoded dari feed (bahan isi FULL jalur feed di
+            # enrich.py) — hanya disimpan bila feed memang memberikannya.
+            if it.get("feed_content"):
+                art["feed_content"] = it["feed_content"]
+            new_articles.append(art)
         print(f"[{name}] {source_name}: {len(items)} items, {fresh} new", flush=True)
 
     if new_articles:
