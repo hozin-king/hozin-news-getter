@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T20:31:48+07:00",
+ "updated_at": "2026-10-23T01:21:08+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -5551,20 +5551,6 @@
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
    "kamera": [
     {
-     "nama": "(BELMERA) GT BDR SELAMAT 3",
-     "lokasi": "BANDAR SELAMAT - AMPLAS",
-     "stream": "https://jmlive.jasamarga.com/hls/24/7610ef6e-c39a-4292-90d0-b9b24ceb2974/index.m3u8",
-     "lat": 3.5962864,
-     "lon": 98.7236864
-    },
-    {
-     "nama": "(BELMERA) KM 18+000 utara",
-     "lokasi": "TJ MULIA - HAJI ANIF",
-     "stream": "https://jmlive.jasamarga.com/hls/24/81cda479-f41e-49a2-9f3b-66cff17a1183/index.m3u8",
-     "lat": 3.6300894,
-     "lon": 98.7177103
-    },
-    {
      "nama": "(BELMERA) KM 31+000 selatan",
      "lokasi": "AMPLAS - TJ MORAWA",
      "stream": "https://jmlive.jasamarga.com/hls/24/cc4df52a-febe-4a24-93ab-850f44c45c92/index.m3u8",
@@ -6069,32 +6055,11 @@
      "lon": 107.426247596741
     },
     {
-     "nama": "CIPULARANG KM 087+200",
-     "lokasi": "JATILUHUR - PADALARANG",
-     "stream": "https://jmlive.jasamarga.com/hls/7/27aa1575-35c2-4c19-969c-557d34b592f7/index.m3u8",
-     "lat": -6.59367387599848,
-     "lon": 107.429895401001
-    },
-    {
      "nama": "CIPULARANG KM 091+000",
      "lokasi": "JATILUHUR - PADALARANG",
      "stream": "https://jmlive.jasamarga.com/hls/7/7c1ced4f-7b89-40d5-b4d7-b9530d363280/index.m3u8",
      "lat": -6.6308135,
      "lon": 107.4241965
-    },
-    {
-     "nama": "CIPULARANG KM 099+700",
-     "lokasi": "JATILUHUR - PADALARANG",
-     "stream": "https://jmlive.jasamarga.com/hls/7/4f10425e-e2b0-4a53-bbd9-2bed95fa63f7/index.m3u8",
-     "lat": -6.69921811872909,
-     "lon": 107.433757781982
-    },
-    {
-     "nama": "CIPULARANG KM 101+900",
-     "lokasi": "JATILUHUR - PADALARANG",
-     "stream": "https://jmlive.jasamarga.com/hls/7/daa7d018-9258-4441-88a9-46a1efe7ebf7/index.m3u8",
-     "lat": -6.72487608488061,
-     "lon": 107.434701919556
     }
    ]
   },
@@ -6769,13 +6734,6 @@
      "lon": 106.895195
     },
     {
-     "nama": "JAGORAWI KM 17+500",
-     "lokasi": "CIMANGGIS - GUNUNG PUTRI",
-     "stream": "https://jmlive.jasamarga.com/hls/1/5c40694b-5d63-4131-bb3e-f65405d478e0/index.m3u8",
-     "lat": -6.400752,
-     "lon": 106.897517
-    },
-    {
      "nama": "JAGORAWI KM 24+000B | SS GUNUNG PUTRI",
      "lokasi": "CIMANGGIS - GUNUNG PUTRI",
      "stream": "https://jmlive.jasamarga.com/hls/1/653ac875-54a4-4406-8366-7437a1893942/index.m3u8",
@@ -7068,13 +7026,6 @@
      "stream": "https://jmlive.jasamarga.com/hls/25/cf650bea-b4f4-45d4-ae07-3945ac4c4629/index.m3u8",
      "lat": 3.489515,
      "lon": 99.1001136
-    },
-    {
-     "nama": "(JMKT) KM 77+000",
-     "lokasi": "T MENGKUDU - SEI RAMPAH",
-     "stream": "https://jmlive.jasamarga.com/hls/25/9133098f-5d76-40ca-8df6-87ca5055c24f/index.m3u8",
-     "lat": 3.4587904,
-     "lon": 99.1322323
     },
     {
      "nama": "(JMKT) KM 78+000",
@@ -7873,13 +7824,6 @@
      "stream": "https://jmlive.jasamarga.com/hls/3/9406a9a1-2e7a-4fe9-ae7d-db6f11722f12/index.m3u8",
      "lat": -6.10429546875773,
      "lon": 106.699036359787
-    },
-    {
-     "nama": "SEDYATMO KM 32+000",
-     "lokasi": "CENGKARENG - BENDA",
-     "stream": "https://jmlive.jasamarga.com/hls/3/5a4677ae-f7b2-4958-8d4d-e2ecf7315c9c/index.m3u8",
-     "lat": -6.11147498684529,
-     "lon": 106.689069271088
     }
    ]
   },
@@ -7959,13 +7903,6 @@
      "lon": 110.369043946266
     },
     {
-     "nama": "KM 421 A + 400 - A/Med (Ujung Krapyak)",
-     "lokasi": "KRAPYAK - SS KRAPYAK",
-     "stream": "https://jmlive.jasamarga.com/hls/13/7d6671ef-9fc1-4290-abf2-f21d38cc8554/index.m3u8",
-     "lat": -6.98802550753685,
-     "lon": 110.368201732635
-    },
-    {
      "nama": "KM 424 + 600 - A/B (Stikubank)",
      "lokasi": "SS KRAPYAK - JATINGALEH",
      "stream": "https://jmlive.jasamarga.com/hls/13/b6938b1f-ea8e-4841-b3e4-b2a872f390f3/index.m3u8",
@@ -7985,13 +7922,6 @@
      "stream": "https://jmlive.jasamarga.com/hls/13/e3ec3bc3-6503-4d06-a5ed-b81c6f202980/index.m3u8",
      "lat": -7.03090229100678,
      "lon": 110.413852930069
-    },
-    {
-     "nama": "KM 428 + 000 - A/Med (JPO Jatingaleh)",
-     "lokasi": "JATINGALEH - SS JANGLI",
-     "stream": "https://jmlive.jasamarga.com/hls/13/f2a78e76-405a-438a-80a6-d79f11836d6e/index.m3u8",
-     "lat": -7.03134418936148,
-     "lon": 110.423015356064
     },
     {
      "nama": "KM 429 + 000 - Lingkar Jangli - Jatingaleh 1",
