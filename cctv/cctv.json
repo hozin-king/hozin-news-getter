@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-22T14:09:41+07:00",
+ "updated_at": "2026-10-22T20:31:48+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -2525,6 +2525,13 @@
      "stream": "https://pelindung.bandung.go.id:3443/video/DISHUB/spsriwijaya.m3u8",
      "lat": -6.93789,
      "lon": 107.612768
+    },
+    {
+     "nama": "SP SULANJANA",
+     "lokasi": "Kota Bandung",
+     "stream": "https://pelindung.bandung.go.id:3443/video/DISHUB/spsulanjana.m3u8",
+     "lat": -6.900167,
+     "lon": 107.612457
     },
     {
      "nama": "SP SUMATRA-JAWA",
@@ -6039,48 +6046,6 @@
      "stream": "https://streaming-cct.co.id/LiveApp/streams/859389239238521120834932.m3u8",
      "lat": -6.375688,
      "lon": 106.994273
-    },
-    {
-     "nama": "KM. 64+400",
-     "lokasi": "KM. 64+400",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/167013141883764986350307.m3u8",
-     "lat": -6.364677,
-     "lon": 107.005833
-    },
-    {
-     "nama": "KM. 65+800",
-     "lokasi": "KM. 65+800",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/380686335677885377945037.m3u8",
-     "lat": -6.351165,
-     "lon": 107.021763
-    },
-    {
-     "nama": "KM. 68+000",
-     "lokasi": "KM. 68+000",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/507909711721836488619938.m3u8",
-     "lat": -6.3349,
-     "lon": 107.033873
-    },
-    {
-     "nama": "KM. 70+400",
-     "lokasi": "KM. 70+400",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/871311996681478545431857.m3u8",
-     "lat": -6.318107,
-     "lon": 107.04796
-    },
-    {
-     "nama": "KM. 72+600",
-     "lokasi": "KM. 72+600",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/506841805129051037322084.m3u8",
-     "lat": -6.31501,
-     "lon": 107.066907
-    },
-    {
-     "nama": "KM. 73+400",
-     "lokasi": "KM. 73+400",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/222170400250068902122953.m3u8",
-     "lat": -6.309333,
-     "lon": 107.071633
     }
    ]
   },
@@ -7630,13 +7595,6 @@
      "lon": null
     },
     {
-     "nama": "DUMAI KM 11+050 A A",
-     "lokasi": "DUMAI KM 11+050 A A",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/ytZvQuFQwI5c1670838377222.m3u8",
-     "lat": 1.5760902,
-     "lon": 101.3960118
-    },
-    {
      "nama": "DUMAI KM 17+050 B B",
      "lokasi": "DUMAI KM 17+050 B B",
      "stream": "https://pub.hk-opt.com/LiveApp/streams/FFTVIwpyp82d1670838620217.m3u8",
@@ -8050,25 +8008,11 @@
      "lon": 110.433143377304
     },
     {
-     "nama": "KM 430 C + 200 - C/Med (Jembatan Jangli 1)",
-     "lokasi": "SS JANGLI - SS TEMBALANG",
-     "stream": "https://jmlive.jasamarga.com/hls/13/999e106a-9ca0-4737-a2a8-8d5dea9cb6a9/index.m3u8",
-     "lat": -7.02482215290473,
-     "lon": 110.433341860771
-    },
-    {
      "nama": "KM 434 B + 400 - B/B (Ujung Srondol)",
      "lokasi": "MUKTIHARJO - GAYAM SARI",
      "stream": "https://jmlive.jasamarga.com/hls/13/9af23341-9d67-442e-9895-3e4173073efb/index.m3u8",
      "lat": -7.06080135566269,
      "lon": 110.414518117905
-    },
-    {
-     "nama": "KM 436 C + 350 - C/A (Jembatan Soetta)",
-     "lokasi": "MUKTIHARJO - GAYAM SARI",
-     "stream": "https://jmlive.jasamarga.com/hls/13/233ba0da-e31a-4edc-b12d-d46cf26c71a8/index.m3u8",
-     "lat": -6.97929313286831,
-     "lon": 110.450963973999
     },
     {
      "nama": "KM 438 C + 800 - C/Med (Interchange Kaligawe)",
