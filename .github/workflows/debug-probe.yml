@@ -1,0 +1,31 @@
+name: Debug Probe (sementara)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Probe geeky-gadgets dari runner
+        run: |
+          UA="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"
+          URL="https://www.geeky-gadgets.com/esp-mosaico-dev-board-specs/"
+          echo "=== 1. HEAD artikel ==="
+          curl -sI --max-time 30 -A "$UA" "$URL" | head -15
+          echo "=== 2. GET artikel: ukuran + title ==="
+          curl -sL --max-time 40 -A "$UA" "$URL" -o /tmp/page.html -w "http=%{http_code} bytes=%{size_download}\n"
+          grep -o "<title>[^<]*" /tmp/page.html | head -2
+          head -c 300 /tmp/page.html; echo
+          echo "=== 3. WP REST API by slug ==="
+          curl -sL --max-time 40 -A "$UA" "https://www.geeky-gadgets.com/wp-json/wp/v2/posts?slug=esp-mosaico-dev-board-specs&_fields=content" -o /tmp/wp.json -w "http=%{http_code} bytes=%{size_download}\n"
+          head -c 300 /tmp/wp.json; echo
+          echo "=== 4. Varian AMP ==="
+          curl -sL --max-time 40 -A "$UA" "${URL}?amp=1" -o /tmp/amp.html -w "http=%{http_code} bytes=%{size_download}\n"
+          grep -o "<title>[^<]*" /tmp/amp.html | head -2
+          echo "=== 5. Via r.jina.ai ==="
+          curl -sL --max-time 60 "https://r.jina.ai/$URL" -o /tmp/jina.txt -w "http=%{http_code} bytes=%{size_download}\n"
+          head -c 300 /tmp/jina.txt; echo
