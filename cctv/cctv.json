@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T01:21:08+07:00",
+ "updated_at": "2026-10-23T05:09:33+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -5747,20 +5747,6 @@
      "lon": 98.53286773
     },
     {
-     "nama": "BINSA KM 26+093 A",
-     "lokasi": "BINSA KM 26+093 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/kZ1u52lZgrXk1677687597862.m3u8",
-     "lat": 3.71325371,
-     "lon": 98.52452325
-    },
-    {
-     "nama": "BINSA KM 26+093 B",
-     "lokasi": "BINSA KM 26+093 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/gjbsCPhzEcWx1677687566129.m3u8",
-     "lat": 3.71325371,
-     "lon": 98.52452325
-    },
-    {
      "nama": "BINSA KM 27+150 A",
      "lokasi": "BINSA KM 27+150 A",
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/qyXzM6EOmrll1677687535082.m3u8",
@@ -7635,48 +7621,6 @@
      "stream": "https://pub.hk-opt.com/LiveApp/streams/rVvBSUpN1bvk1670834995793.m3u8",
      "lat": 0.8925231,
      "lon": 101.2274316
-    },
-    {
-     "nama": "PERMAI KM 39+250 B",
-     "lokasi": "PERMAI KM 39+250 B",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/t5dszqUYGvdG1670835279770.m3u8",
-     "lat": 0.9279946,
-     "lon": 101.22918
-    },
-    {
-     "nama": "PERMAI KM 40+250 A",
-     "lokasi": "PERMAI KM 40+250 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/zzEKMWCmYHHA1670835307608.m3u8",
-     "lat": 0.8925231,
-     "lon": 101.2274316
-    },
-    {
-     "nama": "PERMAI KM 44+250 A",
-     "lokasi": "PERMAI KM 44+250 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/hVYRd0QS4ppN1670835624615.m3u8",
-     "lat": 0.9279946,
-     "lon": 101.22918
-    },
-    {
-     "nama": "PERMAI KM 44+250 B",
-     "lokasi": "PERMAI KM 44+250 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/9KMc6zuozDu41670835654780.m3u8",
-     "lat": 0.9279946,
-     "lon": 101.22918
-    },
-    {
-     "nama": "PERMAI KM 46+250 A",
-     "lokasi": "PERMAI KM 46+250 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/aNjzYDUkLs8o1670835771085.m3u8",
-     "lat": 0.9455942,
-     "lon": 101.2336044
-    },
-    {
-     "nama": "PERMAI KM 46+250 B",
-     "lokasi": "PERMAI KM 46+250 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/NZLbZnBM9XiG1670835812195.m3u8",
-     "lat": 0.9455942,
-     "lon": 101.2336044
     },
     {
      "nama": "PERMAI KM 51+250 B",
