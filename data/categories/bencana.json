@@ -1,0 +1,71 @@
+{
+ "updated_at": "2026-10-22T12:34:22+07:00",
+ "category": "bencana",
+ "count": 4,
+ "articles": [
+  {
+   "source": "liputan6",
+   "getter": "getter2",
+   "title": "2 TNI Aktif di Pusaran Korupsi Dana Bencana BNPB",
+   "link": "https://www.liputan6.com/news/read/8318601/2-tni-aktif-di-pusaran-korupsi-dana-bencana-bnpb",
+   "pubDate": "Thu, 22 Oct 2026 06:06:10 +0700",
+   "description": "KPK menggandeng Puspom TNI dalam penanganan perkara.",
+   "fetched_at": "2026-10-22T00:58:49+07:00",
+   "categories": [
+    "bencana",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 52,
+   "content": "KPK menggandeng Puspom TNI dalam penanganan perkara."
+  },
+  {
+   "source": "jawapos",
+   "getter": "getter1",
+   "title": "KPK Surati Panglima, Beberkan Konstruksi Perkara Dugaan Keterlibatan 2 TNI Aktif di Kasus BNPB",
+   "link": "https://www.jawapos.com/kasuistika/2610220091/kpk-surati-panglima-beberkan-konstruksi-perkara-dugaan-keterlibatan-2-tni-aktif-di-kasus-bnpb",
+   "pubDate": "Thu, 22 Oct 2026 07:20:46 GMT",
+   "description": "KPK mengungkap dugaan keterlibatan prajurit TNI dalam korupsi dana BNPB, surat telah dikirim ke Panglima TNI.",
+   "fetched_at": "2026-10-22T00:58:48+07:00",
+   "categories": [
+    "bencana",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 109,
+   "content": "KPK mengungkap dugaan keterlibatan prajurit TNI dalam korupsi dana BNPB, surat telah dikirim ke Panglima TNI."
+  },
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "BNPB Buka Pintu Bantuan Asing untuk Karhutla, Jepang dan Singapura Tawarkan Dukungan",
+   "link": "https://www.inews.id/news/nasional/bnpb-buka-pintu-bantuan-asing-untuk-karhutla-jepang-dan-singapura-tawarkan-dukungan",
+   "pubDate": "Wed, 21 Oct 2026 20:48:00 +0700",
+   "description": "BNPB terbuka menerima bantuan asing untuk menangani karhutla. Jepang dan Singapura menawarkan dukungan, yang akan disesuaikan dengan kebutuhan Indonesia.",
+   "fetched_at": "2026-10-21T22:41:10+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 153,
+   "content": "BNPB terbuka menerima bantuan asing untuk menangani karhutla. Jepang dan Singapura menawarkan dukungan, yang akan disesuaikan dengan kebutuhan Indonesia."
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "BNPB: Indonesia Terbuka Bantuan Asing Tangani Karhutla, Ada Jepang hingga Singapura",
+   "link": "https://nasional.sindonews.com/read/1763259/15/bnpb-indonesia-terbuka-bantuan-asing-tangani-karhutla-ada-jepang-hingga-singapura-1792591849",
+   "pubDate": "Wed, 21 Oct 2026 22:15:47 +0700",
+   "description": "Badan Nasional Penanggulangan Bencana (BNPB) menyatakan terbuka terhadap bantuan asing untuk menangani kebakaran hutan dan lahan (karhutla) di Indonesia. Sejumlah negara tersebut di antaranya Jepang hingga Singapura. Sebelumnya, Malaysia telah menawarkan bantuan kepada Indonesia.",
+   "fetched_at": "2026-10-21T22:41:09+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 280,
+   "content": "Badan Nasional Penanggulangan Bencana (BNPB) menyatakan terbuka terhadap bantuan asing untuk menangani kebakaran hutan dan lahan (karhutla) di Indonesia. Sejumlah negara tersebut di antaranya Jepang hingga Singapura. Sebelumnya, Malaysia telah menawarkan bantuan kepada Indonesia."
+  }
+ ]
+}
