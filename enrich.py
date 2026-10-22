@@ -80,6 +80,11 @@ def main():
         h = url_hash(a.get("link", ""))
         if h and h not in cache:
             todo.append((h, a))
+    # TERBARU DULU: articles.jsonl urut append (lama -> baru), sedangkan
+    # latest.json & file kategori menampilkan yang terbaru — artikel
+    # segar harus lebih dulu diperkaya, antrean lama menyusul.
+    todo.sort(key=lambda ha: str(ha[1].get("fetched_at") or ""),
+              reverse=True)
     print(f"[enrich] {len(articles)} artikel; cache {len(cache)}; "
           f"belum diproses {len(todo)}; batas run {MAX_PER_RUN}")
 
