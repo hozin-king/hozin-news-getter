@@ -24,6 +24,7 @@ import html
 import json
 import os
 import re
+import urllib.parse
 from html.parser import HTMLParser
 
 BASE = os.path.dirname(os.path.abspath(__file__))
@@ -242,6 +243,31 @@ FULL_MIN_CHARS = 600      # isi di bawah ini tidak layak disebut full
 FEED_MIN_CHARS = 600      # feed_content minimal untuk dianggap full
 
 
+def wp_api_content(article, fetcher):
+    """Fallback WordPress REST API: GET /wp-json/wp/v2/posts?slug=<slug>.
+
+    Dipakai bila halaman artikel tidak bisa diekstrak (mis. ditantang
+    anti-bot Cloudflare dari IP runner GitHub — terbukti pada
+    geeky-gadgets.com: halaman 403, API 200). Slug = segmen terakhir
+    URL artikel. Return (teks_paragraf, video_dict); ('', {}) bila
+    bukan WordPress / tidak ketemu / gagal.
+    """
+    link = (article.get("link") or "").strip()
+    m = re.match(r"(https?://[^/]+)", link)
+    slug = link.rstrip("/").rsplit("/", 1)[-1].split("?")[0].split("#")[0]
+    if not m or not slug:
+        return "", dict(_VIDEO_EMPTY)
+    api = (f"{m.group(1)}/wp-json/wp/v2/posts"
+           f"?slug={urllib.parse.quote(slug)}&_fields=content")
+    try:
+        raw = fetcher(api)
+        data = json.loads(raw.decode("utf-8", "ignore"))
+        rendered = data[0]["content"]["rendered"]
+    except Exception:
+        return "", dict(_VIDEO_EMPTY)
+    return html_to_paragraphs(rendered), extract_video(rendered)
+
+
 def get_full_content(article, fetcher):
     """Tentukan isi artikel selengkap mungkin.
 
@@ -281,11 +307,23 @@ def get_full_content(article, fetcher):
                 "content_source": "page", "content_chars": len(page_text),
                 **video}
 
+    # (b2) fallback WordPress REST API — halaman artikel ditantang
+    # anti-bot / ekstraksi gagal, tapi API resmi situs sering lolos.
+    wp_text, wp_video = wp_api_content(article, fetcher)
+    if wp_video["video_url"]:
+        video = wp_video
+    if len(wp_text) >= FULL_MIN_CHARS and len(wp_text) > len(desc):
+        return {"content": wp_text, "content_status": "full",
+                "content_source": "wp-api", "content_chars": len(wp_text),
+                **video}
+
     # Gagal full: pakai yang lebih panjang antara ringkasan & hasil parsial,
     # tapi status tetap partial (jujur — bukan isi lengkap).
     best = desc
     if len(page_text) > len(best):
         best = page_text
+    if len(wp_text) > len(best):
+        best = wp_text
     if len(feed_text) > len(best):
         best = feed_text
     return {"content": best, "content_status": "partial",
