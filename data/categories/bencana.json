@@ -1,71 +1,163 @@
 {
- "updated_at": "2026-10-22T12:37:09+07:00",
+ "updated_at": "2026-10-22T15:22:23+07:00",
  "category": "bencana",
- "count": 4,
+ "count": 10,
  "articles": [
   {
-   "source": "liputan6",
-   "getter": "getter2",
-   "title": "2 TNI Aktif di Pusaran Korupsi Dana Bencana BNPB",
-   "link": "https://www.liputan6.com/news/read/8318601/2-tni-aktif-di-pusaran-korupsi-dana-bencana-bnpb",
-   "pubDate": "Thu, 22 Oct 2026 06:06:10 +0700",
-   "description": "KPK menggandeng Puspom TNI dalam penanganan perkara.",
-   "fetched_at": "2026-10-22T00:58:49+07:00",
-   "categories": [
-    "bencana",
-    "korupsi"
-   ],
-   "content_status": "partial",
-   "content_chars": 52,
-   "content": "KPK menggandeng Puspom TNI dalam penanganan perkara."
-  },
-  {
-   "source": "jawapos",
-   "getter": "getter1",
-   "title": "KPK Surati Panglima, Beberkan Konstruksi Perkara Dugaan Keterlibatan 2 TNI Aktif di Kasus BNPB",
-   "link": "https://www.jawapos.com/kasuistika/2610220091/kpk-surati-panglima-beberkan-konstruksi-perkara-dugaan-keterlibatan-2-tni-aktif-di-kasus-bnpb",
-   "pubDate": "Thu, 22 Oct 2026 07:20:46 GMT",
-   "description": "KPK mengungkap dugaan keterlibatan prajurit TNI dalam korupsi dana BNPB, surat telah dikirim ke Panglima TNI.",
-   "fetched_at": "2026-10-22T00:58:48+07:00",
-   "categories": [
-    "bencana",
-    "korupsi"
-   ],
-   "content_status": "partial",
-   "content_chars": 109,
-   "content": "KPK mengungkap dugaan keterlibatan prajurit TNI dalam korupsi dana BNPB, surat telah dikirim ke Panglima TNI."
-  },
-  {
-   "source": "inews",
+   "source": "harianjogja",
    "getter": "auto",
-   "title": "BNPB Buka Pintu Bantuan Asing untuk Karhutla, Jepang dan Singapura Tawarkan Dukungan",
-   "link": "https://www.inews.id/news/nasional/bnpb-buka-pintu-bantuan-asing-untuk-karhutla-jepang-dan-singapura-tawarkan-dukungan",
-   "pubDate": "Wed, 21 Oct 2026 20:48:00 +0700",
-   "description": "BNPB terbuka menerima bantuan asing untuk menangani karhutla. Jepang dan Singapura menawarkan dukungan, yang akan disesuaikan dengan kebutuhan Indonesia.",
-   "fetched_at": "2026-10-21T22:41:10+07:00",
+   "title": "Angin Kencang Hambat Pemadaman Karhutla Gunung Lawu",
+   "link": "https://jateng.harianjogja.com/r-1275953/angin-kencang-hambat-pemadaman-karhutla-gunung-lawu",
+   "pubDate": "Thu, 22 Oct 2026 12:37:56 +0700",
+   "description": "Angin kencang menghambat pemadaman karhutla Gunung Lawu. Tim gabungan memperkuat sekat api untuk melindungi hutan dan objek wisata.",
+   "fetched_at": "2026-10-22T06:00:15+07:00",
    "categories": [
     "bencana",
     "kebakaran"
    ],
-   "content_status": "partial",
-   "content_chars": 153,
-   "content": "BNPB terbuka menerima bantuan asing untuk menangani karhutla. Jepang dan Singapura menawarkan dukungan, yang akan disesuaikan dengan kebutuhan Indonesia."
+   "content_status": "full",
+   "content_chars": 4976,
+   "content": "Harianjogja.com, KARANGANYAR—Angin kencang di kawasan Tawangmangu, Kabupaten Karanganyar, Jawa Tengah, menghambat upaya pemadaman kebakaran hutan dan lahan (karhutla) Gunung Lawu. Di tengah kendala cuaca yang membatasi operasi helikopter, tim gabungan memperkuat penyekatan api untuk mencegah kebakaran menjalar ke kawasan hutan alam, objek wisata, dan jaringan pipa air milik warga.\n\nPemadaman melalui jalur darat tetap dilanjutkan pada Kamis (22/10/2026). Petugas dikerahkan dari sejumlah posko untuk menyekat pergerakan api secara manual, terutama di titik-titik yang dinilai perlu dilindungi dari rambatan kebakaran.\n\nKepala Pelaksana Badan Penanggulangan Bencana Daerah (BPBD) Karanganyar, Sugiharjo, mengatakan angin kencang menjadi salah satu tantangan utama dalam penanganan kebakaran di lereng Gunung Lawu.\n\n“Anginnya luar biasa kencang di Tawangmangu. Kami berupaya semaksimal mungkin melakukan penyekatan agar api tidak menjalar ke kawasan yang harus dilindungi,” kata Sugiharjo saat memberikan keterangan, Rabu (21/10/2026) malam.\n\nDalam laporan penanganan hari ketujuh, tim gabungan mengoperasikan empat posko, yakni posko induk Gondosuli serta posko aju Cemara Kandang, Tambak, dan Cetho. Masing-masing posko menangani penyekatan atau pemadaman di lokasi yang telah ditentukan.\n\nDari posko induk Gondosuli, sebanyak 90 personel gabungan yang terdiri atas unsur TNI Yonif Teritorial Pembangunan (Yon TP), Brimob, Polres, dan relawan diberangkatkan untuk melakukan penyekatan manual di Banbanyu, Babadan, Gulungan, dan Pentongan atau Bukit Mapak.\n\nSementara itu, 20 personel dari posko aju Cemara Kandang melakukan penyekatan di jalur pendakian antara Pos 1 dan Pos 2. Di posko Tambak, sebanyak 136 personel dikerahkan untuk pemadaman dan penyekatan di Pos 4.\n\nAdapun 69 personel dari posko Cetho melakukan penyisiran dan penyekatan di sekitar jalur pipa air milik warga di Pos 3. Pengamanan jaringan pipa menjadi salah satu perhatian karena kebakaran berpotensi mengganggu fasilitas yang dibutuhkan masyarakat.\n\nSelain mengandalkan personel di darat, tim gabungan berupaya memadamkan api melalui operasi water bombing atau pengeboman air dari udara.\n\nBerdasarkan laporan penanganan pada Rabu, operasi tersebut dilaksanakan dalam dua sorti menggunakan dua helikopter. Laporan yang diterima menyebutkan kapasitas air mencapai 14.000 liter dan tujuh kali pengeboman air berhasil dilakukan.\n\nNamun, cuaca yang tidak mendukung menghambat kelanjutan operasi. Helikopter harus kembali sehingga upaya pemadaman dari udara belum dapat dilaksanakan secara maksimal.\n\nSugiharjo menyampaikan bahwa tim sebelumnya merencanakan hingga 12 kali pengeboman air. Selain itu, BPBD Karanganyar telah mengajukan permohonan modifikasi cuaca kepada Badan Meteorologi, Klimatologi, dan Geofisika (BMKG). Hingga Rabu malam, pihaknya belum menerima balasan atas pengajuan tersebut.\n\nUntuk penanganan pada Kamis (22/10/2026), tim gabungan menyiapkan sejumlah langkah lanjutan. Posko induk Gondosuli dijadwalkan membuat sekat api di sekitar Babadan dan Gulungan untuk melindungi kawasan hutan alam serta objek vital, termasuk Sakura Hills, Lawu Park, dan Embun Lawu.\n\nTim dari posko Cemara Kandang melanjutkan penyekatan di sekitar Pos 1. Sementara itu, personel posko Tambak dijadwalkan membuat ilaran atau jalur sekat api yang dimulai dari bagian bawah kawasan terdampak.\n\nDi posko Cetho, petugas melanjutkan pengamanan jaringan pipa air warga. Selain itu, metode bakar balik direncanakan diterapkan di sejumlah titik dengan mempertimbangkan kondisi lapangan dan keselamatan petugas.\n\nOperasi water bombing oleh tim dari Lanud juga direncanakan kembali dilakukan untuk mendukung pemadaman. Pelaksanaannya tetap bergantung pada kondisi cuaca dan kelayakan operasi penerbangan.\n\nSebelumnya, BPBD menerima laporan bahwa titik api mendekati sejumlah kawasan wisata di Tawangmangu, antara lain sekitar Gubuk Suwito, Sakura Hills, dan Lawu Park. Pergerakan api tersebut menjadi perhatian karena kebakaran dikhawatirkan menjalar ke kawasan hutan alam dan area wisata apabila tidak segera dikendalikan.\n\nPengelola The Lawu Park dan Sakura Hills, Parmin Sastro Wijono, melaporkan titik api di sekitar kawasan wisata tersebut dalam kondisi aman pada Kamis pagi. Meski demikian, pengelola bersama karyawan, vendor, dan warga Bulakrejo tetap melakukan kerja bakti untuk membersihkan area serta memperkuat sekat bakar di kawasan yang berbatasan langsung dengan hutan.\n\nPenanganan karhutla Gunung Lawu masih membutuhkan koordinasi berbagai unsur, baik melalui pemadaman manual maupun dukungan dari udara. Upaya penyekatan dilakukan untuk membatasi rambatan api sekaligus melindungi kawasan hutan, objek wisata, jaringan pipa air, dan lingkungan masyarakat di sekitar lereng gunung.\n\nCek Berita dan Artikel yang lain di Harian Jogja, dan edisi cetak versi elektronik kami hadir di Epaper Harian Jogja.\n\nJumali Jurnalis Harian Jogja, bagian dari Bisnis Indonesia Group menulis untuk media cetak dan online"
+  },
+  {
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "Bantu Warga Hadapi Kekeringan, Pertamina Patra Niaga Salurkan Air Bersih di Klaten",
+   "link": "https://www.harianjogja.com/r-1275963/bantu-warga-hadapi-kekeringan-pertamina-patra-niaga-salurkan-air-bersih-di-klaten",
+   "pubDate": "Thu, 22 Oct 2026 12:32:50 +0700",
+   "description": "Pertamina Patra Niaga menyalurkan 285.000 liter air bersih bagi sekitar 7.000 KK di 16 desa di Klaten untuk membantu warga terdampak kekeringan.",
+   "fetched_at": "2026-10-22T06:00:15+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "full",
+   "content_chars": 3808,
+   "content": "Bantu Warga Hadapi Kekeringan, Pertamina Patra Niaga Salurkan Air Bersih di Klaten\n\nPertamina Patra Niaga Regional Jawa Bagian Tengah menyalurkan 285.000 liter air bersih bagi masyarakat terdampak kekeringan di Kabupaten Klaten, Jawa Tengah. Bekerja sama dengan Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Klaten, bantuan ini ditujukan untuk 16 desa di tujuh kecamatan dengan perkiraan penerima manfaat mencapai 7.000 kepala keluarga (KK).\n\nKLATEN – Pertamina Patra Niaga Regional Jawa Bagian Tengah menyalurkan 285.000 liter air bersih bagi masyarakat terdampak kekeringan di Kabupaten Klaten, Jawa Tengah. Bekerja sama dengan Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Klaten, bantuan ini ditujukan untuk 16 desa di tujuh kecamatan dengan perkiraan penerima manfaat mencapai 7.000 kepala keluarga (KK).\n\nBantuan disalurkan melalui 57 pengiriman truk tangki, masing-masing berkapasitas 5.000 liter. Penyaluran ini diharapkan dapat membantu masyarakat memenuhi kebutuhan air bersih di tengah terbatasnya ketersediaan air akibat kekeringan.\n\nPjs. Area Manager Communications, Relations & CSR Pertamina Patra Niaga Regional Jawa Bagian Tengah, Putri Azalia Mutiara Farida, mengatakan bahwa bantuan tersebut merupakan bentuk kepedulian perusahaan terhadap masyarakat, terutama dalam membantu pemenuhan kebutuhan dasar di tengah kondisi kekeringan.\n\n“Air bersih merupakan kebutuhan mendasar bagi masyarakat. Melalui bantuan ini, kami berharap dapat meringankan beban warga terdampak dan membantu memenuhi kebutuhan air bersih untuk aktivitas sehari-hari,” ujar Putri.\n\nIa menambahkan, kolaborasi dengan BPBD Kabupaten Klaten menjadi bagian penting untuk memastikan bantuan dapat disalurkan sesuai kebutuhan masyarakat di wilayah terdampak.\n\nSementara itu, Kepala Bidang Kedaruratan dan Logistik BPBD Kabupaten Klaten, Anjung D. Nuruzzaman, mengapresiasi dukungan Pertamina Patra Niaga dalam membantu masyarakat menghadapi kekeringan.\n\n“Kami mengucapkan terima kasih kepada Pertamina Patra Niaga atas bantuan air bersih bagi masyarakat Kabupaten Klaten. Bantuan ini akan kami distribusikan ke 16 desa yang tersebar di tujuh kecamatan. Pendistribusian akan dijadwalkan agar bantuan dapat tersalurkan secara merata kepada masyarakat yang membutuhkan,” ungkap Anjung.\n\nBagi masyarakat, bantuan ini menjadi dukungan berarti untuk memenuhi kebutuhan sehari-hari sekaligus mengurangi biaya pembelian air bersih. Salah satu warga penerima manfaat, Asih Margani, mengungkapkan bahwa kekeringan di wilayahnya telah berlangsung cukup lama sehingga warga harus mengeluarkan biaya tambahan untuk mendapatkan air bersih.\n\n“Alhamdulillah, kami sangat bersyukur dan berterima kasih kepada Pertamina atas bantuan air bersih ini. Sebelumnya, kami harus mengeluarkan biaya sekitar Rp200.000 hingga Rp250.000 untuk membeli satu tangki air, yang bahkan tidak mencukupi kebutuhan selama satu bulan. Air ini akan kami gunakan untuk berbagai keperluan sehari-hari, seperti memasak, mencuci, hingga menyediakan air minum bagi hewan ternak,” ungkap Asih.\n\nMelalui program Tanggung Jawab Sosial dan Lingkungan (TJSL), Pertamina Patra Niaga Regional Jawa Bagian Tengah terus berupaya menghadirkan manfaat nyata bagi masyarakat. Penyaluran bantuan air bersih ini juga sejalan dengan Sustainable Development Goals (SDGs) Tujuan 6, yaitu Air Bersih dan Sanitasi Layak, serta Tujuan 17, yaitu Kemitraan untuk Mencapai Tujuan, melalui sinergi dengan pemerintah daerah untuk mendukung pemenuhan kebutuhan dasar masyarakat dan memperkuat kolaborasi dalam menghadapi dampak kekeringan.(Advertorial)\n\nCek Berita dan Artikel yang lain di Harian Jogja, dan edisi cetak versi elektronik kami hadir di Epaper Harian Jogja.\n\nUjang Hasanudin Jurnalis Harian Jogja, bagian dari Bisnis Indonesia Group menulis untuk media cetak dan online"
+  },
+  {
+   "source": "jpnn",
+   "getter": "auto",
+   "title": "2 Prajurit TNI Diduga Terlibat Korupsi Dana Bencana BNPB, Ini Kata Brigjen Muhammad Nas",
+   "link": "https://www.jpnn.com/news/2-prajurit-tni-diduga-terlibat-korupsi-dana-bencana-bnpb-ini-kata-brigjen-muhammad-nas",
+   "pubDate": "Thu, 22 Oct 2026 12:02:27 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/09/19/kapuspen-mabes-tni-mayjen-tni-muhammad-nas-di-lapangan-monas-icde.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong> - Kepala Pusat Penerangan TNI Brigadir Jenderal TNI Muhammad Nas menyatakan bakal menindaklanjuti informasi dari Komisi Pemberantasan Korupsi (KPK) soal dugaan dua prajurit aktif terlibat kasus dugaan korupsi dana siap pakai Badan Nasional Penanggulangan Bencana (BNPB) untuk penanganan benc",
+   "fetched_at": "2026-10-22T06:00:14+07:00",
+   "categories": [
+    "bencana",
+    "korupsi"
+   ],
+   "content_status": "full",
+   "content_chars": 2328,
+   "content": "Kapuspen Mabes TNI Mayjen TNI Muhammad Nas. (ANTARA/Walda Marison)\n\njpnn.com - Kepala Pusat Penerangan TNI Brigadir Jenderal TNI Muhammad Nas menyatakan bakal menindaklanjuti informasi dari Komisi Pemberantasan Korupsi (KPK) soal dugaan dua prajurit aktif terlibat kasus dugaan korupsi dana siap pakai Badan Nasional Penanggulangan Bencana (BNPB) untuk penanganan bencana.\n\nSelain itu, Brigjen Nas juga menghormati proses hukum yang dilakukan oleh KPK terkait kasus korupsi dana bencana itu.\n\nKasubdit Pengelolaan Bantuan dan Kedaruratan BNPB sekaligus PPK Gabriel Purwaka Sigit (kiri), Bima Setiawan (kanan) pihak swasta yang merupakan adik mantan kepala BNPB Letjen TNI Suharyanto, dan pihak swasta Syifa Nrika Ghifarian (kedua kiri) berjalan mengenakan rompi tahanan seusai menjalani pemeriksaan di Gedung Merah Putih KPK, Jakarta, Rabu (14/10/2026). ANTARA FOTO/Fauzan/kye\n\n\"TNI menghormati proses hukum yang sedang berjalan dan akan berkoordinasi dengan KPK serta menindaklanjuti setiap informasi yang disampaikan sesuai mekanisme dan ketentuan yang berlaku,\" kata Brigjen Nas kepada para jurnalis di Jakarta, Rabu (21/10) malam.\n\nDia menyampaikan hal itu menanggapi pernyataan KPK yang telah bersurat kepada Panglima TNI Jenderal TNI Agus Subiyanto mengenai dugaan dua prajurit aktif terlibat kasus BNPB.\n\nKasus tersebut bermula saat KPK melakukan operasi tangkap tangan (OTT) di lingkungan BNPB dengan menangkap 15 orang pada 13 Oktober 2026. Sehari setelahnya, KPK menetapkan lima orang sebagai tersangka kasus tersebut.\n\nSalah satunya Bima Setiawan selaku adik Letnan Jenderal TNI Suharyanto yang saat OTT berlangsung menjabat Kepala BNPB. Bima juga merupakan Tenaga Ahli Kepala BNPB saat Suharyanto aktif menjabat.\n\nKemudian, empat orang tersangka lainnya adalah pejabat pembuat komitmen sekaligus Kepala Subdirektorat Pengelolaan Bantuan dan Dana Kedaruratan BNPB Gabriel Purwaka Sigit, Tenaga Ahli Kepala BNPB Richard Erlangga, Direktur PT Trans Lintas Selaras Gery Prasetiawan, serta pihak swasta Syifa Nrika Ghifarin.\n\nBrigjen Muhammad Nas sebut Mabes TNI bakal menindaklanjuti informasi KPK soal 2 prajurit aktif diduga terlibat korupsi dana bencana di BNPB.\n\nSilakan baca konten menarik lainnya dari JPNN.com di Google News\n\n2 Prajurit TNI Diduga Terlibat Korupsi Dana Bencana BNPB, Ini Kata Brigjen Muhammad Nas"
   },
   {
    "source": "sindonews",
    "getter": "auto",
-   "title": "BNPB: Indonesia Terbuka Bantuan Asing Tangani Karhutla, Ada Jepang hingga Singapura",
-   "link": "https://nasional.sindonews.com/read/1763259/15/bnpb-indonesia-terbuka-bantuan-asing-tangani-karhutla-ada-jepang-hingga-singapura-1792591849",
-   "pubDate": "Wed, 21 Oct 2026 22:15:47 +0700",
-   "description": "Badan Nasional Penanggulangan Bencana (BNPB) menyatakan terbuka terhadap bantuan asing untuk menangani kebakaran hutan dan lahan (karhutla) di Indonesia. Sejumlah negara tersebut di antaranya Jepang hingga Singapura. Sebelumnya, Malaysia telah menawarkan bantuan kepada Indonesia.",
-   "fetched_at": "2026-10-21T22:41:09+07:00",
+   "title": "Waspada Banjir Rob di 14 Pesisir Akibat Fenomena Bulan Purnama hingga 1 November",
+   "link": "https://daerah.sindonews.com/read/1763439/174/waspada-banjir-rob-di-14-pesisir-akibat-fenomena-bulan-purnama-hingga-1-november-1792645815",
+   "pubDate": "Thu, 22 Oct 2026 12:41:52 +0700",
+   "description": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengeluarkan peringatan dini potensi banjir pesisir atau rob di 14 wilayah pesisir Indonesia periode 22 Oktober hingga 1 November 2026.",
+   "fetched_at": "2026-10-22T06:00:05+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "full",
+   "content_chars": 2229,
+   "content": "JAKARTA - Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengeluarkan peringatan dini potensi banjir pesisir atau rob di 14 wilayah pesisir Indonesia periode 22 Oktober hingga 1 November 2026. BMKG mengatakan banjir rob ini diakibatkan adanya fenomena Fase Bulan Purnama pada 26 Oktober 2026 dan Fase Perigee pada 29 Oktober 2026 yang berpotensi meningkatkan ketinggian air laut maksimum. \"Berdasarkan pantauan data water level dan prediksi pasang surut, banjir pesisir atau rob berpotensi terjadi di beberapa wilayah pesisir Indonesia,\" tulis BMKG dalam keterangan tertulisnya, Kamis (22/10/2026).Wilayah pesisir yang berpotensi banjir rob diantaranya pesisir Sumatera Utara, Pesisir Sumatera Barat, Pesisir Lampung, Pesisir Banten, Pesisir DKI Jakarta, Pesisir Jawa Barat, Pesisir Jawa Tengah, Pesisir Jawa Timur, Pesisir Kalimantan Utara, Pesisir Kalimantan Selatan, Pesisir Kalimantan Tengah, Pesisir Kalimantan Barat, Pesisir Sulawesi Utara, dan Pesisir Maluku.Baca juga: Pesisir Jabar dan Jateng Waspada Rob, BMKG Ingatkan Potensi Banjir hingga Sepekan BMKG mengatakan potensi banjir pesisir yang secara umum berdampak pada aktivitas masyarakat di sekitar pelabuhan dan pesisir, seperti aktivitas bongkar muat di pelabuhan, aktivitas di pemukiman pesisir, serta aktivitas tambak garam dan perikanan darat. \"Masyarakat dihimbau untuk selalu waspada dan siaga untuk mengantisipasi dampak dari Pasang Maksimum Air Laut serta memperhatikan update informasi cuaca maritim dari BMKG,\" imbau BMKG.Berikut 14 wilayah pesisir Indonesia yang berpotensi banjir rob periode 22 Oktober hingga 1 November 2026:1. Pesisir Sumatera Utara- Pesisir Medan Belawan, Medan Labuhan, dan Medan Marelan: 23–31 Oktober 20262. Pesisir Sumatera Barat- Pesisir Kota Padang, Kabupaten Padang Pariaman, Kabupaten Pesisir Selatan, Kabupaten Agam, dan Kabupaten Pasaman Barat: 24–27 Oktober 2026- Pesisir Kepulauan Mentawai (Pulau Pagai, Siberut, dan Sipora): 24–27 Oktober 2026\n\nFollow WhatsApp Channel SINDOnews untuk Berita Terbaru Setiap Hari\n\nDapatkan berita terkini dan kejutan menarik dari SINDOnews.com, Klik Disini untuk mendaftarkan diri anda sekarang juga!\n\nWaspada Banjir Rob di 14 Pesisir Akibat Fenomena Bulan Purnama hingga 1 November"
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "Nelayan dan Warga Bantu Evakuasi KMP Batumandi, ASDP Sampaikan Apresiasi",
+   "link": "https://ekonomi.republika.co.id/berita/tnalb7416/nelayan-dan-warga-bantu-evakuasi-kmp-batumandi-asdp-sampaikan-apresiasi",
+   "pubDate": "Thu, 22 Oct 2026 11:48:42 +0700",
+   "description": "REPUBLIKA.CO.ID,&nbsp;JAKARTA &ndash; Sebanyak 58 nelayan dan masyarakat sekitar turut membantu proses evakuasi penumpang KMP Batumandi saat terjadi insiden kebakaran kapal di perairan sekitar Pelabuhan Merak. Mereka menggunakan lebih dari...",
+   "fetched_at": "2026-10-22T06:00:03+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 242,
+   "content": "REPUBLIKA.CO.ID,&nbsp;JAKARTA &ndash; Sebanyak 58 nelayan dan masyarakat sekitar turut membantu proses evakuasi penumpang KMP Batumandi saat terjadi insiden kebakaran kapal di perairan sekitar Pelabuhan Merak. Mereka menggunakan lebih dari..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Polisi evakuasi KMP Batumandi dari jalur pelayaran Merak",
+   "link": "https://www.antaranews.com/berita/5803965/polisi-evakuasi-kmp-batumandi-dari-jalur-pelayaran-merak",
+   "pubDate": "Thu, 22 Oct 2026 12:20:38 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/22/1000558366.jpg\" align=\"left\" border=\"0\" />Kepolisian Daerah (Polda) Banten berkoordinasi bersama PT ASDP Indonesia Ferry untuk segera melakukan evakuasi terhadap ...",
+   "fetched_at": "2026-10-22T05:59:51+07:00",
+   "categories": [
+    "bencana",
+    "hukum-kriminal"
+   ],
+   "content_status": "partial",
+   "content_chars": 227,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/22/1000558366.jpg\" align=\"left\" border=\"0\" />Kepolisian Daerah (Polda) Banten berkoordinasi bersama PT ASDP Indonesia Ferry untuk segera melakukan evakuasi terhadap ..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Banjir akibat El Nino ancam 874.000 warga Somalia mengungsi",
+   "link": "https://www.antaranews.com/berita/5803957/banjir-akibat-el-nino-ancam-874000-warga-somalia-mengungsi",
+   "pubDate": "Thu, 22 Oct 2026 12:15:42 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2025/02/03/1000016555.jpg\" align=\"left\" border=\"0\" />Hampir 874.000 orang di Somalia berpotensi terpaksa meninggalkan rumah mereka dalam tiga bulan ke depan akibat banjir ...",
+   "fetched_at": "2026-10-22T05:59:51+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 225,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2025/02/03/1000016555.jpg\" align=\"left\" border=\"0\" />Hampir 874.000 orang di Somalia berpotensi terpaksa meninggalkan rumah mereka dalam tiga bulan ke depan akibat banjir ..."
+  },
+  {
+   "source": "liputan6",
+   "getter": "getter2",
+   "title": "BNPB Soal Bantuan Asing Padamkan Karhutla: Kalau Kita Punya, Kenapa Minta",
+   "link": "https://www.liputan6.com/news/read/8318734/bnpb-soal-bantuan-asing-padamkan-karhutla-kalau-kita-punya-kenapa-minta",
+   "pubDate": "Thu, 22 Oct 2026 10:05:29 +0700",
+   "description": "Akan tetapi, pemerintah terbuka menerima bantuan apabila peralatan atau kebutuhan yang diperlukan tidak tersedia",
+   "fetched_at": "2026-10-22T05:59:49+07:00",
    "categories": [
     "bencana",
     "kebakaran"
    ],
    "content_status": "partial",
-   "content_chars": 280,
-   "content": "Badan Nasional Penanggulangan Bencana (BNPB) menyatakan terbuka terhadap bantuan asing untuk menangani kebakaran hutan dan lahan (karhutla) di Indonesia. Sejumlah negara tersebut di antaranya Jepang hingga Singapura. Sebelumnya, Malaysia telah menawarkan bantuan kepada Indonesia."
+   "content_chars": 112,
+   "content": "Akan tetapi, pemerintah terbuka menerima bantuan apabila peralatan atau kebutuhan yang diperlukan tidak tersedia"
+  },
+  {
+   "source": "liputan6",
+   "getter": "getter2",
+   "title": "Mabes TNI Buka Suara Prajurit Diduga Terlibat Korupsi Dana Bencana BNPB",
+   "link": "https://www.liputan6.com/news/read/8318714/mabes-tni-buka-suara-prajurit-diduga-terlibat-korupsi-dana-bencana-bnpb",
+   "pubDate": "Thu, 22 Oct 2026 09:46:32 +0700",
+   "description": "Dugaan keterlibatan prajurit aktif dalam perkara tersebut terungkap setelah KPK mendalami kasus korupsi dana kebencanaan",
+   "fetched_at": "2026-10-22T05:59:49+07:00",
+   "categories": [
+    "bencana",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 120,
+   "content": "Dugaan keterlibatan prajurit aktif dalam perkara tersebut terungkap setelah KPK mendalami kasus korupsi dana kebencanaan"
+  },
+  {
+   "source": "jawapos",
+   "getter": "getter1",
+   "title": "Mabes TNI Buka Suara Pasca KPK Surati Panglima TNI Terkait Kasus di BNPB",
+   "link": "https://www.jawapos.com/kasuistika/2610220232/mabes-tni-buka-suara-pasca-kpk-surati-panglima-tni-terkait-kasus-di-bnpb",
+   "pubDate": "Thu, 22 Oct 2026 12:28:59 GMT",
+   "description": "Mabes TNI menghormati proses hukum KPK terkait dugaan keterlibatan prajurit dalam kasus di BNPB.",
+   "fetched_at": "2026-10-22T05:59:48+07:00",
+   "categories": [
+    "bencana",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 96,
+   "content": "Mabes TNI menghormati proses hukum KPK terkait dugaan keterlibatan prajurit dalam kasus di BNPB."
   }
  ]
 }
