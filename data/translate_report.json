@@ -1,15 +1,14 @@
 {
- "updated_at": "2026-10-23T08:11:35+07:00",
- "mode": "google",
+ "updated_at": "2026-10-23T13:56:38+07:00",
+ "mode": "argos",
  "translated": [
-  "03789d62adc5ce21",
-  "2755a66473aadbcc",
-  "67a31497ebb38b4d",
-  "58f45d0ab2a74689",
-  "72dbf1283645d3a3",
-  "26f0b15e53087f55"
+  "30d2565cb388d62b",
+  "b1bb22ce74c89dc5",
+  "70067491c6df99b9",
+  "be3bee803d6d7ebc",
+  "bf8fb63e9a2dca80"
  ],
  "failed": [],
  "held_partial": 0,
- "candidates": 6
+ "candidates": 5
 }
