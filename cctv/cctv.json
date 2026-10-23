@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T00:46:29+07:00",
+ "updated_at": "2026-10-24T04:03:02+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -6384,13 +6384,6 @@
      "lon": 3.14983
     },
     {
-     "nama": "Akses Indrapura",
-     "lokasi": "Akses Indrapura",
-     "stream": "https://cctv.hmwtoll.com/camera/bearer/jlp/3/89/index.m3u8",
-     "lat": 99.350127,
-     "lon": 3.301324
-    },
-    {
      "nama": "Akses Sinaksak",
      "lokasi": "Akses Sinaksak",
      "stream": "https://cctv.hmwtoll.com/camera/bearer/jlp/3/231/index.m3u8",
@@ -7719,13 +7712,6 @@
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/rdxGSmqvd5kN1675831415195.m3u8",
      "lat": -4.694793,
      "lon": 105.192596
-    },
-    {
-     "nama": "TERPEKA KM 207+000 B",
-     "lokasi": "TERPEKA KM 207+000 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/FAsCLCPtcWIU1671988181803.m3u8",
-     "lat": -4.302824,
-     "lon": 105.169266
     },
     {
      "nama": "TERPEKA KM 208+000 A",
