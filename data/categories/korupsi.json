@@ -1,241 +1,116 @@
 {
- "updated_at": "2026-10-23T13:56:39+07:00",
+ "updated_at": "2026-10-23T19:23:35+07:00",
  "category": "korupsi",
- "count": 15,
+ "count": 7,
  "articles": [
   {
-   "source": "wartaekonomi",
+   "source": "fajar",
    "getter": "auto",
-   "title": "KPK Geledah Kantor BPK Jawa Tengah, Sita Uang Ratusan Juta terkait Kasus Bupati Klaten",
-   "link": "https://wartaekonomi.co.id/read643018/kpk-geledah-kantor-bpk-jawa-tengah-sita-uang-ratusan-juta-terkait-kasus-bupati-klaten",
-   "pubDate": "Fri, 23 Oct 2026 13:13:00 +0700",
-   "description": "KPK menyita uang ratusan juta rupiah saat menggeledah Kantor BPK Jawa Tengah terkait dugaan suap penghapusan temuan audit Klaten.",
-   "fetched_at": "2026-10-23T06:35:17+07:00",
-   "categories": [
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 3366,
-   "content": "Home / News / Hukum KPK Geledah Kantor BPK Jawa Tengah, Sita Uang Ratusan Juta terkait Kasus Bupati Klaten Jum'at, 23 Oktober 2026, 13:13 WIB\n\nKomisi Pemberantasan Korupsi (KPK) menyita uang tunai senilai ratusan juta rupiah saat menggeledah Kantor Badan Pemeriksa Keuangan (BPK) Perwakilan Jawa Tengah di Semarang. Penggeledahan ini berkaitan dengan penyidikan dugaan suap untuk menghapus temuan audit di Kabupaten Klaten.\n\n‎Juru Bicara KPK Budi Prasetyo mengatakan, penggeledahan dilakukan pada Kamis (22/10/2026). Selain kantor BPK, penyidik turut menggeledah dua lokasi lain yang merupakan rumah pihak terkait dalam perkara tersebut.\n\n‎\"Saat melakukan penggeledahan di Kantor BPK Perwakilan Provinsi Jawa Tengah, penyidik juga menemukan dan menyita uang tunai senilai ratusan juta rupiah,\" jelas Budi kepada wartawan, Jumat (23/10/2026).\n\n‎Penyidik juga mengamankan sejumlah dokumen dan barang elektronik yang diduga berkaitan dengan perkara. Seluruh barang bukti tersebut kini tengah didalami untuk kepentingan penyidikan.\n\n‎\"Diduga terkait dengan dugaan suap yang dilakukan untuk menghapus hasil temuan audit BPK di wilayah Kabupaten Klaten,\" terang Budi.\n\n‎Sebelumnya, KPK telah menggeledah rumah dinas Bupati Klaten Hamenang Wajar Ismoyo. Dalam penggeledahan tersebut, penyidik menemukan uang dan perhiasan selain sejumlah dokumen serta barang bukti elektronik. KPK belum mengungkap nilai uang maupun perhiasan yang disita.\n\n‎Kasus ini berawal dari pemeriksaan BPK terhadap Laporan Keuangan Pemerintah Kabupaten Klaten Tahun 2025 pada April 2026. Pemeriksaan menemukan kelebihan pembayaran honorarium sekitar Rp5 miliar, yang mencakup honorarium narasumber sosialisasi peraturan yang tidak sesuai dengan jam pelaksanaan sebesar Rp4,16 miliar serta kelebihan honor pelaksana kegiatan sebesar Rp1,02 miliar.\n\n‎Plt Direktur Penyidikan KPK Achmad Taufik Husein menjelaskan, Bupati Hamenang bersama Inspektur Daerah Pemkab Klaten Agus Suprapto kemudian bertemu dengan sejumlah pejabat BPK Jawa Tengah. Dalam pertemuan itu, dibahas rencana penghapusan dua temuan terkait kelebihan pembayaran honorarium tersebut.\n\n‎Pada Mei 2026, Hamenang kembali bertemu dengan Kepala Perwakilan BPK Jawa Tengah Ahmad Luthfi H. Rahmatullah untuk membahas penghapusan temuan audit. Menurut KPK, Ahmad Luthfi meminta dukungan Rp600 juta, tetapi setelah negosiasi disepakati nilai Rp400 juta.\n\n‎\"ALU menyampaikan permintaan kepada HWI dengan mengatakan, 'tolong support kami Rp 600 juta'. Akan tetapi HWI tidak menyanggupi dan mengajukan negosiasi hingga terjadi kesepakatan menjadi Rp 400 juta. Dalam pertemuan tersebut, ALU memberikan kontak 'kode AMIDIS,\" kata Taufik.\n\n‎KPK menduga kode tersebut kemudian diteruskan Hamenang kepada jajaran Pemkab Klaten untuk menyiapkan uang Rp400 juta. Permintaan itu selanjutnya disampaikan kepada Muhammad Amin Wahyu Utomo, pihak swasta dari PT Madani Winasis Creative. Meski penyerahan uang sempat ditunda, pada Juni 2026 BPK diketahui telah menerbitkan laporan hasil pemeriksaan dengan menghapus temuan kelebihan pembayaran honorarium narasumber.\n\n‎KPK menetapkan tiga tersangka dalam perkara dugaan suap tersebut, yakni Hamenang Wajar Ismoyo, Ahmad Luthfi H. Rahmatullah, dan Muhammad Amin Wahyu Utomo. Ketiganya telah ditahan di Rutan KPK Cabang Gedung Merah Putih untuk 20 hari pertama, terhitung sejak 16 Oktober hingga 4 November 2026."
-  },
-  {
-   "source": "jpnn",
-   "getter": "auto",
-   "title": "Polda Jabar Bongkar Korupsi Dana Hibah Pendidikan, Anak Yosep Hidayah Jadi Tersangka",
-   "link": "https://jabar.jpnn.com/kriminal/33950/polda-jabar-bongkar-korupsi-dana-hibah-pendidikan-anak-yosep-hidayah-jadi-tersangka",
-   "pubDate": "Fri, 23 Oct 2026 13:30:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/watermark/2021/04/17/ilustrasi-uang-rupiah-foto-ricardojpnncom-92.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jabar.jpnn.com</strong>, SUBANG - Polda Jawa Barat mengungkap dugaan korupsi dana hibah pendidikan senilai Rp 723,6 juta di Kabupaten Subang.",
-   "fetched_at": "2026-10-23T06:35:13+07:00",
+   "title": "Terseret Dugaan Korupsi Penjualan Lahan di Cilacap, Eks Ajudan Jokowi Dituntut 10 Tahun Penjara",
+   "link": "https://fajar.co.id/2026/10/23/terseret-dugaan-korupsi-penjualan-lahan-di-cilacap-eks-ajudan-jokowi-dituntut-10-tahun-penjara/",
+   "pubDate": "Fri, 23 Oct 2026 11:19:45 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA &#8212; Mantan ajudan Presiden ke-7 RI Joko Widodo, Letnan Jenderal TNI Widi Prasetijono,...",
+   "fetched_at": "2026-10-23T12:06:02+07:00",
    "categories": [
     "hukum-kriminal",
     "korupsi"
    ],
    "content_status": "full",
-   "content_chars": 2021,
-   "content": "jabar.jpnn.com, SUBANG - Polda Jawa Barat mengungkap dugaan korupsi dana hibah pendidikan senilai Rp 723,6 juta di Kabupaten Subang.\n\nTiga tersangka dalam kasus ini, termasuk Yoris Raja Amanullah, anak Yosep Hidayah yang terseret kasus pembunuhan ibu dan anak di Subang, kini dilimpahkan ke Kejaksaan Tinggi Jawa Barat (Kejati Jabar).\n\nKasus korupsi ini menyangkut penyalahgunaan dan pemindahan Dana Hibah Bantuan Pendidikan Menengah Universal (BPMU) pada SMKS Nasional Serangpanjang di bawah naungan Yayasan Bina Prestasi Nasional.\n\nAnggaran tersebut bersumber dari APBD Provinsi Jawa Barat melalui Dinas Pendidikan untuk Tahun Anggaran 2019, 2020, dan 2021. Pihak kepolisian memastikan seluruh rangkaian penyidikan telah rampung dengan mengantongi bukti-bukti kuat atas tindakan yang merugikan keuangan negara hingga ratusan juta rupiah.\n\nBerdasarkan hasil penyidikan mendalam, modus operandi yang dilancarkan para pelaku tergolong rapi.\n\nPelaku utama, Yoris Raja Amalullah anak dari Yosep Hidayah (tersangka pembunuhan ibu dan anak di Subang) dan Robi Sopian Odi, memanfaatkan jabatan mereka sebagai pengurus yayasan untuk mengalihkan dana pendidikan.\n\nTersangka Yosep Hidayah memerintahkan Robi Sopian Odi menyusun Laporan Pertanggungjawaban (LPJ) fiktif yang mencantumkan Daftar Nominatif Penerimaan Honorarium untuk 20 guru honorer periode 2019 hingga 2021.\n\n\"Faktanya, ke-20 guru honorer tersebut tidak pernah menerima sepeser pun uang yang diklaim dalam laporan. Dana BPMU itu justru diselewengkan dan digunakan oleh para pelaku untuk kepentingan pribadi yang sama sekali tidak ada kaitannya dengan peruntukan pendidikan,\" kata Direktur Reserse Kriminal Khusus Polda Jabar Kombes Ade Mulyana di Bandung, Jumat (23/10/2026).\n\nPolda Jabar mengungkap dugaan korupsi dana hibah pendidikan Rp723 juta di Subang. Anak Yosep Hidayah menjadi salah satu tersangka.\n\nSilakan baca konten menarik lainnya dari JPNN.com Jabar di Google News\n\nPolda Jabar Bongkar Korupsi Dana Hibah Pendidikan, Anak Yosep Hidayah Jadi Tersangka"
+   "content_chars": 2600,
+   "content": "Beranda Hukum Terseret Dugaan Korupsi Penjualan Lahan di Cilacap, Eks Ajudan Jokowi Dituntut 10 Tahun Penjara\n\nFAJAR.CO.ID, JAKARTA -- Mantan ajudan Presiden ke-7 RI Joko Widodo, Letnan Jenderal TNI Widi Prasetijono, menghadapi tuntutan berat dalam perkara dugaan korupsi penjualan lahan perkebunan di Cilacap, Jawa Tengah.\n\nWidi yang pernah menjabat Pangdam IV/Diponegoro itu dituntut pidana penjara selama 10 tahun.\n\nOditur militer juga meminta agar Widi dijatuhi denda Rp500 juta, membayar uang pengganti sebesar Rp21,05 miliar, serta dipecat dari dinas militer.\n\nTuntutan tersebut dibacakan di Pengadilan Militer Tinggi II Jakarta pada Kamis, 22 Oktober 2026.\n\n“Pidana penjara selama 10 tahun dikurangi selama masa penahanan sementara dengan perintah agar terdakwa tetap ditahan,” kata oditur saat membacakan tuntutan.\n\nPerkara yang menjerat Widi berkaitan dengan penjualan lahan perkebunan milik PT Rumpun Sari Antan (RSA) seluas sekitar 700 hektare di Desa Caruy, Kecamatan Cipari, Kabupaten Cilacap.\n\nLahan tersebut dijual kepada PT Cilacap Segara Artha (CSA), sebuah badan usaha milik daerah Kabupaten Cilacap. Nilai transaksi penjualan aset itu mencapai sekitar Rp237 miliar.\n\nDalam perkara ini, Widi diduga memerintahkan proses penjualan lahan saat menjabat Pangdam IV/Diponegoro sekaligus Ketua Pembina Yayasan Rumpun Diponegoro (Yardip).\n\nIa juga diduga menerima aliran dana sekitar Rp21 miliar melalui rekening adiknya.\n\nOditur menyatakan Widi terbukti melakukan tindak pidana korupsi secara bersama-sama sebagaimana dakwaan primair.\n\nTuntutan terhadap Widi merujuk pada Pasal 603 juncto Pasal 20 huruf a dan c Undang-Undang Nomor 1 Tahun 2023 tentang Kitab Undang-Undang Hukum Pidana serta Pasal 18 Undang-Undang Pemberantasan Tindak Pidana Korupsi.\n\nDalam menyusun tuntutan, oditur turut mempertimbangkan sejumlah hal yang memberatkan dan meringankan Widi.\n\nMasa pengabdiannya selama sekitar 33 tahun sebagai prajurit TNI menjadi salah satu faktor yang meringankan.\n\nNamun, oditur menilai Widi tidak mengakui perbuatannya. Ia juga dianggap tidak memberikan teladan yang baik bagi prajurit di bawah komandonya serta tidak mendukung upaya pemberantasan korupsi.\n\nSelain itu, Widi dinilai telah menikmati hasil tindak pidana dan tidak menunjukkan itikad untuk mengembalikan kerugian negara.\n\nDalam perkara penjualan lahan tersebut, Widi bukan satu-satunya terdakwa. Oditur juga mengajukan tuntutan terhadap dua perwira TNI AD dan seorang mantan direktur perusahaan.\n\nKolonel Inf. Wisnu Kurniawan, mantan Asisten Perencanaan Kodam IV/Diponegoro, dituntut pidana penjara selama empat tahun."
   },
   {
-   "source": "sindonews",
+   "source": "beritajatim",
    "getter": "auto",
-   "title": "KPK Periksa Ketua Golkar Pemalang, Dalami Pembahasan Pengisian Jabatan",
-   "link": "https://nasional.sindonews.com/read/1763849/13/kpk-periksa-ketua-golkar-pemalang-dalami-pembahasan-pengisian-jabatan-1792732235",
-   "pubDate": "Fri, 23 Oct 2026 12:37:25 +0700",
-   "description": "Komisi Pemberantasan Korupsi (KPK) memeriksa Ketua DPD II Partai Golkar Pemalang Nur Azmi Wicaksono (NAW) terkait dugaan pemerasan di lingkungan Pemerintah Kabupaten Pemalang.",
-   "fetched_at": "2026-10-23T06:35:10+07:00",
+   "title": "Sidang Korupsi Izin Tambang ESDM Jatim, Menguak Jatah Bulanan Staf Hingga Target Pungutan",
+   "link": "https://beritajatim.com/sidang-korupsi-izin-tambang-esdm-jatim-menguak-jatah-bulanan-staf-hingga-target-pungutan",
+   "pubDate": "Fri, 23 Oct 2026 11:15:03 +0000",
+   "description": "<a href=\"https://beritajatim.com/sidang-korupsi-izin-tambang-esdm-jatim-menguak-jatah-bulanan-staf-hingga-target-pungutan\" title=\"Sidang Korupsi Izin Tambang ESDM Jatim, Menguak Jatah Bulanan Staf Hingga Target Pungutan\" rel=\"nofollow\"><img width=\"874\" height=\"511\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/4-657.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decodi",
+   "fetched_at": "2026-10-23T12:05:58+07:00",
    "categories": [
-    "korupsi",
-    "pemerintahan"
+    "hukum-kriminal",
+    "korupsi"
    ],
-   "content_status": "partial",
-   "content_chars": 175,
-   "content": "Komisi Pemberantasan Korupsi (KPK) memeriksa Ketua DPD II Partai Golkar Pemalang Nur Azmi Wicaksono (NAW) terkait dugaan pemerasan di lingkungan Pemerintah Kabupaten Pemalang."
+   "content_status": "full",
+   "content_chars": 3032,
+   "content": "Sidang Korupsi Izin Tambang ESDM Jatim, Menguak Jatah Bulanan Staf Hingga Target Pungutan\n\nSurabaya (beritajatim.com) – Pengadilan Tindak Pidana Korupsi (Tipikor) Surabaya kembali menggelar sidang perkara dugaan pungutan liar (pungli) izin pertambangan pada Dinas Energi dan Sumber Daya Mineral (ESDM) Provinsi Jawa Timur, Jumat (23/10/2026).\n\nAgenda persidangan diisi dengan pendalaman keterangan saksi Dewi Kurniawati, Pengarah Teknis dan Kebijakan Dinas ESDM Jatim, oleh tim kuasa hukum terdakwa mantan Kepala Dinas ESDM Jatim, Aris Mukiyono.\n\nDalam cecaran pertanyaan dari tim pembela, terungkap bahwa praktik penarikan uang ‘apresiasi’ dari para pemohon izin usaha pertambangan disinyalir telah berlangsung sebelum Aris Mukiyono menjabat sebagai Kepala Dinas.\n\nBerdasarkan kesaksian Dewi di hadapan Majelis Hakim, skema pemungutan dana ilegal tersebut sudah berjalan sejak Maret 2024 di bawah kendali Kepala Bidang Pertambangan saat itu, Oni Setiawan.\n\nSaksi juga mengaku secara berkala menerima jatah uang rutin bulanan yang diserahkan melalui seorang staf bernama Ratni sejak Maret 2025 hingga Maret 2026, dengan akumulasi mencapai sekitar Rp30 juta.\n\n“Saya tidak berani menolak instruksi tersebut karena takut kehilangan jabatan. Tekanan utama untuk meminta uang apresiasi itu berasal dari Pak Oni Setiawan,” ungkap Dewi di Pengadilan Tipikor Surabaya, Jumat (23/10/2026).\n\nMeski menegaskan tekanan dominan berasal dari Kepala Bidang, saksi Dewi membeberkan adanya pesan singkat melalui aplikasi WhatsApp dari Aris Mukiyono pada Mei 2026. Pesan tersebut berisi teguran karena saksi dinilai sering mengambil keputusan sendiri dan menarik nilai pungutan yang terlalu kecil.\n\n“Saya pernah ditegur Pak Kadis bahwa saya sering mengambil keputusan sendiri karena meminta nilai pungutan cuma sedikit. Beliau juga memperingatkan jika Kadis terjerat masalah hukum, jajaran di bawahnya akan ikut terdampak,” tambahnya.\n\nFakta sidang juga mengungkap keberadaan catatan transaksi keuangan pribadi yang dibuat oleh saksi secara sembunyi-sembunyi sebagai bentuk perlindungan diri tanpa sepengetahuan Aris Mukiyono.\n\nMeski sempat diperintahkan oleh pimpinan untuk memusnahkan seluruh rekapan data, saksi memilih untuk tetap menyimpannya. Hal ini sekaligus mengklarifikasi kontradiksi pada Berita Acara Pemeriksaan (BAP) awal saat saksi mengaku tidak memiliki catatan khusus.\n\nAtas fakta-fakta tersebut, tim kuasa hukum menegaskan bahwa kliennya tidak mengarsiteki sistem pungli sejak awal. Sementara itu, Tim Jaksa Penuntut Umum (JPU) menegaskan akan terus menguji kredibilitas kesaksian Dewi dengan barang bukti dan saksi-saksi lainnya pada persidangan mendatang. [uci/but]\n\nBaca berita lainnya di Google News atau langsung di halaman Indeks Berita\n\nBeritajatim.com adalah media online berbasis di Surabaya, dan fokus pada pemberitaan di wilayah Jawa Timur. Sejak awal, beritajatim.com memegang teguh kaidah jurnalistik dalam pemberitaan, sehingga aspek akurasi, disiplin verifikasi, independen, melekat kuat di setiap berita Selengkapnya"
   },
   {
-   "source": "sindonews",
+   "source": "harianjogja",
    "getter": "auto",
-   "title": "Miskinkan Pelaku Korupsi MBG, Kejagung Perlu Pakai Strategi Follow the Money",
-   "link": "https://nasional.sindonews.com/read/1763845/13/miskinkan-pelaku-korupsi-mbg-kejagung-perlu-pakai-strategi-follow-the-money-1792732248",
-   "pubDate": "Fri, 23 Oct 2026 12:18:49 +0700",
-   "description": "Langkah radikal perlu dilakukan Kejaksaan Agung (Kejagung) dalam penanganan dugaan korupsi pada program Makan Bergizi Gratis (MBG).",
-   "fetched_at": "2026-10-23T06:35:10+07:00",
+   "title": "Dana Bantuan SMK di Bantul Diduga Dikorupsi, Negara Rugi Rp125 Juta",
+   "link": "https://jogjapolitan.harianjogja.com/r-1276114/dana-bantuan-smk-di-bantul-diduga-dikorupsi-negara-rugi-rp125-juta",
+   "pubDate": "Fri, 23 Oct 2026 18:27:02 +0700",
+   "description": "Penyidik Satreskrim Polres Bantul menetapkan seorang pria berinisial W, 44, sebagai tersangka dalam kasus dugaan korupsi dana bantuan.",
+   "fetched_at": "2026-10-23T12:05:55+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi"
+   ],
+   "content_status": "full",
+   "content_chars": 4379,
+   "content": "Dana Bantuan SMK di Bantul Diduga Dikorupsi, Negara Rugi Rp125 Juta\n\nFoto ilustrasi korupsi dibuat menggunakan Artificial Intelligence.\n\nHarianjogja.com, BANTUL—Kasus dugaan korupsi dana bantuan Program SMK Pusat Keunggulan Tahun Anggaran 2023 di Bantul memasuki tahap penetapan tersangka. Penyidik Satreskrim Polres Bantul menetapkan seorang pria berinisial W, 44, sebagai tersangka dalam perkara yang berdasarkan hasil audit Inspektorat DIY mengakibatkan kerugian keuangan negara sebesar Rp125 juta.\n\nKasi Humas Polres Bantul, Iptu Rita Hidayanto, mengatakan penetapan tersangka dilakukan setelah penyidik mengumpulkan keterangan saksi, pendapat ahli, dan dokumen terkait penggunaan dana bantuan tersebut.\n\n“Dari hasil penyidikan dan audit Inspektorat DIY, kerugian keuangan negara dalam perkara ini mencapai Rp125 juta,” kata Rita, Jumat (23/10).\n\nPerkara ini bermula ketika sebuah SMK swasta di Bantul ditetapkan sebagai penerima bantuan Program SMK Pusat Keunggulan Skema Reguler Lanjutan Tahap II Tahun 2023. Sekolah tersebut menerima bantuan senilai Rp125 juta yang dicairkan dalam dua tahap.\n\nPencairan pertama mencapai Rp87,5 juta atau 70% dari total bantuan. Setelah dana diterima, pihak terkait menyusun laporan kemajuan pekerjaan yang menyatakan pelaksanaan program telah mencapai 50%.\n\nLaporan tersebut mencakup sejumlah kegiatan, antara lain lokakarya penyelarasan pembelajaran dengan kebutuhan dunia kerja, pelibatan praktisi dunia kerja dalam pembelajaran, penguatan kelembagaan Bursa Kerja Khusus (BKK), serta penyelenggaraan bursa kerja atau job fair.\n\nDokumen kemajuan pekerjaan menjadi salah satu persyaratan pencairan bantuan tahap berikutnya. Setelah laporan disampaikan, dana tahap kedua sebesar Rp37,5 juta atau 30% dari total bantuan kemudian dicairkan.\n\nDalam proses penyidikan, polisi menemukan dugaan bahwa sejumlah kegiatan yang tercantum dalam laporan pertanggungjawaban tidak pernah dilaksanakan. Temuan tersebut menjadi bagian dari penyelidikan lebih lanjut terhadap penggunaan dana bantuan program pendidikan itu.\n\n“Dalam proses penyidikan, ditemukan dugaan adanya kegiatan yang tercantum dalam laporan pertanggungjawaban, tetapi tidak dilaksanakan,” ujar Rita.\n\nPenyidik mendalami dugaan penyimpangan dengan memeriksa sejumlah pihak yang berkaitan dengan pengelolaan bantuan. Mereka meliputi pihak sekolah, yayasan, tenaga pendidik, narasumber kegiatan, pihak perbankan, serta instansi terkait.\n\nKeterangan para saksi kemudian dicocokkan dengan dokumen pelaksanaan program dan aliran dana. Polisi juga mengumpulkan sejumlah barang bukti, termasuk dokumen penetapan penerima bantuan, perjanjian kerja sama, mutasi rekening bank, kuitansi penarikan uang, serta laporan kemajuan pekerjaan.\n\nBerdasarkan hasil audit Inspektorat DIY tertanggal 18 Juni 2026, kerugian keuangan negara dalam perkara tersebut tercatat sebesar Rp125 juta. Menurut Rita, nilai itu menjadi dasar penghitungan kerugian negara dalam perkara yang diduga berkaitan dengan penggunaan dana tidak sesuai petunjuk teknis bantuan pemerintah.\n\nPenyidik menduga tersangka W bertanggung jawab atas pencairan dan penggunaan dana bantuan tersebut. Meski demikian, polisi masih mendalami peran pihak-pihak lain yang berkaitan dengan pengelolaan dan pelaksanaan program.\n\n“Penyidik masih melengkapi berkas perkara sesuai dengan ketentuan hukum yang berlaku,” kata Rita.\n\nDalam penanganan perkara ini, polisi telah memeriksa saksi dan ahli, termasuk ahli pidana dan auditor. Penyidik juga menyita sejumlah barang bukti serta melakukan gelar perkara sebelum menetapkan W sebagai tersangka.\n\nW dijerat dengan Pasal 2 atau Pasal 3 Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi sebagaimana diubah dengan Undang-Undang Nomor 20 Tahun 2001.\n\nSetelah proses penyidikan dan kelengkapan administrasi selesai, polisi akan melimpahkan berkas perkara kepada jaksa penuntut umum untuk menjalani proses hukum selanjutnya.\n\nPenetapan tersangka tersebut merupakan bagian dari proses penegakan hukum atas dugaan penyimpangan dana bantuan pendidikan. Penyidik masih melengkapi berkas perkara sebelum penanganannya berlanjut ke tahap berikutnya.\n\nCek Berita dan Artikel yang lain di Harian Jogja, dan edisi cetak versi elektronik kami hadir di Epaper Harian Jogja.\n\nYudhi Kusdiyanto Jurnalis Harian Jogja, bagian dari Bisnis Indonesia Group menulis untuk media cetak dan online"
+  },
+  {
+   "source": "mediaindonesia",
+   "getter": "auto",
+   "title": "Kejati Riau Tahan 8 Tersangka Korupsi Dana PI 10 Persen PT SPRH",
+   "link": "https://mediaindonesia.com/nusantara/947937/kejati-riau-tahan-8-tersangka-korupsi-dana-pi-10-persen-pt-sprh",
+   "pubDate": "Fri, 23 Oct 2026 18:41:00 +0700",
+   "description": "Kejati Riau menahan 8 tersangka kasus dugaan korupsi dana Participating Interest (PI) 10% PT SPRH dengan kerugian negara mencapai Rp64,22 miliar.",
+   "fetched_at": "2026-10-23T12:05:50+07:00",
    "categories": [
     "hukum-kriminal",
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 131,
-   "content": "Langkah radikal perlu dilakukan Kejaksaan Agung (Kejagung) dalam penanganan dugaan korupsi pada program Makan Bergizi Gratis (MBG)."
+   "content_chars": 145,
+   "content": "Kejati Riau menahan 8 tersangka kasus dugaan korupsi dana Participating Interest (PI) 10% PT SPRH dengan kerugian negara mencapai Rp64,22 miliar."
   },
   {
-   "source": "republika",
+   "source": "katadata",
    "getter": "auto",
-   "title": "KPK Masih Pelajari Menteri Nusron yang Mangkir Dua Kali",
-   "link": "https://news.republika.co.id/berita/tncj0y484/kpk-masih-pelajari-menteri-nusron-yang-mangkir-dua-kali",
-   "pubDate": "Fri, 23 Oct 2026 12:53:22 +0700",
-   "description": "REPUBLIKA.CO.ID,&nbsp;JAKARTA -- Komisi Pemberantasan Korupsi (KPK) masih mempelajari alasan mangkirnya Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional (ATR/BPN) Nusron Wahid dalam dua kali panggilan. KPK, menyebut hasil pertimbangan itu...",
-   "fetched_at": "2026-10-23T06:35:09+07:00",
-   "categories": [
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 249,
-   "content": "REPUBLIKA.CO.ID,&nbsp;JAKARTA -- Komisi Pemberantasan Korupsi (KPK) masih mempelajari alasan mangkirnya Menteri Agraria dan Tata Ruang/Badan Pertanahan Nasional (ATR/BPN) Nusron Wahid dalam dua kali panggilan. KPK, menyebut hasil pertimbangan itu..."
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "KPK usut kebutuhan kampanye Anom Widiyantoro saat periksa anggota DPR Doni Akbar",
-   "link": "https://www.antaranews.com/berita/5806995/kpk-usut-kebutuhan-kampanye-anom-widiyantoro-saat-periksa-anggota-dpr-doni-akbar",
-   "pubDate": "Fri, 23 Oct 2026 13:25:05 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/09/10/KPK-Tahan-Bupati-Pemalang-300726-Fah-2.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) mengusut kebutuhan kampanye Bupati Pemalang nonaktif Anom Widiyantoro pada Pilkada ...",
-   "fetched_at": "2026-10-23T06:34:55+07:00",
-   "categories": [
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 253,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/09/10/KPK-Tahan-Bupati-Pemalang-300726-Fah-2.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) mengusut kebutuhan kampanye Bupati Pemalang nonaktif Anom Widiyantoro pada Pilkada ..."
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "KPK panggil dua direksi dan tiga manajer Bela Parahiyangan Investindo",
-   "link": "https://www.antaranews.com/berita/5806955/kpk-panggil-dua-direksi-dan-tiga-manajer-bela-parahiyangan-investindo",
-   "pubDate": "Fri, 23 Oct 2026 13:12:45 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/13/pemeriksaan-tersangka-kasus-korupsi-pengurusan-hgb-2883784.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) memanggil dua direksi dan tiga manajer PT Bela Parahiyangan Investindo untuk ...",
-   "fetched_at": "2026-10-23T06:34:55+07:00",
+   "title": "Pro dan Kontra Evaluasi Definisi Korupsi untuk Cegah Kriminalisasi",
+   "link": "https://katadata.co.id/berita/nasional/6adb3d148a769/pro-dan-kontra-evaluasi-definisi-korupsi-untuk-cegah-kriminalisasi",
+   "pubDate": "Fri, 23 Oct 2026 17:55:00 +0700",
+   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/09/10/Kejagung_Sita_Rp1003_Triliun_Dari_Kasus_Dugaan_Korupsi_Penggunaa-2026_09_10-17_53_54_2e368158b8202a8548fb7f7a2f2c8f83_620x413_thumb.jpg\" alt=\"Kejagung Sita Rp1.003 Triliun Dari Kasus Dugaan Korupsi Penggunaan Kawasan Hutan (Foto: Katadata/Fauza Syahputra)\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Akademisi menanggapi wacana redefinisi korupsi dari DEN, menekankan bahwa ini adalah evaluasi hukum, bukan penghapusan",
+   "fetched_at": "2026-10-23T12:05:50+07:00",
    "categories": [
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 267,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/13/pemeriksaan-tersangka-kasus-korupsi-pengurusan-hgb-2883784.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) memanggil dua direksi dan tiga manajer PT Bela Parahiyangan Investindo untuk ..."
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "Komnas HAM dorong revisi UU Tipikor untuk lindungi hak korban korupsi",
-   "link": "https://www.antaranews.com/berita/5806855/komnas-ham-dorong-revisi-uu-tipikor-untuk-lindungi-hak-korban-korupsi",
-   "pubDate": "Fri, 23 Oct 2026 12:32:17 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/13/1001360907.jpg\" align=\"left\" border=\"0\" />Komisi Nasional Hak Asasi Manusia (Komnas HAM) mendorong revisi Undang-Undang Pemberantasan Tindak Pidana Korupsi (UU ...",
-   "fetched_at": "2026-10-23T06:34:55+07:00",
-   "categories": [
-    "korupsi"
-   ],
-   "content_status": "partial",
-   "content_chars": 225,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/13/1001360907.jpg\" align=\"left\" border=\"0\" />Komisi Nasional Hak Asasi Manusia (Komnas HAM) mendorong revisi Undang-Undang Pemberantasan Tindak Pidana Korupsi (UU ..."
-  },
-  {
-   "source": "liputan6",
-   "getter": "getter2",
-   "title": "Menelusuri Keberadaan Nusron Wahid Setelah 2 Kali Absen Panggilan KPK",
-   "link": "https://www.liputan6.com/news/read/8319701/menelusuri-keberadaan-nusron-wahid-setelah-2-kali-absen-panggilan-kpk",
-   "pubDate": "Fri, 23 Oct 2026 12:22:02 +0700",
-   "description": "KPK pertimbangkan upaya jemput paksa Nusron jika kembali mangkir.",
-   "fetched_at": "2026-10-23T06:34:54+07:00",
-   "categories": [
-    "korupsi"
-   ],
-   "content_status": "partial",
-   "content_chars": 65,
-   "content": "KPK pertimbangkan upaya jemput paksa Nusron jika kembali mangkir."
-  },
-  {
-   "source": "liputan6",
-   "getter": "getter2",
-   "title": "KPK Evaluasi Alasan Nusron Wahid Mangkir Dua Kali Pemeriksaan",
-   "link": "https://www.liputan6.com/news/read/8319659/kpk-evaluasi-alasan-nusron-wahid-mangkir-dua-kali-pemeriksaan",
-   "pubDate": "Fri, 23 Oct 2026 11:36:41 +0700",
-   "description": "KPK mengevaluasi alasan Nusron Wahid dua kali mangkir dari panggilan pemeriksaan sebagai saksi kasus dugaan suap sertifikat HGB.",
-   "fetched_at": "2026-10-23T06:34:54+07:00",
-   "categories": [
-    "korupsi"
-   ],
-   "content_status": "partial",
-   "content_chars": 128,
-   "content": "KPK mengevaluasi alasan Nusron Wahid dua kali mangkir dari panggilan pemeriksaan sebagai saksi kasus dugaan suap sertifikat HGB."
-  },
-  {
-   "source": "liputan6",
-   "getter": "getter2",
-   "title": "Dugaan Anggota Aktif Terlibat Korupsi BNPB, KPK Tunggu Mabes TNI",
-   "link": "https://www.liputan6.com/news/read/8319539/dugaan-anggota-aktif-terlibat-korupsi-bnpb-kpk-tunggu-mabes-tni",
-   "pubDate": "Fri, 23 Oct 2026 09:14:55 +0700",
-   "description": "Surat KPK kepada Mabes TNI memuat konstruksi perkara dan peran para pihak.",
-   "fetched_at": "2026-10-23T06:34:54+07:00",
-   "categories": [
-    "bencana",
-    "korupsi"
-   ],
-   "content_status": "partial",
-   "content_chars": 74,
-   "content": "Surat KPK kepada Mabes TNI memuat konstruksi perkara dan peran para pihak."
-  },
-  {
-   "source": "jawapos",
-   "getter": "getter1",
-   "title": "40 Tokoh Serahkan Amicus Curiae untuk Hery Susanto, Minta Hakim Uji Seluruh Dakwaan",
-   "link": "https://www.jawapos.com/kasuistika/2610230206/40-tokoh-serahkan-amicus-curiae-untuk-hery-susanto-minta-hakim-uji-seluruh-dakwaan",
-   "pubDate": "Fri, 23 Oct 2026 12:36:10 GMT",
-   "description": "Amicus curiae diajukan oleh 40 tokoh untuk memperkuat pembelaan Hery Susanto dalam kasus korupsi yang menjeratnya.",
-   "fetched_at": "2026-10-23T06:34:53+07:00",
-   "categories": [
-    "korupsi"
-   ],
-   "content_status": "partial",
-   "content_chars": 114,
-   "content": "Amicus curiae diajukan oleh 40 tokoh untuk memperkuat pembelaan Hery Susanto dalam kasus korupsi yang menjeratnya."
-  },
-  {
-   "source": "jawapos",
-   "getter": "getter1",
-   "title": "KPK Cecar Ketua Golkar Pemalang soal Dugaan Pembahasan Pengisian Jabatan dengan Bupati",
-   "link": "https://www.jawapos.com/kasuistika/2610230200/kpk-cecar-ketua-golkar-pemalang-soal-dugaan-pembahasan-pengisian-jabatan-dengan-bupati",
-   "pubDate": "Fri, 23 Oct 2026 11:38:21 GMT",
-   "description": "KPK mendalami dugaan pemerasan di Pemkab Pemalang, periksa Ketua DPD II Golkar Nur Azmi Wicaksono dan Bupati nonaktif Anom Widiyantoro.",
-   "fetched_at": "2026-10-23T06:34:53+07:00",
-   "categories": [
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 135,
-   "content": "KPK mendalami dugaan pemerasan di Pemkab Pemalang, periksa Ketua DPD II Golkar Nur Azmi Wicaksono dan Bupati nonaktif Anom Widiyantoro."
+   "content_chars": 500,
+   "content": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/09/10/Kejagung_Sita_Rp1003_Triliun_Dari_Kasus_Dugaan_Korupsi_Penggunaa-2026_09_10-17_53_54_2e368158b8202a8548fb7f7a2f2c8f83_620x413_thumb.jpg\" alt=\"Kejagung Sita Rp1.003 Triliun Dari Kasus Dugaan Korupsi Penggunaan Kawasan Hutan (Foto: Katadata/Fauza Syahputra)\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Akademisi menanggapi wacana redefinisi korupsi dari DEN, menekankan bahwa ini adalah evaluasi hukum, bukan penghapusan"
   },
   {
    "source": "detik",
    "getter": "getter1",
-   "title": "KPK Geledah Rumah Suami Fadia Arafiq Terkait TPPU, Sita BMW Listrik",
-   "link": "https://news.detik.com/berita/d-8720538/kpk-geledah-rumah-suami-fadia-arafiq-terkait-tppu-sita-bmw-listrik",
-   "pubDate": "Fri, 23 Oct 2026 13:20:23 +0700",
-   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/23/kpk-geledah-rumah-suami-bupati-pekalongan-nonaktif-fadia-arafiq-sita-mobil-bmw-listrik-1792736383932_169.jpeg?w=360&q=90\"/> KPK geledah rumah suami Bupati Pekalongan nonaktif Fadia Arafiq, sita mobil BMW listrik. Pengembangan kasus TPPU terkait dugaan korupsi di Pemkab Pekalongan.",
-   "fetched_at": "2026-10-23T06:34:52+07:00",
+   "title": "KPK Panggil Bos PT Bela Parahiyangan Terkait Suap HGB di ATR/BPN",
+   "link": "https://news.detik.com/berita/d-8720623/kpk-panggil-bos-pt-bela-parahiyangan-terkait-suap-hgb-di-atr-bpn",
+   "pubDate": "Fri, 23 Oct 2026 13:56:59 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2021/03/02/gedung-baru-kpk-5_169.jpeg?w=360&q=90\"/> KPK memanggil petinggi PT Bela Parahiyangan terkait dugaan suap di Kementerian ATR/BPN. Penyidikan melibatkan beberapa saksi dan penggeledahan kantor.",
+   "fetched_at": "2026-10-23T12:05:32+07:00",
    "categories": [
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 352,
-   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/23/kpk-geledah-rumah-suami-bupati-pekalongan-nonaktif-fadia-arafiq-sita-mobil-bmw-listrik-1792736383932_169.jpeg?w=360&q=90\"/> KPK geledah rumah suami Bupati Pekalongan nonaktif Fadia Arafiq, sita mobil BMW listrik. Pengembangan kasus TPPU terkait dugaan korupsi di Pemkab Pekalongan."
+   "content_chars": 262,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2021/03/02/gedung-baru-kpk-5_169.jpeg?w=360&q=90\"/> KPK memanggil petinggi PT Bela Parahiyangan terkait dugaan suap di Kementerian ATR/BPN. Penyidikan melibatkan beberapa saksi dan penggeledahan kantor."
   },
   {
-   "source": "detik",
+   "source": "jawapos",
    "getter": "getter1",
-   "title": "KPK Geledah BPK Jateng Terkait Kasus Bupati Klaten, Duit Ratusan Juta Disita",
-   "link": "https://news.detik.com/berita/d-8720208/kpk-geledah-bpk-jateng-terkait-kasus-bupati-klaten-duit-ratusan-juta-disita",
-   "pubDate": "Fri, 23 Oct 2026 10:14:23 +0700",
-   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2021/03/02/gedung-baru-kpk-2_169.jpeg?w=360&q=90\"/> KPK menggeledah Kantor BPK Jateng, menyita ratusan juta rupiah dan dokumen terkait dugaan suap kasus Bupati Klaten Hamenang Wajar Ismoyo.",
-   "fetched_at": "2026-10-23T06:34:52+07:00",
+   "title": "Komnas HAM Dorong Revisi UU Tipikor Bisa Mengakomodasi Hak Korban Korupsi",
+   "link": "https://www.jawapos.com/nasional/2610230429/komnas-ham-dorong-revisi-uu-tipikor-bisa-mengakomodasi-hak-korban-korupsi",
+   "pubDate": "Fri, 23 Oct 2026 18:48:35 GMT",
+   "description": "Komisioner Pengkajian dan Penelitian Komnas HAM Uli Parulian Sihombing mendorong adanya revisi Undang-Undang Pemberantasan Tindak Pidana Korupsi (UU Tipikor),",
+   "fetched_at": "2026-10-23T12:05:32+07:00",
    "categories": [
-    "korupsi",
-    "pemerintahan"
+    "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 249,
-   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2021/03/02/gedung-baru-kpk-2_169.jpeg?w=360&q=90\"/> KPK menggeledah Kantor BPK Jateng, menyita ratusan juta rupiah dan dokumen terkait dugaan suap kasus Bupati Klaten Hamenang Wajar Ismoyo."
+   "content_chars": 158,
+   "content": "Komisioner Pengkajian dan Penelitian Komnas HAM Uli Parulian Sihombing mendorong adanya revisi Undang-Undang Pemberantasan Tindak Pidana Korupsi (UU Tipikor),"
   }
  ]
 }
