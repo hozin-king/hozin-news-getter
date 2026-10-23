@@ -1,8 +1,57 @@
 {
- "updated_at": "2026-10-24T03:55:37+07:00",
+ "updated_at": "2026-10-24T06:45:51+07:00",
  "category": "kebakaran",
- "count": 35,
+ "count": 25,
  "articles": [
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Karhutla Sumatera, BNPB: 2.431 Hektare Lahan Masih Dalam Penanganan",
+   "link": "https://nasional.sindonews.com/read/1764047/15/karhutla-sumatera-bnpb-2431-hektare-lahan-masih-dalam-penanganan-1792761052",
+   "pubDate": "Fri, 23 Oct 2026 20:59:52 +0700",
+   "description": "Badan Nasional Penanggulangan Bencana (BNPB) masih menangani kebakaran hutan dan lahan (karhutla) di Pulau Sumatera seluas 2.431 hektare/ha. Jumlah tersebut berdasarkan data per 22 Oktober 2026.",
+   "fetched_at": "2026-10-23T23:22:24+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran"
+   ],
+   "content_status": "full",
+   "content_chars": 1931,
+   "video_type": "youtube",
+   "video_id": "pGFZgZcWLL4",
+   "video_url": "https://www.youtube.com/watch?v=pGFZgZcWLL4",
+   "content": "BNPB masih menangani kebakaran hutan dan lahan (karhutla) di Pulau Sumatera seluas 2.431 hektare/ha. Jumlah tersebut berdasarkan data per 22 Oktober 2026. Foto: Dok Sindonews\n\nJAKARTA - Badan Nasional Penanggulangan Bencana (BNPB) masih menangani kebakaran hutan dan lahan (karhutla) di Pulau Sumatera seluas 2.431 hektare/ha. Jumlah tersebut berdasarkan data per 22 Oktober 2026.\"Di Pulau Sumatera, luas lahan yang masih dalam penanganan per 22 Oktober 2026 mencapai sekitar 2.431 ha,\" ujar Plt Kepala Pusat Data, Informasi, dan Komunikasi Kebencanaan BNPB Berton SP Panjaitan, Jumat (23/10/2026). Baca juga: 1.297 Hotspot Karhutla Terdeteksi di Sumatera, Kalimantan, hingga Papua Dia merinci di Sumatera Selatan seluas 2.050 ha, Jambi 379 ha, dan Riau 2 ha. Penanganan di Sumatera mengerahkan 33.106 personel gabungan yang terdiri dari BPBD, TNI, Polri, Satpol PP, Manggala Agni, relawan, Dinas Lingkungan Hidup dan Kehutanan, serta perusahaan swasta. \"Personel sebanyak 14.837 orang bertugas di Riau, 12.285 orang di Sumatera Selatan, dan 5.984 orang di Jambi,\" katanya. Selain darat, turut dikerahkan satgas udara yang mengoperasikan 19 helikopter, 12 water bombing, dan 7 unit patroli/operasi modifikasi cuaca (OMC).Belasan armada udara itu terbagi di Sumatera Selatan sembilan unit, Riau lima unit, dan Jambi lima unit. \"OMC di Sumatera Selatan dilaksanakan melalui 9 sorti dengan penyemaian 5.800 kilogram dry ice dan 1.800 kg NaCl di Palembang serta perbatasan Lampung-Ogan Komering Ulu Timur,\" kata Berton. \"Operasi OMC di Riau telah berakhir pada 25 September 2026, sedangkan di Jambi belum dapat dilaksanakan karena pertumbuhan awan kurang mendukung,\" tambahnya.\n\nFollow WhatsApp Channel SINDOnews untuk Berita Terbaru Setiap Hari\n\nDapatkan berita terkini dan kejutan menarik dari SINDOnews.com, Klik Disini untuk mendaftarkan diri anda sekarang juga!\n\nKarhutla Sumatera, BNPB: 2.431 Hektare Lahan Masih Dalam Penanganan"
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Korban meninggal karhutla Gunung Bromo bertambah jadi enam orang",
+   "link": "https://www.antaranews.com/video/5808643/korban-meninggal-karhutla-gunung-bromo-bertambah-jadi-enam-orang",
+   "pubDate": "Sat, 24 Oct 2026 05:12:30 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/KORBAN-MENINGGAL-KARHUTLA-GUNUNG-BROMO-BERTAMBAH-JADI-ENAM-ORANG.jpg\" align=\"left\" border=\"0\" />ANTARA -&nbsp;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&lrm;Korban meninggal dunia saat hendak melakukan ...",
+   "fetched_at": "2026-10-23T23:22:07+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 271,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/KORBAN-MENINGGAL-KARHUTLA-GUNUNG-BROMO-BERTAMBAH-JADI-ENAM-ORANG.jpg\" align=\"left\" border=\"0\" />ANTARA -&nbsp;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&lrm;Korban meninggal dunia saat hendak melakukan ..."
+  },
+  {
+   "source": "jawapos",
+   "getter": "getter1",
+   "title": "Datangi Lokasi Karhutla Kalsel, PKB Perintahkan Pemadaman Tuntas hingga Beri Layanan Kesehatan",
+   "link": "https://www.jawapos.com/politik/2610240022/datangi-lokasi-karhutla-kalsel-pkb-perintahkan-pemadaman-tuntas-hingga-beri-layanan-kesehatan",
+   "pubDate": "Sat, 24 Oct 2026 06:20:49 GMT",
+   "description": "Cucun Ahmad Syamsurijal memerintahkan kepada kadernya di Kalimantan Selatan (Kalsel) agar memastika proses pemadaman karhutla tuntas.",
+   "fetched_at": "2026-10-23T23:22:04+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 133,
+   "content": "Cucun Ahmad Syamsurijal memerintahkan kepada kadernya di Kalimantan Selatan (Kalsel) agar memastika proses pemadaman karhutla tuntas."
+  },
   {
    "source": "fajar",
    "getter": "auto",
@@ -352,208 +401,6 @@
    "content_status": "partial",
    "content_chars": 500,
    "content": "<a href=\"https://beritajatim.com/polres-mojokerto-kerahkan-awc-tangani-kebakaran-bengkel-tambal-ban\" title=\"Polres Mojokerto Kerahkan AWC Tangani Kebakaran Bengkel Tambal Ban\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/tambal-ban-kebakaran.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://cdn"
-  },
-  {
-   "source": "jpnn",
-   "getter": "auto",
-   "title": "Gubernur Sumsel Bakal Bagi Shift Petugas Pemadam Karhutla di OKI",
-   "link": "https://www.jpnn.com/news/gubernur-sumsel-bakal-bagi-shift-petugas-pemadam-karhutla-di-oki",
-   "pubDate": "Fri, 23 Oct 2026 22:22:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/watermark/2026/10/23/gubernur-sumsel-herman-deru-foto-cuci-hatijpnncom-ycqew-uvmh.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong> - <strong>PALEMBANG</strong> &mdash; <a href=\"https://www.jpnn.com/tag/gubernur-sumsel\" title=\"Semua artikel tentang Gubernur Sumatera Selatan Herman Deru\">Gubernur Sumatera Selatan Herman Deru</a> menyiapkan pengaturan jadwal kerja bergilir dengan sistem dua hingga shift untuk pemadaman keba",
-   "fetched_at": "2026-10-23T17:02:33+07:00",
-   "categories": [
-    "kebakaran",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "<img src=\"https://cloud.jpnn.com/photo/arsip/watermark/2026/10/23/gubernur-sumsel-herman-deru-foto-cuci-hatijpnncom-ycqew-uvmh.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong> - <strong>PALEMBANG</strong> &mdash; <a href=\"https://www.jpnn.com/tag/gubernur-sumsel\" title=\"Semua artikel tentang Gubernur Sumatera Selatan Herman Deru\">Gubernur Sumatera Selatan Herman Deru</a> menyiapkan pengaturan jadwal kerja bergilir dengan sistem dua hingga shift untuk pemadaman keba"
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "Karhutla Kalimantan, BNPB: Masih Dalam Penanganan 18.973 Hektare",
-   "link": "https://nasional.sindonews.com/read/1764107/15/karhutla-kalimantan-bnpb-masih-dalam-penanganan-18973-hektare-1792771816",
-   "pubDate": "Fri, 23 Oct 2026 23:19:34 +0700",
-   "description": "Badan Nasional Penanggulangan Bencana (BNPB) masih menangani kebakaran hutan dan lahan (karhutla) di Pulau Kalimantan seluas 18.973 hektare. Jumlah tersebut berdasarkan data per 22 Oktober 2026.",
-   "fetched_at": "2026-10-23T17:02:31+07:00",
-   "categories": [
-    "bencana",
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 194,
-   "content": "Badan Nasional Penanggulangan Bencana (BNPB) masih menangani kebakaran hutan dan lahan (karhutla) di Pulau Kalimantan seluas 18.973 hektare. Jumlah tersebut berdasarkan data per 22 Oktober 2026."
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "Karhutla Dekati Permukiman, Cucun PKB: Jangan Tunggu Korban Berjatuhan",
-   "link": "https://nasional.sindonews.com/read/1764095/15/karhutla-dekati-permukiman-cucun-pkb-jangan-tunggu-korban-berjatuhan-1792768204",
-   "pubDate": "Fri, 23 Oct 2026 22:50:56 +0700",
-   "description": "Wakil Ketua Umum DPP Partai Kebangkitan Bangsa (PKB) Cucun Ahmad Syamsurijal menyapa sekaligus menyalurkan bantuan kepada warga terdampak kebakaran hutan dan lahan (karhutla) di Landasan Ulin, Kota Banjarbaru, Kalimantan Selatan, Jumat (23/10/2026).",
-   "fetched_at": "2026-10-23T17:02:31+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 249,
-   "content": "Wakil Ketua Umum DPP Partai Kebangkitan Bangsa (PKB) Cucun Ahmad Syamsurijal menyapa sekaligus menyalurkan bantuan kepada warga terdampak kebakaran hutan dan lahan (karhutla) di Landasan Ulin, Kota Banjarbaru, Kalimantan Selatan, Jumat (23/10/2026)."
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "Petugas dan Relawan Gugur, DPR Minta Pemerintah Evaluasi Penanganan Karhutla",
-   "link": "https://nasional.sindonews.com/read/1764081/15/petugas-dan-relawan-gugur-dpr-minta-pemerintah-evaluasi-penanganan-karhutla-1792768212",
-   "pubDate": "Fri, 23 Oct 2026 22:19:24 +0700",
-   "description": "Anggota Komisi IV DPR Firman Soebagyo menyoroti gugurnya sejumlah petugas dan relawan saat menjalankan tugas memadamkan kebakaran hutan dan lahan (karhutla). Dia meminta pemerintah melakukan evaluasi menyeluruh terhadap sistem penanganan karhutla.",
-   "fetched_at": "2026-10-23T17:02:31+07:00",
-   "categories": [
-    "kebakaran",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 247,
-   "content": "Anggota Komisi IV DPR Firman Soebagyo menyoroti gugurnya sejumlah petugas dan relawan saat menjalankan tugas memadamkan kebakaran hutan dan lahan (karhutla). Dia meminta pemerintah melakukan evaluasi menyeluruh terhadap sistem penanganan karhutla."
-  },
-  {
-   "source": "katadata",
-   "getter": "auto",
-   "title": "Pemerintah Klaim Tak Lambat Tangani Karhutla, Menko PMK Tegaskan Gelontorkan Ban",
-   "link": "https://katadata.co.id/video/news/6adb7dff262fb/pemerintah-klaim-tak-lambat-tangani-karhutla-menko-pmk-tegaskan-gelontorkan-ban",
-   "pubDate": "Fri, 23 Oct 2026 22:32:00 +0700",
-   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/23/Pemerintah_Klaim_Tak_Lambat_Tangani_Karhutla_Menko_PMK_Tegaskan-2026_10_23-22_30_58_4725349ba16634f500e2373c9df147ad_640x360_thumb.jpeg\" alt=\"Pemerintah Klaim Tak Lambat Tangani Karhutla, Menko PMK Tegaskan Gelontorkan Bantuan Rp 1,2 Triliun\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Menko PMK Sugiono menegaskan pemerintah tidak lambat dalam menangani kebakaran hutan dan lahan (karhutla) yang melanda sejumlah wila",
-   "fetched_at": "2026-10-23T17:02:29+07:00",
-   "categories": [
-    "kebakaran",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/23/Pemerintah_Klaim_Tak_Lambat_Tangani_Karhutla_Menko_PMK_Tegaskan-2026_10_23-22_30_58_4725349ba16634f500e2373c9df147ad_640x360_thumb.jpeg\" alt=\"Pemerintah Klaim Tak Lambat Tangani Karhutla, Menko PMK Tegaskan Gelontorkan Bantuan Rp 1,2 Triliun\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Menko PMK Sugiono menegaskan pemerintah tidak lambat dalam menangani kebakaran hutan dan lahan (karhutla) yang melanda sejumlah wila"
-  },
-  {
-   "source": "katadata",
-   "getter": "auto",
-   "title": "‘Kebakaran’ di Pasar Modal, Kala Reformasi Bursa Diuji MSCI",
-   "link": "https://katadata.co.id/video/news/6adb7b60a8d29/kebakaran-di-pasar-modal-kala-reformasi-bursa-diuji-msci",
-   "pubDate": "Fri, 23 Oct 2026 22:21:00 +0700",
-   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/23/Kebakaran_di_Pasar_Modal_Kala_Reformasi_Bursa_Diuji_MSCI-2026_10_23-22_17_21_2687ca6a6c91295e84fe526cee75f157_640x360_thumb.jpeg\" alt=\" ‘Kebakaran’ di Pasar Modal, Kala Reformasi Bursa Diuji MSCI\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Dalam hitungan menit, ratusan triliun rupiah nilai pasar saham Indonesia menguap. IHSG bahkan sempat anjlok lebih dari 11% hingga perdagangan dihentikan sementara.</p>",
-   "fetched_at": "2026-10-23T17:02:29+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 489,
-   "content": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/23/Kebakaran_di_Pasar_Modal_Kala_Reformasi_Bursa_Diuji_MSCI-2026_10_23-22_17_21_2687ca6a6c91295e84fe526cee75f157_640x360_thumb.jpeg\" alt=\" ‘Kebakaran’ di Pasar Modal, Kala Reformasi Bursa Diuji MSCI\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Dalam hitungan menit, ratusan triliun rupiah nilai pasar saham Indonesia menguap. IHSG bahkan sempat anjlok lebih dari 11% hingga perdagangan dihentikan sementara.</p>"
-  },
-  {
-   "source": "katadata",
-   "getter": "auto",
-   "title": "Cegah Korban Jiwa Bertambah, BNPB Keluarkan Imbauan bagi Relawan Karhutla",
-   "link": "https://katadata.co.id/berita/nasional/6adb6237b0dbb/cegah-korban-jiwa-bertambah-bnpb-keluarkan-imbauan-bagi-relawan-karhutla",
-   "pubDate": "Fri, 23 Oct 2026 20:33:00 +0700",
-   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/09/13/2026_09_13-13_37_00_f037b95e-af4a-11f1-9607-0242ac12000a_620x413_thumb.jpg\" alt=\"Penanganan Kebakaran Kawasan TNBTS\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>BNPB mengeluarkan enam imbauan keselamatan bagi relawan Karhutla, termasuk koordinasi dengan pos komando dan keberadaan petugas keselamatan, untuk mencegah bertambahnya korban.</p>",
-   "fetched_at": "2026-10-23T17:02:29+07:00",
-   "categories": [
-    "bencana",
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 422,
-   "content": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/09/13/2026_09_13-13_37_00_f037b95e-af4a-11f1-9607-0242ac12000a_620x413_thumb.jpg\" alt=\"Penanganan Kebakaran Kawasan TNBTS\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>BNPB mengeluarkan enam imbauan keselamatan bagi relawan Karhutla, termasuk koordinasi dengan pos komando dan keberadaan petugas keselamatan, untuk mencegah bertambahnya korban.</p>"
-  },
-  {
-   "source": "katadata",
-   "getter": "auto",
-   "title": "Menkum Serahkan Data Kepemilikan Perusahaan Terduga Pelaku Karhutla ke Aparat",
-   "link": "https://katadata.co.id/berita/nasional/6adb4e2ab0360/menkum-serahkan-data-kepemilikan-perusahaan-terduga-pelaku-karhutla-ke-aparat",
-   "pubDate": "Fri, 23 Oct 2026 19:08:00 +0700",
-   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/07/24/2026_07_24-13_55_00_5b066578-873c-11f1-9607-0242ac12000a_620x413_thumb.jpg\" alt=\"Konpers Kemenkum\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Bank Indonesia bersiap mengembangkan Rupiah Digital sebagai mata uang digital resmi untuk memperkuat sistem pembayaran dan keuangan nasional di era digital.</p>",
-   "fetched_at": "2026-10-23T17:02:29+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 384,
-   "content": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/07/24/2026_07_24-13_55_00_5b066578-873c-11f1-9607-0242ac12000a_620x413_thumb.jpg\" alt=\"Konpers Kemenkum\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Bank Indonesia bersiap mengembangkan Rupiah Digital sebagai mata uang digital resmi untuk memperkuat sistem pembayaran dan keuangan nasional di era digital.</p>"
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "LMND: Karang Taruna bantu tangani karhutla tunjukkan gotong royong",
-   "link": "https://www.antaranews.com/berita/5808583/lmnd-karang-taruna-bantu-tangani-karhutla-tunjukkan-gotong-royong",
-   "pubDate": "Fri, 23 Oct 2026 23:48:30 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/23/WhatsApp-Image-2026-10-23-at-7.51.29-PM.jpeg\" align=\"left\" border=\"0\" />Eksekutif Nasional Liga Mahasiswa Nasional untuk Demokrasi (EN-LMND) mengapresiasi Pengurus Nasional Karang Taruna ...",
-   "fetched_at": "2026-10-23T17:02:14+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 252,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/23/WhatsApp-Image-2026-10-23-at-7.51.29-PM.jpeg\" align=\"left\" border=\"0\" />Eksekutif Nasional Liga Mahasiswa Nasional untuk Demokrasi (EN-LMND) mengapresiasi Pengurus Nasional Karang Taruna ..."
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "Khofifah tegaskan penanganan karhutla Jatim kedepankan upaya bersama",
-   "link": "https://www.antaranews.com/berita/5808475/khofifah-tegaskan-penanganan-karhutla-jatim-kedepankan-upaya-bersama",
-   "pubDate": "Fri, 23 Oct 2026 22:43:06 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/23/1001575956.jpg\" align=\"left\" border=\"0\" />Gubernur Jawa Timur Khofifah Indar Parawansa menegaskan penanganan kebakaran hutan dan lahan (karhutla) di beberapa ...",
-   "fetched_at": "2026-10-23T17:02:14+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 223,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/23/1001575956.jpg\" align=\"left\" border=\"0\" />Gubernur Jawa Timur Khofifah Indar Parawansa menegaskan penanganan kebakaran hutan dan lahan (karhutla) di beberapa ..."
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "BNPB kerahkan helikopter dan pesawat tangani karhutla di Jawa Timur",
-   "link": "https://www.antaranews.com/berita/5808455/bnpb-kerahkan-helikopter-dan-pesawat-tangani-karhutla-di-jawa-timur",
-   "pubDate": "Fri, 23 Oct 2026 22:35:49 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/21/Kebakaran-Gunung-Arjuno-Malang-201026-IS-6.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) mengerahkan tambahan satu helikopter pengeboman air (water bombing) dan ...",
-   "fetched_at": "2026-10-23T17:02:14+07:00",
-   "categories": [
-    "bencana",
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 256,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/21/Kebakaran-Gunung-Arjuno-Malang-201026-IS-6.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) mengerahkan tambahan satu helikopter pengeboman air (water bombing) dan ..."
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "BNPB sebut terdapat penambahan kejadian karhutla di 16 wilayah",
-   "link": "https://www.antaranews.com/berita/5808447/bnpb-sebut-terdapat-penambahan-kejadian-karhutla-di-16-wilayah",
-   "pubDate": "Fri, 23 Oct 2026 22:29:14 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/09/08/kebakaran-di-tpa-galuga-bogor-2859120.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) menyebut terdapat penambahan kejadian kebakaran hutan dan lahan (karhutla) ...",
-   "fetched_at": "2026-10-23T17:02:14+07:00",
-   "categories": [
-    "bencana",
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 254,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/09/08/kebakaran-di-tpa-galuga-bogor-2859120.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) menyebut terdapat penambahan kejadian kebakaran hutan dan lahan (karhutla) ..."
-  },
-  {
-   "source": "liputan6",
-   "getter": "getter2",
-   "title": "BMKG Jelaskan Fungsi Dry Ice Dalam Penanganan Asap Kebakaran Hutan",
-   "link": "https://www.liputan6.com/news/read/8320161/bmkg-jelaskan-fungsi-dry-ice-dalam-penanganan-asap-kebakaran-hutan",
-   "pubDate": "Fri, 23 Oct 2026 21:59:27 +0700",
-   "description": "Metode dry ice ditujukan untuk mengganggu lapisan inversi atmosfer yang dapat memerangkap asap.",
-   "fetched_at": "2026-10-23T17:02:13+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 95,
-   "content": "Metode dry ice ditujukan untuk mengganggu lapisan inversi atmosfer yang dapat memerangkap asap."
   }
  ]
 }
