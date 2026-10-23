@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T08:16:01+07:00",
+ "updated_at": "2026-10-23T14:02:55+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -5364,27 +5364,6 @@
    ]
   },
   {
-   "nama": "Tol BORR (Sentul Barat-Simpang Yasmin)",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "BORR KM 00+100",
-     "lokasi": "SENTUL BRT - TN BARU",
-     "stream": "https://jmlive.jasamarga.com/hls/11/e25fc0d8-c11a-4f8b-867f-423993056269/index.m3u8",
-     "lat": -6.5651785,
-     "lon": 106.8338246
-    },
-    {
-     "nama": "BORR KM 10+600",
-     "lokasi": "SIMPANG YASMIN - KAYUMANIS",
-     "stream": "https://jmlive.jasamarga.com/hls/11/a09f1b64-cfdb-430c-8cf1-1439191f5eed/index.m3u8",
-     "lat": -6.5330012,
-     "lon": 106.7672353
-    }
-   ]
-  },
-  {
    "nama": "Tol Bayung Lencir - Tempino - Jambi",
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
@@ -5542,20 +5521,6 @@
      "stream": "https://cctv.kkdm.co.id/api/cctv/1/39/index.m3u8",
      "lat": null,
      "lon": null
-    }
-   ]
-  },
-  {
-   "nama": "Tol Belawan-Medan-Tanjung Morawa",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "(BELMERA) KM 31+000 selatan",
-     "lokasi": "AMPLAS - TJ MORAWA",
-     "stream": "https://jmlive.jasamarga.com/hls/24/cc4df52a-febe-4a24-93ab-850f44c45c92/index.m3u8",
-     "lat": 3.5332771,
-     "lon": 98.7543911
     }
    ]
   },
@@ -6022,83 +5987,6 @@
    ]
   },
   {
-   "nama": "Tol Cipularang",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "CIPULARANG KM 072+800",
-     "lokasi": "SS DAWUAN - SADANG",
-     "stream": "https://jmlive.jasamarga.com/hls/7/ba70a758-5cfb-4d33-8580-46eb46230948/index.m3u8",
-     "lat": -6.4693705,
-     "lon": 107.4453696
-    },
-    {
-     "nama": "CIPULARANG KM 084+000 | SS JATILUHUR",
-     "lokasi": "JATILUHUR - PADALARANG",
-     "stream": "https://jmlive.jasamarga.com/hls/7/e8f33ce7-0fa9-4b0c-818d-3304147b0e13/index.m3u8",
-     "lat": -6.56579210597867,
-     "lon": 107.426247596741
-    },
-    {
-     "nama": "CIPULARANG KM 091+000",
-     "lokasi": "JATILUHUR - PADALARANG",
-     "stream": "https://jmlive.jasamarga.com/hls/7/7c1ced4f-7b89-40d5-b4d7-b9530d363280/index.m3u8",
-     "lat": -6.6308135,
-     "lon": 107.4241965
-    }
-   ]
-  },
-  {
-   "nama": "Tol Gempol-Pasuruan",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "(Gempol-Pasuruan) GT Pasuruan",
-     "lokasi": "GRATI - PROBOLINGGO",
-     "stream": "https://jmlive.jasamarga.com/hls/21/c4a044de-09d2-4193-86a1-040c8a458cbb/index.m3u8",
-     "lat": -7.66430476229245,
-     "lon": 112.884993553162
-    },
-    {
-     "nama": "(Gempol-Pasuruan) KM 781+790",
-     "lokasi": "GEMPOL JUNCTION - BANGIL",
-     "stream": "https://jmlive.jasamarga.com/hls/21/6a2bcffd-d18b-47b5-8287-8af21199685d/index.m3u8",
-     "lat": -7.61325272455295,
-     "lon": 112.764058113098
-    },
-    {
-     "nama": "(Gempol-Pasuruan) KM 782+640",
-     "lokasi": "BANGIL - REMBANG",
-     "stream": "https://jmlive.jasamarga.com/hls/21/5282612d-d4c3-40cd-b0bf-98d51be3bf35/index.m3u8",
-     "lat": -7.61687899205499,
-     "lon": 112.771428823471
-    },
-    {
-     "nama": "(Gempol-Pasuruan) KM 785+650",
-     "lokasi": "BANGIL - REMBANG",
-     "stream": "https://jmlive.jasamarga.com/hls/21/48e5c52b-c488-445c-8bba-634fddf0bbb4/index.m3u8",
-     "lat": -7.62820423393724,
-     "lon": 112.795557975769
-    },
-    {
-     "nama": "(Gempol-Pasuruan) KM 800+000",
-     "lokasi": "PASURUAN - GRATI",
-     "stream": "https://jmlive.jasamarga.com/hls/21/da4b983a-01ec-4e7b-8eda-5d8752b14c8b/index.m3u8",
-     "lat": -7.67594772684198,
-     "lon": 112.898941040039
-    },
-    {
-     "nama": "(Gempol-Pasuruan) KM 808+000",
-     "lokasi": "PASURUAN - GRATI",
-     "stream": "https://jmlive.jasamarga.com/hls/21/fd7d677a-a79c-40aa-b38d-15cafc4e9705/index.m3u8",
-     "lat": -7.7061435176015,
-     "lon": 112.965459823608
-    }
-   ]
-  },
-  {
    "nama": "Tol Indralaya - Prabumulih",
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
@@ -6123,90 +6011,6 @@
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/qXDmIb4xfhuR1712173589376.m3u8",
      "lat": 2.955879,
      "lon": 99.583028
-    }
-   ]
-  },
-  {
-   "nama": "Tol JORR 2 (Kunciran-Cengkareng)",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "JKC KM 01+300",
-     "lokasi": "SS BENDA - GT BENDA UTM",
-     "stream": "https://jmlive.jasamarga.com/hls/33/14876421-a2e6-42da-86f0-c4bedff18cb9/index.m3u8",
-     "lat": -6.124291,
-     "lon": 106.685689
-    }
-   ]
-  },
-  {
-   "nama": "Tol JORR 2 (Serpong-Kunciran)",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "(MTN) KM 14+000",
-     "lokasi": "SS KUNCIRAN - PARIGI",
-     "stream": "https://jmlive.jasamarga.com/hls/28/32f35a3f-a710-4e7e-8999-b5df3da69d24/index.m3u8",
-     "lat": -6.2179869,
-     "lon": 106.6674262
-    }
-   ]
-  },
-  {
-   "nama": "Tol JORR E (Bambu Apus-Rorotan)",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "JORR E KM 37+000",
-     "lokasi": "SETU - JATIWARNA",
-     "stream": "https://jmlive.jasamarga.com/hls/8/924119d1-4ff3-4d9f-89e7-05c28b5d2d52/index.m3u8",
-     "lat": -6.31137427103943,
-     "lon": 106.920018196106
-    },
-    {
-     "nama": "JORR E KM 40+000",
-     "lokasi": "JATIWARNA - JATIASIH",
-     "stream": "https://jmlive.jasamarga.com/hls/8/da90dbcf-dd76-493f-8f8f-89a40fda7b7e/index.m3u8",
-     "lat": -6.30299244843563,
-     "lon": 106.945488452911
-    },
-    {
-     "nama": "JORR E KM 42+000",
-     "lokasi": "JATIASIH - SS CIKUNIR",
-     "stream": "https://jmlive.jasamarga.com/hls/8/55a0843c-9ba4-4b9b-bb93-1bc224778866/index.m3u8",
-     "lat": -6.29045145335957,
-     "lon": 106.958395242691
-    },
-    {
-     "nama": "JORR E KM 43+000",
-     "lokasi": "JATIASIH - SS CIKUNIR",
-     "stream": "https://jmlive.jasamarga.com/hls/8/a6ed1425-7094-4148-a71e-cf508d7f4801/index.m3u8",
-     "lat": -6.28151474328463,
-     "lon": 106.959253549576
-    },
-    {
-     "nama": "JORR E KM 44+050",
-     "lokasi": "JATIASIH - SS CIKUNIR",
-     "stream": "https://jmlive.jasamarga.com/hls/8/85b18ea1-e736-4afe-a595-23d0d683754d/index.m3u8",
-     "lat": -6.27251389213156,
-     "lon": 106.959092617035
-    },
-    {
-     "nama": "JORR E KM 52+000",
-     "lokasi": "PULO GEBANG - CAKUNG",
-     "stream": "https://jmlive.jasamarga.com/hls/8/f00738fe-eba4-4c08-9d7b-a39bb7387f1d/index.m3u8",
-     "lat": -6.20353066208106,
-     "lon": 106.946496963501
-    },
-    {
-     "nama": "JORR E KM 53+000",
-     "lokasi": "PULO GEBANG - CAKUNG",
-     "stream": "https://jmlive.jasamarga.com/hls/8/fb992c3c-e1d6-44b4-9081-9bcfcc17b683/index.m3u8",
-     "lat": -6.19531776943521,
-     "lon": 106.943621635437
     }
    ]
   },
@@ -6582,195 +6386,6 @@
    ]
   },
   {
-   "nama": "Tol JORR W2S (Pondok Ranji-Ulujami-Pondok Pinang)",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "JORR W2S KM 18+800",
-     "lokasi": "VETERAN - PD PINANG",
-     "stream": "https://jmlive.jasamarga.com/hls/9/fba6f7d1-2f85-43cc-9e55-e921592682d3/index.m3u8",
-     "lat": -6.274442,
-     "lon": 106.767797
-    }
-   ]
-  },
-  {
-   "nama": "Tol JORR W2U (Ulujami-Kembangan)",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "JORR W2U KM.16+000",
-     "lokasi": "CILEDUG - SS ULUJAMI",
-     "stream": "https://jmlive.jasamarga.com/hls/10/951a43e7-d0ab-4afc-bfdb-9418131e5375/index.m3u8",
-     "lat": -6.251647,
-     "lon": 106.763582
-    }
-   ]
-  },
-  {
-   "nama": "Tol Jakarta-Bogor-Ciawi",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "JAGORAWI KM 07+000 | B",
-     "lokasi": "TM MINI - SS TM MINI",
-     "stream": "https://jmlive.jasamarga.com/hls/1/5aad6d10-094f-4183-9c17-f6c9e86e7b69/index.m3u8",
-     "lat": -6.3070122,
-     "lon": 106.8843712
-    },
-    {
-     "nama": "JAGORAWI KM 10+350 | B",
-     "lokasi": "PS REBO - CIBUBUR",
-     "stream": "https://jmlive.jasamarga.com/hls/1/76adbbaf-15ec-4add-b6b8-8a86fa8796e8/index.m3u8",
-     "lat": -6.33564453379732,
-     "lon": 106.888067722321
-    },
-    {
-     "nama": "JAGORAWI KM 13+150 | B",
-     "lokasi": "CIBUBUR - SS CIBUBUR",
-     "stream": "https://jmlive.jasamarga.com/hls/1/f1003777-26d7-4b28-980a-53243a29b34a/index.m3u8",
-     "lat": -6.36006826580642,
-     "lon": 106.893582344055
-    },
-    {
-     "nama": "JAGORAWI KM 15+500 | B",
-     "lokasi": "SS CIBUBUR - CIMANGGIS",
-     "stream": "https://jmlive.jasamarga.com/hls/1/493efb7d-e292-4068-8d04-b643298d0f7b/index.m3u8",
-     "lat": -6.37539581783567,
-     "lon": 106.896114349365
-    },
-    {
-     "nama": "JAGORAWI KM 16+400",
-     "lokasi": "SS CIBUBUR - CIMANGGIS",
-     "stream": "https://jmlive.jasamarga.com/hls/1/c1537900-5c40-4a5f-bf63-21b123739310/index.m3u8",
-     "lat": -6.38903295553624,
-     "lon": 106.895599365234
-    },
-    {
-     "nama": "JAGORAWI KM 24+000B | SS GUNUNG PUTRI",
-     "lokasi": "CIMANGGIS - GUNUNG PUTRI",
-     "stream": "https://jmlive.jasamarga.com/hls/1/653ac875-54a4-4406-8366-7437a1893942/index.m3u8",
-     "lat": -6.4551303,
-     "lon": 106.8879669
-    }
-   ]
-  },
-  {
-   "nama": "Tol Jakarta-Cikampek",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "CIKAMPEK  KM 12+600",
-     "lokasi": "SS CIKUNIR - BEKASI BRT",
-     "stream": "https://jmlive.jasamarga.com/hls/5/8608a1dc-20b5-4871-bb96-779af5e830d9/index.m3u8",
-     "lat": -6.24956315174347,
-     "lon": 106.982529759407
-    },
-    {
-     "nama": "CIKAMPEK GT. CIBITUNG 3",
-     "lokasi": "CIBITUNG - CIKARANG UTM",
-     "stream": "https://jmlive.jasamarga.com/hls/5/17f12f0e-8c2b-4414-9216-b88b2992a55a/index.m3u8",
-     "lat": -6.2846074,
-     "lon": 107.0801964
-    },
-    {
-     "nama": "CIKAMPEK GT. CKR BRT 3 ENTR",
-     "lokasi": "CIKARANG BRT - CIBATU",
-     "stream": "https://jmlive.jasamarga.com/hls/5/d8daf0f5-e98a-4a38-9423-72040def0183/index.m3u8",
-     "lat": -6.31169418524696,
-     "lon": 107.136558294296
-    },
-    {
-     "nama": "CIKAMPEK GT. CKR BRT 4 ENTR",
-     "lokasi": "CIKARANG BRT - CIBATU",
-     "stream": "https://jmlive.jasamarga.com/hls/5/6e12ed68-b4c7-4629-a3df-f08d47f747ac/index.m3u8",
-     "lat": -6.31149157293848,
-     "lon": 107.139036655426
-    },
-    {
-     "nama": "CIKAMPEK KM 04+000",
-     "lokasi": "HALIM - JATIWARINGIN",
-     "stream": "https://jmlive.jasamarga.com/hls/5/500e58f6-6330-498d-8d62-aa9262960344/index.m3u8",
-     "lat": -6.25548223564827,
-     "lon": 106.906843185425
-    },
-    {
-     "nama": "CIKAMPEK KM 18+000",
-     "lokasi": "BEKASI TMR - TAMBUN",
-     "stream": "https://jmlive.jasamarga.com/hls/5/4c247d1c-ba47-4732-99cf-75fd152ff294/index.m3u8",
-     "lat": -6.26628572403902,
-     "lon": 107.027435302734
-    },
-    {
-     "nama": "CIKAMPEK KM 22+000",
-     "lokasi": "TAMBUN - CIBITUNG",
-     "stream": "https://jmlive.jasamarga.com/hls/5/21d5d99f-5c3a-4a29-9568-a7f900912648/index.m3u8",
-     "lat": -6.27895527537126,
-     "lon": 107.061166763306
-    },
-    {
-     "nama": "CIKAMPEK KM 26+000",
-     "lokasi": "CIKARANG UTM- CIKARANG BRT",
-     "stream": "https://jmlive.jasamarga.com/hls/5/36cd57fc-facf-47a3-9033-03332d1780bd/index.m3u8",
-     "lat": -6.29015285454828,
-     "lon": 107.095692157745
-    },
-    {
-     "nama": "CIKAMPEK KM 49+000 Median (Surv)",
-     "lokasi": "TI KM 52B - KARAWANG BRT",
-     "stream": "https://jmlive.jasamarga.com/hls/5/6e3ff910-c1c9-469c-a056-ee1dd42efd0e/index.m3u8",
-     "lat": -6.349828,
-     "lon": 107.284948
-    },
-    {
-     "nama": "CIKAMPEK KM 54+300",
-     "lokasi": "TIP KM 62B - KARAWANG TMR",
-     "stream": "https://jmlive.jasamarga.com/hls/5/fbf29182-9ca3-4f07-a07f-0a3923d97da0/index.m3u8",
-     "lat": -6.3551580211233,
-     "lon": 107.332820892334
-    }
-   ]
-  },
-  {
-   "nama": "Tol Jakarta-Tangerang",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "JANGER KM 10+600",
-     "lokasi": "KR TENGAH - KUNCIRAN",
-     "stream": "https://jmlive.jasamarga.com/hls/4/a21812b4-756c-4816-aa7a-e46e6b957f18/index.m3u8",
-     "lat": -6.20228273728311,
-     "lon": 106.705827713013
-    },
-    {
-     "nama": "JANGER KM 25+500",
-     "lokasi": "KARAWACI - BITUNG",
-     "stream": "https://jmlive.jasamarga.com/hls/4/9c5972a3-cc9b-4e56-93e5-98ce54ffe319/index.m3u8",
-     "lat": -6.22170523168182,
-     "lon": 106.575525999069
-    }
-   ]
-  },
-  {
-   "nama": "Tol Jalan Layang MBZ",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "(MBZ) KM 20+000 L",
-     "lokasi": "KM 18+700 L - PB KM 21+000 L",
-     "stream": "https://jmlive.jasamarga.com/hls/29/456ee675-4d8b-4c2d-ba73-a8d7bdabef0a/index.m3u8",
-     "lat": -6.27263120280307,
-     "lon": 107.045191526413
-    }
-   ]
-  },
-  {
    "nama": "Tol Kuala Tanjung - Tebing Tinggi - Parapat",
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
@@ -6844,76 +6459,6 @@
      "stream": "https://cctv.hmwtoll.com/camera/bearer/jlp/3/56/index.m3u8",
      "lat": 99.263222,
      "lon": 3.332459
-    }
-   ]
-  },
-  {
-   "nama": "Tol Kualanamu-Tebing Tinggi",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "(JMKT) KM 43+000",
-     "lokasi": "PARBARAKAN - LUBUKPAKAM",
-     "stream": "https://jmlive.jasamarga.com/hls/25/629f5c93-b833-44cc-bfc9-7aa8bd8a9315/index.m3u8",
-     "lat": 3.536414,
-     "lon": 98.8570857
-    },
-    {
-     "nama": "(JMKT) KM 53+000",
-     "lokasi": "LUBUKPAKAM - PERBAUNGAN",
-     "stream": "https://jmlive.jasamarga.com/hls/25/420b0d7b-9593-4a63-ac7e-5aabffc4587a/index.m3u8",
-     "lat": 3.544998,
-     "lon": 98.944704
-    },
-    {
-     "nama": "(JMKT) KM 58+000",
-     "lokasi": "LUBUKPAKAM - PERBAUNGAN",
-     "stream": "https://jmlive.jasamarga.com/hls/25/de0b9814-f4df-49f5-8b5e-efd2739142c1/index.m3u8",
-     "lat": 3.5425426,
-     "lon": 98.9901473
-    },
-    {
-     "nama": "(JMKT) KM 71+000",
-     "lokasi": "T MENGKUDU - SEI RAMPAH",
-     "stream": "https://jmlive.jasamarga.com/hls/25/a3be7777-a99c-489c-8d00-d3fd42892b32/index.m3u8",
-     "lat": 3.495988,
-     "lon": 99.0935274
-    },
-    {
-     "nama": "(JMKT) KM 72+000",
-     "lokasi": "T MENGKUDU - SEI RAMPAH",
-     "stream": "https://jmlive.jasamarga.com/hls/25/cf650bea-b4f4-45d4-ae07-3945ac4c4629/index.m3u8",
-     "lat": 3.489515,
-     "lon": 99.1001136
-    }
-   ]
-  },
-  {
-   "nama": "Tol Mojokerto-Surabaya",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "(Surabaya-Mojokerto) KM 715+500",
-     "lokasi": "PENOMPO - KARANGANDONG",
-     "stream": "https://jmlive.jasamarga.com/hls/18/1aeeb9e0-9180-4d3f-b42d-302cf588b55d/index.m3u8",
-     "lat": -7.40728611111111,
-     "lon": 112.4667
-    }
-   ]
-  },
-  {
-   "nama": "Tol Ngawi-Kertosono-Kediri",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "(JNK) KM 585+100",
-     "lokasi": "NGAWI - MADIUN",
-     "stream": "https://jmlive.jasamarga.com/hls/17/b3005ac3-0eff-47cc-9fdc-4e5ff070afc0/index.m3u8",
-     "lat": -7.45715609522419,
-     "lon": 111.447458267212
     }
    ]
   },
@@ -7135,41 +6680,6 @@
    ]
   },
   {
-   "nama": "Tol Palimanan-Kanci",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "(Palimanan-Kanci) KM 215+000 GT KANCI",
-     "lokasi": "CIPERNA - KANCI",
-     "stream": "https://jmlive.jasamarga.com/hls/12/51cf4176-434d-4d6d-9950-9892e3d77157/index.m3u8",
-     "lat": -6.7999699,
-     "lon": 108.619285
-    }
-   ]
-  },
-  {
-   "nama": "Tol Pandaan-Malang",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "(Pandaan-Malang) KM 75+150",
-     "lokasi": "LAWANG - PURWODADI",
-     "stream": "https://jmlive.jasamarga.com/hls/23/fbde09a6-b4bb-4da4-b23c-8582182d13d2/index.m3u8",
-     "lat": -7.82686255084192,
-     "lon": 112.723202705383
-    },
-    {
-     "nama": "Pandaan-Malang) KM 86+300",
-     "lokasi": "PURWODADI - PANDAAN",
-     "stream": "https://jmlive.jasamarga.com/hls/23/f74e0f95-a36e-49d3-8f38-57359782c372/index.m3u8",
-     "lat": -7.90861190667481,
-     "lon": 112.68904209137
-    }
-   ]
-  },
-  {
    "nama": "Tol Pejagan-Pemalang",
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
@@ -7187,20 +6697,6 @@
      "stream": "https://pptrlive.co.id/memfs/f14e0a51-ddaf-4189-b101-a6f385230621.m3u8",
      "lat": 1.090080134,
      "lon": -6.8927742
-    },
-    {
-     "nama": "GT. BREBES TIMUR ENTRANCE",
-     "lokasi": "GT. BREBES TIMUR ENTRANCE",
-     "stream": "https://pptrlive.co.id/memfs/c383635b-9bce-4afc-8fbd-51bf7b8485fe.m3u8",
-     "lat": -6.892389,
-     "lon": 109.0644
-    },
-    {
-     "nama": "GT. BREBES TIMUR EXIT",
-     "lokasi": "GT. BREBES TIMUR EXIT",
-     "stream": "https://pptrlive.co.id/memfs/3e7878d0-d138-4739-994f-9c1f9a280f2f.m3u8",
-     "lat": 1.090644218,
-     "lon": -6.8923892
     },
     {
      "nama": "GT. TEGAL ENTRANCE",
@@ -7455,32 +6951,11 @@
      "lon": 101.4469874
     },
     {
-     "nama": "PERMAI KM 34+250 A",
-     "lokasi": "PERMAI KM 34+250 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/xddxJxBtPtOf1670834906284.m3u8",
-     "lat": 0.8561525,
-     "lon": 101.2657889
-    },
-    {
      "nama": "PERMAI KM 34+250 B",
      "lokasi": "PERMAI KM 34+250 B",
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/ozCufn6ImLBS1670834930490.m3u8",
      "lat": 0.8561525,
      "lon": 101.2657889
-    },
-    {
-     "nama": "PERMAI KM 35+250 A",
-     "lokasi": "PERMAI KM 35+250 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/MbYUuwRLhYOK1670834953549.m3u8",
-     "lat": 0.8604848,
-     "lon": 101.2576233
-    },
-    {
-     "nama": "PERMAI KM 35+250 B",
-     "lokasi": "PERMAI KM 35+250 B",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/rVvBSUpN1bvk1670834995793.m3u8",
-     "lat": 0.8925231,
-     "lon": 101.2274316
     },
     {
      "nama": "PERMAI KM 51+250 B",
@@ -7565,195 +7040,6 @@
      "stream": "https://live.pbtr.co.id:5443/LiveApp/streams/sspmlb.m3u8",
      "lat": null,
      "lon": null
-    }
-   ]
-  },
-  {
-   "nama": "Tol Probolinggo - Banyuwangi",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "JPB ENTRANCE PAITON",
-     "lokasi": "Gending-Kraksaan",
-     "stream": "https://jmlive.jasamarga.com/hls/43/f8c680e1-936b-44b6-b414-f74c6e77a386/index.m3u8",
-     "lat": -7.719168184246788,
-     "lon": 113.50207137234874
-    }
-   ]
-  },
-  {
-   "nama": "Tol Sedyatmo",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "SEDYATMO KM 20+500",
-     "lokasi": "SS PLUIT - KAPUK",
-     "stream": "https://jmlive.jasamarga.com/hls/3/839419d1-d190-493e-986b-d5c05616fa55/index.m3u8",
-     "lat": -6.1252216,
-     "lon": 106.7767833
-    },
-    {
-     "nama": "SEDYATMO KM 20+950",
-     "lokasi": "SS PLUIT - KAPUK",
-     "stream": "https://jmlive.jasamarga.com/hls/3/83dca673-d1a2-4ff6-8cc5-9c9f51dea1e3/index.m3u8",
-     "lat": -6.1222814,
-     "lon": 106.7747217
-    },
-    {
-     "nama": "SEDYATMO KM 23+200",
-     "lokasi": "KAPUK - SS KAMAL",
-     "stream": "https://jmlive.jasamarga.com/hls/3/5d7647cd-2302-426a-9314-b444bbcb09ce/index.m3u8",
-     "lat": -6.1226775,
-     "lon": 106.7534403
-    },
-    {
-     "nama": "SEDYATMO KM 24+000 | A",
-     "lokasi": "KAPUK - SS KAMAL",
-     "stream": "https://jmlive.jasamarga.com/hls/3/e4d90f44-26a3-4ebe-8c48-ab55f33dc30e/index.m3u8",
-     "lat": -6.12269745806898,
-     "lon": 106.74610376358
-    },
-    {
-     "nama": "SEDYATMO KM 30+200",
-     "lokasi": "CENGKARENG - BENDA",
-     "stream": "https://jmlive.jasamarga.com/hls/3/d897039d-9ec9-474f-9f6f-d4b77894010c/index.m3u8",
-     "lat": -6.10207651947927,
-     "lon": 106.702415943146
-    },
-    {
-     "nama": "SEDYATMO KM 30+650",
-     "lokasi": "CENGKARENG - BENDA",
-     "stream": "https://jmlive.jasamarga.com/hls/3/9406a9a1-2e7a-4fe9-ae7d-db6f11722f12/index.m3u8",
-     "lat": -6.10429546875773,
-     "lon": 106.699036359787
-    }
-   ]
-  },
-  {
-   "nama": "Tol Semarang - Batang",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "JSB GT. KALIKANGKUNG ENTRANCE",
-     "lokasi": "GT KLKANGKUNG - SS KRAPYAK",
-     "stream": "https://jmlive.jasamarga.com/hls/14/f32688df-2525-43d7-aadc-8da8fddaefb4/index.m3u8",
-     "lat": -6.9880842,
-     "lon": 110.3173135
-    },
-    {
-     "nama": "JSB KM 347+700",
-     "lokasi": "BATANG - KANDEMAN",
-     "stream": "https://jmlive.jasamarga.com/hls/14/f03d1a48-761f-4741-8f31-e611c8e365b5/index.m3u8",
-     "lat": -6.93026102412078,
-     "lon": 109.755370616913
-    },
-    {
-     "nama": "JSB KM 377+700",
-     "lokasi": "KANDEMAN - WELERI",
-     "stream": "https://jmlive.jasamarga.com/hls/14/8413f987-2eb3-4103-86da-bf1d3ff1f5d7/index.m3u8",
-     "lat": -6.9525849,
-     "lon": 110.0047935
-    },
-    {
-     "nama": "JSB KM 379+700",
-     "lokasi": "KANDEMAN - WELERI",
-     "stream": "https://jmlive.jasamarga.com/hls/14/63a2a3ef-cfd8-432e-bcf9-99d33890891a/index.m3u8",
-     "lat": -6.9619803,
-     "lon": 110.0201433
-    },
-    {
-     "nama": "JSB KM 381+700 B",
-     "lokasi": "KANDEMAN - WELERI",
-     "stream": "https://jmlive.jasamarga.com/hls/14/1f1e8d72-a09a-42ed-83ab-abfdf38cc358/index.m3u8",
-     "lat": -6.967054219759183,
-     "lon": 110.03756667693143
-    },
-    {
-     "nama": "JSB KM 402+850",
-     "lokasi": "KENDAL - KLWUNGU",
-     "stream": "https://jmlive.jasamarga.com/hls/14/b704fe21-9a1c-4af2-afee-8049732e1f54/index.m3u8",
-     "lat": -6.98325466938435,
-     "lon": 110.223426818848
-    }
-   ]
-  },
-  {
-   "nama": "Tol Semarang A/B/C",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "KM 421 + 000 - A/A (Klampisan)",
-     "lokasi": "KRAPYAK - SS KRAPYAK",
-     "stream": "https://jmlive.jasamarga.com/hls/13/49255a20-c774-40f1-ad8f-cce1445d796a/index.m3u8",
-     "lat": -7.00074040524139,
-     "lon": 110.371098518372
-    },
-    {
-     "nama": "KM 421 + 800 - A/B (GT. Manyaran)",
-     "lokasi": "KRAPYAK - SS KRAPYAK",
-     "stream": "https://jmlive.jasamarga.com/hls/13/2b4f0601-bbdc-423a-8937-104a7a4caaba/index.m3u8",
-     "lat": -7.00532471179898,
-     "lon": 110.37687599659
-    },
-    {
-     "nama": "KM 421 A + 200 - A/Med (Jmbtn. Klampisan)",
-     "lokasi": "KRAPYAK - SS KRAPYAK",
-     "stream": "https://jmlive.jasamarga.com/hls/13/9b6277e3-9c45-4620-99d2-a75247a00d8e/index.m3u8",
-     "lat": -6.99361893378286,
-     "lon": 110.369043946266
-    },
-    {
-     "nama": "KM 424 + 600 - A/B (Stikubank)",
-     "lokasi": "SS KRAPYAK - JATINGALEH",
-     "stream": "https://jmlive.jasamarga.com/hls/13/b6938b1f-ea8e-4841-b3e4-b2a872f390f3/index.m3u8",
-     "lat": -7.01753333616377,
-     "lon": 110.396649241447
-    },
-    {
-     "nama": "KM 425 + 700 - A/B (UNIKA)",
-     "lokasi": "SS KRAPYAK - JATINGALEH",
-     "stream": "https://jmlive.jasamarga.com/hls/13/2ab7b3a3-e612-4e82-b0bd-bce378d363f7/index.m3u8",
-     "lat": -7.02522146388914,
-     "lon": 110.405570268631
-    },
-    {
-     "nama": "KM 426 + 900 - A/B (Of Ramp Jatingaleh)",
-     "lokasi": "JATINGALEH - SS JANGLI",
-     "stream": "https://jmlive.jasamarga.com/hls/13/e3ec3bc3-6503-4d06-a5ed-b81c6f202980/index.m3u8",
-     "lat": -7.03090229100678,
-     "lon": 110.413852930069
-    },
-    {
-     "nama": "KM 429 + 000 - Lingkar Jangli - Jatingaleh 1",
-     "lokasi": "JATINGALEH - SS JANGLI",
-     "stream": "https://jmlive.jasamarga.com/hls/13/60bdc8fc-7066-4af8-81f6-e8aefcf8a51d/index.m3u8",
-     "lat": -7.031183830807132,
-     "lon": 110.43206500752812
-    },
-    {
-     "nama": "KM 430 + 400 - B/Med (Gantri Bawah)",
-     "lokasi": "SS JANGLI - SS TEMBALANG",
-     "stream": "https://jmlive.jasamarga.com/hls/13/b19eb702-6d90-473f-affb-1c6fab83290d/index.m3u8",
-     "lat": -7.03702760361179,
-     "lon": 110.433143377304
-    },
-    {
-     "nama": "KM 434 B + 400 - B/B (Ujung Srondol)",
-     "lokasi": "MUKTIHARJO - GAYAM SARI",
-     "stream": "https://jmlive.jasamarga.com/hls/13/9af23341-9d67-442e-9895-3e4173073efb/index.m3u8",
-     "lat": -7.06080135566269,
-     "lon": 110.414518117905
-    },
-    {
-     "nama": "KM 438 C + 800 - C/Med (Interchange Kaligawe)",
-     "lokasi": "GAYAM SARI - SS JANGLI",
-     "stream": "https://jmlive.jasamarga.com/hls/13/d340ad15-7ce8-4762-a1f4-5fe7098110c2/index.m3u8",
-     "lat": -6.957819,
-     "lon": 110.451667
     }
    ]
   },
@@ -8325,27 +7611,6 @@
    ]
   },
   {
-   "nama": "Tol Solo-Ngawi",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "(JSN) KM 549+650",
-     "lokasi": "SRAGEN - NGAWI",
-     "stream": "https://jmlive.jasamarga.com/hls/16/43af298d-184f-458f-a292-723c6884fa1a/index.m3u8",
-     "lat": -7.38315128183967,
-     "lon": 111.146192550659
-    },
-    {
-     "nama": "(JSN) KM 573+650",
-     "lokasi": "SRAGEN - NGAWI",
-     "stream": "https://jmlive.jasamarga.com/hls/16/6ce44371-d7ac-4857-b9d2-0f492b0c138d/index.m3u8",
-     "lat": -7.40877137750174,
-     "lon": 111.359996795654
-    }
-   ]
-  },
-  {
    "nama": "Tol Tangerang-Merak",
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
@@ -8468,27 +7733,6 @@
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/rdxGSmqvd5kN1675831415195.m3u8",
      "lat": -4.694793,
      "lon": 105.192596
-    },
-    {
-     "nama": "TERPEKA KM 172+000 B",
-     "lokasi": "TERPEKA KM 172+000 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/RtnUTRHFxW2s1677120541641.m3u8",
-     "lat": -4.610176,
-     "lon": 105.182351
-    },
-    {
-     "nama": "TERPEKA KM 173+000 A",
-     "lokasi": "TERPEKA KM 173+000 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/bPzYpO8EqsGg1675839839551.m3u8",
-     "lat": -4.601233,
-     "lon": 105.180711
-    },
-    {
-     "nama": "TERPEKA KM 173+000 B",
-     "lokasi": "TERPEKA KM 173+000 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/Ylilp78L1kJw1675839859824.m3u8",
-     "lat": -4.601233,
-     "lon": 105.180711
     },
     {
      "nama": "TERPEKA KM 207+000 B",
