@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-23T14:02:55+07:00",
+ "updated_at": "2026-10-23T19:36:11+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -5339,20 +5339,6 @@
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/056605534596645381685649.m3u8",
      "lat": -6.107079,
      "lon": 106.894764
-    },
-    {
-     "nama": "ATP KM 66+500 A",
-     "lokasi": "ATP KM 66+500 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/613685260667025565685154.m3u8",
-     "lat": -6.107079,
-     "lon": 106.894764
-    },
-    {
-     "nama": "ATP KM 67+200 A",
-     "lokasi": "ATP KM 67+200 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/806970033882204083458834.m3u8",
-     "lat": -6.114893,
-     "lon": 106.893044
     },
     {
      "nama": "ATP KM 67+200 B",
