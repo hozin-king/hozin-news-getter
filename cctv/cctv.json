@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-25T00:16:08+07:00",
+ "updated_at": "2026-10-25T03:17:45+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -6761,13 +6761,6 @@
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
    "kamera": [
-    {
-     "nama": "KM 344",
-     "lokasi": "KM 344",
-     "stream": "https://live.pbtr.co.id:5443/LiveApp/streams/0344.m3u8",
-     "lat": null,
-     "lon": null
-    },
     {
      "nama": "SS Pekalongan",
      "lokasi": "SS Pekalongan",
