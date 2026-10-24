@@ -1,14 +1,14 @@
 {
- "updated_at": "2026-10-25T04:06:19+07:00",
+ "updated_at": "2026-10-25T06:09:41+07:00",
  "count": 14,
  "sources": [
   {
    "name": "republika",
    "url": "https://republika.co.id/rss",
    "added_at": "2026-10-21T18:50:42+07:00",
-   "last_ok": "2026-10-25T04:06:03+07:00",
+   "last_ok": "2026-10-25T06:09:25+07:00",
    "fail_count": 0,
-   "ok_streak": 22,
+   "ok_streak": 23,
    "status": "active",
    "origin": "seed"
   },
@@ -16,9 +16,9 @@
    "name": "mediaindonesia",
    "url": "https://mediaindonesia.com/feed",
    "added_at": "2026-10-21T18:51:55+07:00",
-   "last_ok": "2026-10-25T04:06:04+07:00",
+   "last_ok": "2026-10-25T06:09:26+07:00",
    "fail_count": 0,
-   "ok_streak": 22,
+   "ok_streak": 23,
    "status": "active",
    "origin": "seed"
   },
@@ -26,9 +26,9 @@
    "name": "katadata",
    "url": "https://katadata.co.id/rss",
    "added_at": "2026-10-21T18:52:22+07:00",
-   "last_ok": "2026-10-25T04:06:05+07:00",
+   "last_ok": "2026-10-25T06:09:26+07:00",
    "fail_count": 0,
-   "ok_streak": 22,
+   "ok_streak": 23,
    "status": "active",
    "origin": "seed"
   },
@@ -36,9 +36,9 @@
    "name": "sindonews",
    "url": "https://sindonews.com/rss",
    "added_at": "2026-10-21T18:52:37+07:00",
-   "last_ok": "2026-10-25T04:06:06+07:00",
+   "last_ok": "2026-10-25T06:09:27+07:00",
    "fail_count": 0,
-   "ok_streak": 22,
+   "ok_streak": 23,
    "status": "active",
    "origin": "seed"
   },
@@ -46,9 +46,9 @@
    "name": "inews",
    "url": "https://inews.id/feed",
    "added_at": "2026-10-21T18:52:40+07:00",
-   "last_ok": "2026-10-25T04:06:07+07:00",
+   "last_ok": "2026-10-25T06:09:28+07:00",
    "fail_count": 0,
-   "ok_streak": 22,
+   "ok_streak": 23,
    "status": "active",
    "origin": "seed"
   },
@@ -56,9 +56,9 @@
    "name": "jpnn",
    "url": "https://jpnn.com/rss",
    "added_at": "2026-10-21T18:53:23+07:00",
-   "last_ok": "2026-10-25T04:06:08+07:00",
+   "last_ok": "2026-10-25T06:09:29+07:00",
    "fail_count": 0,
-   "ok_streak": 22,
+   "ok_streak": 23,
    "status": "active",
    "origin": "seed"
   },
@@ -66,9 +66,9 @@
    "name": "harianjogja",
    "url": "https://harianjogja.com/rss",
    "added_at": "2026-10-21T18:53:50+07:00",
-   "last_ok": "2026-10-25T04:06:09+07:00",
+   "last_ok": "2026-10-25T06:09:30+07:00",
    "fail_count": 0,
-   "ok_streak": 22,
+   "ok_streak": 23,
    "status": "active",
    "origin": "seed"
   },
@@ -76,9 +76,9 @@
    "name": "beritajatim",
    "url": "https://beritajatim.com/rss",
    "added_at": "2026-10-21T18:54:38+07:00",
-   "last_ok": "2026-10-25T04:06:12+07:00",
+   "last_ok": "2026-10-25T06:09:33+07:00",
    "fail_count": 0,
-   "ok_streak": 22,
+   "ok_streak": 23,
    "status": "active",
    "origin": "seed"
   },
@@ -86,9 +86,9 @@
    "name": "akurat",
    "url": "https://akurat.co/rss",
    "added_at": "2026-10-21T18:54:56+07:00",
-   "last_ok": "2026-10-25T04:06:12+07:00",
+   "last_ok": "2026-10-25T06:09:33+07:00",
    "fail_count": 0,
-   "ok_streak": 22,
+   "ok_streak": 23,
    "status": "active",
    "origin": "seed"
   },
@@ -96,9 +96,9 @@
    "name": "wartaekonomi",
    "url": "https://wartaekonomi.co.id/rss",
    "added_at": "2026-10-21T18:55:11+07:00",
-   "last_ok": "2026-10-25T04:06:13+07:00",
+   "last_ok": "2026-10-25T06:09:34+07:00",
    "fail_count": 0,
-   "ok_streak": 22,
+   "ok_streak": 23,
    "status": "active",
    "origin": "seed"
   },
@@ -106,9 +106,9 @@
    "name": "fajar",
    "url": "https://fajar.co.id/rss",
    "added_at": "2026-10-22T15:51:24+07:00",
-   "last_ok": "2026-10-25T04:06:15+07:00",
+   "last_ok": "2026-10-25T06:09:36+07:00",
    "fail_count": 0,
-   "ok_streak": 17,
+   "ok_streak": 18,
    "status": "active",
    "origin": "seed"
   },
@@ -116,9 +116,9 @@
    "name": "muhammadiyah",
    "url": "https://muhammadiyah.or.id/rss",
    "added_at": "2026-10-22T15:55:36+07:00",
-   "last_ok": "2026-10-25T04:06:17+07:00",
+   "last_ok": "2026-10-25T06:09:38+07:00",
    "fail_count": 0,
-   "ok_streak": 17,
+   "ok_streak": 18,
    "status": "active",
    "origin": "googlenews"
   },
@@ -126,9 +126,9 @@
    "name": "radenintan",
    "url": "https://radenintan.ac.id/feed",
    "added_at": "2026-10-22T15:57:28+07:00",
-   "last_ok": "2026-10-25T04:06:19+07:00",
+   "last_ok": "2026-10-25T06:09:41+07:00",
    "fail_count": 0,
-   "ok_streak": 17,
+   "ok_streak": 18,
    "status": "active",
    "origin": "googlenews"
   },
@@ -137,13 +137,13 @@
    "url": "https://www.geeky-gadgets.com/feed/",
    "added_at": "2026-10-22T19:45:53+07:00",
    "fail_count": 0,
-   "ok_streak": 16,
+   "ok_streak": 17,
    "status": "active",
    "origin": "manual",
    "lang": "en",
    "translate": true,
    "max_per_run": 25,
-   "last_ok": "2026-10-25T04:06:19+07:00"
+   "last_ok": "2026-10-25T06:09:41+07:00"
   }
  ]
 }
