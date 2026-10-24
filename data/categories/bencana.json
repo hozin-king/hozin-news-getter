@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-10-24T23:25:57+07:00",
+ "updated_at": "2026-10-25T02:12:52+07:00",
  "category": "bencana",
- "count": 4,
+ "count": 2,
  "articles": [
+  {
+   "source": "jawapos",
+   "getter": "getter1",
+   "title": "‎Dilanda Kekeringan dan Bencana Asap, Warga Kalsel Terima Bantuan 28 Ribu Liter Air Bersih",
+   "link": "https://www.jawapos.com/berita-daerah/2610240441/dilanda-kekeringan-dan-bencana-asap-warga-kalsel-terima-bantuan-28-ribu-liter-air-bersih",
+   "pubDate": "Sat, 24 Oct 2026 23:40:43 GMT",
+   "description": "Partai Kebangkitan Bangsa (PKB) telah menyalurkan bantuan air bersih, masker, hingga layanan pengobatan gratis bagi warga Karhutla dan kekeringan",
+   "fetched_at": "2026-10-24T18:24:11+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 145,
+   "content": "Partai Kebangkitan Bangsa (PKB) telah menyalurkan bantuan air bersih, masker, hingga layanan pengobatan gratis bagi warga Karhutla dan kekeringan"
+  },
   {
    "source": "inews",
    "getter": "auto",
@@ -18,53 +33,6 @@
    "content_status": "full",
    "content_chars": 1460,
    "content": "Bantu kami untuk merekomendasikan konten dengan melengkapi data diri Anda di sini\n\nMAJALENGKA, iNews.id - Relawan Badan Penanggulangan Bencana Daerah (BPBD) Majalengka, Jawa Barat, patroli di kawasan perbatasan Kuningan di Gunung Ciremai, Sabtu (24/10/2026) sore. Pemantauan dilakukan untuk mengantisipasi munculnya titik api baru di kawasan hutan tersebut.\n\nRelawan menyisir sejumlah lokasi dengan berjalan kaki dan menggunakan kamera pesawat nirawak atau drone untuk memantau kondisi hutan.\n\nHasil pemantauan hingga Sabtu sore, tidak ditemukan titik api baru di kawasan Gunung Ciremai wilayah Majalengka maupun area perbatasan Kuningan yang dipantau.\n\n\"Kami berupaya melakukan pemantauan di sekitar sini dengan mendirikan tenda posko pemantauan sementara,\" ujar Kepala Seksi Kedaruratan BPBD Majalengka, Wawan.\n\nDia mengatakan, petugas terus memantau kawasan perbatasan yang berjarak sekitar satu kilometer dari wilayah Majalengka. Langkah ini dilakukan untuk mengantisipasi kemungkinan api meluas ke wilayah Majalengka.\n\nBPBD Majalengka masih menyiagakan relawan di sejumlah lokasi untuk mengantisipasi kemunculan titik api dan mencegah kebakaran meluas ke wilayah Majalengka.\n\nFollow WhatsApp Channel iNews untuk update berita terbaru setiap hari! Follow\n\nKami membuka kesempatan bagi Anda yang ingin menjadi pebisnis media melalui program iNews.id Network. Klik lebih lanjut\n\nSumatra Jawa Kalimantan Sulawesi Papua Kepulauan Nusa Tenggara Kepulauan Maluku"
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "PMI Jaksel salurkan paket kebersihan untuk penyintas gempa NTT-Flores",
-   "link": "https://www.antaranews.com/berita/5809727/pmi-jaksel-salurkan-paket-kebersihan-untuk-penyintas-gempa-ntt-flores",
-   "pubDate": "Sat, 24 Oct 2026 20:35:31 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/24/1001135793.jpg\" align=\"left\" border=\"0\" />Palang Merah Indonesia (PMI) Kota&nbsp;Jakarta Selatan &nbsp;Jaksel) menyalurkan paket kebersihan dan sanitasi (hygiene ...",
-   "fetched_at": "2026-10-24T15:49:06+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 227,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/24/1001135793.jpg\" align=\"left\" border=\"0\" />Palang Merah Indonesia (PMI) Kota&nbsp;Jakarta Selatan &nbsp;Jaksel) menyalurkan paket kebersihan dan sanitasi (hygiene ..."
-  },
-  {
-   "source": "jawapos",
-   "getter": "getter1",
-   "title": "Padamkan Karhutla Jatim, BNPB Tebar Garam di Langit Probolinggo hingga Pasuruan",
-   "link": "https://www.jawapos.com/berita-daerah/2610240393/padamkan-karhutla-jatim-bnpb-tebar-garam-di-langit-probolinggo-hingga-pasuruan",
-   "pubDate": "Sat, 24 Oct 2026 21:33:16 GMT",
-   "description": "BNPB melakukan Operasi Modifikasi Cuaca untuk penanggulangan karhutla di Jawa Timur, dengan harapan hujan dapat membantu pemadaman.",
-   "fetched_at": "2026-10-24T15:49:04+07:00",
-   "categories": [
-    "bencana",
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 131,
-   "content": "BNPB melakukan Operasi Modifikasi Cuaca untuk penanggulangan karhutla di Jawa Timur, dengan harapan hujan dapat membantu pemadaman."
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "Karang Taruna Nasional Dorong Restorasi Mata Air di Bantul",
-   "link": "https://jogjapolitan.harianjogja.com/r-1276246/karang-taruna-nasional-dorong-restorasi-mata-air-di-bantul",
-   "pubDate": "Sat, 24 Oct 2026 18:17:54 +0700",
-   "description": "Karang Taruna Nasional mendorong restorasi mata air di Bantul untuk menjaga ketersediaan air dan mendukung kebutuhan masyarakat saat kemarau.",
-   "fetched_at": "2026-10-24T11:58:23+07:00",
-   "categories": [
-    "bencana",
-    "kebakaran"
-   ],
-   "content_status": "full",
-   "content_chars": 4282,
-   "content": "Karang Taruna Nasional saat mengunjungi dan melepas bibit ikan di sumber mata air Padukuhan Dukuh, Kalurahan Guwosari, Pajangan, Bantul, Sabtu (24/10/2026). / Harian Jogja-Yosef Leon\n\nHarianjogja.com, BANTUL—Keberadaan dua mata air di Padukuhan Dukuh, Kalurahan Guwosari, Kapanewon Pajangan, Bantul, menjadi perhatian Karang Taruna Nasional dalam upaya menjaga ketersediaan air bagi masyarakat. Sendang Santen dan Sendang Ayu selama bertahun-tahun dimanfaatkan warga untuk memenuhi kebutuhan sehari-hari dan masih mengalir meskipun wilayah sekitarnya menghadapi musim kemarau.\n\nKarang Taruna Nasional mendorong kadernya memetakan sumber-sumber air yang masih tersedia, kemudian melakukan restorasi dan konservasi agar keberadaannya tetap terjaga. Upaya ini menjadi salah satu fokus organisasi kepemudaan tersebut dalam menghadapi persoalan kekeringan dan mempertahankan sumber air yang dapat dimanfaatkan masyarakat.\n\nKetua Umum Karang Taruna Nasional, Budisatrio Djiwandono, mengatakan restorasi sumber air menjadi salah satu fokus perjuangan organisasi ke depan. Program tersebut juga menjadi bagian dari Bulan Bakti Nasional Karang Taruna untuk memperingati hari lahir ke-66 organisasi itu pada 26 September 2026.\n\nBudi menyebut salah satu inisiatif restorasi mata air di wilayah Daerah Istimewa Yogyakarta telah dilakukan oleh kader Karang Taruna bersama masyarakat di Padukuhan Dukuh, Kalurahan Guwosari, Kapanewon Pajangan, Bantul. Sumber air di wilayah tersebut telah lama digunakan warga untuk menunjang aktivitas sehari-hari.\n\n“Kami ke depan ingin memetakan sumber-sumber air yang ada, kemudian sebisa mungkin merestorasi, menjaga, dan mengonservasinya supaya bisa dimanfaatkan sepenuhnya oleh masyarakat,” kata Budi saat mengunjungi Padukuhan Dukuh, Kalurahan Guwosari, Pajangan, Bantul, Sabtu (24/10/2026).\n\nKetua RT 06 Dukuh, Ngadiran, menjelaskan wilayahnya memiliki dua sumber mata air, yakni Sendang Santen dan Sendang Ayu. Kedua sendang tersebut memiliki riwayat keberadaan yang berbeda.\n\nSendang Santen diketahui muncul sejak gempa bumi 2006, sedangkan Sendang Ayu telah ada jauh sebelum peristiwa tersebut. Selama bertahun-tahun, warga setempat memanfaatkan kedua sumber air itu untuk memenuhi kebutuhan rumah tangga.\n\n“Untuk mencuci, mandi, dan kebutuhan sehari-hari warga. Ada sekitar 35 kepala keluarga rutin memanfaatkan sumber air ini,” ujar Ngadiran.\n\nPemanfaatan kedua sendang tersebut menunjukkan peran sumber air dalam mendukung aktivitas warga. Ketersediaan air yang tetap mengalir saat musim kemarau juga menjadi alasan keberadaannya perlu dijaga agar manfaatnya dapat terus dirasakan masyarakat.\n\nNgadiran mengatakan kedua sumber mata air itu tetap mengalir meskipun wilayah sekitarnya mengalami musim kemarau. Kondisi tersebut membuat Sendang Santen dan Sendang Ayu masih memiliki potensi untuk dipertahankan dan dikembangkan.\n\nBudi menilai sumber air memiliki peran penting bagi kehidupan masyarakat, terutama ketika sejumlah wilayah menghadapi persoalan kekeringan. Selain untuk memenuhi kebutuhan sehari-hari, ketersediaan sumber air juga menjadi salah satu faktor penentu dalam penanganan kebakaran hutan dan lahan.\n\n\"Sumber air yang telah lama dimanfaatkan masyarakat perlu dijaga dengan mengedepankan kearifan lokal,\" jelasnya.\n\nMenurut Ngadiran, sebagian warga kini telah memiliki sumur dan fasilitas sanitasi sendiri. Meski demikian, ia berharap sumber mata air di wilayahnya dapat ditata dengan lebih baik sehingga keberadaannya tetap bermanfaat bagi masyarakat.\n\n“Kalau ada program dari pemerintah, warga mengikuti. Yang penting sumber air ini dijaga bersama,” pungkasnya.\n\nUpaya restorasi dan konservasi yang didorong Karang Taruna Nasional tersebut mencakup pemetaan sumber air yang masih tersedia serta pemeliharaan keberlanjutannya. Di Padukuhan Dukuh, keberadaan Sendang Santen dan Sendang Ayu menjadi bagian dari upaya menjaga sumber air yang selama ini dimanfaatkan warga, termasuk sekitar 35 kepala keluarga yang rutin menggunakannya.\n\nCek Berita dan Artikel yang lain di Harian Jogja, dan edisi cetak versi elektronik kami hadir di Epaper Harian Jogja.\n\nDua Sendang Menopang Kebutuhan Warga Konservasi Mata Air dan Kearifan Lokal\n\nJumali Jurnalis Harian Jogja, bagian dari Bisnis Indonesia Group menulis untuk media cetak dan online"
   }
  ]
 }
