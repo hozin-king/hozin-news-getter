@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-24T15:42:36+07:00",
+ "updated_at": "2026-10-24T20:10:32+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -5441,76 +5441,6 @@
    ]
   },
   {
-   "nama": "Tol Bekasi-Cawang-Kampung Melayu",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "KM 02+000 A",
-     "lokasi": "KM 02+000 A",
-     "stream": "https://cctv.kkdm.co.id/api/cctv/1/3/index.m3u8",
-     "lat": -62336836.0,
-     "lon": 1068771077.0
-    },
-    {
-     "nama": "KM 03+000 A",
-     "lokasi": "KM 03+000 A",
-     "stream": "https://cctv.kkdm.co.id/api/cctv/1/4/index.m3u8",
-     "lat": -62403284.0,
-     "lon": 1068813877.0
-    },
-    {
-     "nama": "KM 12+000 A",
-     "lokasi": "KM 12+000 A",
-     "stream": "https://cctv.kkdm.co.id/api/cctv/1/1/index.m3u8",
-     "lat": -6.2494845,
-     "lon": 106.9602277
-    },
-    {
-     "nama": "KM 14+000 A",
-     "lokasi": "KM 14+000 A",
-     "stream": "https://cctv.kkdm.co.id/api/cctv/1/40/index.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 15+000 A",
-     "lokasi": "KM 15+000 A",
-     "stream": "https://cctv.kkdm.co.id/api/cctv/1/50/index.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Loop Pasar Gembrong",
-     "lokasi": "Loop Pasar Gembrong",
-     "stream": "https://cctv.kkdm.co.id/api/cctv/1/37/index.m3u8",
-     "lat": -6.224388,
-     "lon": 106.8754117
-    },
-    {
-     "nama": "Off Ramp Cipinang",
-     "lokasi": "Off Ramp Cipinang",
-     "stream": "https://cctv.kkdm.co.id/api/cctv/1/47/index.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "On Ramp Cassablanca",
-     "lokasi": "On Ramp Cassablanca",
-     "stream": "https://cctv.kkdm.co.id/api/cctv/1/35/index.m3u8",
-     "lat": -6.2245364,
-     "lon": 106.8763762
-    },
-    {
-     "nama": "On Ramp Wiyoto Wiyono",
-     "lokasi": "On Ramp Wiyoto Wiyono",
-     "stream": "https://cctv.kkdm.co.id/api/cctv/1/39/index.m3u8",
-     "lat": null,
-     "lon": null
-    }
-   ]
-  },
-  {
    "nama": "Tol Bengkulu - Taba Penanjung",
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
@@ -6417,13 +6347,6 @@
      "stream": "https://cctv.hmwtoll.com/camera/bearer/jlp/3/318/index.m3u8",
      "lat": 99.027718,
      "lon": 2.943091
-    },
-    {
-     "nama": "KM 86+745",
-     "lokasi": "KM 86+745",
-     "stream": "https://cctv.hmwtoll.com/camera/bearer/jlp/3/16/index.m3u8",
-     "lat": 99.16776,
-     "lon": 3.383476
     },
     {
      "nama": "KM 98+975",
