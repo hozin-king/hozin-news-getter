@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T01:11:46+07:00",
+ "updated_at": "2026-10-26T04:29:00+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -5311,20 +5311,6 @@
      "stream": "https://pptrlive.co.id/memfs/be49f2cd-535e-49a1-89e7-99b80a97f683.m3u8",
      "lat": -6.900064,
      "lon": 108.8942
-    },
-    {
-     "nama": "KM 254 JALUR A",
-     "lokasi": "KM 254 JALUR A",
-     "stream": "https://pptrlive.co.id/memfs/deab9067-a35a-4c40-9245-fc60c24a47b8.m3u8",
-     "lat": -6.907336,
-     "lon": 108.9295
-    },
-    {
-     "nama": "KM 254 JALUR B",
-     "lokasi": "KM 254 JALUR B",
-     "stream": "https://pptrlive.co.id/memfs/c06197b1-c3ca-4677-a5c3-67bc90cb9591.m3u8",
-     "lat": 1.089295456,
-     "lon": -6.907336
     },
     {
      "nama": "KM 257 JALUR A",
