@@ -1,37 +1,22 @@
 {
- "updated_at": "2026-10-25T21:48:53+07:00",
+ "updated_at": "2026-10-26T01:06:04+07:00",
  "category": "korupsi",
- "count": 2,
+ "count": 1,
  "articles": [
   {
-   "source": "sindonews",
+   "source": "wartaekonomi",
    "getter": "auto",
-   "title": "Tak Jemput Paksa Nusron Wahid, Pimpinan KPK Dilaporkan ke Dewas",
-   "link": "https://nasional.sindonews.com/read/1764565/13/tak-jemput-paksa-nusron-wahid-pimpinan-kpk-dilaporkan-ke-dewas-1792923043",
-   "pubDate": "Sun, 25 Oct 2026 17:52:25 +0700",
-   "description": "MAKI menilai pimpinan KPK tidak tegas menyikapi ketidakhadiran Menteri Agraria dan Tata Ruang (ATR) Nusron Wahid yang telah dua kali mangkir dari panggilan pemeriksaan.",
-   "fetched_at": "2026-10-25T11:47:06+07:00",
+   "title": "Pekan Depan, Yusril Siap Duduk Bersama DEN Bahas Wacana Perubahan Definisi Korupsi",
+   "link": "https://wartaekonomi.co.id/read643282/pekan-depan-yusril-siap-duduk-bersama-den-bahas-wacana-perubahan-definisi-korupsi",
+   "pubDate": "Sun, 25 Oct 2026 21:30:00 +0700",
+   "description": "Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra rapat bersama DEN untuk membahas perubahan definisi korupsi.",
+   "fetched_at": "2026-10-25T15:06:22+07:00",
    "categories": [
     "korupsi"
    ],
-   "content_status": "partial",
-   "content_chars": 168,
-   "content": "MAKI menilai pimpinan KPK tidak tegas menyikapi ketidakhadiran Menteri Agraria dan Tata Ruang (ATR) Nusron Wahid yang telah dua kali mangkir dari panggilan pemeriksaan."
-  },
-  {
-   "source": "jawapos",
-   "getter": "getter1",
-   "title": "MAKI Adukan Pimpinan KPK ke Dewas, Soroti Nusron Wahid Mangkir Dua Kali",
-   "link": "https://www.jawapos.com/kasuistika/2610250298/maki-adukan-pimpinan-kpk-ke-dewas-soroti-nusron-wahid-mangkir-dua-kali",
-   "pubDate": "Sun, 25 Oct 2026 17:03:28 GMT",
-   "description": "MAKI menilai KPK lamban dalam menindak saksi yang mangkir, termasuk Nusron Wahid, dan mengadukannya ke Dewas KPK.",
-   "fetched_at": "2026-10-25T11:46:48+07:00",
-   "categories": [
-    "korupsi"
-   ],
-   "content_status": "partial",
-   "content_chars": 113,
-   "content": "MAKI menilai KPK lamban dalam menindak saksi yang mangkir, termasuk Nusron Wahid, dan mengadukannya ke Dewas KPK."
+   "content_status": "full",
+   "content_chars": 2315,
+   "content": "Home / News / Hukum Pekan Depan, Yusril Siap Duduk Bersama DEN Bahas Wacana Perubahan Definisi Korupsi Minggu, 25 Oktober 2026, 21:30 WIB\n\nMenteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra dijadwalkan menghadiri rapat bersama Dewan Ekonomi Nasional (DEN) yang dipimpin Luhut Binsar Pandjaitan pada Senin (26/10). Pertemuan tersebut akan membahas wacana perubahan definisi korupsi.\n\nYusril menyatakan kesediaannya untuk memberikan penjelasan mengenai sejumlah undang-undang dan konvensi Perserikatan Bangsa-Bangsa (PBB) yang berkaitan dengan pemberantasan korupsi.\n\n\"Saya bersedia menjelaskan apabila diminta, agar kita secara jernih dapat memahami latar belakang dan sejarah penyusunan berbagai undang-undang dan konvensi PBB terkait pemberantasan korupsi,\" kata Yusril dalam keterangannya, Sabtu (24/10).\n\nIa menilai usulan perubahan definisi korupsi yang sebelumnya disampaikan Luhut perlu dikaji secara serius.\n\nMenurut Yusril, gagasan tersebut masih bersifat umum sehingga membutuhkan penjelasan lebih mendalam, terutama mengenai penyesuaiannya dengan konvensi PBB tentang pemberantasan korupsi.\n\n\"Apa yang dikemukakan baru garis besar, belum masuk ke detail persoalan tentang definisi korupsi yang ingin disesuaikan dengan UNCAC,\" katanya.\n\nYusril menjelaskan, dirinya memiliki pengalaman langsung dalam proses penyusunan regulasi pemberantasan korupsi di Indonesia.\n\nIa menjabat sebagai Menteri Kehakiman ketika Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi diubah melalui Undang-Undang Nomor 20 Tahun 2001.\n\nSelain itu, Yusril pernah menandatangani Konvensi PBB Antikorupsi atau United Nations Convention against Corruption (UNCAC) di Markas Besar PBB, New York, pada 2003.\n\nPada tahun yang sama, ia juga mengajukan rancangan undang-undang mengenai pembentukan Komisi Pemberantasan Korupsi (KPK).\n\nMenurut Yusril, pembahasan mengenai perubahan peraturan harus diawali dengan pemahaman menyeluruh terhadap sejarah dan latar belakang pembentukan aturan tersebut.\n\nEvaluasi juga perlu dilakukan secara kritis untuk mengetahui kelebihan dan kekurangan regulasi yang berlaku.\n\n\"Semua harus ditelaah dan dipikirkan dengan jernih. Baik yang yang ingin ingin merevisi maupun yang mau mempertahankan, harus berpikir bijak dan hati-hati,\" katanya."
   }
  ]
 }
