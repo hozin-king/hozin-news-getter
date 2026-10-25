@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-10-25T05:12:44+07:00",
+ "updated_at": "2026-10-25T07:45:22+07:00",
  "category": "bencana",
- "count": 1,
+ "count": 2,
  "articles": [
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "Karhutla Jambi Hampir 5.000 Hektare, Pemadaman Terkendala Air dan Angin Kencang",
+   "link": "https://www.inews.id/regional/regional/karhutla-jambi-hampir-5000-hektare-pemadaman-terkendala-air-dan-angin-kencang",
+   "pubDate": "Sat, 24 Oct 2026 15:31:00 +0700",
+   "description": "Karhutla di Jambi hampir mencapai 5.000 hektare, sementara petugas terkendala minimnya air, angin kencang, dan medan sulit saat memadamkan api.",
+   "fetched_at": "2026-10-24T23:09:28+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran"
+   ],
+   "content_status": "full",
+   "content_chars": 1386,
+   "content": "Bantu kami untuk merekomendasikan konten dengan melengkapi data diri Anda di sini\n\nJAMBI, iNews.id - Kebakaran hutan dan lahan (karhutla) di sejumlah wilayah Jambi masih terjadi dan sulit dipadamkan. Minimnya pasokan air, angin kencang, serta medan yang sulit membuat api terus menjalar.\n\nSalah satu titik kebakaran berada di Desa Sungai Cemara, Kecamatan Sadu, Kabupaten Tanjung Jabung Timur. Dari pantauan udara, asap tebal terlihat membubung dari lahan yang terbakar.\n\nKondisi lahan yang kering dan tiupan angin kencang membuat api cepat menyebar. Tim Satuan Tugas (Satgas) Karhutla Jambi yang terdiri atas Manggala Agni, BPBD, TNI-Polri, serta masyarakat peduli api terus berupaya memadamkan api agar kebakaran tidak meluas.\n\nNamun, upaya pemadaman menghadapi sejumlah kendala. Selain kesulitan mengendalikan api akibat angin kencang, petugas juga kekurangan pasokan air di lokasi kebakaran.\n\nKarhutla juga terjadi di Desa Simpang Datuk, Kecamatan Nipah Panjang, Kabupaten Tanjung Jabung Timur. Petugas berjibaku memadamkan api di kawasan yang berbatasan langsung dengan lahan perkebunan kelapa sawit.\n\nFollow WhatsApp Channel iNews untuk update berita terbaru setiap hari! Follow\n\nKami membuka kesempatan bagi Anda yang ingin menjadi pebisnis media melalui program iNews.id Network. Klik lebih lanjut\n\nSumatra Jawa Kalimantan Sulawesi Papua Kepulauan Nusa Tenggara Kepulauan Maluku"
+  },
   {
    "source": "jawapos",
    "getter": "getter1",
