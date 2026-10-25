@@ -1,11 +1,8 @@
 {
- "updated_at": "2026-10-26T04:21:56+07:00",
+ "updated_at": "2026-10-26T06:44:38+07:00",
  "mode": "google",
- "translated": [
-  "0b3b2a4bce8c77b7",
-  "0b3b2a4bce8c77b7"
- ],
+ "translated": [],
  "failed": [],
  "held_partial": 6,
- "candidates": 2
+ "candidates": 0
 }
