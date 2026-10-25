@@ -1,22 +1,130 @@
 {
- "updated_at": "2026-10-26T01:06:04+07:00",
+ "updated_at": "2026-10-26T04:21:56+07:00",
  "category": "korupsi",
- "count": 1,
+ "count": 8,
  "articles": [
   {
-   "source": "wartaekonomi",
-   "getter": "auto",
-   "title": "Pekan Depan, Yusril Siap Duduk Bersama DEN Bahas Wacana Perubahan Definisi Korupsi",
-   "link": "https://wartaekonomi.co.id/read643282/pekan-depan-yusril-siap-duduk-bersama-den-bahas-wacana-perubahan-definisi-korupsi",
-   "pubDate": "Sun, 25 Oct 2026 21:30:00 +0700",
-   "description": "Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra rapat bersama DEN untuk membahas perubahan definisi korupsi.",
-   "fetched_at": "2026-10-25T15:06:22+07:00",
+   "source": "liputan6",
+   "getter": "getter2",
+   "title": "KPK Usul Harta Pejabat Tak Dilaporkan di LHKPN Bisa Dirampas Negara",
+   "link": "https://www.liputan6.com/news/read/8321071/kpk-usul-harta-pejabat-tak-dilaporkan-di-lhkpn-bisa-dirampas-negara",
+   "pubDate": "Mon, 26 Oct 2026 00:46:08 +0700",
+   "description": "Selain itu, KPK mengusulkan negara dapat merampas harta penyelenggara negara apabila kekayaan yang dimiliki ternyata melebihi jumlah di LHKPN",
+   "fetched_at": "2026-10-25T21:06:53+07:00",
    "categories": [
     "korupsi"
    ],
-   "content_status": "full",
-   "content_chars": 2315,
-   "content": "Home / News / Hukum Pekan Depan, Yusril Siap Duduk Bersama DEN Bahas Wacana Perubahan Definisi Korupsi Minggu, 25 Oktober 2026, 21:30 WIB\n\nMenteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra dijadwalkan menghadiri rapat bersama Dewan Ekonomi Nasional (DEN) yang dipimpin Luhut Binsar Pandjaitan pada Senin (26/10). Pertemuan tersebut akan membahas wacana perubahan definisi korupsi.\n\nYusril menyatakan kesediaannya untuk memberikan penjelasan mengenai sejumlah undang-undang dan konvensi Perserikatan Bangsa-Bangsa (PBB) yang berkaitan dengan pemberantasan korupsi.\n\n\"Saya bersedia menjelaskan apabila diminta, agar kita secara jernih dapat memahami latar belakang dan sejarah penyusunan berbagai undang-undang dan konvensi PBB terkait pemberantasan korupsi,\" kata Yusril dalam keterangannya, Sabtu (24/10).\n\nIa menilai usulan perubahan definisi korupsi yang sebelumnya disampaikan Luhut perlu dikaji secara serius.\n\nMenurut Yusril, gagasan tersebut masih bersifat umum sehingga membutuhkan penjelasan lebih mendalam, terutama mengenai penyesuaiannya dengan konvensi PBB tentang pemberantasan korupsi.\n\n\"Apa yang dikemukakan baru garis besar, belum masuk ke detail persoalan tentang definisi korupsi yang ingin disesuaikan dengan UNCAC,\" katanya.\n\nYusril menjelaskan, dirinya memiliki pengalaman langsung dalam proses penyusunan regulasi pemberantasan korupsi di Indonesia.\n\nIa menjabat sebagai Menteri Kehakiman ketika Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi diubah melalui Undang-Undang Nomor 20 Tahun 2001.\n\nSelain itu, Yusril pernah menandatangani Konvensi PBB Antikorupsi atau United Nations Convention against Corruption (UNCAC) di Markas Besar PBB, New York, pada 2003.\n\nPada tahun yang sama, ia juga mengajukan rancangan undang-undang mengenai pembentukan Komisi Pemberantasan Korupsi (KPK).\n\nMenurut Yusril, pembahasan mengenai perubahan peraturan harus diawali dengan pemahaman menyeluruh terhadap sejarah dan latar belakang pembentukan aturan tersebut.\n\nEvaluasi juga perlu dilakukan secara kritis untuk mengetahui kelebihan dan kekurangan regulasi yang berlaku.\n\n\"Semua harus ditelaah dan dipikirkan dengan jernih. Baik yang yang ingin ingin merevisi maupun yang mau mempertahankan, harus berpikir bijak dan hati-hati,\" katanya."
+   "content_status": "partial",
+   "content_chars": 141,
+   "content": "Selain itu, KPK mengusulkan negara dapat merampas harta penyelenggara negara apabila kekayaan yang dimiliki ternyata melebihi jumlah di LHKPN"
+  },
+  {
+   "source": "bloombergtechnoz",
+   "getter": "auto",
+   "title": "KPK Sebut Audit Forensik Internal Sah Hitung Kerugian Negara",
+   "link": "https://www.bloombergtechnoz.com/detail-news/125671/kpk-sebut-audit-forensik-internal-sah-hitung-kerugian-negara",
+   "pubDate": "Sun, 25 Oct 2026 12:15:00 +0700",
+   "description": "<img src=\"https://images.bloombergtechnoz.com/data/2023/02/image-20230203142216.jpg\" /> KPK menegaskan laporan penghitungan kerugian keuangan negara (PKKN) yang disusun Unit Akuntansi Forensik (AF) KPK sah digunakan di pengadilan.",
+   "fetched_at": "2026-10-25T18:23:52+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 230,
+   "content": "<img src=\"https://images.bloombergtechnoz.com/data/2023/02/image-20230203142216.jpg\" /> KPK menegaskan laporan penghitungan kerugian keuangan negara (PKKN) yang disusun Unit Akuntansi Forensik (AF) KPK sah digunakan di pengadilan."
+  },
+  {
+   "source": "bloombergtechnoz",
+   "getter": "auto",
+   "title": "KPK Geledah Rumah Suami Bupati Pekalongan, Sita BMW Listrik",
+   "link": "https://www.bloombergtechnoz.com/detail-news/125667/kpk-geledah-rumah-suami-bupati-pekalongan-sita-bmw-listrik",
+   "pubDate": "Sun, 25 Oct 2026 11:15:00 +0700",
+   "description": "<img src=\"https://images.bloombergtechnoz.com/data/2026/03/image-20260303095938.jpeg\" /> KPK menyita satu unit mobil listrik BMW dari rumah Ashraff Abu, suami Bupati Pekalongan nonaktif Fadia Arafiq, di Semarang, Jawa Tengah.",
+   "fetched_at": "2026-10-25T18:23:52+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 225,
+   "content": "<img src=\"https://images.bloombergtechnoz.com/data/2026/03/image-20260303095938.jpeg\" /> KPK menyita satu unit mobil listrik BMW dari rumah Ashraff Abu, suami Bupati Pekalongan nonaktif Fadia Arafiq, di Semarang, Jawa Tengah."
+  },
+  {
+   "source": "bloombergtechnoz",
+   "getter": "auto",
+   "title": "KPK Sita Mobil BMW Milik Tersangka Kasus Korupsi BNPB",
+   "link": "https://www.bloombergtechnoz.com/detail-news/125665/kpk-sita-mobil-bmw-milik-tersangka-kasus-korupsi-bnpb",
+   "pubDate": "Sun, 25 Oct 2026 09:45:00 +0700",
+   "description": "<img src=\"https://images.bloombergtechnoz.com/data/2023/02/image-20230203142633.jpg\" /> KPK menyita satu unit mobil BMW milik tersangka korupsi di lingkungan BNPB Richard Erlangga.",
+   "fetched_at": "2026-10-25T18:23:52+07:00",
+   "categories": [
+    "bencana",
+    "hukum-kriminal",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 180,
+   "content": "<img src=\"https://images.bloombergtechnoz.com/data/2023/02/image-20230203142633.jpg\" /> KPK menyita satu unit mobil BMW milik tersangka korupsi di lingkungan BNPB Richard Erlangga."
+  },
+  {
+   "source": "fajar",
+   "getter": "auto",
+   "title": "Yusril Ihza Mahendra Bakal Bertemu Luhut Binsar Pandjaitan Bahas Definisi Korupsi",
+   "link": "https://fajar.co.id/2026/10/26/yusril-ihza-mahendra-bakal-bertemu-luhut-binsar-pandjaitan-bahas-definisi-korupsi/",
+   "pubDate": "Sun, 25 Oct 2026 16:58:34 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA — Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra dijadwalkan...",
+   "fetched_at": "2026-10-25T18:23:46+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 126,
+   "content": "FAJAR.CO.ID, JAKARTA — Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra dijadwalkan..."
+  },
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "MAKI Adukan Seluruh Pimpinan KPK ke Dewas terkait Nusron Wahid, Ada Apa?",
+   "link": "https://www.inews.id/news/nasional/maki-adukan-seluruh-pimpinan-kpk-ke-dewas-terkait-nusron-wahid-ada-apa",
+   "pubDate": "Sun, 25 Oct 2026 19:37:00 +0700",
+   "description": "MAKI mengadukan seluruh pimpinan KPK ke Dewas karena menilai tidak tegas menyikapi dua kali ketidakhadiran Nusron Wahid dalam panggilan pemeriksaan.",
+   "fetched_at": "2026-10-25T18:23:36+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 148,
+   "content": "MAKI mengadukan seluruh pimpinan KPK ke Dewas karena menilai tidak tegas menyikapi dua kali ketidakhadiran Nusron Wahid dalam panggilan pemeriksaan."
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "Wakil Ketua KPK Usul Rampas Aset Pejabat yang Tak Tercantum di LHKPN",
+   "link": "https://news.republika.co.id/berita/tnh4mg7230000/wakil-ketua-kpk-usul-rampas-aset-pejabat-yang-tak-tercantum-di-lhkpn",
+   "pubDate": "Mon, 26 Oct 2026 00:30:16 +0700",
+   "description": "REPUBLIKA.CO.ID, JAKARTA, – Wakil Ketua Komisi Pemberantasan Korupsi (KPK), Johanis Tanak, mengusulkan agar Rancangan Undang-Undang tentang Perampasan Aset terkait Tindak Pidana (RUU Perampasan Aset) memberikan kewenangan kepada negara untuk...",
+   "fetched_at": "2026-10-25T18:23:34+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 244,
+   "content": "REPUBLIKA.CO.ID, JAKARTA, – Wakil Ketua Komisi Pemberantasan Korupsi (KPK), Johanis Tanak, mengusulkan agar Rancangan Undang-Undang tentang Perampasan Aset terkait Tindak Pidana (RUU Perampasan Aset) memberikan kewenangan kepada negara untuk..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Waka KPK usulkan kewenangan rampas aset pejabat tak tercantum di LHKPN",
+   "link": "https://www.antaranews.com/berita/5811127/waka-kpk-usulkan-kewenangan-rampas-aset-pejabat-tak-tercantum-di-lhkpn",
+   "pubDate": "Mon, 26 Oct 2026 00:28:31 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2025/11/05/IMG_1323.jpg\" align=\"left\" border=\"0\" />Wakil Ketua Komisi Pemberantasan Korupsi (KPK),&nbsp;Johanis Tanak mengusulkan Rancangan Undang-Undang tentang ...",
+   "fetched_at": "2026-10-25T18:23:21+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 216,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2025/11/05/IMG_1323.jpg\" align=\"left\" border=\"0\" />Wakil Ketua Komisi Pemberantasan Korupsi (KPK),&nbsp;Johanis Tanak mengusulkan Rancangan Undang-Undang tentang ..."
   }
  ]
 }
