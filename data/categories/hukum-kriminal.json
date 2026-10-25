@@ -1,146 +1,199 @@
 {
- "updated_at": "2026-10-25T17:34:38+07:00",
+ "updated_at": "2026-10-25T21:48:53+07:00",
  "category": "hukum-kriminal",
- "count": 20,
+ "count": 26,
  "articles": [
+  {
+   "source": "bloombergtechnoz",
+   "getter": "auto",
+   "title": "Polri Ungkap Pabrik Sabu di Aceh, Sita Hampir 1,2 Ton Narkotika",
+   "link": "https://www.bloombergtechnoz.com/detail-news/125692/polri-ungkap-pabrik-sabu-di-aceh-sita-hampir-1-2-ton-narkotika",
+   "pubDate": "Sun, 25 Oct 2026 18:00:00 +0700",
+   "description": "<img src=\"https://images.bloombergtechnoz.com/data/2026/08/image-20260805120926.jpg\" /> Polri menyita hampir 1,2 ton bruto narkotika dan mengamankan 11 orang, termasuk dua warga negara asing (WNA).",
+   "fetched_at": "2026-10-25T11:47:25+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "full",
+   "content_chars": 992,
+   "video_type": "youtube",
+   "video_id": "n-Fv976AHtE",
+   "video_url": "https://www.youtube.com/watch?v=n-Fv976AHtE",
+   "content": "Polri Ungkap Pabrik Sabu di Aceh, Sita Hampir 1,2 Ton Narkotika\n\nTim Subdirektorat IV Direktorat Tindak Pidana Narkoba Bareskrim Polri berhasil mengungkap jaringan peredaran narkotika (Dok. Humas Polri)\n\nBloomberg Technoz, Jakarta - Kepolisian bersama Badan Narkotika Nasional (BNN) dan Bea Cukai mengungkap laboratorium gelap pembuatan sabu yang diduga terkait jaringan narkotika internasional di Kabupaten Pidie, Aceh.\n\nDalam operasi tersebut, petugas menyita hampir 1,2 ton bruto narkotika dan mengamankan 11 orang, termasuk dua warga negara asing (WNA).\n\nKapolri Jenderal Polisi Suyudi Ario Seto mengatakan pengungkapan tersebut menjadi penindakan terhadap laboratorium gelap dengan barang bukti terbesar di Indonesia.\n\n“Polisi dan masyarakat kita berhasil mengungkap jaringan narkoba skala besar,” kata Suyudi, dikutip Minggu (25/10/2026).\n\nPenindakan itu dilakukan serentak pada 21 Oktober 2026 di lima lokasi yang tersebar di Kabupaten Pidie, Bireuen, Aceh Utara, dan Kota Lhokseumawe."
+  },
+  {
+   "source": "bloombergtechnoz",
+   "getter": "auto",
+   "title": "Polri-Gekrafs Teken MoU, Perkuat Perlindungan Pelaku Ekraf",
+   "link": "https://www.bloombergtechnoz.com/detail-news/125687/polri-gekrafs-teken-mou-perkuat-perlindungan-pelaku-ekraf",
+   "pubDate": "Sun, 25 Oct 2026 15:31:57 +0700",
+   "description": "<img src=\"https://images.bloombergtechnoz.com/data/2026/10/image-20261025152911.jpg\" /> Polri dan GEKRAFS menjalin kerja sama melalui penandatanganan MoU dalam puncak peringatan HEKRAFNAS 2026 di Jakarta",
+   "fetched_at": "2026-10-25T11:47:25+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "full",
+   "content_chars": 1458,
+   "video_type": "youtube",
+   "video_id": "n-Fv976AHtE",
+   "video_url": "https://www.youtube.com/watch?v=n-Fv976AHtE",
+   "content": "Bloomberg Technoz, Jakarta - Kepolisian Negara Republik Indonesia (Polri) bersama Gerakan Ekonomi Kreatif Nasional (GEKRAFS) menjalin kerja sama melalui penandatanganan nota kesepahaman atau Memorandum of Understanding (MoU) dalam puncak peringatan Hari Ekonomi Kreatif Nasional (HEKRAFNAS) 2026 di Sampoerna Strategic Building, Jakarta, Sabtu (24/10/2026).\n\nKerja sama ini menjadi salah satu agenda strategis dalam puncak HEKRAFNAS 2026 yang mengusung semangat Rekacipta, kolaborasi, dan penguatan ekosistem ekonomi kreatif nasional. Kolaborasi GEKRAFS dan Polri diharapkan dapat membuka ruang sinergi antarlembaga dalam mendukung perkembangan industri kreatif Indonesia.\n\nKapolri Jenderal Pol. Suyudi Ario Seto menyampaikan apresiasinya kepada para pelaku ekonomi kreatif yang dinilai memiliki peran penting dalam mendorong kemajuan bangsa. Ia juga menegaskan komitmen Polri untuk mendukung dan menjaga perkembangan ekonomi kreatif di Indonesia.\n\n“Saya sangat berbahagia bisa hadir di tengah orang-orang hebat, orang-orang kreatif yang bisa membawa Indonesia semakin luar biasa. Saya senang karena kalau banyak orang kreatif, Indonesia aman,” ujar Suyudi dalam sambutannya.\n\nIa menegaskan bahwa Polri siap mengambil peran dalam mendukung pengembangan ekonomi kreatif, termasuk melalui kolaborasi dengan berbagai pihak. Menurutnya, kreativitas dan inovasi merupakan modal penting untuk membangun Indonesia menjadi bangsa yang semakin maju dan berdaya saing."
+  },
   {
    "source": "fajar",
    "getter": "auto",
-   "title": "PKS Jajaki Sikap Fraksi DPR soal Ijazah Gibran, PSI Beri Tanggapan",
-   "link": "https://fajar.co.id/2026/10/25/pks-jajaki-sikap-fraksi-dpr-soal-ijazah-gibran-psi-beri-tanggapan/",
-   "pubDate": "Sun, 25 Oct 2026 04:47:37 +0000",
-   "description": "FAJAR.CO.ID, JAKARTA &#8212; Partai Solidaritas Indonesia (PSI) mempertanyakan rencana Partai Keadilan Sejahtera (PKS) menjajaki komunikasi...",
-   "fetched_at": "2026-10-25T06:16:47+07:00",
+   "title": "Respon Menohok Ahmad Ali Usai PKS Dekati Fraksi DPR Soal Ijazah Wapres Gibran: Putusan MK Sudah Final dan Jelas!",
+   "link": "https://fajar.co.id/2026/10/25/respon-menohok-ahmad-ali-usai-pks-dekati-fraksi-dpr-soal-ijazah-wapres-gibran-putusan-mk-sudah-final-dan-jelas/",
+   "pubDate": "Sun, 25 Oct 2026 10:26:08 +0000",
+   "description": "FAJAR.CO.ID, BOGOR — Rencana Partai Keadilan Sejahtera (PKS) untuk membuka komunikasi dengan fraksi-fraksi lain di...",
+   "fetched_at": "2026-10-25T11:47:17+07:00",
    "categories": [
     "hukum-kriminal",
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 2885,
-   "content": "Beranda Politik PKS Jajaki Sikap Fraksi DPR soal Ijazah Gibran, PSI Beri Tanggapan\n\nFAJAR.CO.ID, JAKARTA -- Partai Solidaritas Indonesia (PSI) mempertanyakan rencana Partai Keadilan Sejahtera (PKS) menjajaki komunikasi dengan fraksi-fraksi lain di DPR RI untuk membahas polemik ijazah Wakil Presiden Gibran Rakabuming Raka.\n\nKetua Harian PSI Ahmad Ali menilai rencana tersebut perlu dipertimbangkan kembali karena Mahkamah Konstitusi (MK) telah memutus perkara yang mempersoalkan pemenuhan syarat pendidikan Gibran dalam Pilpres 2024.\n\nAhmad Ali menyampaikan tanggapan itu saat ditemui di Sentul International Convention Center (SICC), Bogor, Sabtu (24/10/2026).\n\nIa mempertanyakan persoalan yang masih perlu dibahas di parlemen setelah MK menyatakan permohonan dalam perkara tersebut tidak dapat diterima. Ahmad bahkan menyebut proses yang berlangsung di MK sebagai bagian dari demonstrasi politik.\n\n“Sekarang begini, saya bukan orang hukum. Kalau orang menggugat, ada yang dituntut, toh? Dan kemudian ketika yang dituntut ditolak, terus apa yang dipermasalahkan?” kata Ahmad Ali, sebagaimana diberitakan detikNews pada Sabtu (24/10/2026). <escape>Sumber</escape>\n\nRencana komunikasi lintas fraksi tersebut sebelumnya disampaikan Sekretaris Jenderal PKS Muhammad Kholid. Ia mengatakan DPP PKS telah menugaskan Fraksi PKS di DPR untuk menjajaki pandangan partai lain mengenai polemik ijazah Gibran.\n\nMenurut Kholid, langkah tersebut merupakan upaya menampung berbagai pandangan sebelum partai menentukan sikap lebih lanjut.\n\nPKS belum memutuskan apakah akan menggunakan hak angket atau hak menyatakan pendapat. Keputusan mengenai langkah berikutnya akan mempertimbangkan perkembangan komunikasi politik ketika masa sidang DPR kembali dimulai.\n\nDengan demikian, penjajakan yang dilakukan PKS masih berupa komunikasi awal dan belum menjadi keputusan untuk menggunakan hak konstitusional tertentu di parlemen.\n\nPerkara yang menjadi rujukan PSI adalah gugatan terkait persyaratan pendidikan Gibran dalam pencalonan Pilpres 2024. Dalam putusan yang dibacakan pada 6 Oktober 2026, MK menyatakan permohonan para pemohon tidak dapat diterima karena mereka tidak memiliki kedudukan hukum untuk mengajukan perkara tersebut. <escape>Rujukan resmi MK</escape>\n\nNamun, dalam pertimbangan hukumnya, MK juga menyatakan tidak menemukan bukti meyakinkan berupa ijazah, sertifikat, atau diploma dari luar negeri yang menunjukkan Gibran telah menamatkan pendidikan setara SMA atau sederajat sebagaimana disyaratkan dalam ketentuan pemilu.\n\nMahkamah juga menjelaskan bahwa persoalan substantif mengenai keabsahan dan pemenuhan syarat calon presiden serta calon wakil presiden berada pada ranah lembaga lain yang berwenang menilainya. MK menyatakan tidak dapat membatalkan atau mendiskualifikasi Gibran melalui permohonan tersebut.\n\nPKS Masih Jajaki Sikap Fraksi Lain Apa Isi Putusan MK soal Ijazah Gibran?"
+   "content_chars": 2865,
+   "content": "Beranda Politik Respon Menohok Ahmad Ali Usai PKS Dekati Fraksi DPR Soal Ijazah Wapres Gibran: Putusan MK Sudah Final dan Jelas!\n\nFAJAR.CO.ID, BOGOR — Rencana Partai Keadilan Sejahtera (PKS) untuk membuka komunikasi dengan fraksi-fraksi lain di DPR RI terkait polemik ijazah Wakil Presiden Gibran Rakabuming Raka menuai tanggapan kritis dari Partai Solidaritas Indonesia (PSI).\n\nKetua Harian PSI, Ahmad Ali, menilai langkah politik yang direncanakan PKS tersebut perlu dipikirkan ulang secara matang. Menurutnya, Mahkamah Konstitusi (MK) telah memutus perkara yang berkaitan dengan syarat pendidikan Gibran pada Pilpres 2024.\n\nPernyataan tersebut disampaikan Ahmad Ali saat ditemui di Sentul International Convention Center (SICC), Kabupaten Bogor, Jawa Barat, Sabtu (24/10/2026). Ia mempertanyakan urgensi serta isu utama yang hendak dibahas oleh PKS di Senayan.\n\nIa mempertanyakan isu apa yang sebenarnya masih tersisa untuk dibicarakan, mengingat gugatan itu sudah dinyatakan tidak dapat diterima oleh MK. Politikus yang sebelumnya berkiprah di Nasdem ini bahkan menggambarkan jalannya proses di MK sebagai bagian dari panggung demonstrasi politik.\n\nTanggapan tajam PSI tersebut mengemuka setelah Sekretaris Jenderal PKS, Muhammad Kholid, mengungkapkan bahwa partainya bakal menjajaki pandangan dari berbagai fraksi di parlemen. Kholid menyebut upaya ini merupakan instruksi langsung dari pimpinan partai.\n\nMenurut Kholid, upaya tersebut merupakan kelanjutan dari tugas yang diberikan Presiden PKS, Al Muzzammil Yusuf, kepada Fraksi PKS di parlemen.\n\nMeski demikian, Kholid menegaskan bahwa penjajakan awal ini bukan berarti PKS telah mengambil sikap politik final, termasuk soal pengajuan hak interpelasi maupun hak angket.\n\nKholid menekankan bahwa komunikasi itu belum berarti PKS telah memutuskan mengambil jalur politik tertentu. Partainya, kata dia, belum menetapkan sikap soal kemungkinan menggunakan hak angket maupun hak menyatakan pendapat.\n\nKeputusan lebih lanjut akan bergantung pada dinamika yang berkembang saat masa sidang berikutnya dimulai. Pernyataan tersebut disampaikan ketika DPR masih berada dalam masa reses.\n\nDi sisi lain, dalam amarnya, MK menyatakan gugatan terkait keabsahan syarat pendidikan tersebut tidak dapat diterima karena para pemohon tidak memiliki kedudukan hukum (legal standing) sebagai peserta Pilpres.\n\nMeski begitu, dalam pertimbangannya majelis hakim mencatat tidak ditemukannya dokumen berupa ijazah, sertifikat, atau diploma yang membuktikan Gibran telah menuntaskan pendidikan di luar negeri setara SMA atau sederajat.\n\nKendati memberikan pertimbangan tersebut, MK sekaligus menegaskan bahwa urusan menilai sah tidaknya pemenuhan syarat capres dan cawapres berada di tangan lembaga lain, bukan di tangan mereka.\n\nPKS Penjajakan Pandangan Fraksi Saat Reses DPR Pertimbangan MK dan Respons Santai Gibran Rakabuming Raka"
+  },
+  {
+   "source": "fajar",
+   "getter": "auto",
+   "title": "Andi Mallarangeng Soal Gugatan MK: Demokrat Sadar Diri dan Tak Punya Kepentingan Langsung",
+   "link": "https://fajar.co.id/2026/10/25/andi-mallarangeng-soal-gugatan-mk-demokrat-sadar-diri-dan-tak-punya-kepentingan-langsung/",
+   "pubDate": "Sun, 25 Oct 2026 08:59:30 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA – Dinamika ketatanegaraan yang tengah bergulir di Mahkamah Konstitusi (MK) memicu berbagai spekulasi...",
+   "fetched_at": "2026-10-25T11:47:17+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2806,
+   "content": "Beranda Politik Andi Mallarangeng Soal Gugatan MK: Demokrat Sadar Diri dan Tak Punya Kepentingan Langsung\n\nFAJAR.CO.ID, JAKARTA – Dinamika ketatanegaraan yang tengah bergulir di Mahkamah Konstitusi (MK) memicu berbagai spekulasi mengenai arah politik dan kepentingan partai-partai besar di tanah air. Tokoh senior Partai Demokrat, Andi Mallarangeng, menegaskan bahwa partainya tidak memiliki kepentingan langsung dalam perkara yang kini disidangkan Mahkamah Konstitusi (MK).\n\nPenegasan tersebut disampaikan untuk merespons berbagai asumsi publik mengenai posisi tawar partai politik di tingkat parlemen. Ia juga mengaku Demokrat sadar diri soal kekuatan politiknya jika putusan MK sampai membuka kekosongan kursi wakil presiden.\n\nPernyataan itu disampaikan Andi dalam perbincangannya dengan Rhenald Kasali di kanal YouTube Rhenald Kasali yang tayang pada 23 Oktober 2026. Andi menanggapi anggapan publik bahwa ada “sosok besar” di balik gugatan tersebut, terutama karena dua nama yang kerap dikaitkan dengan perkara ini, Denny Indrayana dan Roy Suryo, memiliki latar belakang yang pernah dekat dengan Demokrat.\n\nMenurut Andi, Denny memang mantan wakil menteri pada era Presiden SBY dan pernah menjadi calon legislatif dari Demokrat, tetapi bukan pengurus partai. Sementara Roy Suryo, kata dia, merupakan mantan kader yang sudah mengundurkan diri sebagai pengurus dan anggota partai.\n\n“Tidak ada perintah langsung dari organisasi, bukan karena suatu strategi,” ujar Andi. Ia menyebut langkah Denny sebagai inisiatif pribadi sebagai seorang profesional. Sebagai Ketua Dewan Pakar DPP Partai Demokrat, ia menegaskan bahwa apa pun putusan MK, Demokrat tidak memiliki kepentingan langsung.\n\nLangkah mawas diri yang ditunjukkan oleh Partai Demokrat didasari atas perhitungan matematis jumlah draf keterwakilan di DPR dan MPR. Andi lalu menguraikan skenario jika MK mengabulkan petitum, sebagian atau seluruhnya, dan putusan itu berdampak ketatanegaraan hingga terjadi kekosongan jabatan wakil presiden.\n\nDalam situasi itu, Presiden harus mengajukan dua nama kepada MPR untuk dipilih sesuai mekanisme perundang-undangan. Di titik inilah, menurut Andi, Demokrat harus tahu diri. Partainya hanya memiliki 44 kursi, sedangkan untuk bisa menang dengan aman di MPR dibutuhkan dukungan sekitar 400 anggota.\n\n“Untuk mencapai 400 terlalu jauh. Biayanya juga terlalu besar,” katanya.\n\nRhenald sempat menyinggung bahwa publik kini menilai Ketua Umum Demokrat Agus Harimurti Yudhoyono (AHY) sebagai “bintang baru” dan bertanya apakah dukungan besar dari parlemen bisa datang tiba-tiba. Andi tidak menutup kemungkinan itu, tetapi menegaskan partainya tahu batas kemampuan. Ia juga menyinggung bahwa Demokrat tidak sekaya partai lain dalam hal pendanaan.\n\nKalkulasi Parlemen dan Peta Kekuatan Pasca-Putusan Mahkamah Konstitusi"
+  },
+  {
+   "source": "fajar",
+   "getter": "auto",
+   "title": "Kapolri Suyudi Ario Seto Senang Rangkap Jabatan Kepala BNN, Singgung Kasus Narkoba di Sumut",
+   "link": "https://fajar.co.id/2026/10/25/kapolri-suyudi-ario-seto-senang-rangkap-jabatan-kepala-bnn-singgung-kasus-narkoba-di-sumut/",
+   "pubDate": "Sun, 25 Oct 2026 08:58:44 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA &#8212; Kapolri Jenderal Suyudi Ario Seto mengungkapkan rasa bahagianya saat berbicara di hadapan...",
+   "fetched_at": "2026-10-25T11:47:17+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2582,
+   "content": "Beranda Nasional Kapolri Suyudi Ario Seto Senang Rangkap Jabatan Kepala BNN, Singgung Kasus Narkoba di Sumut\n\nFAJAR.CO.ID, JAKARTA -- Kapolri Jenderal Suyudi Ario Seto mengungkapkan rasa bahagianya saat berbicara di hadapan jajaran pejabat kepolisian dan pemerintah daerah di Belawan, Sumatera Utara (Sumut).\n\nIa menyinggung dua jabatan yang kini diembannya, yakni sebagai Kapolri sekaligus Kepala Badan Narkotika Nasional (BNN).\n\nPernyataan itu disampaikan Suyudi ketika menghadiri pengungkapan kasus dugaan penyelundupan satu ton ketamine yang diangkut kapal MT Global 168 di perairan Belawan, Jumat (23/10/2026) kemarin.\n\nDalam sambutannya, Suyudi secara terbuka menyebut dirinya merasa senang dapat berbicara dalam dua kapasitas tersebut.\n\n\"Saya sangat berbahagia karena saya bisa berbicara kapasitas saya sebagai Kapolri sekaligus juga sebagai Kepala BNN,\" kata Suyudi.\n\nPada kesempatan yang sama, Suyudi menyoroti persoalan peredaran narkoba di Sumatera Utara.\n\nIa menyebut data Badan Pusat Statistik (BPS) dan Badan Riset dan Inovasi Nasional (BRIN) menempatkan provinsi tersebut di posisi teratas terkait kasus tindak pidana narkoba.\n\nMeski demikian, ia meminta jajarannya tidak berkecil hati menghadapi data tersebut. Menurutnya, tingginya angka kasus juga perlu dilihat bersama upaya pengungkapan yang dilakukan aparat penegak hukum.\n\n\"Tapi jangan kecil hati, walaupum nomor satu tapi pengungkapannya juga banyak juga,\" Suyudi menuturkan.\n\nSuyudi mengingatkan, pemberantasan narkoba tidak boleh hanya berfokus pada penindakan terhadap pelaku.\n\nBaginya, langkah pencegahan juga harus diperkuat agar mata rantai peredaran barang terlarang tersebut dapat diputus sejak awal.\n\nIa menekankan pentingnya konsistensi dalam menghadapi persoalan narkoba, tanpa menjadikan data sebagai alasan untuk berkecil hati.\n\n\"Jangan kecil hati dengan data, data biasa tapi yang paling penting langkah-langkah kita hadapi narkoba harus terus. Dari hulunya pencegahannya,\" tandasnya.\n\nSebelumnya, Komjen Pol Suyudi Ario Seto resmi mengemban jabatan sebagai Kapolri setelah dilantik Presiden Prabowo Subianto, Kamis (1/10/2026).\n\nUsai dilantik, Suyudi menyampaikan langkah yang akan dilakukan untuk memimpin Korps Bhayangkara.\n\nIa menegaskan bakal mengawali kepemimpinannya dengan konsolidasi internal.\n\nSuyudi juga memastikan program yang telah berjalan pada era kepemimpinan Jenderal Pol Listyo Sigit Prabowo akan menjadi bagian dari evaluasi kepemimpinannya.\n\nSuyudi menyampaikan apresiasi kepada Listyo Sigit yang disebut telah memberikan bimbingan selama perjalanan kariernya di kepolisian."
   },
   {
    "source": "wartaekonomi",
    "getter": "auto",
-   "title": "Dasco Soroti Penyelundupan 1,16 Ton Ketamin dari Malaysia",
-   "link": "https://wartaekonomi.co.id/read643292/dasco-soroti-penyelundupan-116-ton-ketamin-dari-malaysia",
-   "pubDate": "Sun, 25 Oct 2026 12:08:00 +0700",
-   "description": "DPR menyoroti penyelundupan 1,16 ton ketamin dari Malaysia yang digagalkan tim gabungan di perairan Tanjungbalai Asahan.",
-   "fetched_at": "2026-10-25T06:16:44+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "full",
-   "content_chars": 2836,
-   "content": "Home / News / Nasional Kapal Berbendera Mongolia Bawa 1,16 Ton Ketamin, Dugaan Sindikat Lintas Negara Disorot Minggu, 25 Oktober 2026, 12:08 WIB\n\nWakil Ketua DPR RI Sufmi Dasco Ahmad menyoroti pengungkapan kasus penyelundupan 1,16 ton ketamin hidroklorida (HCl) yang diangkut kapal MT Global 168 di perairan Tanjungbalai Asahan, Sumatera Utara. Kasus tersebut menunjukkan adanya dugaan jalur peredaran narkoba lintas negara yang perlu diwaspadai.\n\nDasco mengatakan, berdasarkan informasi yang diterimanya, kapal tersebut berangkat dari Pasir Gudang, Johor, Malaysia, dan diduga terkait dengan perusahaan yang beralamat di negara tersebut.\n\n“Bahwa baru-baru ini Polri dengan BNN bekerja sama menangkap kapal yang membawa bahan narkoba satu ton ketamin, namanya kapal MT Global 168 di Belawan,” kata Dasco dalam keterangan yang diterima di Jakarta, Minggu (25/10/2026).\n\nPenindakan dilakukan oleh tim gabungan yang melibatkan Kepolisian Negara Republik Indonesia (Polri), Badan Narkotika Nasional (BNN), serta Direktorat Jenderal Bea dan Cukai. Kapal tersebut dicegat di perairan Tanjungbalai Asahan sebelum dibawa ke Pelabuhan Belawan.\n\nDari hasil penggeledahan, petugas menyita 58 karung ketamin HCl dengan berat bruto 1,16 ton. Petugas juga mengamankan delapan awak kapal, yang terdiri atas tujuh warga negara Indonesia (WNI) dan satu warga negara Taiwan.\n\nKapolri Jenderal Polisi Suyudi Ario Seto sebelumnya menyampaikan pengungkapan kasus tersebut di Pelabuhan Bandar Deli, Medan, Jumat (23/10/2026). Operasi gabungan turut melibatkan Bareskrim Polri, Direktorat Polisi Perairan Baharkam Polri, dan Polda Sumatera Utara.\n\nSelain barang bukti ketamin dan kapal MT Global 168, petugas turut mengamankan sejumlah alat komunikasi untuk kepentingan penanganan kasus tersebut.\n\nMenurut Dasco, berdasarkan data Polri, kapal berbendera Mongolia itu terdaftar atas nama Makmur Marine Petroleum, perusahaan asal Malaysia yang beralamat di Johor Bahru. Informasi mengenai asal keberangkatan dan keterkaitan perusahaan tersebut menjadi bagian dari penelusuran terhadap dugaan penyelundupan lintas negara.\n\nDasco menilai upaya penyelundupan tersebut menjadi perhatian karena peredaran narkoba dapat melibatkan jaringan yang melintasi batas negara. Ia juga menyampaikan keprihatinan atas ancaman penyalahgunaan narkoba terhadap masyarakat, terutama generasi muda.\n\n“Kita semua wajib berikhtiar untuk memerangi bahaya yang sangat dapat merusak anak-anak negeri,” ujarnya.\n\nSementara itu, Kapolri memperkirakan pengungkapan kasus tersebut dapat menyelamatkan sekitar 5,8 juta jiwa dari ancaman penyalahgunaan ketamin. Estimasi tersebut didasarkan pada jumlah barang bukti yang berhasil diamankan.\n\nPengungkapan kasus ini melibatkan sejumlah instansi penegak hukum dan menjadi bagian dari upaya pemberantasan penyelundupan narkoba melalui jalur laut."
-  },
-  {
-   "source": "wartaekonomi",
-   "getter": "auto",
-   "title": "PKS Galang Fraksi DPR soal Ijazah Gibran, Petinggi PSI Minta Pikir Ulang",
-   "link": "https://wartaekonomi.co.id/read643270/pks-galang-fraksi-dpr-soal-ijazah-gibran-petinggi-psi-minta-pikir-ulang",
-   "pubDate": "Sun, 25 Oct 2026 10:00:00 +0700",
-   "description": "Ia mempertanyakan isu apa yang sebenarnya masih tersisa untuk dibicarakan, mengingat gugatan itu sudah dinyatakan tidak dapat diterima oleh MK.",
-   "fetched_at": "2026-10-25T06:16:44+07:00",
+   "title": "In Memorian: Widodo AS Tentara yang Reformis",
+   "link": "https://wartaekonomi.co.id/read643318/in-memorian-widodo-as-tentara-yang-reformis",
+   "pubDate": "Sun, 25 Oct 2026 18:41:00 +0700",
+   "description": "Tokoh militer Laksamana TNI Widodo AS tutup usia pada hari Sabtu, 24 Oktober 2026 pukul 21.30 WIB di Jakarta pada usia 82 tahun akibat sakit.",
+   "fetched_at": "2026-10-25T11:47:15+07:00",
    "categories": [
     "hukum-kriminal",
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 2406,
-   "content": "Home / News / Politik PKS Galang Fraksi DPR soal Ijazah Gibran, Petinggi PSI Minta Pikir Ulang Minggu, 25 Oktober 2026, 10:00 WIB\n\nRencana Partai Keadilan Sejahtera (PKS) membuka komunikasi dengan fraksi-fraksi lain di DPR terkait polemik ijazah Wakil Presiden Gibran Rakabuming Raka menuai tanggapan dari Partai Solidaritas Indonesia (PSI).\n\nKetua Harian PSI, Ahmad Ali, menilai langkah itu perlu dipikirkan ulang karena Mahkamah Konstitusi (MK) telah memutus perkara yang berkaitan dengan syarat pendidikan Gibran pada Pilpres 2024.\n\nAhmad Ali menyampaikan hal tersebut ketika ditemui di Sentul International Convention Center (SICC), Bogor, Sabtu (24/10/2026).\n\nIa mempertanyakan isu apa yang sebenarnya masih tersisa untuk dibicarakan, mengingat gugatan itu sudah dinyatakan tidak dapat diterima oleh MK. Politikus yang sebelumnya berkiprah di Nasdem ini bahkan menggambarkan jalannya proses di MK sebagai bagian dari panggung demonstrasi politik.\n\nTanggapan itu muncul setelah Sekretaris Jenderal PKS, Muhammad Kholid, mengungkapkan bahwa partainya akan mulai menjajaki pandangan fraksi-fraksi lain di Senayan. Menurut Kholid, upaya tersebut merupakan kelanjutan dari tugas yang diberikan Presiden PKS, Al Muzzammil Yusuf, kepada Fraksi PKS di parlemen.\n\nKholid menekankan bahwa komunikasi itu belum berarti PKS telah memutuskan mengambil jalur politik tertentu. Partainya, kata dia, belum menetapkan sikap soal kemungkinan menggunakan hak angket maupun hak menyatakan pendapat.\n\nKeputusan lebih lanjut akan bergantung pada dinamika yang berkembang saat masa sidang berikutnya dimulai. Pernyataan tersebut disampaikan ketika DPR masih berada dalam masa reses.\n\nDi sisi lain, putusan MK yang menjadi rujukan PSI menyebut gugatan tak bisa diterima karena para pemohon tidak punya kedudukan hukum, sebab bukan peserta Pilpres. Meski begitu, dalam pertimbangannya majelis hakim mencatat tidak ditemukannya dokumen berupa ijazah, sertifikat, atau diploma yang membuktikan Gibran telah menuntaskan pendidikan di luar negeri setara SMA atau sederajat.\n\nMK sekaligus menegaskan bahwa urusan menilai sah tidaknya pemenuhan syarat capres dan cawapres berada di tangan lembaga lain, bukan di tangan mereka.\n\nGibran sendiri menyatakan menghargai seluruh rangkaian proses hukum di MK. Seusai putusan dibacakan, ia mengatakan akan terus bekerja dan berfokus mendukung keberhasilan program Presiden Prabowo Subianto."
+   "content_chars": 5419,
+   "content": "Home / News / Opini In Memorian: Widodo AS Tentara yang Reformis Minggu, 25 Oktober 2026, 18:41 WIB\n\nHari ini Tokoh militer Laksamana TNI Widodo AS tutup usia. Ada khabar baru semalam beliau wafat pada hari Sabtu, 24 Oktober 2026 pukul 21.30 WIB di Jakarta pada usia 82 tahun akibat sakit. Jenazah almarhum dimakamkan dengan upacara militer di Taman Makam Pahlawan (TMP) Kalibata pada hari Minggu, 25 Oktober 2026. Kepergiannya tentu saja banyak yang bisa dikenang terutama dalam masa transisi dari pemerintahan otoriter menuju demokrasi dimana tentara harus kembali ke peranan aslinya. Peranan Widodo AS tidak banyak diberitakan tetapi sangat sental terutama pada sidang istimewa MPR RI ketika peranan TNI harus berubah.\n\nSaya menjadi anggota MPR RI ketika itu dan berada dalam sidang bersama Widodo AS. Peranannya sebagai unsur TNI dalam Sidang Istimewa MPR RI Tahun 1998 sangat krusial karena tahun 1998 merupakan titik balik sejarah Indonesia. Laksamana Widodo A.S. memainkan peran signifikan dalam agenda sidang tertinggi negara saat itu. Pertama adalah peran menjaga Stabilitas Teritorial saat Sidang Umum (SU) MPR 1998 (Maret 1998). Sebelum dan selama berjalannya SU MPR Maret 1998 (yang kembali memilih Soeharto di tengah krisis moneter yang hebat), Widodo A.S. menjabat sebagai Panglima Komando Armada RI Kawasan Barat (Pangarmabar). Di tengah situasi sosial-politik yang mulai memanas akibat demonstrasi, peran utama adalah memastikan stabilitas keamanan wilayah Barat Indonesia dan perairannya.\n\nTidak hanya di lapangan, Widodo AS berperan memimpin sidang langsung (Pimpinan PAH II) dalam transisi reformasi konstitusi. Peranan kelembagaannya adalah merumuskan Ketetapan Reformasi sebagai Ketua PAH II Badan Pekerja MPR. Setelah Soeharto Jatuh dan negara dalam keadaan transisi kritis, MPR bergerak cepat menyusun penataan sistem hukum negara baru melalui sidang istimwea MPR (November 199. Laksamana Widodo A.S. Berada di panggung depan memimpin sidang, yang saya ikut berhari-hari. Peranan krusial sebagai Ketua Rapat Panitia Ad Hoc (PAH) II Badan Pekerja MPR RI karena harus merombak institusinya sendiri yakni ABRI (Angkatan Bersenjata Republik Indonesia), yang kemudian menjadi TNI (Tentara Nasional Indonesia). Beliau memimpin langsung pembahasan draf-draf rancangan ketetapan (Rantap) yang melucuti produk politik Orde Baru, termasuk lembaganya sendiri.\n\nWidodo AS hadir langsung di dalam perdebatan konstitusi yang harus diamandemen. Peranan-peranan krusial yang dijalankannya adalah bagaimana proses penataan internal TNI yang dipimpin oleh Laksamana Widodo A.S. saat harus memisahkan institusi Polri dari TNI. Selain itu, adalah menjalankan amanat reformasi dan membuatkannya dalam TAP MPR produk SI 1998, seperti pembatasan masa jabatan Presiden. Beliau memimpin siang dan mengawal langsung perumusannya. Selain itu, Salah satu legasinya dalam agenda reformasi tesebut adalah ketetapan terkait pencabutan Ketetapan MPR No. II/MPR/1978 mengenai P-4 (Pedoman Penghayatan dan Pengamalan Pancasila) yang pada rezim sebelumnya sering kali disalahgunakan sebagai instrumen indoktrinasi politik terpusat.\n\nWidodo AS mengawal langsung jalannya Reposisi Dwifungsi ABRI setelah setelah sidang istimewa dan kemudian menjabat sebagai panglima TNI. Presiden Abdurrahman Wahid (Gus Dur) menempatkan beliau sebagai Panglima TNI pada Oktober 1999, beliau memikul mandat besar untuk mengeksekusi penghapusan peran sosial-politik militer (Dwifungsi ABRI). Jalannya reposisi tersebut berlangsung melalui tahapan-tahapan krusial. Pemisahan TNI dan Polri (Tahun 2000) harus dilaksanakan melalui perintah konstitusi (TAP MPR No. VI/MPR/2000), kepolisian resmi dikeluarkan dari struktur Angkatan Bersenjata (ABRI). Nama ABRI pun resmi dikembalikan menjadi Tentara Nasional Indonesia (TNI).\n\nDi bawah kepemimpinan Laksamana Widodo A.S., institusi militer ditata ulang agar fokus sepenuhnya pada pertahanan negara (kedaulatan eksternal). Sementara tugas keamanan dalam negeri dan ketertiban masyarakat diserahkan kepada Kepolisian Negara Republik Indonesia (Polri). Dalam transisi reformasi yang dikawal langsung Widodo AS, Langkah selanjutnya adalah likuidasi Jabatan Sosial-Politik (Doktrin Kekaryaan). Pada masa Orde Baru, perwira militer aktif jamak menduduki posisi sipil seperti menteri, gubernur, bupati, hingga direksi BUMN melalui jalur kekaryaan. Laksamana Widodo A.S. mengawal proses kembali ke barak. Perwira aktif dilarang keras terlibat politik praktis maupun menduduki jabatan struktural sipil. Jika ingin masuk ke ranah birokrasi sipil, mereka diwajibkan untuk pensiun atau mengundurkan diri terlebih dahulu.\n\nTetapi dalam perjalanannya, polisi menjadi dominan dan mengganggu demokrasi pada masa satu dekade di bawah Jokowi. Kini setelah lebih dua dekade reformasi ada gejalan dimana ada gejalan kembali dan berulang TNI kembali ke ranah sipil. Dulu, Widodo AS berhasil mengawal transisi reformasi dengan menegakkan demokrasi dan Supremasi Sipil. Sebagai Panglima TNI pertama dari matra non-Angkatan Darat, Laksamana Widodo A.S. berhasil meletakkan dasar bagi militer yang profesional, tunduk pada keputusan politik pemerintah sipil yang sah, serta berfokus pada modernisasi kekuatan pertahanan maritim dan kedirgantaraan nasional. Itu berarti mereduksi dominasi kultur tentara yang sangat kental dengan urusan sosiopolitik wilayah. Tetapi kini kita belum menamukan lagi tentara reformis seperti Widodo AS."
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Di Balik Dentuman Sound Horeg Blitar ada Candu Alkohol yang Merajalela",
+   "link": "https://beritajatim.com/di-balik-dentuman-sound-horeg-blitar-ada-candu-alkohol-yang-merajalela",
+   "pubDate": "Sun, 25 Oct 2026 11:16:38 +0000",
+   "description": "<a href=\"https://beritajatim.com/di-balik-dentuman-sound-horeg-blitar-ada-candu-alkohol-yang-merajalela\" title=\"Di Balik Dentuman Sound Horeg Blitar ada Candu Alkohol yang Merajalela\" rel=\"nofollow\"><img width=\"400\" height=\"225\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/sonreg.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://cdnmedia.b",
+   "fetched_at": "2026-10-25T11:47:12+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "full",
+   "content_chars": 4276,
+   "content": "Di Balik Dentuman Sound Horeg Blitar ada Candu Alkohol yang Merajalela\n\nRazia Sound horeg di Blitar. (foto : Winanto/beritajatim.com)\n\nBlitar (beritajatim.com) – Dentuman menggelegar dari pengeras suara berkekuatan tinggi atau yang populer disebut sound horeg selalu menjadi magnet masif bagi ribuan warga di Blitar. Namun, dibalik kemeriahan acara jalanan ini, ternyata ada sisi negatif yang terus berjalan.\n\nDalam Doko Karnival Tahun 2026 di Kecamatan Doko, Kabupaten Blitar, Sabtu (24/10/2026) Malam, polisi menemukan ratusan botol minuman keras (miras) yang dijual bebas dalam acara sound horeg itu. Temuan ini pun mempertegas bahwa acara sound horeg saat ini sangat lekat dengan penjualan minuman keras.\n\nDalam operasi senyap yang menyasar simpul-simpul kerumunan penonton karnaval, anggota Polsek Doko mengamankan tujuh orang terduga pelaku yang berperan sebagai penjual miras keliling, berikut sejumlah orang yang kedapatan mengonsumsinya.\n\n“Kami mengamankan 107 botol minuman keras dari lokasi,” ungkap Kapolsek Doko, AKP Hariono pada Minggu (25/10/2026).\n\nYang mengejutkan adalah skala barang bukti yang berhasil diamankan dari tangan para pedagang ilegal tersebut. Aparat menyita total 107 botol arak tanpa izin edar, yang menjadi primadona pasaran gelap di kalangan penikmat instan, serta sejumlah botol minuman beralkohol dari berbagai merek ternama.\n\nSeluruh pihak yang terjaring dalam operasi ini langsung digelandang ke Mapolsek Doko untuk menjalani pemeriksaan mendalam, pendataan, serta proses hukum lebih lanjut sesuai ketentuan perundang-undangan yang berlaku.\n\nSebagai sebuah fenomena sosiologis di Jawa Timur, tren sound horeg dalam berbagai hajatan dan karnival desa terbukti ampuh mendongkrak denyut ekonomi lokal mulai dari pedagang kaki lima hingga penyedia jasa sewa alat audio. Namun, koin tersebut memiliki dua sisi. Sisi lainnya adalah tingginya kerentanan terhadap gesekan sosial, ego kelompok, aksi anarkis, hingga tawuran antar pelajar atau antar penonton yang dipicu oleh hilangnya kesadaran akibat pengaruh minuman keras.\n\nLangkah Polsek Doko membongkar jaringan penjual miras keliling ini menunjukkan bahwa para pelaku kejahatan konvensional dan pelanggar hukum memanfaatkan momentum kerumunan besar sebagai pasar empuk. Penjual keliling dengan mobilitas tinggi menjadi modus operatif yang cerdik menghindari pos-pos pengamanan statis, sehingga kehadiran aparat yang melakukan patroli dinamis (bergerak) menjadi kunci utama pencegahan.\n\n“Operasi ini adalah langkah preemtif dan preventif kami untuk mencegah potensi gangguan keamanan, termasuk tindak kriminalitas, tawuran antar penonton maupun peserta, serta pelanggaran hukum lainnya yang kerap dipicu oleh konsumsi minuman keras,” ujar AKP Hariono.\n\nIa menegaskan bahwa pihak kepolisian berkomitmen penuh untuk terus meningkatkan upaya pemeliharaan keamanan dan ketertiban masyarakat (Harkamtibmas) selama seluruh rangkaian acara Doko Karnival 2026 berlangsung. Tujuannya satu yakni agar masyarakat dapat menikmati hiburan rakyat dengan rasa aman, tertib, dan nyaman tanpa dihantui rasa cemas.\n\nSebenarnya Polres Blitar secara institusional telah mengeluarkan imbauan keras kepada seluruh elemen masyarakat untuk bersama-sama menjaga situasi kamtibmas tetap kondusif. Kepolisian mengingatkan bahwa peredaran dan konsumsi miras ilegal tidak hanya melanggar hukum, tetapi juga secara sistematis merusak kesehatan generasi bangsa serta memantik disintegrasi sosial di tingkat akar rumput.\n\nPeristiwa di Doko ini menjadi alarm pengingat bagi panitia penyelenggara sound horeg, pemerintah kecamatan, tokoh masyarakat, dan aparat penegak hukum di berbagai daerah, bahwa kemeriahan sebuah perayaan rakyat harus selalu diiringi oleh kontrol sosial yang ketat dan penegakan hukum yang tanpa kompromi. Sebab, pesta rakyat yang sehat adalah pesta yang merayakan kegembiraan, bukan merayakan petaka di balik botol-botol arak. (owi/aje)\n\nBaca berita lainnya di Google News atau langsung di halaman Indeks Berita\n\nBeritajatim.com adalah media online berbasis di Surabaya, dan fokus pada pemberitaan di wilayah Jawa Timur. Sejak awal, beritajatim.com memegang teguh kaidah jurnalistik dalam pemberitaan, sehingga aspek akurasi, disiplin verifikasi, independen, melekat kuat di setiap berita Selengkapnya"
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Jumhur : Hilangnya Ibu dan Anak di Madiun Indikasi Pembunuhan, Lebih Kejam dari Kasus Koper Merah",
+   "link": "https://beritajatim.com/jumhur-hilangnya-ibu-dan-anak-di-madiun-indikasi-pembunuhan-lebih-kejam-dari-kasus-koper-merah",
+   "pubDate": "Sun, 25 Oct 2026 10:31:06 +0000",
+   "description": "<a href=\"https://beritajatim.com/jumhur-hilangnya-ibu-dan-anak-di-madiun-indikasi-pembunuhan-lebih-kejam-dari-kasus-koper-merah\" title=\"Jumhur : Hilangnya Ibu dan Anak di Madiun Indikasi Pembunuhan, Lebih Kejam dari Kasus Koper Merah\" rel=\"nofollow\"><img width=\"620\" height=\"350\" src=\"https://beritajatim.com/wp-content/uploads/2019/02/pembunuhan.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"foto beritajatim\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thu",
+   "fetched_at": "2026-10-25T11:47:12+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "full",
+   "content_chars": 3154,
+   "content": "Jumhur : Hilangnya Ibu dan Anak di Madiun Indikasi Pembunuhan, Lebih Kejam dari Kasus Koper Merah\n\nSurabaya (beritajatim.com) – Penyidik Direktorat Reserse Kriminal Umum (Ditreskrimum) Polda Jawa Timur mengungkap perkembangan terbaru kasus hilangnya Dini Hardiyanti (30) dan anaknya AGF (4) di Madiun.\n\nKasubdit III Jatanras Polda Jatim, AKBP Arbaridi Jumhur, yang sebelumnya mengungkap kasus mutilasi koper merah, menyebut kasus ini bukan sekedar orang hilang, melainkan mengarah ke dugaan pembunuhan.\n\n“Hasil penyelidikan kita, ini indikasi ke pembunuhan. Kalau menurut saya lebih kejam daripada koper merah,” kata Jumhur, Minggu (25/10/2026).\n\nJumhur mengungkapkan, pelapor yang selama ini berhubungan pertemanan dengan korban ternyata adalah suami siri dari Dini Hardiyanti sendiri.\n\n“Sudah istri siri ternyata. Pelapor adalah suami siri dari yang dilaporkan hilang tadi,. Jadi sepertinya setelah laporan, dia menghilang,” ujar Jumhur.\n\nData ini sinkron dengan laporan orang hilang di Polres Madiun Kota Nomor LOH/7/X/2026 yang dilaporkan adik korban, Khanza, pada 5 Oktober 2026. Korban hilang sejak 20 September 2026 setelah bertengkar di warung ayam penyet Ponorogo.\n\nPenyelidik menemukan petunjuk penting dari pertemuan terakhir korban.\n\n“Kita urut pertemuan terakhir ada di salah satu hotel di wilayah Kediri, wilayah Madiun Kota. Kita dapat CCTV-nya,” kata Jumhur.\n\nDari rekaman CCTV itu, gerak-gerik suami siri tersebut mirip dengan modus kasus koper merah yang pernah ia ungkap.\n\n“Gerakan dari yang melapor ini, suaminya ini, suami sirihnya ini sama seperti waktu saya ungkap koper merah itu. Target ini bawa tas besar,” ungkapnya.\n\nJumhur menyebut penyidik sudah mengantongi sejumlah barang bukti dan kecurigaan yang menguatkan dugaan pembunuhan.\n\n“Perjalanan penyelidikan itu kita menemukan kecurigaan-kecurigaan, petunjuk-petunjuk, ada barang bukti yang kita dapat juga. Indikasi mengarah ke pembunuhan,” katanya.\n\nJumhur mengatakan pencarian di Madiun sudah maksimal dan foto-foto korban sudah disebar lewat media sosial.\n\n“Kita minta bantuan juga, karena di Madiun sudah maksimal, sudah disebar lewat media sosial fotonya. Dapat informasi dari masyarakat juga terkait pelariannya,” ujarnya.\n\nPihaknya berjanji akan segera mengungkap pelaku. “Insyaallah secepatnya kita amankan pelaku.”\n\nSebelumnya keluarga korban melalui kuasa hukum Ikbal Sermaf, S.H., M.H., melaporkan adanya kejanggalan: keterangan suami siri berubah hingga 3 kali soal lokasi pertengkaran, adanya pesan larangan lapor polisi yang diduga bukan gaya bahasa Dini, serta sinyal HP korban yang terdeteksi di Surabaya, bukan di Madiun.\n\nHingga kini Dini dan anaknya belum ditemukan. Polda Jatim mengimbau masyarakat yang melihat atau mengetahui keberadaan suami siri tersebut untuk segera melapor. [uci/aje]\n\nBaca berita lainnya di Google News atau langsung di halaman Indeks Berita\n\nBeritajatim.com adalah media online berbasis di Surabaya, dan fokus pada pemberitaan di wilayah Jawa Timur. Sejak awal, beritajatim.com memegang teguh kaidah jurnalistik dalam pemberitaan, sehingga aspek akurasi, disiplin verifikasi, independen, melekat kuat di setiap berita Selengkapnya"
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Sembilan Nelayan Raas Sumenep yang Ditangkap Otoritas Keamanan Australia, Hari ini Tiba di Kampung Halaman",
+   "link": "https://beritajatim.com/sembilan-nelayan-raas-sumenep-yang-ditangkap-otoritas-keamanan-australia-hari-ini-tiba-di-kampung-halaman",
+   "pubDate": "Sun, 25 Oct 2026 10:02:20 +0000",
+   "description": "<a href=\"https://beritajatim.com/sembilan-nelayan-raas-sumenep-yang-ditangkap-otoritas-keamanan-australia-hari-ini-tiba-di-kampung-halaman\" title=\"Sembilan Nelayan Raas Sumenep yang Ditangkap Otoritas Keamanan Australia, Hari ini Tiba di Kampung Halaman\" rel=\"nofollow\"><img width=\"400\" height=\"300\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/ostrali.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-widt",
+   "fetched_at": "2026-10-25T11:47:12+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2219,
+   "content": "Sembilan Nelayan Raas Sumenep yang Ditangkap Otoritas Keamanan Australia, Hari ini Tiba di Kampung Halaman\n\nSumenep (beritajatim.com) – Sembilan nelayan asal Desa/ Pulau Tonduk, Kecamatan Raas, Kabupaten Sumenep yang ditangkap otoritas keamanan Australia karena dianggap melanggar batas wilayah perairan saat mencari ikan, hari ini pulang ke kampung halamannya.\n\nKepala Dinas Sosial, Pemberdayaan Perempuan, dan Perlindungan Anak (Dinsos P3A) Sumenep R. Abd. Rahman Riadi mengatakan, proses pemulangan para nelayan tersebut dilakukan melalui koordinasi dengan Kementerian Luar Negeri (Kemenlu).\n\n“Komunikasi antar pemerintah atau government to government menjadi jalur utama dalam upaya pemulangan para nelayan itu. Sesuai arahan Pak Bupati, kami melakukan penjemputan secara langsung bersama Baznas,” katanya, Minggu (25/10/2026).\n\nPemkab dan Baznas Sumenep menyiapkan fasilitas transportasi dari Denpasar, Bali, menuju Pelabuhan Jangkar, Situbondo, hingga ke Pulau Raas. Para nelayan tiba di Bali pada Sabtu (24/10/2026).\n\n“Setelah itu, perjalanan dilanjutkan menggunakan kapal menuju Raas. Mereka tiba di Pulau Raas pada hari ini,” ujarnya.\n\nSembilan nelayan tersebut berlayar menggunakan KM Rukun Desa yang dinakhodai Mupaher bersama delapan anak buah kapal (ABK), yakni Hairi, Aes, Rudi, Hamsu, Heri, Beging, Ulum, dan Sahidi. Mereka diduga mencari teripang dan hiu untuk diambil siripnya di wilayah Northern Territory, Australia. Setelah ditangkap, para nelayan dibawa ke Darwin pada 28 September 2026.\n\nKonsulat Jenderal Republik Indonesia (KJRI) di Darwin kemudian mengunjungi mereka pada 30 September untuk memberikan akses kekonsuleran.\n\nSelain 9 nelayan tersebut, juga ada 13 nelayan lagi yang diamankan otoritas keamanan Australia pada Kamis (08/10/2026).\n\n“Untuk pemulangan yang 13 lainnya masih kami komunikasikan,” terang Rahman. (tem/aje)\n\nBaca berita lainnya di Google News atau langsung di halaman Indeks Berita\n\nBeritajatim.com adalah media online berbasis di Surabaya, dan fokus pada pemberitaan di wilayah Jawa Timur. Sejak awal, beritajatim.com memegang teguh kaidah jurnalistik dalam pemberitaan, sehingga aspek akurasi, disiplin verifikasi, independen, melekat kuat di setiap berita Selengkapnya"
   },
   {
    "source": "harianjogja",
    "getter": "auto",
-   "title": "Prancis Tahan Hampir 1.000 Orang dalam Demonstrasi Lanjutan",
-   "link": "https://news.harianjogja.com/r-1276307/prancis-tahan-hampir-1000-orang-dalam-demonstrasi-lanjutan",
-   "pubDate": "Sun, 25 Oct 2026 12:57:02 +0700",
-   "description": "Hampir 1.000 orang ditahan dalam demonstrasi di Prancis yang diikuti lebih dari 400.000 orang untuk memprotes kenaikan biaya hidup.",
-   "fetched_at": "2026-10-25T06:16:41+07:00",
+   "title": "Prabowo Akui Program MBG Banyak Kekurangan, 353 Orang Dipecat",
+   "link": "https://news.harianjogja.com/r-1276346/prabowo-akui-program-mbg-banyak-kekurangan-353-orang-dipecat",
+   "pubDate": "Sun, 25 Oct 2026 18:17:28 +0700",
+   "description": "Prabowo mengakui pelaksanaan MBG masih memiliki banyak kekurangan. Sebanyak 353 orang dipecat dan BGN menguji CCTV berbasis AI.",
+   "fetched_at": "2026-10-25T11:47:10+07:00",
    "categories": [
     "hukum-kriminal",
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 4160,
-   "content": "Aksi unjuk rasa di Prancis yang berakhir dengan kericuhan./Anadolu\\r\\n\\r\\n\n\nHarianjogja.com, PARIS—Sekitar 1.000 orang ditahan dalam demonstrasi lanjutan menentang kenaikan biaya hidup di berbagai wilayah Prancis pada Sabtu (24/10/2026). Menteri Dalam Negeri Prancis Laurent Nunez mengatakan jumlah penahanan tersebut masih bersifat sementara dan diperkirakan meningkat.\n\nData resmi menunjukkan lebih dari 400.000 orang mengikuti demonstrasi yang berlangsung di berbagai daerah. Aksi tersebut merupakan bagian dari gelombang protes yang telah berlangsung sejak pertengahan September lalu.\n\n\"Sejauh ini, hampir 1.000 orang telah ditangkap,\" kata Nunez kepada wartawan.\n\nNunez menambahkan angka penahanan itu masih dapat bertambah secara signifikan seiring perkembangan penanganan demonstrasi.\n\nDia juga menyampaikan perkembangan penahanan dalam aksi sebelumnya pada Sabtu (17/10). Menurutnya, sebanyak 385 orang telah ditahan terkait demonstrasi pada pekan lalu tersebut.\n\nSebelumnya, pada Sabtu (24/10), seorang koresponden RIA Novosti melaporkan polisi Prancis menggunakan gas air mata dan meriam air untuk membubarkan massa setelah demonstrasi yang awalnya berlangsung damai. Situasi serupa dilaporkan terjadi di sejumlah kota lain di negara tersebut.\n\nAparat keamanan juga menggunakan gas air mata, granat setrum, dan meriam air untuk menghadapi pengunjuk rasa dalam demonstrasi berskala nasional pada pekan sebelumnya.\n\nKementerian Dalam Negeri Prancis menyebut sekitar 550.000 orang mengikuti aksi terbesar pada Sabtu, 17 Oktober 2026.\n\nGelombang demonstrasi di Prancis bermula pada pertengahan September, ketika para pelajar sekolah menengah di pinggiran Paris turun ke jalan. Mereka menuntut perbaikan sistem pendidikan dan kondisi sekolah.\n\nAksi tersebut kemudian meluas setelah diikuti kelompok masyarakat yang merasa frustrasi akibat kenaikan harga. Demonstrasi pun menyebar ke berbagai wilayah Prancis, dengan tuntutan yang berkaitan dengan tekanan biaya hidup.\n\nBesarnya jumlah peserta dalam aksi 24 Oktober menunjukkan demonstrasi masih berlangsung di tengah upaya aparat keamanan menangani situasi di berbagai daerah.\n\nPenggunaan gas air mata dan meriam air oleh polisi juga menjadi bagian dari perkembangan aksi, terutama ketika aparat berupaya membubarkan massa setelah demonstrasi berlangsung damai.\n\nDi tengah gelombang demonstrasi, Prancis juga menghadapi situasi keamanan setelah serangan bersenjata di pinggiran Paris yang menewaskan satu orang dan melukai sejumlah orang lainnya.\n\nPresiden Prancis Emmanuel Macron menyebut negaranya berada pada masa penentu setelah serangan teroris tersebut. Pernyataan itu disampaikan pada Jumat (23/10) di Trappes, Prancis, tempat serangan terjadi, dan disiarkan oleh stasiun televisi Prancis.\n\n\"Saya menyebut ini sebagai titik balik karena, untuk pertama kalinya, kami menghadapi aksi terorisme yang direncanakan dengan niat membunuh sesama warga negara kami, anak-anak kami; hanya karena warna kulit atau agama yang dikaitkan dengan mereka,\" kata Macron kepada wartawan.\n\nPada Jumat (23/10), seorang pria dilaporkan melepaskan tembakan di beberapa lokasi di wilayah Yvelines, pinggiran Paris.\n\nTembakan tersebut menyebabkan satu orang meninggal dunia dan lima orang lainnya mengalami luka serius, termasuk seorang gadis berusia 12 tahun.\n\nPelaku diduga menembakkan senjata otomatis dari dalam kendaraan. Dia kini telah ditangkap dan ditahan oleh aparat.\n\nMenteri Dalam Negeri Prancis Laurent Nunez mengatakan kantor kejaksaan menganggap insiden tersebut sebagai serangan teroris dengan motif kebencian rasial.\n\nPerkembangan demonstrasi dan insiden penembakan itu menjadi dua persoalan yang mendapat perhatian di Prancis. Di satu sisi, ribuan orang dilaporkan ditahan dalam aksi protes terkait kenaikan biaya hidup. Di sisi lain, pemerintah juga menghadapi penanganan kasus kekerasan yang oleh kejaksaan dikategorikan sebagai serangan teroris bermotif kebencian rasial.\n\nCek Berita dan Artikel yang lain di Harian Jogja, dan edisi cetak versi elektronik kami hadir di Epaper Harian Jogja.\n\nYudhi Kusdiyanto Jurnalis Harian Jogja, bagian dari Bisnis Indonesia Group menulis untuk media cetak dan online"
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "Koalisi Saudi Serang Sanaa, Korban Tewas Dilaporkan Mencapai Belasan Orang",
-   "link": "https://news.harianjogja.com/r-1276301/koalisi-saudi-serang-sanaa-korban-tewas-dilaporkan-mencapai-belasan-orang",
-   "pubDate": "Sun, 25 Oct 2026 11:37:02 +0700",
-   "description": "Serangan udara koalisi pimpinan Arab Saudi di Sanaa, Yaman, menewaskan sedikitnya 12 orang dan melukai lebih dari 14 lainnya.",
-   "fetched_at": "2026-10-25T06:16:41+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 3842,
-   "content": "Koalisi Saudi Serang Sanaa, Korban Tewas Dilaporkan Mencapai Belasan Orang\n\nPasukan Houthi berbaris sambil memegang senjata api. (ANTARA/Anadolu)\n\nHarianjogja.com, SANAA—Lebih dari 10 orang tewas akibat serangan udara koalisi pimpinan Arab Saudi di Ibu Kota Sanaa, Yaman, pada Sabtu (24/10/2026). Serangan tersebut menghantam sebuah pabrik semen, perumahan pekerja, dan rumah tinggal, menurut keterangan Kementerian Kesehatan Houthi.\n\nKementerian tersebut menyatakan serangan di Distrik Hamdan, Provinsi Sanaa, menewaskan delapan orang, termasuk enam perempuan dan seorang gadis kecil. Selain korban meninggal, lebih dari 10 orang lainnya dilaporkan mengalami luka-luka.\n\n\"Serangan yang dilancarkan oleh pihak lawan yang dipimpin Arab Saudi terhadap sebuah pabrik semen dan perumahan pekerja di Distrik Hamdan, Provinsi Sanaa, telah menewaskan delapan orang, termasuk enam perempuan dan seorang gadis kecil. Lebih dari 10 orang lainnya mengalami luka-luka,\" kata kementerian tersebut.\n\nDalam serangan terpisah terhadap sebuah rumah tinggal di Sanaa, empat orang lainnya dilaporkan tewas, termasuk dua anak-anak. Serangan itu juga menyebabkan empat orang mengalami luka-luka, tambah Kementerian Kesehatan Houthi.\n\nDengan demikian, berdasarkan laporan kementerian tersebut, sedikitnya 12 orang tewas dalam dua serangan yang terjadi di wilayah Sanaa. Korban luka dilaporkan lebih dari 14 orang.\n\nBentrokan antara kelompok Houthi dan pasukan yang setia kepada Pemerintah Yaman yang didukung Arab Saudi kembali terjadi pada Agustus setelah jeda selama empat tahun.\n\nKonflik tersebut kembali pecah setelah kelompok Houthi mulai menyerang kapal tanker Arab Saudi di Laut Merah. Serangan itu disebut sebagai balasan atas operasi militer Yaman terhadap bandara di Sanaa.\n\nPerkembangan tersebut menambah ketegangan di kawasan, seiring berlanjutnya aksi militer dan serangan yang melibatkan kelompok Houthi serta pihak-pihak yang berseberangan dengannya.\n\nDi tengah situasi tersebut, pasukan Pertahanan Sipil Arab Saudi di Mekkah dan Madinah juga merespons serangan rudal balistik yang diluncurkan kelompok Houthi pada Sabtu (24/10/2026).\n\nJuru bicara resmi pasukan tersebut mengatakan rudal-rudal itu berhasil dicegat. Namun, serpihan hasil pencegatan dilaporkan jatuh di sejumlah wilayah.\n\nBeberapa bagian rudal yang dicegat jatuh di kawasan Wadi Al-Mughammas, Mekkah. Sementara itu, serpihan rudal lainnya dilaporkan jatuh di kawasan Al-Nuzha di Jeddah, Wadi Jalil di Taif, serta Pusat Masturah di Rabigh.\n\nLaporan mengenai jatuhnya serpihan tersebut muncul setelah serangan rudal yang disebut menargetkan Mekkah dan Madinah. Informasi itu disampaikan oleh juru bicara resmi pasukan Pertahanan Sipil Arab Saudi.\n\nSelain serangan rudal yang menargetkan wilayah Mekkah dan Madinah, sebuah pesawat nirawak atau drone juga dilaporkan menyasar Riyadh.\n\nJuru bicara resmi Koalisi Pimpinan Arab Saudi untuk Pemulihan Legitimasi di Yaman, Mayor Jenderal Turki Al-Malki, mengatakan sebuah drone berhasil dicegat dan dihancurkan di wilayah Riyadh.\n\nLaporan tersebut menunjukkan adanya rangkaian insiden keamanan yang melibatkan serangan udara di Yaman, serangan rudal yang dikaitkan dengan kelompok Houthi, serta upaya pencegatan oleh pihak Arab Saudi.\n\nSementara itu, laporan mengenai korban jiwa dan luka-luka akibat serangan udara di Sanaa bersumber dari Kementerian Kesehatan Houthi. Adapun informasi mengenai pencegatan rudal dan drone di wilayah Arab Saudi disampaikan oleh pejabat keamanan setempat dan koalisi pimpinan Arab Saudi.\n\nCek Berita dan Artikel yang lain di Harian Jogja, dan edisi cetak versi elektronik kami hadir di Epaper Harian Jogja.\n\nKonflik Houthi dan Pemerintah Yaman Kembali Memanas Drone Menuju Riyadh Berhasil Dicegat\n\nYudhi Kusdiyanto Jurnalis Harian Jogja, bagian dari Bisnis Indonesia Group menulis untuk media cetak dan online"
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "Wardatina Mawa Tunggu Penetapan Tersangka, Ogah Damai dengan Inara Rusli?",
-   "link": "https://lifestyle.sindonews.com/read/1764471/187/wardatina-mawa-tunggu-penetapan-tersangka-ogah-damai-dengan-inara-rusli-1792905049",
-   "pubDate": "Sun, 25 Oct 2026 12:30:44 +0700",
-   "description": "Wardatina Mawa belum memberi sinyal berdamai dengan Inara Rusli. Ia memilih menunggu proses hukum di Polda Metro Jaya dan berharap penetapan tersangka segera dilakukan.",
-   "fetched_at": "2026-10-25T06:16:37+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "full",
-   "content_chars": 1192,
-   "content": "JAKARTA - Wardatina Mawa menegaskan proses hukum yang dilaporkannya masih terus berjalan di Polda Metro Jaya. Meski Inara Rusli sebelumnya membuka peluang untuk berdamai, Mawa memilih menunggu perkembangan kasus tersebut dan belum memberikan sinyal akan mengakhiri persoalan melalui jalur damai.Hal itu disampaikan Mawa saat memberikan keterangan kepada awak media. Ia mengawali pernyataannya dengan menyampaikan apresiasi kepada pihak kepolisian, khususnya penyidik yang telah menangani laporannya hingga saat ini.Mawa mengaku bersyukur karena proses penanganan kasus yang dialaminya mulai menunjukkan perkembangan. Ia juga menilai tahapan yang sedang berjalan kini semakin jelas.Baca Juga : Eks Sopir Inara Rusli Jadi Tersangka Kasus Akses Ilegal CCTV “Jadi, urutannya ini juga alhamdulillah udah mulai kelihatan jelas ya, prosesnya itu semuanya. Dan saya menghargai sekali keputusan dari pihak penyidik,” ujar Wardatina Mawa.\n\nFollow WhatsApp Channel SINDOnews untuk Berita Terbaru Setiap Hari\n\nDapatkan berita terkini dan kejutan menarik dari SINDOnews.com, Klik Disini untuk mendaftarkan diri anda sekarang juga!\n\nWardatina Mawa Tunggu Penetapan Tersangka, Ogah Damai dengan Inara Rusli?"
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "Pulang dari Penjara, Richard Lee Larang Istri Masak: Nggak Mau Dia Capek",
-   "link": "https://lifestyle.sindonews.com/read/1764459/187/pulang-dari-penjara-richard-lee-larang-istri-masak-nggak-mau-dia-capek-1792901434",
-   "pubDate": "Sun, 25 Oct 2026 11:23:24 +0700",
-   "description": "Richard Lee, akhirnya bisa melepas rindu mendalam dengan keluarga setelah penangguhan penahanannya dikabulkan Majelis Hakim Pengadilan Negeri Tangerang.",
-   "fetched_at": "2026-10-25T06:16:37+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "full",
-   "content_chars": 1204,
-   "content": "JAKARTA - Terdakwa dugaan pelanggaran hak konsumen dan Undang Undang Kesehatan, Richard Lee , akhirnya bisa melepas rindu mendalam dengan keluarga setelah penangguhan penahanannya dikabulkan Majelis Hakim Pengadilan Negeri Tangerang.Sang dokter kecantikan pun langsung menceritakan momen kehangatan saat bertemu istri, Reni Effendi, dan ketiga anaknya di rumah.Setibanya di rumah, Richard menunjukkan sikap manis dan protektif kepada Reni Effendi. Ia bahkan secara tegas melarang Reni memasak untuknya di rumah.Baca Juga : Dakwaan Richard Lee Dinilai Lemah, Saksi Ahli Hukum Kesehatan Beri Penjelasan \"Enggak usah, enggak usah bikin. Saya enggak suka dia bikin. Saya sudah bilang, sama dari nikah dari awal saya sudah bilang enggak usah masak, enggak usah bikin dessert ya. Kalau dia pengin aja boleh, cuma enggak usah. Saya enggak mau dia capek,\" ujar Richard Lee usai menjalani sidang lanjutan di Pengadilan Negeri Tangerang baru-baru ini.\n\nFollow WhatsApp Channel SINDOnews untuk Berita Terbaru Setiap Hari\n\nDapatkan berita terkini dan kejutan menarik dari SINDOnews.com, Klik Disini untuk mendaftarkan diri anda sekarang juga!\n\nPulang dari Penjara, Richard Lee Larang Istri Masak: Nggak Mau Dia Capek"
-  },
-  {
-   "source": "katadata",
-   "getter": "auto",
-   "title": "Cerita Pelaku Usaha Kreatif Menjaring Pembeli di Creativillage WCCE 2026",
-   "link": "https://katadata.co.id/berita/industri/6add68d7ccc47/cerita-pelaku-usaha-kreatif-menjaring-pembeli-di-creativillage-wcce-2026",
-   "pubDate": "Sun, 25 Oct 2026 09:26:00 +0700",
-   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/25/Creativillage_WCCE_2026-2026_10_25-09_25_40_2d0e4828e058ee57a0a522181db21d84_620x413_thumb.jpeg\" alt=\"Creativillage WCCE 2026 \" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Creativillage dalam WCCE 2026 menjadi ruang promosi langsung bagi pelaku ekonomi kreatif, seperti Sewish and Rich, untuk memamerkan produk dan menjangkau lebih banyak calon konsumen.</p>",
-   "fetched_at": "2026-10-25T06:16:36+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "partial",
-   "content_chars": 439,
-   "content": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/25/Creativillage_WCCE_2026-2026_10_25-09_25_40_2d0e4828e058ee57a0a522181db21d84_620x413_thumb.jpeg\" alt=\"Creativillage WCCE 2026 \" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Creativillage dalam WCCE 2026 menjadi ruang promosi langsung bagi pelaku ekonomi kreatif, seperti Sewish and Rich, untuk memamerkan produk dan menjangkau lebih banyak calon konsumen.</p>"
+   "content_chars": 3639,
+   "content": "Prabowo Akui Program MBG Banyak Kekurangan, 353 Orang Dipecat\n\nPresiden Prabowo Subianto pimpin Sidang Kabinet Paripurna 2 Tahun Pertama Pemerintahan Kerja Nyata untuk Negeri, Rabu (21/10/2026)./BPMI Sekretariat Presiden\\r\\n\\r\\n\n\nHarianjogja.com, JAKARTA—Presiden Prabowo Subianto mengakui pelaksanaan program Makan Bergizi Gratis (MBG) masih menghadapi banyak kekurangan. Pemerintah berjanji memperbaiki tata kelola program tersebut, sementara pengawasan diperketat melalui penindakan terhadap pelanggaran dan pengembangan kamera pengawas berbasis kecerdasan buatan atau artificial intelligence (AI).\n\nPrabowo menegaskan MBG tetap menjadi program strategis karena berkaitan dengan peningkatan kualitas sumber daya manusia (SDM) dan masa depan anak-anak Indonesia. Dia menyampaikan hal itu melalui kanal YouTube Sekretariat Presiden, Minggu (25/10/2026).\n\n\"MBG strategis, MBG vital. Banyak kekurangan dalam pelaksanaan MBG, kita akui. Ada 13 orang sudah ditetapkan tersangka dan 203 orang diperiksa Kejaksaan Agung,\" ujar Prabowo.\n\nPrabowo memastikan pemerintah tidak akan ragu mengambil langkah hukum terhadap pihak yang menyalahgunakan wewenang maupun anggaran dalam pelaksanaan program makan bergizi bagi anak-anak sekolah.\n\nDalam evaluasi penegakan disiplin, ratusan personel dan pengelola program telah dikenai sanksi administratif hingga pemberhentian tidak dengan hormat akibat pelanggaran prosedur. Pengawasan tersebut melibatkan instansi pengawas internal dan aparat penegak hukum untuk membersihkan rantai pasok MBG dari praktik kecurangan.\n\nPrabowo mengungkapkan sebanyak 353 orang telah diberhentikan dengan tidak hormat. Sementara itu, Inspektorat Badan Gizi Nasional (BGN) sedang memeriksa 2.600 orang.\n\n\"Sudah diberhentikan dengan tidak hormat 353 orang. Dalam proses diperiksa, Inspektorat BGN 2.600 orang. Jangan ragu-ragu, pecat, bersihkan, sampai bersih. Karena MBG ini strategis dan sangat penting untuk masa depan anak-anak kita,\" pungkas Prabowo.\n\nSelain penindakan terhadap pelanggaran, pengawasan pelaksanaan MBG juga akan diperkuat melalui pemanfaatan teknologi. BGN berencana memasang sistem kecerdasan buatan pada kamera pengawas atau CCTV di setiap dapur Satuan Pelayanan Pemenuhan Gizi (SPPG).\n\nKepala BGN Sudaryono menjelaskan kamera pengawas tersebut akan diintegrasikan dengan sistem pusat. Langkah ini diharapkan memungkinkan pemantauan terhadap pelaksanaan prosedur operasional standar atau standard operating procedure (SOP) di dapur MBG.\n\nSaat ini, BGN sedang menguji coba sistem tersebut di sekitar 70 dapur. Sebelumnya, CCTV di dapur hanya dapat dipantau oleh tim internal.\n\n\"Sehingga kami sedang piloting, ada sekitar 70-an dapur yang kita piloting untuk CCTV-nya kita tarik ke pusat, kita kasih artificial intelligence sehingga kita bisa memonitor SOP, ya. SOP apakah SOP pengolahan, SOP persiapan, SOP cuci ompreng, SOP macam-macam, ya. Termasuk ketaatan orang cacah kol misalnya,\" katanya di Kementerian Koordinator Bidang Pangan, Jakarta Pusat, Senin (19/10/2026).\n\nPemantauan berbasis AI tersebut dirancang untuk mengawasi beragam tahapan operasional dapur, mulai dari pengolahan dan persiapan makanan hingga pencucian ompreng serta kepatuhan pekerja dalam menjalankan prosedur, termasuk saat mencacah kol.\n\nMelalui penegakan disiplin dan pengembangan sistem pengawasan tersebut, pemerintah berupaya memperbaiki pelaksanaan MBG agar tetap berjalan sesuai tujuan program.\n\nCek Berita dan Artikel yang lain di Harian Jogja, dan edisi cetak versi elektronik kami hadir di Epaper Harian Jogja.\n\nSunartono Jurnalis Harian Jogja, bagian dari Bisnis Indonesia Group menulis untuk media cetak dan online"
   },
   {
    "source": "antara",
    "getter": "getter2",
-   "title": "Imam Besar: Serangan berulang ke Mekkah bongkar niat kriminal Houthi",
-   "link": "https://www.antaranews.com/berita/5810311/imam-besar-serangan-berulang-ke-mekkah-bongkar-niat-kriminal-houthi",
-   "pubDate": "Sun, 25 Oct 2026 11:39:32 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2019/05/21/Al-Sudais_1.jpg\" align=\"left\" border=\"0\" />Imam Besar Masjidil&nbsp;Haram, Syekh Dr. Abdulrahman Al-Sudais, mengecam serangan berulang oleh ...",
-   "fetched_at": "2026-10-25T06:16:21+07:00",
+   "title": "Sopir mobil listrik yang lindas ojol di Jaksel ditetapkan tersangka",
+   "link": "https://www.antaranews.com/berita/5810627/sopir-mobil-listrik-yang-lindas-ojol-di-jaksel-ditetapkan-tersangka",
+   "pubDate": "Sun, 25 Oct 2026 17:18:14 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/25/1001136937.jpg\" align=\"left\" border=\"0\" />Polisi mengungkap pengemudi mobil listrik BYD berinisial S (46) yang melindas pengemudi ojek online (ojol) di Jalan ...",
+   "fetched_at": "2026-10-25T11:46:50+07:00",
    "categories": [
     "hukum-kriminal"
    ],
    "content_status": "partial",
-   "content_chars": 205,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2019/05/21/Al-Sudais_1.jpg\" align=\"left\" border=\"0\" />Imam Besar Masjidil&nbsp;Haram, Syekh Dr. Abdulrahman Al-Sudais, mengecam serangan berulang oleh ..."
+   "content_chars": 223,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/25/1001136937.jpg\" align=\"left\" border=\"0\" />Polisi mengungkap pengemudi mobil listrik BYD berinisial S (46) yang melindas pengemudi ojek online (ojol) di Jalan ..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Polres Mesuji ungkap jaringan narkoba dan sita ratusan ekstasi",
+   "link": "https://www.antaranews.com/berita/5810547/polres-mesuji-ungkap-jaringan-narkoba-dan-sita-ratusan-ekstasi",
+   "pubDate": "Sun, 25 Oct 2026 15:37:12 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/25/1001323057.jpg\" align=\"left\" border=\"0\" />Satuan Reserse Narkoba Polres Mesuji&nbsp;mengungkap peredaran gelap narkotika di dua lokasi berbeda di wilayah ...",
+   "fetched_at": "2026-10-25T11:46:50+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "partial",
+   "content_chars": 219,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/25/1001323057.jpg\" align=\"left\" border=\"0\" />Satuan Reserse Narkoba Polres Mesuji&nbsp;mengungkap peredaran gelap narkotika di dua lokasi berbeda di wilayah ..."
   },
   {
    "source": "liputan6",
@@ -149,7 +202,7 @@
    "link": "https://www.liputan6.com/news/read/8320573/polda-metro-petakan-wilayah-prioritas-pemberantasan-narkoba",
    "pubDate": "Sat, 24 Oct 2026 20:11:37 +0700",
    "description": "Kampung Ambon, Bahari, dan Boncos masuk wilayah prioritas penanganan narkoba di Jakarta.",
-   "fetched_at": "2026-10-25T06:16:20+07:00",
+   "fetched_at": "2026-10-25T11:46:49+07:00",
    "categories": [
     "hukum-kriminal"
    ],
@@ -160,154 +213,202 @@
   {
    "source": "detik",
    "getter": "getter1",
-   "title": "Korban Tewas Penembakan di Gereja Yordania Jadi 9 Orang",
-   "link": "https://news.detik.com/internasional/d-8723118/korban-tewas-penembakan-di-gereja-yordania-jadi-9-orang",
-   "pubDate": "Sun, 25 Oct 2026 12:41:31 +0700",
-   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/24/jordan-unrest-shooting-religion-1792840181580_169.jpeg?w=360&q=90\"/> Kini korban tewas penembakan di Yordania menjadi sembilan orang.",
-   "fetched_at": "2026-10-25T06:16:18+07:00",
+   "title": "Viral Dugaan Pemuda Mabuk Picu Kebakaran Suryakencana Bogor, Polisi Selidiki",
+   "link": "https://news.detik.com/berita/d-8723577/viral-dugaan-pemuda-mabuk-picu-kebakaran-suryakencana-bogor-polisi-selidiki",
+   "pubDate": "Sun, 25 Oct 2026 18:23:27 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/kebakaran-ruko-di-jalan-suryakencana-kota-bogor-1792927365084_169.jpeg?w=360&q=90\"/> Polisi selidiki penyebab kebakaran tiga ruko di Jalan Suryakencana, Bogor. Dugaan awal menyebutkan korsleting listrik, meski ada narasi pemuda mabuk.",
+   "fetched_at": "2026-10-25T11:46:48+07:00",
    "categories": [
-    "hukum-kriminal"
+    "hukum-kriminal",
+    "kebakaran"
    ],
    "content_status": "partial",
-   "content_chars": 204,
-   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/24/jordan-unrest-shooting-religion-1792840181580_169.jpeg?w=360&q=90\"/> Kini korban tewas penembakan di Yordania menjadi sembilan orang."
+   "content_chars": 305,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/kebakaran-ruko-di-jalan-suryakencana-kota-bogor-1792927365084_169.jpeg?w=360&q=90\"/> Polisi selidiki penyebab kebakaran tiga ruko di Jalan Suryakencana, Bogor. Dugaan awal menyebutkan korsleting listrik, meski ada narasi pemuda mabuk."
   },
   {
    "source": "detik",
    "getter": "getter1",
-   "title": "Pria Pamer Kelamin dan Onani Depan Wanita di Yogya Ditangkap",
-   "link": "https://news.detik.com/berita/d-8723079/pria-pamer-kelamin-dan-onani-depan-wanita-di-yogya-ditangkap",
-   "pubDate": "Sun, 25 Oct 2026 12:00:24 +0700",
-   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2023/07/25/ilustrasi-penangkapan_169.jpeg?w=360&q=90\"/> Warga Yogyakarta menangkap pria berinisial W (55) yang memamerkan alat kelamin dan masturbasi di depan wanita. Pelaku kini ditahan dan diproses hukum.",
-   "fetched_at": "2026-10-25T06:16:18+07:00",
+   "title": "Driver Ojol di Sukabumi Ditembak OTK, Polisi Buru Pelaku",
+   "link": "https://news.detik.com/berita/d-8723474/driver-ojol-di-sukabumi-ditembak-otk-polisi-buru-pelaku",
+   "pubDate": "Sun, 25 Oct 2026 17:03:45 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2018/07/26/d42e3019-7f24-4de1-aa49-5b4f127a68c7_169.jpeg?w=360&q=90\"/> Seorang pengemudi ojek online di Sukabumi diduga ditembak OTK saat menunggu order. Polisi sedang menyelidiki dan memburu pelaku.",
+   "fetched_at": "2026-10-25T11:46:48+07:00",
    "categories": [
     "hukum-kriminal"
    ],
    "content_status": "partial",
-   "content_chars": 266,
-   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2023/07/25/ilustrasi-penangkapan_169.jpeg?w=360&q=90\"/> Warga Yogyakarta menangkap pria berinisial W (55) yang memamerkan alat kelamin dan masturbasi di depan wanita. Pelaku kini ditahan dan diproses hukum."
+   "content_chars": 259,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2018/07/26/d42e3019-7f24-4de1-aa49-5b4f127a68c7_169.jpeg?w=360&q=90\"/> Seorang pengemudi ojek online di Sukabumi diduga ditembak OTK saat menunggu order. Polisi sedang menyelidiki dan memburu pelaku."
   },
   {
    "source": "detik",
    "getter": "getter1",
-   "title": "Kampung Vietnam di Jayapura Digerebek, 2 Karung Ganja Disita",
-   "link": "https://news.detik.com/berita/d-8723023/kampung-vietnam-di-jayapura-digerebek-2-karung-ganja-disita",
-   "pubDate": "Sun, 25 Oct 2026 11:00:26 +0700",
-   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/polisi-menggerebek-kampung-vietnam-di-kota-jayapura-papua-terkait-peredaran-narkoba-1792895661950_169.jpeg?w=360&q=90\"/> Polisi dan BNN menggerebek Kampung Vietnam di Jayapura, menangkap 10 orang dan dua karung ganja. Operasi ini untuk melindungi masyarakat dari narkoba.",
-   "fetched_at": "2026-10-25T06:16:18+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "partial",
-   "content_chars": 342,
-   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/polisi-menggerebek-kampung-vietnam-di-kota-jayapura-papua-terkait-peredaran-narkoba-1792895661950_169.jpeg?w=360&q=90\"/> Polisi dan BNN menggerebek Kampung Vietnam di Jayapura, menangkap 10 orang dan dua karung ganja. Operasi ini untuk melindungi masyarakat dari narkoba."
-  },
-  {
-   "source": "detik",
-   "getter": "getter1",
-   "title": "Ini Dugaan Sementara Pemicu Sopir BYD Lindas Ojol di Blok M",
-   "link": "https://news.detik.com/berita/d-8722987/ini-dugaan-sementara-pemicu-sopir-byd-lindas-ojol-di-blok-m",
-   "pubDate": "Sun, 25 Oct 2026 10:39:09 +0700",
-   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/24/mobil-listrik-byd-menabrak-4-mobil-dan-melindas-pengemudi-ojol-diamankan-di-polres-metro-jakarta-selatan-rumondangdetikcom-1792818111608_169.jpeg?w=360&q=90\"/> Polisi telah menetapkan sopir BYD berinisial S (46) sebagai tersangka karena menabrak empat mobil dan melintas pengemudi ojek online (ojol).",
-   "fetched_at": "2026-10-25T06:16:18+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "partial",
-   "content_chars": 371,
-   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/24/mobil-listrik-byd-menabrak-4-mobil-dan-melindas-pengemudi-ojol-diamankan-di-polres-metro-jakarta-selatan-rumondangdetikcom-1792818111608_169.jpeg?w=360&q=90\"/> Polisi telah menetapkan sopir BYD berinisial S (46) sebagai tersangka karena menabrak empat mobil dan melintas pengemudi ojek online (ojol)."
-  },
-  {
-   "source": "detik",
-   "getter": "getter1",
-   "title": "Sopir BYD Tabrak 4 Mobil dan Lindas Ojol di Blok M Jadi Tersangka",
-   "link": "https://news.detik.com/berita/d-8722951/sopir-byd-tabrak-4-mobil-dan-lindas-ojol-di-blok-m-jadi-tersangka",
-   "pubDate": "Sun, 25 Oct 2026 10:13:08 +0700",
-   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/24/mobil-listrik-byd-menabrak-4-mobil-lain-dan-melindas-pengemudi-ojol-di-blok-m-jaksel-driver-ojol-itu-patah-kaki-dan-luka-lecet-1792813334539_169.jpeg?w=360&q=90\"/> Polisi menetapkan sopir mobil listrik BYD berinisial S (46) sebagai tersangka setelah menabrak empat mobil hingga melindas pengemudi ojek online (ojol).",
-   "fetched_at": "2026-10-25T06:16:18+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "partial",
-   "content_chars": 387,
-   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/24/mobil-listrik-byd-menabrak-4-mobil-lain-dan-melindas-pengemudi-ojol-di-blok-m-jaksel-driver-ojol-itu-patah-kaki-dan-luka-lecet-1792813334539_169.jpeg?w=360&q=90\"/> Polisi menetapkan sopir mobil listrik BYD berinisial S (46) sebagai tersangka setelah menabrak empat mobil hingga melindas pengemudi ojek online (ojol)."
-  },
-  {
-   "source": "detik",
-   "getter": "getter1",
-   "title": "Demo Besar-besaran Kembali Terjadi di Prancis, 135 Orang Ditangkap",
-   "link": "https://news.detik.com/internasional/d-8722934/demo-besar-besaran-kembali-terjadi-di-prancis-135-orang-ditangkap",
-   "pubDate": "Sun, 25 Oct 2026 10:07:53 +0700",
-   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/demo-di-prancis-24-oktober-2026-reutersabdul-saboor-1792873462916_169.jpeg?w=360&q=90\"/> Sekitar 410.000 orang mengikuti gelombang baru demonstrasi di berbagai wilayah di Prancis. Polisi menangkap 135 orang karena diduga melanggar aturan.",
-   "fetched_at": "2026-10-25T06:16:18+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "partial",
-   "content_chars": 309,
-   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/demo-di-prancis-24-oktober-2026-reutersabdul-saboor-1792873462916_169.jpeg?w=360&q=90\"/> Sekitar 410.000 orang mengikuti gelombang baru demonstrasi di berbagai wilayah di Prancis. Polisi menangkap 135 orang karena diduga melanggar aturan."
-  },
-  {
-   "source": "detik",
-   "getter": "getter1",
-   "title": "Jejak Lab Narkoba 1,2 Ton di Aceh hingga Dibongkar Tim Gabungan Polri-BNN",
-   "link": "https://news.detik.com/berita/d-8722920/jejak-lab-narkoba-1-2-ton-di-aceh-hingga-dibongkar-tim-gabungan-polri-bnn",
-   "pubDate": "Sun, 25 Oct 2026 10:02:01 +0700",
-   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/23/kapolri-jenderal-suyudi-ario-seto-menyampaikan-pengungkapan-laboratorium-rahasia-clandestine-lab-narkotika-terbesar-di-indones-1792745967053_169.jpeg?w=360&q=90\"/> Polisi dan BNN bongkar laboratorium narkoba terbesar di Aceh, menyita 1,2 ton sabu cair dan kristal. Jaringan ini terdeteksi sejak Februari 2026.",
-   "fetched_at": "2026-10-25T06:16:18+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "partial",
-   "content_chars": 380,
-   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/23/kapolri-jenderal-suyudi-ario-seto-menyampaikan-pengungkapan-laboratorium-rahasia-clandestine-lab-narkotika-terbesar-di-indones-1792745967053_169.jpeg?w=360&q=90\"/> Polisi dan BNN bongkar laboratorium narkoba terbesar di Aceh, menyita 1,2 ton sabu cair dan kristal. Jaringan ini terdeteksi sejak Februari 2026."
-  },
-  {
-   "source": "akurat",
-   "getter": "auto",
-   "title": "Apa Itu Data Pribadi? Pengertian, Contoh, Risiko di Era Digital, dan Cara Melindunginya",
-   "link": "https://www.akurat.co/infotech/901324/apa-itu-data-pribadi-pengertian-contoh-risiko-di-era-digital-dan-cara-melindunginya",
-   "pubDate": "Sun, 25 Oct 2026 06:57:00 +0700",
-   "description": "",
-   "fetched_at": "2026-10-25T01:11:12+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "full",
-   "content_chars": 22096,
-   "content": "Kenali pengertian data pribadi, contoh, risiko kebocoran di era digital, serta cara melindungi identitas dan akun dari penyalahgunaan. - Ilustrasi: Gemini Google\n\nApa Itu Data Pribadi? Pengertian, Contoh, Risiko di Era Digital, dan Cara Melindunginya\n\nAKURAT.CO Data pribadi adalah informasi yang dapat digunakan untuk mengenali seseorang, baik secara langsung maupun melalui kombinasi dengan informasi lainnya. Contohnya meliputi nama lengkap, alamat rumah, nomor telepon, nomor identitas, informasi rekening bank, hingga data biometrik seperti sidik jari dan pengenalan wajah.\n\nDalam kehidupan sehari-hari, seseorang mungkin menganggap nama atau nomor telepon sebagai informasi biasa. Namun, ketika data tersebut digabungkan dengan alamat, tanggal lahir, riwayat transaksi, atau informasi lain, pihak tertentu dapat menggunakannya untuk mengidentifikasi seseorang, membuat profil, bahkan melakukan penipuan.\n\nPengertian tersebut sejalan dengan Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi (UU PDP). Pasal 1 angka 1 menjelaskan bahwa data pribadi merupakan data tentang orang perseorangan yang teridentifikasi atau dapat diidentifikasi, baik secara tersendiri maupun melalui kombinasi informasi lain, secara langsung ataupun tidak langsung, melalui sistem elektronik maupun nonelektronik.\n\nArtinya, data pribadi tidak terbatas pada dokumen identitas fisik. Informasi yang tersimpan di ponsel, aplikasi, situs web, layanan keuangan, dan platform media sosial juga dapat termasuk data pribadi apabila memenuhi kriteria tersebut.\n\nDi era digital, memahami pengertian data pribadi menjadi semakin penting. Aktivitas seperti berbelanja daring, menggunakan layanan perbankan, mengunggah foto, memasang aplikasi, hingga mencari informasi di internet dapat melibatkan pengumpulan dan pemrosesan data pengguna.\n\nPersoalannya bukan sekadar apakah seseorang memiliki data yang perlu dirahasiakan. Hal yang lebih mendasar adalah bagaimana informasi tersebut dikumpulkan, digunakan, disimpan, dibagikan, dan dilindungi agar tidak merugikan pemiliknya.\n\nUU Nomor 27 Tahun 2022 membagi data pribadi menjadi dua kategori utama, yaitu data pribadi yang bersifat spesifik dan data pribadi yang bersifat umum. Pembagian ini tercantum dalam Pasal 4.\n\nData pribadi spesifik merupakan informasi yang pemrosesannya berpotensi menimbulkan dampak lebih besar bagi pemilik data, termasuk risiko diskriminasi dan kerugian lainnya.\n\nData lain sesuai dengan ketentuan peraturan perundang-undangan.\n\nContohnya, informasi mengenai riwayat penyakit seseorang dapat memengaruhi privasi dan membuka peluang diskriminasi apabila disalahgunakan. Data biometrik, seperti sidik jari atau karakteristik wajah yang digunakan untuk mengenali seseorang, juga memerlukan perlindungan karena berkaitan dengan identitas unik individu.\n\nInformasi keuangan pribadi pun termasuk kategori spesifik. Apabila disalahgunakan, data tersebut dapat membuka peluang penipuan, pengambilalihan akun, atau tindakan lain yang menimbulkan kerugian finansial.\n\nPasal 4 ayat (3) UU PDP menyebutkan sejumlah contoh data pribadi yang bersifat umum, yaitu:\n\nData pribadi yang dikombinasikan untuk mengidentifikasi seseorang.\n\nWalaupun disebut sebagai data pribadi umum, informasi tersebut tetap perlu dilindungi. Nama lengkap, misalnya, mungkin tidak cukup untuk mengambil alih rekening seseorang. Namun, ketika digabungkan dengan tanggal lahir, nomor telepon, dan informasi lain yang tersedia di internet, data itu dapat membantu pelaku menyusun profil korban.\n\nPerlu dipahami bahwa pembagian umum dan spesifik bukan berarti kategori umum boleh disebarkan tanpa pertimbangan. Konteks, tujuan penggunaan, serta kombinasi informasi tetap menentukan risiko terhadap privasi seseorang.\n\nData pribadi hadir dalam berbagai bentuk, mulai dari dokumen administrasi hingga jejak aktivitas di internet. Berikut beberapa contoh yang perlu dikenali.\n\nTabel tersebut merupakan ilustrasi. Tidak semua informasi digital otomatis termasuk kategori spesifik menurut UU PDP. Status dan tingkat perlindungannya perlu dilihat berdasarkan karakter data, konteks pemrosesan, serta ketentuan hukum yang berlaku.\n\nContoh lainnya dapat ditemukan ketika seseorang mengisi formulir pendaftaran kerja. Informasi seperti nama, alamat, nomor telepon, riwayat pendidikan, dan dokumen identitas dikumpulkan untuk keperluan rekrutmen. Data tersebut memang dibutuhkan, tetapi perusahaan tetap perlu mengelolanya sesuai tujuan dan dasar pemrosesan yang sah.\n\nHal serupa terjadi ketika seseorang mendaftar layanan pinjaman, membuka rekening bank, menggunakan aplikasi kesehatan, atau memesan transportasi daring. Setiap layanan dapat meminta informasi yang berbeda sesuai kebutuhan operasionalnya.\n\nKarena itu, pengguna sebaiknya tidak hanya bertanya apakah suatu aplikasi meminta data pribadi, tetapi juga apakah data yang diminta relevan dengan layanan yang ditawarkan dan bagaimana informasi tersebut akan digunakan.\n\nPerkembangan teknologi membuat pertukaran informasi berlangsung lebih cepat dan luas. Berbagai layanan digital memanfaatkan data untuk menjalankan fungsi utama, meningkatkan pengalaman pengguna, mencegah penipuan, serta menyesuaikan layanan dengan kebutuhan pelanggan.\n\nDi sisi lain, semakin banyak aktivitas yang melibatkan data berarti semakin banyak pula titik yang perlu diamankan. Risiko dapat muncul dari kelalaian pengguna, kelemahan sistem, penyalahgunaan akses oleh pihak yang berwenang, maupun serangan siber.\n\nKetika seseorang membuat akun e-commerce, penyedia layanan biasanya membutuhkan informasi tertentu untuk memproses pesanan, mengirimkan barang, dan mengelola pembayaran. Aplikasi transportasi membutuhkan informasi lokasi agar dapat menghubungkan pengemudi dengan penumpang.\n\nPengumpulan data tidak selalu bermasalah. Persoalan muncul ketika informasi dikumpulkan secara berlebihan, digunakan di luar tujuan yang semestinya, atau tidak dilindungi secara memadai.\n\nUU PDP mengatur bahwa pengendali data pribadi harus memiliki dasar pemrosesan yang sah. Pasal 20 mencakup sejumlah dasar, antara lain persetujuan yang sah, pemenuhan perjanjian, kewajiban hukum, kepentingan vital, pelaksanaan tugas untuk kepentingan umum, dan kepentingan sah lainnya dengan memperhatikan ketentuan undang-undang.\n\nDengan demikian, persetujuan bukan satu-satunya dasar pemrosesan yang diakui undang-undang. Dasar yang tepat bergantung pada situasi dan tujuan pemrosesan data.\n\nMengunggah foto tiket perjalanan, kartu identitas, dokumen kerja, atau tangkapan layar transaksi dapat membuka informasi yang seharusnya tidak diketahui publik.\n\nBahkan, unggahan yang tampak sederhana dapat memberikan petunjuk tentang kebiasaan seseorang. Foto di depan rumah, misalnya, berpotensi memperlihatkan lokasi tempat tinggal. Unggahan tentang perjalanan panjang juga dapat memberi petunjuk bahwa rumah sedang kosong.\n\nInformasi tersebut tidak selalu langsung menyebabkan kerugian. Namun, jika dikombinasikan dengan data lain, informasi yang tersebar dapat dimanfaatkan untuk menyusun penipuan yang lebih meyakinkan.\n\nAktivitas pencarian, interaksi dengan konten, lokasi, dan preferensi belanja dapat digunakan untuk memahami pola perilaku pengguna. Dalam situasi tertentu, informasi tersebut membantu penyedia layanan memberikan rekomendasi yang relevan.\n\nNamun, pengguna perlu memahami bahwa data juga dapat digunakan untuk menyusun profil yang lebih terperinci. Karena itu, kebijakan privasi, pengaturan pelacakan, dan izin aplikasi layak diperiksa secara berkala.\n\nTeknologi kecerdasan buatan (AI) dapat membantu menganalisis informasi dalam jumlah besar. Pada saat yang sama, pengguna perlu berhati-hati ketika mengunggah dokumen pribadi, foto identitas, rekam medis, atau informasi rahasia ke layanan AI.\n\nSebelum memasukkan data, periksa ketentuan layanan dan kebijakan privasi penyedia. Hindari mengunggah informasi yang tidak diperlukan, terutama apabila data tersebut dapat mengungkap identitas atau rahasia orang lain.\n\nPenggunaan AI juga dapat dimanfaatkan untuk membuat pesan penipuan yang lebih meyakinkan. Pelaku bisa menggunakan informasi yang tersedia secara publik untuk menyusun pesan yang seolah-olah berasal dari bank, perusahaan, kerabat, atau instansi resmi.\n\nKebocoran data terjadi ketika informasi diakses, diungkapkan, diubah, hilang, atau digunakan tanpa kewenangan yang semestinya. Dampaknya berbeda-beda, bergantung pada jenis data, jumlah informasi yang terdampak, dan kemampuan pelaku memanfaatkannya.\n\nPelaku dapat menggunakan informasi seseorang untuk menyamar, membuat akun, atau melakukan tindakan yang merugikan korban. Risiko meningkat apabila beberapa informasi penting tersedia sekaligus.\n\nPhishing merupakan upaya mengelabui korban agar menyerahkan informasi sensitif, mengklik tautan berbahaya, atau memasang aplikasi yang tidak aman.\n\nPelaku dapat mengaku sebagai petugas bank, kurir, penyedia layanan digital, atau pihak yang menawarkan hadiah. Pesan yang mencantumkan nama, nomor telepon, atau informasi transaksi yang benar dapat terasa lebih meyakinkan.\n\nMeski begitu, keberadaan informasi yang akurat dalam sebuah pesan tidak otomatis membuktikan bahwa pengirimnya resmi. Identitas pengirim tetap perlu diperiksa melalui saluran komunikasi yang tepercaya.\n\nAkun email, media sosial, dan layanan keuangan dapat menjadi sasaran ketika kata sandi bocor atau kode autentikasi diberikan kepada pihak lain.\n\nAkun email yang diambil alih juga dapat digunakan untuk mengatur ulang kata sandi berbagai layanan lain. Karena itu, perlindungan email utama perlu menjadi prioritas.\n\nFoto pribadi, percakapan, atau dokumen sensitif yang tersebar dapat digunakan untuk mengintimidasi dan memeras korban. Dampaknya tidak hanya berupa kerugian finansial, tetapi juga tekanan sosial dan psikologis.\n\nInformasi yang disalahgunakan dapat memicu transaksi tidak sah, penipuan terhadap keluarga atau rekan kerja, serta kerusakan reputasi. Dalam beberapa kasus, korban harus menghabiskan waktu dan biaya untuk memulihkan akun, memperbaiki catatan, atau membuktikan bahwa dirinya bukan pelaku suatu tindakan.\n\nRisiko tersebut menunjukkan bahwa perlindungan data pribadi bukan hanya urusan teknis. Keamanan data berkaitan langsung dengan hak, keselamatan, reputasi, dan kondisi ekonomi seseorang.\n\nPerlindungan data tidak bisa bergantung pada satu tindakan. Pengguna perlu menggabungkan kebiasaan digital yang aman dengan pengaturan perangkat dan akun yang tepat.\n\nHindari menggunakan satu kata sandi untuk seluruh akun. Jika satu layanan mengalami kebocoran, kata sandi yang sama dapat dicoba pada layanan lainnya.\n\nGunakan kata sandi panjang dan unik untuk setiap akun. Pengelola kata sandi atau password manager dapat membantu menyimpan kredensial dengan lebih aman.\n\nHindari kombinasi yang mudah ditebak, seperti tanggal lahir, nama anggota keluarga, atau urutan angka sederhana.\n\nAutentikasi multifaktor atau multifactor authentication (MFA) menambahkan lapisan verifikasi selain kata sandi. Dengan fitur ini, seseorang yang mengetahui kata sandi belum tentu dapat langsung masuk ke akun.\n\nJika tersedia, pertimbangkan metode autentikasi yang lebih tahan terhadap phishing, seperti kunci keamanan atau passkey. Jangan pernah memberikan kode OTP, kode pemulihan, atau persetujuan masuk kepada orang lain hanya karena mereka mengaku sebagai petugas resmi.\n\nPikirkan kembali sebelum mengunggah foto kartu identitas, tiket, dokumen keuangan, atau dokumen yang menampilkan kode batang dan kode QR.\n\nPeriksa juga pengaturan privasi akun. Batasi siapa yang dapat melihat unggahan, daftar teman, informasi kontak, dan lokasi. Pengaturan akun privat membantu mengurangi paparan, meskipun tidak menjamin semua informasi bebas disalin atau disebarkan.\n\nAplikasi dapat meminta akses ke kamera, mikrofon, kontak, lokasi, atau foto. Periksa apakah izin tersebut memang diperlukan untuk menjalankan fungsi utama aplikasi.\n\nSebagai contoh, aplikasi senter pada umumnya tidak memerlukan akses ke kontak atau lokasi untuk menjalankan fungsi dasarnya. Jika izin terasa tidak relevan, pertimbangkan untuk menolaknya atau mencari layanan alternatif yang lebih transparan.\n\nJangan langsung mengklik tautan yang dikirim melalui pesan singkat, email, atau media sosial. Periksa alamat situs, identitas pengirim, dan konteks permintaannya.\n\nJika menerima pesan yang mengaku berasal dari bank atau penyedia layanan, buka aplikasi resmi atau hubungi nomor layanan yang tercantum pada situs resminya. Jangan menggunakan nomor kontak yang diberikan oleh pengirim mencurigakan sebagai satu-satunya sumber verifikasi.\n\nWaspadai permintaan mendesak untuk memberikan OTP, PIN, kata sandi, atau memindahkan uang. Tekanan agar korban bertindak cepat merupakan salah satu pola yang sering digunakan dalam penipuan.\n\nPembaruan perangkat lunak dapat memperbaiki celah keamanan dan masalah teknis. Aktifkan pembaruan otomatis apabila memungkinkan, terutama untuk sistem operasi, peramban, aplikasi perbankan, dan aplikasi yang menangani informasi sensitif.\n\nUnduh aplikasi dari toko resmi atau situs pengembang yang dapat diverifikasi. Hindari memasang berkas aplikasi dari sumber tidak dikenal hanya karena menawarkan fitur tambahan.\n\nSebelum mendaftar layanan, periksa informasi mengenai jenis data yang dikumpulkan, tujuan pemrosesan, pihak yang menerima data, serta ketentuan penyimpanannya.\n\nKebijakan privasi memang tidak selalu mudah dibaca. Namun, pengguna setidaknya perlu memahami informasi pokok tersebut, terutama ketika layanan meminta data sensitif atau akses yang luas.\n\nJangan memberikan data lebih banyak daripada yang dibutuhkan. Jika tujuan permintaan tidak jelas, tanyakan alasan pengumpulan dan bagaimana data akan digunakan.\n\nAkun lama yang tidak digunakan dapat menjadi titik risiko jika masih menyimpan informasi pribadi. Pertimbangkan menutup akun yang tidak dibutuhkan setelah memastikan tidak ada dokumen, transaksi, atau akses penting yang masih terhubung.\n\nSebelum menghapus akun, simpan data yang diperlukan dan putuskan hubungan dengan layanan lain jika dibutuhkan. Menghapus aplikasi dari ponsel tidak selalu berarti akun dan data yang tersimpan di server penyedia ikut terhapus.\n\nGunakan kunci layar, aktifkan fitur pencarian atau penghapusan perangkat jarak jauh jika tersedia, serta lakukan pencadangan data penting secara berkala.\n\nBerhati-hatilah saat menggunakan Wi-Fi publik untuk aktivitas sensitif. Pastikan situs menggunakan koneksi HTTPS, tetapi jangan menganggap simbol gembok sebagai jaminan bahwa suatu situs pasti sah. Situs penipuan juga dapat menggunakan HTTPS.\n\nApabila menduga data pribadi telah bocor atau akun diakses pihak lain, jangan menunggu sampai kerugian muncul. Lakukan langkah penanganan secara bertahap.\n\nPertama, amankan akun yang terdampak. Ganti kata sandi melalui situs atau aplikasi resmi. Jika kata sandi yang sama digunakan di tempat lain, ubah juga kata sandi akun-akun tersebut. Keluar dari sesi yang tidak dikenal dan aktifkan autentikasi multifaktor.\n\nKedua, hubungi penyedia layanan. Gunakan kanal resmi bank, perusahaan, atau platform yang terkait dengan insiden. Jika terdapat transaksi tidak dikenal, segera laporkan dan tanyakan prosedur pemblokiran atau penanganan transaksi.\n\nKetiga, simpan bukti. Dokumentasikan pesan, email, notifikasi, tangkapan layar, dan nomor laporan yang relevan. Bukti tersebut dapat membantu proses investigasi dan pelaporan.\n\nKeempat, waspadai penipuan lanjutan. Setelah kebocoran, korban mungkin menerima pesan yang menyebutkan informasi pribadi untuk membangun kepercayaan. Jangan memberikan OTP, PIN, atau kata sandi kepada siapa pun yang menghubungi secara tidak terduga.\n\nKelima, laporkan melalui saluran yang sesuai. Hubungi penyedia layanan dan instansi berwenang yang relevan. Jika terdapat dugaan tindak pidana, pertimbangkan membuat laporan kepada kepolisian dengan membawa bukti yang tersedia.\n\nPerlu diketahui bahwa UU PDP mengatur kewajiban pemberitahuan ketika terjadi kegagalan pelindungan data. Berdasarkan Pasal 46, pengendali data pribadi wajib menyampaikan pemberitahuan tertulis paling lambat 3 x 24 jam kepada subjek data pribadi dan lembaga yang dimaksud dalam undang-undang. Pemberitahuan tersebut setidaknya memuat data yang terungkap, waktu dan cara pengungkapan, serta upaya penanganan dan pemulihan.\n\nKetentuan ini merupakan kewajiban pengendali data pribadi dalam situasi yang diatur undang-undang, bukan tenggat waktu yang diberikan kepada korban untuk mengamankan akun. Pengguna tetap perlu segera mengambil langkah perlindungan begitu mengetahui adanya risiko.\n\nUU Nomor 27 Tahun 2022 memberikan landasan hukum bagi pelindungan data pribadi di Indonesia. Hak subjek data pribadi mencakup sejumlah hal yang diatur dalam undang-undang, antara lain memperoleh informasi mengenai kejelasan identitas pihak yang meminta data dan tujuan penggunaannya, memperbaiki data yang tidak akurat, serta memperoleh akses dan salinan data sesuai ketentuan.\n\nUU PDP juga mengatur hak untuk mengakhiri pemrosesan, menghapus, atau memusnahkan data pribadi dalam kondisi yang ditentukan oleh peraturan. Pelaksanaannya tetap perlu memperhatikan dasar pemrosesan dan ketentuan hukum yang berlaku.\n\nDi sisi lain, pihak yang mengendalikan atau memproses data memiliki kewajiban untuk menjalankan pemrosesan sesuai ketentuan. Pengumpulan data tidak seharusnya dilakukan tanpa dasar yang sah, sementara penggunaan dan pengungkapan data secara melawan hukum dapat menimbulkan konsekuensi hukum.\n\nPasal 65 dan Pasal 67 UU PDP, misalnya, mengatur larangan serta ketentuan pidana terkait tindakan tertentu dalam memperoleh, mengungkapkan, atau menggunakan data pribadi secara melawan hukum. Penerapan sanksi bergantung pada unsur perbuatan dan ketentuan yang relevan, sehingga tidak tepat menyimpulkan bahwa setiap insiden kebocoran otomatis membuat semua pihak yang terlibat melakukan tindak pidana.\n\nMasyarakat yang ingin memahami hak dan kewajibannya dapat membaca naskah resmi UU PDP melalui JDIH Kementerian Komunikasi dan Digital.\n\nData pribadi adalah informasi yang dapat mengidentifikasi seseorang secara langsung maupun melalui kombinasi dengan informasi lain. Bentuknya beragam, mulai dari nama dan nomor telepon hingga data kesehatan, keuangan, biometrik, dan informasi digital tertentu.\n\nDi era digital, data pribadi membantu berbagai layanan bekerja, tetapi juga dapat menimbulkan risiko ketika dikumpulkan secara tidak tepat, bocor, atau disalahgunakan. Dampaknya mencakup pencurian identitas, penipuan, pengambilalihan akun, pelanggaran privasi, dan kerugian finansial.\n\nLangkah perlindungan yang dapat dilakukan antara lain menggunakan kata sandi unik, mengaktifkan autentikasi multifaktor, membatasi unggahan sensitif, memeriksa izin aplikasi, memperbarui perangkat lunak, dan memverifikasi pesan mencurigakan. Jika terjadi insiden, segera amankan akun, hubungi penyedia layanan, simpan bukti, dan gunakan saluran pelaporan yang sesuai.\n\nPada akhirnya, melindungi data pribadi bukan berarti harus menghindari teknologi. Tujuannya adalah menggunakan layanan digital dengan lebih sadar, memahami informasi yang dibagikan, serta mengetahui hak dan langkah yang dapat ditempuh ketika data tidak dikelola sebagaimana mestinya.\n\nNomor telepon dapat termasuk data pribadi apabila dapat digunakan untuk mengidentifikasi seseorang, baik secara langsung maupun melalui kombinasi dengan informasi lain. Karena itu, nomor telepon perlu dibagikan secara hati-hati.\n\nFoto wajah dapat menjadi data pribadi apabila seseorang dapat diidentifikasi melalui foto tersebut. Jika karakteristik wajah diproses secara teknis untuk mengenali individu secara unik, data yang dihasilkan dapat masuk kategori data biometrik sesuai konteks dan ketentuan yang berlaku.\n\nNIK dan informasi rekening perlu dilindungi serta hanya diberikan ketika ada kebutuhan dan dasar yang jelas. Hindari mengunggah dokumen identitas atau informasi keuangan ke ruang publik. Jangan pernah membagikan PIN, kata sandi, atau kode OTP kepada pihak yang tidak berwenang.\n\nBelum tentu. Pengguna dapat meminta penghapusan melalui platform atau pengendali data sesuai ketentuan yang berlaku, tetapi salinan yang telah diunduh, disebarkan ulang, atau tersimpan di sistem lain mungkin tidak langsung hilang. Karena itu, membatasi penyebaran sejak awal tetap penting.\n\nPerlindungan data membutuhkan peran bersama. Individu perlu menjaga akun dan berhati-hati saat membagikan informasi, sementara organisasi yang mengumpulkan atau memproses data harus memenuhi kewajiban sesuai hukum yang berlaku. Tanggung jawab setiap pihak bergantung pada peran dan keadaan pemrosesan data.\n\nJenis-Jenis Data Pribadi Menurut UU PDP1. Data pribadi yang bersifat spesifik2. Data pribadi yang bersifat umumContoh Data Pribadi dalam Kehidupan Sehari-hariMengapa Data Pribadi Penting di Era Digital?1. Data digunakan untuk menjalankan layanan digital2. Aktivitas di media sosial meninggalkan jejak digital3. Data dapat digunakan untuk membangun profil pengguna4. Kecerdasan buatan memperluas tantangan perlindungan dataApa Risiko Kebocoran dan Penyalahgunaan Data Pribadi?1. Pencurian identitas2. Phishing dan penipuan digital3. Pengambilalihan akun4. Pemerasan dan pelanggaran privasi5. Kerugian finansial dan reputasiCara Melindungi Data Pribadi di Era Digital1. Gunakan kata sandi yang kuat dan berbeda2. Aktifkan autentikasi multifaktor3. Batasi informasi yang dibagikan di media sosial4. Periksa izin aplikasi5. Waspadai tautan dan pesan mencurigakan6. Perbarui sistem dan aplikasi7. Pahami kebijakan privasi sebelum memberikan data8. Hapus akun dan data yang tidak lagi diperlukan9. Amankan perangkat dan jaringanApa yang Harus Dilakukan Jika Data Pribadi Bocor?Apa Hak Masyarakat atas Data Pribadi Menurut UU PDP?KesimpulanFAQApakah nomor telepon termasuk data pribadi?Apakah foto wajah termasuk data pribadi?Apakah NIK dan nomor rekening aman dibagikan?Apakah data yang sudah diunggah ke internet bisa dihapus sepenuhnya?Siapa yang bertanggung jawab melindungi data pribadi?\n\nDilarang mengambil dan/atau menayangkan ulang sebagian atau keseluruhan artikel di atas untuk konten akun media sosial komersil tanpa seizin redaksi."
-  },
-  {
-   "source": "wartaekonomi",
-   "getter": "auto",
-   "title": "Dua Orang Dekat Gulirkan Perkara Ijazah Gibran, Demokrat Sebut Pilih Jaga Jarak",
-   "link": "https://wartaekonomi.co.id/read643263/dua-orang-dekat-gulirkan-perkara-ijazah-gibran-demokrat-sebut-pilih-jaga-jarak",
-   "pubDate": "Sun, 25 Oct 2026 07:30:00 +0700",
-   "description": "Andi menjelaskan bahwa Denny adalah mantan wakil menteri pada era Presiden SBY dan pernah menjadi calon legislatif dari Demokrat, tetapi bukan pengurus partai.",
-   "fetched_at": "2026-10-25T01:11:12+07:00",
+   "title": "IPW Dukung Usulan Kapolri Larang Total Vape demi Cegah Narkoba Cair",
+   "link": "https://news.detik.com/berita/d-8723461/ipw-dukung-usulan-kapolri-larang-total-vape-demi-cegah-narkoba-cair",
+   "pubDate": "Sun, 25 Oct 2026 16:50:50 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2023/03/14/ipw-laporkan-wamenkumham-ke-kpk-2_169.jpeg?w=360&q=90\"/> IPW mendukung Kapolri dalam pemberantasan narkoba dan mendesak Presiden Prabowo untuk larang vape di institusi pemerintah demi keselamatan masyarakat.",
+   "fetched_at": "2026-10-25T11:46:48+07:00",
    "categories": [
     "hukum-kriminal",
     "pemerintahan"
    ],
-   "content_status": "full",
-   "content_chars": 2332,
-   "content": "Home / News / Politik Dua Orang Dekat Gulirkan Perkara Ijazah Gibran, Demokrat Sebut Pilih Jaga Jarak Minggu, 25 Oktober 2026, 07:30 WIB\n\nDi tengah ramainya perbincangan publik soal perkara ijazah yang kini bergulir di Mahkamah Konstitusi (MK), Partai Demokrat memilih menjaga jarak. Ketua Dewan Pakar DPP Partai Demokrat, Andi Mallarangeng, menegaskan bahwa partainya tidak memiliki kepentingan langsung, apa pun putusan yang nanti dijatuhkan majelis hakim.\n\nPernyataan itu disampaikan Andi saat berdialog dengan Rhenald Kasali di kanal YouTube Rhenald Kasali yang tayang pada 23 Oktober 2026.\n\nAndi menyebut Demokrat saat ini berada dalam koalisi pemerintahan Presiden Prabowo Subianto. Karena itu, fokus partainya adalah membantu pemerintah menjalankan tugas agar bisa sukses hingga akhir masa jabatan.\n\n“Kalaupun ada apa-apa dengan putusan Mahkamah Konstitusi, kami Demokrat tidak punya kepentingan langsung,” ujarnya.\n\nRhenald mengangkat isu yang beredar di masyarakat bahwa ada sosok besar di balik gugatan tersebut, mengingat dua nama yang kerap dikaitkan dengan perkara ini, Denny Indrayana dan Roy Suryo, pernah memiliki kedekatan dengan Demokrat.\n\nAndi menjelaskan bahwa Denny adalah mantan wakil menteri pada era Presiden SBY dan pernah menjadi calon legislatif dari Demokrat, tetapi bukan pengurus partai. Adapun Roy Suryo disebutnya sebagai mantan kader yang sudah mengundurkan diri sebagai pengurus maupun anggota.\n\n“Tidak ada perintah langsung dari organisasi, bukan karena suatu strategi,” kata Andi. Langkah Denny, menurutnya, merupakan inisiatif pribadi sebagai seorang profesional.\n\nAndi juga menyinggung bahwa jika putusan MK sampai menimbulkan kekosongan kursi wakil presiden, Demokrat tidak berada dalam posisi untuk bersaing. Dengan 44 kursi, jarak menuju sekitar 400 suara yang dibutuhkan di MPR dinilainya terlalu jauh, dan biayanya terlalu besar.\n\nMeski menjaga jarak, Andi mengajak publik menyikapi perkara ini secara jujur dan objektif. Ia menilai sidang MK yang disiarkan terbuka lewat televisi membuat hakim konstitusi tidak bisa bermain-main, dan transparansi dapat membuka hal-hal yang sebelumnya tersembunyi.\n\n“Dalam politik lebih baik jangan pernah berbohong,” ujarnya. Menurut Andi, kasus ini merupakan pembelajaran penting bagi bangsa, terutama soal kepemimpinan dan penggunaan aturan yang jelas."
+   "content_status": "partial",
+   "content_chars": 278,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2023/03/14/ipw-laporkan-wamenkumham-ke-kpk-2_169.jpeg?w=360&q=90\"/> IPW mendukung Kapolri dalam pemberantasan narkoba dan mendesak Presiden Prabowo untuk larang vape di institusi pemerintah demi keselamatan masyarakat."
   },
   {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Sidang Tipikor ESDM Jatim Ungkap Dugaan Upaya Mengaburkan Kepemilikan Rekening Rp 1,5 Miliar",
-   "link": "https://beritajatim.com/sidang-tipikor-esdm-jatim-ungkap-dugaan-upaya-mengaburkan-kepemilikan-rekening-rp-15-miliar",
-   "pubDate": "Sun, 25 Oct 2026 00:25:55 +0000",
-   "description": "<a href=\"https://beritajatim.com/sidang-tipikor-esdm-jatim-ungkap-dugaan-upaya-mengaburkan-kepemilikan-rekening-rp-15-miliar\" title=\"Sidang Tipikor ESDM Jatim Ungkap Dugaan Upaya Mengaburkan Kepemilikan Rekening Rp 1,5 Miliar\" rel=\"nofollow\"><img width=\"660\" height=\"384\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/1001945424_11zon.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thu",
-   "fetched_at": "2026-10-25T01:11:11+07:00",
+   "source": "detik",
+   "getter": "getter1",
+   "title": "Polisi Bubarkan Balap Liar di Makasar Jaktim, 6 Pemuda dan Motor Diamankan",
+   "link": "https://news.detik.com/berita/d-8723363/polisi-bubarkan-balap-liar-di-makasar-jaktim-6-pemuda-dan-motor-diamankan",
+   "pubDate": "Sun, 25 Oct 2026 15:29:30 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/jaktim-1792916845799_169.jpeg?w=360&q=90\"/> Brimob Polda Metro Jaya membubarkan balap liar di Jakarta Timur. Enam pemuda dan sepeda motor diamankan.",
+   "fetched_at": "2026-10-25T11:46:48+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "partial",
+   "content_chars": 219,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/jaktim-1792916845799_169.jpeg?w=360&q=90\"/> Brimob Polda Metro Jaya membubarkan balap liar di Jakarta Timur. Enam pemuda dan sepeda motor diamankan."
+  },
+  {
+   "source": "detik",
+   "getter": "getter1",
+   "title": "Polri Selamatkan Induk dan Bayi Orang Utan Terluka di Lokasi Karhutla Kotim",
+   "link": "https://news.detik.com/berita/d-8723361/polri-selamatkan-induk-dan-bayi-orang-utan-terluka-di-lokasi-karhutla-kotim",
+   "pubDate": "Sun, 25 Oct 2026 15:28:29 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/direktorat-polisi-satwa-polri-mengevakuasi-orangutan-dari-kebakaran-hutan-di-kalimantan-tengah-1792916896446_169.jpeg?w=360&q=90\"/> Direktorat Polisi Satwa Polri mengevakuasi orang utan dari kebakaran hutan di Kalimantan Tengah. Induk dan bayi orang utan dirawat setelah terluka parah.",
+   "fetched_at": "2026-10-25T11:46:48+07:00",
    "categories": [
     "hukum-kriminal",
-    "korupsi"
+    "kebakaran"
    ],
-   "content_status": "full",
-   "content_chars": 5340,
-   "content": "Sidang Tipikor ESDM Jatim Ungkap Dugaan Upaya Mengaburkan Kepemilikan Rekening Rp 1,5 Miliar\n\nSurabaya (beritajatim.com) — Skenario untuk mengaburkan kepemilikan rekening penampung uang pungutan liar (pungli) perizinan di Dinas Energi dan Sumber Daya Mineral (ESDM) Jawa Timur terungkap dalam persidangan di Pengadilan Negeri (PN) Tipikor Juanda, Jumat (23/10/2026).\n\nSaksi Roy Hariyono mengaku diminta istri terdakwa mantan Kepala Dinas ESDM Jatim Aris Mukiyono, Renny, untuk menandatangani surat pernyataan bahwa rekening Bank BCA berisi Rp1,5 miliar merupakan miliknya.\n\nFakta tersebut terungkap ketika Jaksa Penuntut Umum (JPU) mengonfirmasi Berita Acara Pemeriksaan (BAP) Roy pada poin 35 mengenai dugaan upaya merintangi penyidikan.\n\nPemeriksaan itu berkaitan dengan proses penyidikan yang dilakukan Kejaksaan Tinggi (Kejati) Jawa Timur terhadap kasus dugaan pungli dan gratifikasi perizinan tambang serta air tanah.\n\nDi hadapan majelis hakim, Roy yang dikenal sebagai orang kepercayaan Aris menjelaskan bahwa Renny pertama kali mendatanginya pada Sabtu, 11 Juli 2026. Saat itu, Renny menyerahkan surat yang meminta Roy mengakui kepemilikan rekening BCA dengan nomor berakhiran 78 yang menyimpan uang sebesar Rp1,5 miliar.\n\n“Waktu itu hari Sabtu saya didatangi sama istrinya Pak Aris, Bu Renny. Ngasihkan surat. Surat yang intinya terkait dengan rekening yang ditanyakan sama Pak Jaksa tadi,” kata Roy di depan majelis hakim.\n\nRoy menjelaskan bahwa isi surat tersebut secara khusus meminta dirinya mengakui rekening itu sebagai miliknya. Ia menyebut memiliki salinan surat tersebut sebagai bukti atas peristiwa yang dialaminya.\n\n“Isinya suratnya ada dan saya juga ada di copy-nya. Jadi memang disuruh mengakui rekening tersebut punya saya, yang berisi Rp1,5 miliar tersebut,” ujar Roy.\n\nMenurut kesaksian Roy, dirinya sempat meminta izin membawa pulang draf surat tersebut untuk membicarakannya terlebih dahulu dengan sang istri. Namun, Renny menolak permintaan itu. Roy akhirnya mengambil foto surat tersebut menggunakan telepon genggamnya.\n\nPeristiwa berlanjut pada Minggu, sehari setelah pertemuan pertama. Roy pergi ke Tuban untuk menghadiri acara selawatan di sebuah pondok. Ketika kembali ke rumah, ia mendapati Renny sudah menunggunya untuk kedua kalinya.\n\nDalam pertemuan tersebut, Roy mengaku kembali diminta menghapus foto surat yang sebelumnya telah diambil. Ia kemudian menuruti permintaan itu. “Saya balik dari Tuban, ditunggu sama istrinya. Dan waktu itu disuruh hapus, ya sudah saya hapus,” kata Roy.\n\nRoy juga mengungkapkan ucapan Renny ketika meminta foto tersebut dihapus. Kesaksian itu disampaikan dengan menirukan logat Suroboyoan yang menurutnya digunakan saat percakapan berlangsung.\n\n“Wis iki dihapus ae, Mas Roy. Biar nanti pas waktu dipanggil enggak ada bukti,” ujar Roy menirukan ucapan Renny.\n\nMeski foto surat tersebut telah dihapus dari telepon genggam Roy, penyidik Kejati Jawa Timur disebut berhasil menemukan jejak digitalnya setelah menyita perangkat tersebut. Temuan itu menjadi bagian dari fakta yang terungkap dalam persidangan terkait dugaan upaya mengaburkan kepemilikan rekening dan merintangi proses penyidikan.\n\nKasus ini berawal dari pengusutan dugaan pungli dan gratifikasi dalam pengurusan perizinan tambang serta air tanah di lingkungan Dinas ESDM Jawa Timur pada April 2026. Dalam proses penyidikan, Kejati Jatim menetapkan empat orang sebagai tersangka, yakni Kepala Dinas ESDM Jatim Aris Mukiyono, Kepala Bidang Pertambangan Oni Setiawan, Kepala Bidang Geologi dan Air Tanah Ertika Dinawati, serta Ketua Tim Kerja Air Tanah Hermawan.\n\nNamun, Oni Setiawan meninggal dunia sebelum pelimpahan berkas perkara ke pengadilan. Dengan demikian, tiga terdakwa menjalani proses persidangan dalam perkara tersebut.\n\nDalam dakwaan, Aris Mukiyono didakwa menyalahgunakan kewenangannya dalam evaluasi perizinan untuk menghimpun uang pungli melalui bawahannya. Nilai pungutan yang disebut dalam dakwaan mencapai Rp 4,09 miliar.\n\nKesaksian Roy Hariyono mengenai surat pernyataan rekening Rp 1,5 miliar menambah rangkaian fakta yang diperiksa di persidangan. Keterangan tersebut berkaitan dengan dugaan upaya mengalihkan pengakuan kepemilikan rekening kepada pihak lain ketika penyidikan perkara pungli perizinan ESDM Jawa Timur tengah berlangsung.\n\nPembuktian atas dugaan tersebut tetap menjadi bagian dari proses hukum yang berjalan di pengadilan. [uci/suf]\n\nBaca berita lainnya di Google News atau langsung di halaman Indeks Berita\n\nDugaan pengaburan rekening Rp 1,5 miliar: Roy Hariyono mengaku diminta Renny, istri terdakwa Aris Mukiyono, menandatangani surat pernyataan yang menyebut rekening BCA berisi Rp 1,5 miliar sebagai miliknya. Jejak digital ditemukan penyidik: Roy mengaku diminta menghapus foto surat tersebut, tetapi penyidik Kejati Jatim menemukan jejak digitalnya setelah menyita telepon genggam Roy. Perkara pungli perizinan ESDM Jatim: Aris Mukiyono didakwa menyalahgunakan kewenangan dalam pengurusan perizinan untuk menghimpun pungli melalui bawahannya dengan nilai mencapai Rp 4,09 miliar.\n\nBeritajatim.com adalah media online berbasis di Surabaya, dan fokus pada pemberitaan di wilayah Jawa Timur. Sejak awal, beritajatim.com memegang teguh kaidah jurnalistik dalam pemberitaan, sehingga aspek akurasi, disiplin verifikasi, independen, melekat kuat di setiap berita Selengkapnya"
+   "content_status": "partial",
+   "content_chars": 356,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/direktorat-polisi-satwa-polri-mengevakuasi-orangutan-dari-kebakaran-hutan-di-kalimantan-tengah-1792916896446_169.jpeg?w=360&q=90\"/> Direktorat Polisi Satwa Polri mengevakuasi orang utan dari kebakaran hutan di Kalimantan Tengah. Induk dan bayi orang utan dirawat setelah terluka parah."
+  },
+  {
+   "source": "detik",
+   "getter": "getter1",
+   "title": "Sopir Taksi Online Dirampok Lalu Dibunuh, Jasadnya Dibuang ke Kebun Sawit",
+   "link": "https://news.detik.com/berita/d-8723357/sopir-taksi-online-dirampok-lalu-dibunuh-jasadnya-dibuang-ke-kebun-sawit",
+   "pubDate": "Sun, 25 Oct 2026 15:25:45 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/pembunuh-driver-taksi-online-1792899402895_169.jpeg?w=360&q=90\"/> Tim gabungan Polda Sumut ungkap kasus pembunuhan sopir taksi online Muhammad Imran. Dua pelaku ditangkap, barang bukti diamankan, dan mobil korban ditemukan.",
+   "fetched_at": "2026-10-25T11:46:48+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "partial",
+   "content_chars": 294,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/pembunuh-driver-taksi-online-1792899402895_169.jpeg?w=360&q=90\"/> Tim gabungan Polda Sumut ungkap kasus pembunuhan sopir taksi online Muhammad Imran. Dua pelaku ditangkap, barang bukti diamankan, dan mobil korban ditemukan."
+  },
+  {
+   "source": "detik",
+   "getter": "getter1",
+   "title": "Polda Metro Salurkan 1.000 Paket Sembako untuk Warga Kampung Ambon Jakbar",
+   "link": "https://news.detik.com/berita/d-8723338/polda-metro-salurkan-1-000-paket-sembako-untuk-warga-kampung-ambon-jakbar",
+   "pubDate": "Sun, 25 Oct 2026 15:11:24 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/kapolda-metro-jaya-komjen-dadang-hartanto-di-kampung-ambon-kelurahan-kedaung-kali-angke-cengkareng-jakarta-barat-1792915863082_169.jpeg?w=360&q=90\"/> Polda Metro Jaya menggelar bakti kesehatan dan membagikan 1.000 paket sembako di Kampung Ambon, Jakarta.",
+   "fetched_at": "2026-10-25T11:46:48+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "partial",
+   "content_chars": 325,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/kapolda-metro-jaya-komjen-dadang-hartanto-di-kampung-ambon-kelurahan-kedaung-kali-angke-cengkareng-jakarta-barat-1792915863082_169.jpeg?w=360&q=90\"/> Polda Metro Jaya menggelar bakti kesehatan dan membagikan 1.000 paket sembako di Kampung Ambon, Jakarta."
+  },
+  {
+   "source": "detik",
+   "getter": "getter1",
+   "title": "Dasco: Langkah Polri Gagalkan 1,1 Ton Ketamin Selamatkan Anak Bangsa",
+   "link": "https://news.detik.com/berita/d-8723311/dasco-langkah-polri-gagalkan-1-1-ton-ketamin-selamatkan-anak-bangsa",
+   "pubDate": "Sun, 25 Oct 2026 15:00:46 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/06/19/dasco-dkk-terima-audiensi-mahasiswa-yang-demo-depan-dpr-1781868416246_169.jpeg?w=360&q=90\"/> Wakil Ketua DPR Dasco apresiasi Polri yang menggagalkan penyelundupan 1,1 ton ketamin. Dia menyerukan perlunya memerangi narkoba demi generasi muda.",
+   "fetched_at": "2026-10-25T11:46:48+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "partial",
+   "content_chars": 312,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/06/19/dasco-dkk-terima-audiensi-mahasiswa-yang-demo-depan-dpr-1781868416246_169.jpeg?w=360&q=90\"/> Wakil Ketua DPR Dasco apresiasi Polri yang menggagalkan penyelundupan 1,1 ton ketamin. Dia menyerukan perlunya memerangi narkoba demi generasi muda."
+  },
+  {
+   "source": "detik",
+   "getter": "getter1",
+   "title": "Polri-Gekrafs Teken MoU, Komitmen Lindungi Karya dan Dorong Potensi Ekraf",
+   "link": "https://news.detik.com/berita/d-8723282/polri-gekrafs-teken-mou-komitmen-lindungi-karya-dan-dorong-potensi-ekraf",
+   "pubDate": "Sun, 25 Oct 2026 14:41:32 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/kapolri-jenderal-suyudi-ario-seto-dan-ketua-umum-dpp-gekrafs-kawendra-lukistian-1792914061866_169.jpeg?w=360&q=90\"/> Polri dan GEKRAFS tandatangani MoU untuk dukung industri kreatif Indonesia. Kapolri Suyudi menegaskan komitmen Polri dalam pengembangan ekonomi kreatif.",
+   "fetched_at": "2026-10-25T11:46:48+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "partial",
+   "content_chars": 340,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/kapolri-jenderal-suyudi-ario-seto-dan-ketua-umum-dpp-gekrafs-kawendra-lukistian-1792914061866_169.jpeg?w=360&q=90\"/> Polri dan GEKRAFS tandatangani MoU untuk dukung industri kreatif Indonesia. Kapolri Suyudi menegaskan komitmen Polri dalam pengembangan ekonomi kreatif."
+  },
+  {
+   "source": "detik",
+   "getter": "getter1",
+   "title": "Polisi Amankan 8 Remaja Hendak Tawuran di Jaktim, Celurit dan Arit Disita",
+   "link": "https://news.detik.com/berita/d-8723231/polisi-amankan-8-remaja-hendak-tawuran-di-jaktim-celurit-dan-arit-disita",
+   "pubDate": "Sun, 25 Oct 2026 13:58:53 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/tawuran-1792911457129_169.jpeg?w=360&q=90\"/> Delapan remaja ditangkap di Cakung, Jaktim, saat diduga hendak tawuran. Polisi menyita senjata tajam celurit hingga arit dari lokasi.",
+   "fetched_at": "2026-10-25T11:46:48+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "partial",
+   "content_chars": 249,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/tawuran-1792911457129_169.jpeg?w=360&q=90\"/> Delapan remaja ditangkap di Cakung, Jaktim, saat diduga hendak tawuran. Polisi menyita senjata tajam celurit hingga arit dari lokasi."
+  },
+  {
+   "source": "detik",
+   "getter": "getter1",
+   "title": "Komitmen Kapolri Dukung Visi Presiden, 2 Kasus Besar Narkoba Terungkap",
+   "link": "https://news.detik.com/berita/d-8723187/komitmen-kapolri-dukung-visi-presiden-2-kasus-besar-narkoba-terungkap",
+   "pubDate": "Sun, 25 Oct 2026 13:31:17 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/23/kapolri-jenderal-suyudi-ario-seto-menyampaikan-pengungkapan-laboratorium-rahasia-clandestine-lab-narkotika-terbesar-di-indones-1792746874244_169.png?w=360&q=90\"/> Kapolri Suyudi Ario Seto menegaskan komitmen memberantas narkoba dengan pengungkapan 1,16 ton ketamin dan lab narkotika di Aceh. Sinergi aparat jadi kunci.",
+   "fetched_at": "2026-10-25T11:46:48+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 389,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/23/kapolri-jenderal-suyudi-ario-seto-menyampaikan-pengungkapan-laboratorium-rahasia-clandestine-lab-narkotika-terbesar-di-indones-1792746874244_169.png?w=360&q=90\"/> Kapolri Suyudi Ario Seto menegaskan komitmen memberantas narkoba dengan pengungkapan 1,16 ton ketamin dan lab narkotika di Aceh. Sinergi aparat jadi kunci."
+  },
+  {
+   "source": "jawapos",
+   "getter": "getter1",
+   "title": "Presiden BEM Unair Disebut Dijemput Polisi, Kampus Belum Berkomentar",
+   "link": "https://www.jawapos.com/surabaya-raya/2610250314/presiden-bem-unair-disebut-dijemput-polisi-kampus-belum-berkomentar",
+   "pubDate": "Sun, 25 Oct 2026 18:03:51 GMT",
+   "description": "Presiden BEM Unair, M Rizqi Senja Wirawan, dijemput polisi dan diperiksa di Polda Jatim, BEM Unair meminta solidaritas mahasiswa.",
+   "fetched_at": "2026-10-25T11:46:48+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 129,
+   "content": "Presiden BEM Unair, M Rizqi Senja Wirawan, dijemput polisi dan diperiksa di Polda Jatim, BEM Unair meminta solidaritas mahasiswa."
+  },
+  {
+   "source": "jawapos",
+   "getter": "getter1",
+   "title": "Polri Disarankan Hidupkan Lagi Tilang Manual, Pelanggaran Berat Mengancam Keselamatan Pengendara",
+   "link": "https://www.jawapos.com/nasional/2610250306/polri-disarankan-hidupkan-lagi-tilang-manual-pelanggaran-berat-mengancam-keselamatan-pengendara",
+   "pubDate": "Sun, 25 Oct 2026 17:31:08 GMT",
+   "description": "Tilang manual dinilai perlu diadakan kembali oleh Korlantas Polri. Hal ini guna menindak secara tegas pelanggaran berat di jalan raya.",
+   "fetched_at": "2026-10-25T11:46:48+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "partial",
+   "content_chars": 134,
+   "content": "Tilang manual dinilai perlu diadakan kembali oleh Korlantas Polri. Hal ini guna menindak secara tegas pelanggaran berat di jalan raya."
   }
  ]
 }
