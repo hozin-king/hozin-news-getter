@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T16:46:10+07:00",
+ "updated_at": "2026-10-26T23:32:39+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3297,13 +3297,6 @@
      "lon": null
     },
     {
-     "nama": "58+400 A",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/687489889091511277827377.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "58+400 B",
      "lokasi": "Akses Tanjung Priok",
      "stream": "https://extstream.hk-opt2.com/LiveApp/streams/501264524429471982550467.m3u8",
@@ -3939,13 +3932,6 @@
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/539029826611825636156852.m3u8",
      "lat": null,
      "lon": null
-    },
-    {
-     "nama": "ATP KM 58+400 A",
-     "lokasi": "ATP KM 58+400 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/687489889091511277827377.m3u8",
-     "lat": -6.147817,
-     "lon": 106.940081
     },
     {
      "nama": "ATP KM 58+400 B",
