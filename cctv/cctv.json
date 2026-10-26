@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T06:52:20+07:00",
+ "updated_at": "2026-10-26T10:19:02+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -4417,34 +4417,6 @@
      "lon": 98.49377094
     },
     {
-     "nama": "BINSA KM 24+000 A",
-     "lokasi": "BINSA KM 24+000 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/u45JEcEMSVBR1677687688805.m3u8",
-     "lat": 3.70284988,
-     "lon": 98.53885026
-    },
-    {
-     "nama": "BINSA KM 24+000 B",
-     "lokasi": "BINSA KM 24+000 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/sofJWNhCM7Yx1677687668856.m3u8",
-     "lat": 3.70284988,
-     "lon": 98.53885026
-    },
-    {
-     "nama": "BINSA KM 25+093 A",
-     "lokasi": "BINSA KM 25+093 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/k68QfBCfap1o1677687648314.m3u8",
-     "lat": 3.71006261,
-     "lon": 98.53286773
-    },
-    {
-     "nama": "BINSA KM 25+093 B",
-     "lokasi": "BINSA KM 25+093 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/7Pp2Ueg5Bs9Z1677687625045.m3u8",
-     "lat": 3.71006261,
-     "lon": 98.53286773
-    },
-    {
      "nama": "BINSA KM 27+150 A",
      "lokasi": "BINSA KM 27+150 A",
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/qyXzM6EOmrll1677687535082.m3u8",
@@ -4968,13 +4940,6 @@
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/854107383579084611495985.m3u8",
      "lat": -6.3058847,
      "lon": 106.8824666
-    },
-    {
-     "nama": "JORRS KM 33+400",
-     "lokasi": "JORRS KM 33+400",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/805476032194386565347579.m3u8",
-     "lat": -6.305784,
-     "lon": 106.8888155
     },
     {
      "nama": "JORRS Tunnel Ampera A",
