@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-26T23:32:39+07:00",
+ "updated_at": "2026-10-27T04:24:26+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3388,20 +3388,6 @@
      "lon": null
     },
     {
-     "nama": "Danau Offramp",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/271375403748522730558046.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "Danau Onramp",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/982374323250229269609334.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "ENTRANCE GENDING",
      "lokasi": "Pasuruan-Probolinggo",
      "stream": "https://paspro-streaming.co.id/LiveApp/streams/136246164069906379647553.m3u8",
@@ -3573,20 +3559,6 @@
      "nama": "KM 25+000 (KM 51+000)",
      "lokasi": "Cimanggis-Cibitung",
      "stream": "https://streaming-cct.co.id/LiveApp/streams/418964061815952674729554.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 26+000 (KM 52+000)",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/411377605747041200436339.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 27+000 (KM 53+000)",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/233910204183508555696473.m3u8",
      "lat": null,
      "lon": null
     },
@@ -3804,13 +3776,6 @@
      "nama": "SS GENDING",
      "lokasi": "Pasuruan-Probolinggo",
      "stream": "https://paspro-streaming.co.id/LiveApp/streams/375660359233015132536155.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "VMS KM 25",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/838307899031038697238257.m3u8",
      "lat": null,
      "lon": null
     },
@@ -5871,13 +5836,6 @@
      "stream": "https://cctv.mms-corp.id/balbar-exit/index.m3u8",
      "lat": -6.200073,
      "lon": 106.459107
-    },
-    {
-     "nama": "Balaraja Timur Entrance",
-     "lokasi": "Balaraja Timur Entrance",
-     "stream": "https://cctv.mms-corp.id/baltim-entrance/index.m3u8",
-     "lat": -6.204265,
-     "lon": 106.485046
     },
     {
      "nama": "Balaraja Timur Exit",
