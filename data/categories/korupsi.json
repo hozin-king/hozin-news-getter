@@ -1,8 +1,84 @@
 {
- "updated_at": "2026-10-26T06:44:38+07:00",
+ "updated_at": "2026-10-26T09:50:23+07:00",
  "category": "korupsi",
- "count": 2,
+ "count": 6,
  "articles": [
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Cegah Kriminalisasi, Pakar: Pasal Kerugian Negara di UU Tipikor-KUHP Harus Direvisi",
+   "link": "https://nasional.sindonews.com/read/1764651/13/cegah-kriminalisasi-pakar-pasal-kerugian-negara-di-uu-tipikor-kuhp-harus-direvisi-1792969853",
+   "pubDate": "Mon, 26 Oct 2026 07:11:29 +0700",
+   "description": "Undang-undang Tindak Pidana Korupsi (UU Tipikor) dan Kita Undang-undang Hukum Pidana (KUHP) didesak untuk direvisi. Hal itu untuk mencegah kriminalisasi terhadap pengambil kebijakan atau profesional.",
+   "fetched_at": "2026-10-26T01:20:23+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "full",
+   "content_chars": 1451,
+   "content": "Pakar Hukum Pidana Boris Tampubolon mendorong UU Tipikor dan KUHP direvisi untuk mencegah kriminalisasi terhadap pengambil kebijakan atau profesional. Foto/istimewa\n\nJAKARTA - Undang-undang Tindak Pidana Korupsi (UU Tipikor) dan Kitab Undang-undang Hukum Pidana (KUHP) didesak untuk direvisi. Hal itu untuk mencegah kriminalisasi terhadap pengambil kebijakan atau profesional. Pakar Hukum Pidana Boris Tampubolon mengatakan, banyak kasus-kasus yang diproses pidana karena kerugian negara, padahal sebenarnya merupakan risiko bisnis.\"Sebagai seorang praktisi hukum dan pengamat hukum, yang sering menangani kasus-kasus korupsi yang melibatkan kerugian negara, saya banyak menemukan kasus-kasus yang sebenarnya adalah murni masalah risiko bisnis tapi diporses menjadi tindak pidana korupsi hanya karena terdapat kerugian negara di sana,\" katanya Senin (26/10/2026).Baca juga: KPK Jawab Luhut soal Unsur Kerugian Negara di UU Tipikor: Kekhususan Modus Jadi Pertimbangan Boris melanjutkan, hal ini disebabkan karena tidak jelasnya atau karetnya Pasal 2 atau Pasal 3 UU Tipikor atau Pasal 603 dan 604 KUHP baru yang ada sekarang. \"Pasal ini menurut saya sebaiknya direvisi,\"ucapnya.\n\nFollow WhatsApp Channel SINDOnews untuk Berita Terbaru Setiap Hari\n\nDapatkan berita terkini dan kejutan menarik dari SINDOnews.com, Klik Disini untuk mendaftarkan diri anda sekarang juga!\n\nCegah Kriminalisasi, Pakar: Pasal Kerugian Negara di UU Tipikor-KUHP Harus Direvisi"
+  },
+  {
+   "source": "liputan6",
+   "getter": "getter2",
+   "title": "KPK Usul Harta Pejabat Tak Dilaporkan di LHKPN Bisa Dirampas Negara",
+   "link": "https://www.liputan6.com/news/read/8321071/kpk-usul-harta-pejabat-tak-dilaporkan-di-lhkpn-bisa-dirampas-negara",
+   "pubDate": "Mon, 26 Oct 2026 00:46:08 +0700",
+   "description": "Selain itu, KPK mengusulkan negara dapat merampas harta penyelenggara negara apabila kekayaan yang dimiliki ternyata melebihi jumlah di LHKPN",
+   "fetched_at": "2026-10-26T01:20:08+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 141,
+   "content": "Selain itu, KPK mengusulkan negara dapat merampas harta penyelenggara negara apabila kekayaan yang dimiliki ternyata melebihi jumlah di LHKPN"
+  },
+  {
+   "source": "jawapos",
+   "getter": "getter1",
+   "title": "Eks Jampidsus Febrie Adriansyah Hadapi Sidang Putusan Sela Pemerasan dan TPPU",
+   "link": "https://www.jawapos.com/kasuistika/2610260022/eks-jampidsus-febrie-adriansyah-hadapi-sidang-putusan-sela-pemerasan-dan-tppu",
+   "pubDate": "Mon, 26 Oct 2026 07:57:44 GMT",
+   "description": "Febrie Adriansyah hadapi sidang lanjutan korupsi dan pencucian uang di Pengadilan Tipikor Jakarta, Hakim bacakan putusan sela.",
+   "fetched_at": "2026-10-26T01:20:07+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 126,
+   "content": "Febrie Adriansyah hadapi sidang lanjutan korupsi dan pencucian uang di Pengadilan Tipikor Jakarta, Hakim bacakan putusan sela."
+  },
+  {
+   "source": "jawapos",
+   "getter": "getter1",
+   "title": "Johanis Tanak Usulkan Kewenangan Rampas Aset yang Tak Tercantum di LHKPN",
+   "link": "https://www.jawapos.com/kasuistika/2610260011/johanis-tanak-usulkan-kewenangan-rampas-aset-yang-tak-tercantum-di-lhkpn",
+   "pubDate": "Mon, 26 Oct 2026 06:37:56 GMT",
+   "description": "Wakil Ketua Komisi Pemberantasan Korupsi (KPK), Johanis Tanak mengusulkan Rancangan Undang-Undang tentang Perampasan Aset terkait Tindak Pidana (RUU Perampasan Aset) mengatur agar aset penyelenggara negara yang tidak ter",
+   "fetched_at": "2026-10-26T01:20:07+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 220,
+   "content": "Wakil Ketua Komisi Pemberantasan Korupsi (KPK), Johanis Tanak mengusulkan Rancangan Undang-Undang tentang Perampasan Aset terkait Tindak Pidana (RUU Perampasan Aset) mengatur agar aset penyelenggara negara yang tidak ter"
+  },
+  {
+   "source": "jawapos",
+   "getter": "getter1",
+   "title": "KPK Usul Aset Pejabat yang Tak Tercantum di LHKPN Dirampas oleh Negara",
+   "link": "https://www.jawapos.com/nasional/2610260009/kpk-usul-aset-pejabat-yang-tak-tercantum-di-lhkpn-dirampas-oleh-negara",
+   "pubDate": "Mon, 26 Oct 2026 06:26:02 GMT",
+   "description": "Komisi Pemberantasan Korupsi (KPK) mengusulkan agar aset penyelenggara negara yang tidak tercantum dalam LHKPN, bisa dirampas oleh negara.",
+   "fetched_at": "2026-10-26T01:20:07+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 138,
+   "content": "Komisi Pemberantasan Korupsi (KPK) mengusulkan agar aset penyelenggara negara yang tidak tercantum dalam LHKPN, bisa dirampas oleh negara."
+  },
   {
    "source": "wartaekonomi",
    "getter": "auto",
@@ -18,21 +94,6 @@
    "content_status": "full",
    "content_chars": 3319,
    "content": "Home / News / Nasional Gus Ipul Masih Tunggu Klarifikasi PCNU Nias soal Uang Rp250 Juta ke KPK Senin, 26 Oktober 2026, 06:07 WIB\n\nPengurus Besar Nahdlatul Ulama (PBNU) belum menerima klarifikasi dari Pengurus Cabang Nahdlatul Ulama (PCNU) Nias terkait penyerahan uang Rp250 juta kepada Komisi Pemberantasan Korupsi (KPK). Wakil Ketua Umum PBNU Saifullah Yusuf atau Gus Ipul mengatakan, penjelasan dari PCNU Nias masih ditunggu untuk memperjelas persoalan yang diduga berkaitan dengan politik uang menjelang Muktamar ke-35 NU.\n\n\"Sampai sekarang belum ada (klarifikasi),\" kata Gus Ipul usai pelantikan pengurus PBNU, Sabtu (24/10/2026).\n\nGus Ipul menegaskan, keterkaitan uang tersebut dengan dugaan politik uang maupun tindak pidana korupsi harus dibuktikan. Menurut dia, penyerahan uang kepada KPK memunculkan pertanyaan yang perlu dijawab melalui penelusuran lebih lanjut.\n\n\"Kalau itu artinya mengembalikan ke KPK, berarti itu kan ditengarai sebagai bagian dari hasil korupsi. Saya kira ini isu yang sangat sensitif dan perlu dibuktikan betul,\" ujarnya.\n\nPBNU, lanjut Gus Ipul, mendukung KPK untuk menuntaskan proses hukum terkait dugaan aliran dana tersebut. Ia berharap penyelidikan dapat memberikan kejelasan sehingga tidak ada lagi ketidakpastian mengenai perkara itu.\n\n\"Kita mendukung KPK menuntaskan proses ini, biar terang benderang, tidak abu-abu,\" kata dia.\n\nSebelumnya, Juru Bicara KPK Budi Prasetyo membenarkan bahwa lembaga antirasuah menerima pengembalian uang dari salah satu organisasi. Uang senilai Rp250 juta itu kemudian disita oleh penyidik untuk ditelusuri lebih lanjut.\n\n\"Memang ada pengembalian dari salah satu ormas, ya dan pengembalian uang tersebut juga telah dilakukan penyitaan oleh penyidik, salah satunya pengembalian uang senilai Rp 250 juta,\" kata Budi di Gedung Merah Putih, Jakarta, Selasa (20/10/2026).\n\nBudi menjelaskan, penyidik akan menganalisis keterkaitan uang tersebut dengan Muktamar NU. Apabila hasil penelusuran menunjukkan uang itu tidak berkaitan dengan dugaan politik uang, KPK akan mengembalikannya kepada pihak terkait.\n\n\"Karena memang prosesnya ini adalah inisiatif dari pihak terkait yang kemudian menyerahkan sejumlah uang Rp 250 juta itu kepada KPK, yang kemudian dilakukan penyitaan,\" ujar Budi.\n\nSelain PCNU Nias, KPK menerima pengaduan masyarakat dari PCNU Sekadau mengenai dugaan politik uang menjelang Muktamar ke-35 NU. Namun, pengaduan PCNU Sekadau tidak disertai penyerahan uang kepada KPK.\n\nSebelumnya, Gus Ipul memberikan waktu tujuh kali 24 jam kepada PCNU Nias dan PCNU Sekadau untuk melakukan tabayun atau klarifikasi kepada PBNU. Ia meminta kedua pengurus cabang tersebut menyampaikan informasi dan bukti terkait laporan yang telah disampaikan kepada KPK.\n\n\"Dua PCNU ini kami tunggu 7x24 jam untuk lapor kepada PBNU tentang hal-hal yang sudah dilaporkan ke KPK,\" kata Saifullah saat ditemui di Kantor Kementerian Sosial, Salemba, Jakarta Pusat, Jumat (23/10/2026).\n\nGus Ipul juga mengingatkan agar dugaan yang disampaikan tidak berhenti sebagai opini tanpa bukti. Menurut dia, laporan yang disertai bukti dapat membantu PBNU menelusuri persoalan dan memberikan informasi tambahan jika diperlukan.\n\n\"Sehingga kami tahu, kami bisa menelusuri, mungkin kami juga bisa memberikan informasi tambahan jika memang ada bukti yang cukup,\" kata Menteri Sosial itu."
-  },
-  {
-   "source": "liputan6",
-   "getter": "getter2",
-   "title": "KPK Usul Harta Pejabat Tak Dilaporkan di LHKPN Bisa Dirampas Negara",
-   "link": "https://www.liputan6.com/news/read/8321071/kpk-usul-harta-pejabat-tak-dilaporkan-di-lhkpn-bisa-dirampas-negara",
-   "pubDate": "Mon, 26 Oct 2026 00:46:08 +0700",
-   "description": "Selain itu, KPK mengusulkan negara dapat merampas harta penyelenggara negara apabila kekayaan yang dimiliki ternyata melebihi jumlah di LHKPN",
-   "fetched_at": "2026-10-25T23:15:24+07:00",
-   "categories": [
-    "korupsi"
-   ],
-   "content_status": "partial",
-   "content_chars": 141,
-   "content": "Selain itu, KPK mengusulkan negara dapat merampas harta penyelenggara negara apabila kekayaan yang dimiliki ternyata melebihi jumlah di LHKPN"
   }
  ]
 }
