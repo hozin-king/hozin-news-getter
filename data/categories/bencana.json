@@ -1,8 +1,53 @@
 {
- "updated_at": "2026-10-27T03:58:04+07:00",
+ "updated_at": "2026-10-27T07:13:35+07:00",
  "category": "bencana",
- "count": 5,
+ "count": 4,
  "articles": [
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Malaysia minta penjelasan Myanmar soal 300 pengungsi yang ditahan",
+   "link": "https://www.antaranews.com/berita/5813527/malaysia-minta-penjelasan-myanmar-soal-300-pengungsi-yang-ditahan",
+   "pubDate": "Tue, 27 Oct 2026 01:55:42 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/06/22/imigran-rohingya-aceh-timur_1.jpg\" align=\"left\" border=\"0\" />Pemerintah Malaysia mencermati isu terkait penahanan terhadap ratusan pengungsi Myanmar yang dipulangkan dari Malaysia ...",
+   "fetched_at": "2026-10-26T23:20:06+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 245,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/06/22/imigran-rohingya-aceh-timur_1.jpg\" align=\"left\" border=\"0\" />Pemerintah Malaysia mencermati isu terkait penahanan terhadap ratusan pengungsi Myanmar yang dipulangkan dari Malaysia ..."
+  },
+  {
+   "source": "detik",
+   "getter": "getter1",
+   "title": "Gempa M 4,7 Terjadi di Pulau Doi Malut",
+   "link": "https://news.detik.com/berita/d-8725508/gempa-m-4-7-terjadi-di-pulau-doi-malut",
+   "pubDate": "Tue, 27 Oct 2026 06:13:51 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/06/08/ilustrasi-gempa-1780909642348_169.jpeg?w=360&q=90\"/> Gempa magnitudo 4,7 mengguncang Pulau Doi, Maluku Utara, pada 27 Oktober 2026. Pusat gempa berada di laut, kedalaman 90 km. Belum ada laporan dampak.",
+   "fetched_at": "2026-10-26T23:20:03+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 273,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/06/08/ilustrasi-gempa-1780909642348_169.jpeg?w=360&q=90\"/> Gempa magnitudo 4,7 mengguncang Pulau Doi, Maluku Utara, pada 27 Oktober 2026. Pusat gempa berada di laut, kedalaman 90 km. Belum ada laporan dampak."
+  },
+  {
+   "source": "detik",
+   "getter": "getter1",
+   "title": "Cegah Banjir Susulan, Tito Minta Normalisasi Sungai di Sumatera Dipercepat",
+   "link": "https://news.detik.com/berita/d-8725205/cegah-banjir-susulan-tito-minta-normalisasi-sungai-di-sumatera-dipercepat",
+   "pubDate": "Mon, 26 Oct 2026 18:52:37 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/26/cegah-banjir-susulan-tito-minta-penanganan-sungai-di-sumatera-dipercepat-1793015467222.jpeg?w=360&q=90\"/> Mendagri Tito Karnavian menekankan pentingnya penanganan sedimentasi sungai untuk mencegah banjir susulan di Sumatera.",
+   "fetched_at": "2026-10-26T23:20:03+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 295,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/26/cegah-banjir-susulan-tito-minta-penanganan-sungai-di-sumatera-dipercepat-1793015467222.jpeg?w=360&q=90\"/> Mendagri Tito Karnavian menekankan pentingnya penanganan sedimentasi sungai untuk mencegah banjir susulan di Sumatera."
+  },
   {
    "source": "beritajatim",
    "getter": "auto",
@@ -17,68 +62,6 @@
    "content_status": "full",
    "content_chars": 2167,
    "content": "Ledakan LPG 12 Kg Guncang Kupang Segunting Surabaya, Dua Lansia Terluka dan Belasan Rumah Rusak\n\nSurabaya (beritajatim.com) – Ledakan gas LPG 12 kilogram mengguncang kawasan Kupang Segunting, Surabaya, Senin (26/10/2026). Dua lansia terluka dan belasan rumah mengalami kerusakan dengan tingkat kerusakan mulai ringan hingga berat.\n\nBerdasarkan hasil pemeriksaan awal di lapangan, titik awal ledakan diduga berasal dari rumah nomor 56. Gas dari tabung LPG 12 kilogram diduga bocor dan memenuhi ruangan sebelum akhirnya meledak.\n\nDahsyatnya ledakan membuat bangunan rumah dua lantai tersebut hancur. Material tembok dan genting yang roboh menghantam bangunan di sekitarnya, sehingga merusak enam rumah petak yang berdempetan di area permukiman tersebut.\n\n“Kuatnya tekanan ledakan membuat atap dan bagian dalam rumah korban hancur berantakan. Efek ledakan juga merusak sejumlah rumah warga di sekitarnya,” kata Ketua Tim Kerja Operasional BPBD Kota Surabaya, Arif Sunandar.\n\nSelain menyebabkan kerusakan pada belasan bangunan, kejadian ini juga mengakibatkan dua perempuan lanjut usia (lansia) terluka. Petugas gabungan dari Badan Penanggulangan Bencana Daerah (BPBD) Kota Surabaya bersama warga setempat langsung mengevakuasi kedua korban ke rumah sakit terdekat untuk mendapatkan penanganan medis lanjutan.\n\n“Jumlah korban luka dua jiwa dengan rincian, inisial JL [54] luka bakar 75 persen serta RLOA [84] terkena serpihan kaca di bagian tangan sebelah kiri,” imbuhnya.\n\nUntuk mengantisipasi bahaya korsleting listrik yang dapat memicu kebakaran lanjutan, PLN memadamkan jaringan listrik di sekitar lokasi kejadian. Pihak kepolisian dari Tim Inafis Polrestabes Surabaya juga telah memasang garis polisi untuk melakukan olah tempat kejadian perkara (TKP) guna mendalami penyebab teknis ledakan. (ang/kun)\n\nBaca berita lainnya di Google News atau langsung di halaman Indeks Berita\n\nBeritajatim.com adalah media online berbasis di Surabaya, dan fokus pada pemberitaan di wilayah Jawa Timur. Sejak awal, beritajatim.com memegang teguh kaidah jurnalistik dalam pemberitaan, sehingga aspek akurasi, disiplin verifikasi, independen, melekat kuat di setiap berita Selengkapnya"
-  },
-  {
-   "source": "inews",
-   "getter": "auto",
-   "title": "BNPB Ungkap Sebaran Karhutla di Indonesia, Kalimantan Tengah Paling Luas",
-   "link": "https://www.inews.id/news/nasional/bnpb-ungkap-sebaran-karhutla-di-indonesia-kalimantan-tengah-paling-luas",
-   "pubDate": "Tue, 27 Oct 2026 00:30:00 +0700",
-   "description": "BNPB mencatat karhutla 3.392 hektare di Kalimantan dan 990 hektare di Sumatera. Kalimantan Tengah menjadi wilayah dengan kebakaran terluas.",
-   "fetched_at": "2026-10-26T19:33:41+07:00",
-   "categories": [
-    "bencana",
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 139,
-   "content": "BNPB mencatat karhutla 3.392 hektare di Kalimantan dan 990 hektare di Sumatera. Kalimantan Tengah menjadi wilayah dengan kebakaran terluas."
-  },
-  {
-   "source": "republika",
-   "getter": "auto",
-   "title": "Malaysia Cermati Isu Penahanan Ratusan Pengungsi Myanmar yang Dipulangkan",
-   "link": "https://news.republika.co.id/berita/tnj3gc630000/malaysia-cermati-isu-penahanan-ratusan-pengungsi-myanmar-yang-dipulangkan",
-   "pubDate": "Tue, 27 Oct 2026 02:00:12 +0700",
-   "description": "REPUBLIKA.CO.ID, KUALA LUMPUR, – Pemerintah Malaysia menyatakan akan menyelidiki laporan mengenai penahanan terhadap ratusan pengungsi Myanmar yang baru saja dipulangkan dari negara tersebut. Menteri Luar Negeri Malaysia Mohamad Hasan...",
-   "fetched_at": "2026-10-26T19:33:37+07:00",
-   "categories": [
-    "bencana",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 237,
-   "content": "REPUBLIKA.CO.ID, KUALA LUMPUR, – Pemerintah Malaysia menyatakan akan menyelidiki laporan mengenai penahanan terhadap ratusan pengungsi Myanmar yang baru saja dipulangkan dari negara tersebut. Menteri Luar Negeri Malaysia Mohamad Hasan..."
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "Malaysia minta penjelasan Myanmar soal 300 pengungsi yang ditahan",
-   "link": "https://www.antaranews.com/berita/5813527/malaysia-minta-penjelasan-myanmar-soal-300-pengungsi-yang-ditahan",
-   "pubDate": "Tue, 27 Oct 2026 01:55:42 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/06/22/imigran-rohingya-aceh-timur_1.jpg\" align=\"left\" border=\"0\" />Pemerintah Malaysia mencermati isu terkait penahanan terhadap ratusan pengungsi Myanmar yang dipulangkan dari Malaysia ...",
-   "fetched_at": "2026-10-26T19:33:19+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 245,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/06/22/imigran-rohingya-aceh-timur_1.jpg\" align=\"left\" border=\"0\" />Pemerintah Malaysia mencermati isu terkait penahanan terhadap ratusan pengungsi Myanmar yang dipulangkan dari Malaysia ..."
-  },
-  {
-   "source": "detik",
-   "getter": "getter1",
-   "title": "Cegah Banjir Susulan, Tito Minta Normalisasi Sungai di Sumatera Dipercepat",
-   "link": "https://news.detik.com/berita/d-8725205/cegah-banjir-susulan-tito-minta-normalisasi-sungai-di-sumatera-dipercepat",
-   "pubDate": "Mon, 26 Oct 2026 18:52:37 +0700",
-   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/26/cegah-banjir-susulan-tito-minta-penanganan-sungai-di-sumatera-dipercepat-1793015467222.jpeg?w=360&q=90\"/> Mendagri Tito Karnavian menekankan pentingnya penanganan sedimentasi sungai untuk mencegah banjir susulan di Sumatera.",
-   "fetched_at": "2026-10-26T19:33:16+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 295,
-   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/26/cegah-banjir-susulan-tito-minta-penanganan-sungai-di-sumatera-dipercepat-1793015467222.jpeg?w=360&q=90\"/> Mendagri Tito Karnavian menekankan pentingnya penanganan sedimentasi sungai untuk mencegah banjir susulan di Sumatera."
   }
  ]
 }
