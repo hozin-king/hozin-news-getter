@@ -1,69 +1,178 @@
 {
- "updated_at": "2026-10-27T07:13:35+07:00",
+ "updated_at": "2026-10-27T12:56:24+07:00",
  "category": "kebakaran",
- "count": 9,
+ "count": 15,
  "articles": [
   {
-   "source": "akurat",
+   "source": "bloombergtechnoz",
    "getter": "auto",
-   "title": "Pasien RS di Kalteng Melonjak Akibat Karhutla, Puan Minta Insfrastruktur Kesehatan Diperkuat",
-   "link": "https://www.akurat.co/nasional/901799/pasien-rs-di-kalteng-melonjak-akibat-karhutla-puan-minta-insfrastruktur-kesehatan-diperkuat",
-   "pubDate": "Mon, 26 Oct 2026 23:14:20 +0700",
-   "description": "",
-   "fetched_at": "2026-10-26T23:21:00+07:00",
+   "title": "El Niño Perparah Kebakaran Hutan, Strategi Hujan Buatan Diuji",
+   "link": "https://www.bloombergtechnoz.com/detail-news/125823/el-nino-perparah-kebakaran-hutan-strategi-hujan-buatan-diuji",
+   "pubDate": "Tue, 27 Oct 2026 08:30:00 +0700",
+   "description": "<img src=\"https://images.bloombergtechnoz.com/data/2026/08/image-20260828114043.jpg\" /> Operasi penyemaian awan di langit Asia Tenggara belum banyak membantu memadamkan kebakaran hutan maupun mengurai kabut asap yang menyelimuti.",
+   "fetched_at": "2026-10-27T02:13:46+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "full",
+   "content_chars": 1749,
+   "video_type": "youtube",
+   "video_id": "n-Fv976AHtE",
+   "video_url": "https://www.youtube.com/watch?v=n-Fv976AHtE",
+   "content": "El Niño Perparah Kebakaran Hutan, Strategi Hujan Buatan Diuji\n\nPertamina Hulu Indonesia memadamkan kebakaran hutan dan lahan (karhutla) di sekitar wilayah operasional di Kalimantan. (Dok. PHI)\n\nBloomberg, Operasi penyemaian awan di langit Asia Tenggara belum banyak membantu memadamkan kebakaran hutan maupun mengurai kabut asap yang menyelimuti kawasan tersebut selama berbulan-bulan. Kondisi ini memperlihatkan keterbatasan upaya untuk memodifikasi cuaca.\n\nIndonesia dan Malaysia telah melakukan lebih dari 100 operasi sepanjang tahun ini untuk memicu hujan guna mengatasi kondisi sangat kering yang diperparah oleh El Niño. Kondisi tersebut telah mengeringkan tanah di Pulau Sumatra dan Kalimantan. Kabut asap beracun akibat musim kebakaran hutan terburuk dalam satu dekade terakhir telah mengganggu panen kelapa sawit, memaksa sekolah-sekolah ditutup, serta menurunkan kualitas udara hingga ke tingkat tidak sehat di negara tetangga, Singapura dan Kuala Lumpur.\n\nNamun, operasi yang menelan biaya besar tersebut sejauh ini belum memberikan hasil yang signifikan dan berkelanjutan. Operasi itu bahkan mencakup penggunaan es kering untuk memecah lapisan udara hangat yang memerangkap kabut asap di dekat permukaan tanah. Ketika negara-negara mengeluarkan lebih banyak dana untuk mengubah pola curah hujan yang semakin sulit diprediksi, efektivitas investasi semacam ini pun dipertanyakan, terutama saat kondisi cuaca mencapai tingkat ekstrem.\n\n“Adakalanya tekanan politik untuk melakukan sesuatu begitu besar, meskipun langkah tersebut belum tentu memiliki landasan ilmiah yang kuat,” kata Steven Siems, profesor di Monash University di Melbourne, Australia, sekaligus ketua bersama tim ahli modifikasi cuaca di Organisasi Meteorologi Dunia (WMO)."
+  },
+  {
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "Hujan Sedang Berpotensi Guyur Bandung dan Jogja, Ini Peringatan BMKG",
+   "link": "https://news.harianjogja.com/r-1276524/hujan-sedang-berpotensi-guyur-bandung-dan-jogja-ini-peringatan-bmkg",
+   "pubDate": "Tue, 27 Oct 2026 08:17:49 +0700",
+   "description": "BMKG memprakirakan hujan di sejumlah wilayah Indonesia serta mengingatkan potensi gelombang tinggi, banjir rob, dan awan cumulonimbus.",
+   "fetched_at": "2026-10-27T02:13:18+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "full",
+   "content_chars": 2946,
+   "content": "Hujan Sedang Berpotensi Guyur Bandung dan Jogja, Ini Peringatan BMKG\n\nFoto ilustrasi lahan pertanian diguyur hujan, dibuat menggunakan Artificial Intelligence.\n\nHarianjogja.com, JOGJA—Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan hujan ringan terjadi di sebagian besar wilayah Indonesia pada Selasa. Masyarakat juga diminta mewaspadai potensi gelombang tinggi, banjir rob, serta awan hujan yang dapat memengaruhi aktivitas di laut dan penerbangan.\n\nPrakirawan cuaca BMKG, Bintari, mengatakan hujan ringan berpotensi terjadi di sejumlah kota, antara lain Banda Aceh, Medan, Pekanbaru, Padang, Bengkulu, Palembang, Pangkal Pinang, Serang, Semarang, Surabaya, dan Mataram.\n\nPotensi serupa diprakirakan terjadi di Pontianak, Palangkaraya, Banjarmasin, Samarinda, Tanjung Selor, Makassar, Mamuju, Palu, Gorontalo, Manado, Sorong, Manokwari, Nabire, Jayapura, Jayawijaya, dan Merauke.\n\nSementara itu, udara kabur berpotensi terjadi di Jambi, Bandar Lampung, Ambon, dan Kendari. Hujan dengan intensitas sedang diprakirakan mengguyur Bandung dan Jogja.\n\nBMKG juga memperkirakan cuaca berawan tebal di Jakarta dan Ternate, berawan di Kupang, serta hujan disertai petir di Tanjung Pinang.\n\nSelain hujan, BMKG mengingatkan nelayan dan pengguna transportasi laut untuk mewaspadai gelombang setinggi 2,5 hingga 4 meter di Samudra Hindia selatan Jawa Timur.\n\nMasyarakat yang tinggal di kawasan pesisir juga diminta menyesuaikan aktivitas dengan kondisi pasang air laut. Potensi banjir rob dapat terjadi di pesisir Sumatera Utara, Sumatera Barat, Lampung, Jakarta, Jawa Barat, Jawa Timur, dan Bali.\n\nDalam keterangannya, Bintari menambahkan potensi banjir rob juga terdapat di pesisir Nusa Tenggara Barat, Kalimantan Utara, Kalimantan Selatan, Kalimantan Tengah, Sulawesi Utara, dan Maluku Tengah.\n\nBMKG turut mengingatkan pengguna transportasi udara untuk mewaspadai awan cumulonimbus yang berpotensi terbentuk di sejumlah wilayah. Awan tersebut dapat memicu hujan lebat, petir, dan turbulensi yang berpengaruh terhadap penerbangan.\n\nWilayah yang perlu diwaspadai meliputi Sumatera Barat, Riau, Jambi, Sumatera Selatan, Bengkulu, Kalimantan Barat, dan Kalimantan Tengah. Potensi awan hujan juga terdapat di Papua, Papua Barat, Papua Barat Daya, Papua Selatan, Papua Tengah, dan Papua Pegunungan.\n\nSelain itu, kewaspadaan diperlukan di Samudra Hindia bagian barat, Kepulauan Nias, Laut Natuna Utara, bagian utara Selat Karimata, hingga bagian timur Laut Sulawesi.\n\nBMKG mengingatkan bahwa meskipun cuaca kering masih mendominasi sejumlah wilayah, hujan dengan intensitas sedang hingga lebat tetap dapat terjadi secara lokal. Masyarakat diminta tetap memperhatikan potensi kekeringan serta kebakaran hutan dan lahan.\n\nCek Berita dan Artikel yang lain di Harian Jogja, dan edisi cetak versi elektronik kami hadir di Epaper Harian Jogja.\n\nSunartono Jurnalis Harian Jogja, bagian dari Bisnis Indonesia Group menulis untuk media cetak dan online"
+  },
+  {
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "Karhutla Ganggu 3.030 Penerbangan, Kemenhub Pastikan Bandara Tetap Buka",
+   "link": "https://news.harianjogja.com/r-1276519/karhutla-ganggu-3030-penerbangan-kemenhub-pastikan-bandara-tetap-buka",
+   "pubDate": "Tue, 27 Oct 2026 07:47:50 +0700",
+   "description": "Kemenhub mencatat 78 bandara terdampak karhutla pada Oktober 2026. Sekitar 1.700 penerbangan dibatalkan sejak 14 Agustus.",
+   "fetched_at": "2026-10-27T02:13:18+07:00",
    "categories": [
     "kebakaran",
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 3648,
-   "content": "Ketua DPR, Puan Maharani, dalam Rapat Paripurna DPR dalam rangka memperingati HUT ke-81 DPR RI, sekaligus penyampaian Laporan Kinerja DPR RI Tahun Sidang 2025-2026. - Foto: Youtube DPR\n\nPasien RS di Kalteng Melonjak Akibat Karhutla, Puan Minta Insfrastruktur Kesehatan Diperkuat\n\nAKURAT.CO Ketua DPR RI, Puan Maharani, menyoroti melonjaknya pasien rumah sakit (RS) di Kalimantan Tengah (Kalteng), buntut kebakaran hutan dan lahan (Karhutla). Dia pun meminta penguatan penanganan krisis kesehatan di Kalteng.\n\nSebelumnya, Menteri Kesehatan, Budi Gunadi Sadikin, mengungkapkan jumlah pasien yang masuk rumah sakit di Kalteng meningkat hingga tiga kali lipat, di tengah memburuknya kualitas udara akibat asap Karhutla.\n\nPenyebab utama lonjakan pasien disinyalir karena kualitas udara memburuk dan polusi meningkat drastis akibat Karhutla, dengan kasus ISPA (Infeksi Saluran Pernapasan Akut) mencapai lebih dari 72.431 kasus (tertinggi di Kota Palangka Raya).\n\nSalah satu rumah sakit utama yang terdampak adalah RSUD dr. Doris Sylvanus di Palangka Raya, di mana kapasitas mulai padat meski masih tertangani. Kemenkes telah menyiapkan percepatan distribusi bantuan peralatan medis, termasuk ventilator, ke rumah sakit di kabupaten dan kota di Kalteng. Menanggapi hal tersebut, Puan menyambut langkah Pemerintah menambah dukungan pelayanan kesehatan.\n\n\"Penguatan tersebut juga perlu disesuaikan dengan kebutuhan setiap rumah sakit agar bantuan segera dapat digunakan untuk pelayanan,\" kata Puan dalam keterangannya, Senin (26/10/2026).\n\nDia pun mendorong Kemenkes bersama dinas kesehatan memperbarui informasi mengenai jumlah pasien, tingkat kebutuhan perawatan, keterisian tempat tidur, serta kemampuan fasilitas menerima rujukan.\n\nInformasi tersebut diperlukan untuk menentukan rumah sakit yang membutuhkan tambahan dukungan paling mendesak. Keputusan bantuan perlu mengikuti kebutuhan pelayanan saat ini.\n\n\"Rumah sakit yang menerima pasien lebih banyak harus segera memperoleh dukungan yang sesuai dengan kekurangan tenaga, sarana, dan kapasitas perawatannya,\" ujarnya.\n\nPada saat yang sama, Puan juga meminta pelayanan di Puskesmas diperkuat sehingga warga dapat diperiksa lebih awal dan diarahkan sesuai kondisi klinisnya. Penguatan penanganan dampak asap Karhutla perlu pula menjaga keberlangsungan pelayanan lain, termasuk persalinan, tindakan gawat darurat, dan pengobatan rutin.\n\nMenurutnya, Pemerintah pusat dan daerah perlu menyepakati dukungan yang dapat terus diandalkan selama keadaan tersebut berlangsung.\n\nSebab, keluarga yang terdampak Karhutla membutuhkan kepastian mengenai tempat memperoleh bantuan dan kelanjutannya ketika perawatan masih dibutuhkan atau kegiatan mencari nafkah belum dapat berjalan seperti biasa.\n\n\"Harapan keluarga adalah dapat mendampingi orang yang sakit tanpa kehilangan pijakan untuk menjalani hari berikutnya. Dukungan negara perlu memberi mereka kepastian selama melewati masa sulit ini,\" jelasnya.\n\nDPR berkomitmen untuk mengawal tindak lanjut dan penanganan Karhutla termasuk dari sisi krisis kesehatan yang dialami masyarakat. Tak lupa dia juga mengapresiasi seluruh pihak yang terus berupaya membantu penanganan Karhutla, termasuk bantuan kesehatan untuk masyarakat terdampak.\n\n\"Dukungan dari tenaga kesehatan, petugas, relawan, dan masyarakat dalam penanganan Karhutla harus mendapat dukungan dari Negara. Peningkatan kebutuhan perawatan dapat membawa perubahan besar dalam kehidupan keluarga yang mengalami krisis kesehatan akibat Karhutla,\" tegasnya.\n\nDilarang mengambil dan/atau menayangkan ulang sebagian atau keseluruhan artikel di atas untuk konten akun media sosial komersil tanpa seizin redaksi."
+   "content_chars": 3687,
+   "content": "Karhutla Ganggu 3.030 Penerbangan, Kemenhub Pastikan Bandara Tetap Buka\n\nPesawat komersial Airbus A320-214 milik maskapai penerbangan Citilink bersiap lepas landas di Bandara Internasional Sultan Mahmud Badaruddin (SMB) II Palembang, Sumatra Selatan, yan tertutup kabut asap, Kamis (17/9/2026)./Antara-Nova Wahyudi\n\nHarianjogja.com, JOGJA—Kementerian Perhubungan (Kemenhub) memastikan tidak ada bandara yang ditutup akibat kebakaran hutan dan lahan (karhutla). Meski demikian, gangguan cuaca dan jarak pandang membuat operasional penerbangan di sejumlah wilayah harus menyesuaikan kondisi.\n\nDirektur Jenderal Perhubungan Udara Kemenhub, Lukman F. Laisa, mengatakan seluruh bandara tetap beroperasi dengan penyesuaian jadwal penerbangan berdasarkan kondisi cuaca di wilayah terdampak.\n\n\"Jadi tidak ada bandara yang ditutup ya. Tidak ada bandara yang ditutup,\" kata Lukman di Jakarta, Senin (26/10/2026).\n\nSalah satu penyesuaian dilakukan di Bandara Pontianak. Penerbangan yang sebelumnya dapat dilayani pada siang hari dialihkan ke malam hari ketika kondisi cuaca lebih mendukung.\n\n\"Seperti di Pontianak yang tadinya siang bisa dimanfaatkan untuk penerbangan, akhirnya pindah pada saat cuaca cerah di malam hari. Itu tetap ada penerbangan,\" ujar dia.\n\nKemenhub mencatat 78 bandara terdampak kebakaran hutan dan lahan selama 18-25 Oktober 2026. Dari jumlah tersebut, sebanyak 70 bandara berada di bawah pengelolaan Unit Penyelenggara Bandar Udara atau Unit Pelaksana Teknis Daerah, tujuh bandara dikelola Angkasa Pura, dan satu bandara merupakan milik swasta.\n\nSecara kumulatif, sejak 14 Agustus hingga 25 Oktober 2026, dampak karhutla tercatat memengaruhi 3.030 penerbangan. Gangguan terjadi pada 154 rute, sedangkan sekitar 1.700 penerbangan dibatalkan.\n\nDampak terbesar terjadi pada rute menuju Pontianak, Singkawang, Palangkaraya, dan Pangkalan Bun. Selain penerbangan komersial, sebanyak 617 penerbangan perintis di Papua, Kalimantan, dan Maluku turut terdampak.\n\nDi tengah gangguan penerbangan, pemerintah juga menyiapkan dukungan operasional udara untuk penanganan karhutla. Lukman mengatakan Kemenhub telah menerbitkan seluruh izin yang diperlukan bagi penggunaan 42 unit helikopter untuk mendukung kegiatan penanganan kebakaran hutan dan lahan.\n\nLukman menambahkan, dampak karhutla terhadap bandara di Papua mulai berkurang. Jika sebelumnya terdapat 12 bandara terdampak, kini jumlahnya turun menjadi tujuh bandara seiring membaiknya kondisi cuaca.\n\n\"Yang jelas kalau area-area yang saat ini kan mulai berkurang kayak Papua yang tadinya 12 bandara sekarang tinggal 7 gitu kan. Makin berkurang (bandara terdampak) sih, benar-benar musim hujan juga sudah bisa ada dan penerbangan bisa lebih lancar,\" katanya menjelaskan.\n\nUntuk mengantisipasi dampak kebakaran hutan terhadap transportasi, Kemenhub telah menerbitkan Surat Edaran Menteri Perhubungan Nomor SE MHB 4 Tahun 2026 tentang peningkatan kewaspadaan sarana dan prasarana transportasi terhadap bahaya kebakaran hutan.\n\nDirektorat Jenderal Perhubungan Udara juga menerbitkan Surat Edaran Nomor SE 19 Tahun 2026 mengenai mitigasi risiko dampak kebakaran hutan terhadap operasional penerbangan.\n\nKedua surat edaran tersebut telah disampaikan kepada seluruh operator penerbangan, pengelola bandara, badan usaha angkutan udara domestik dan internasional, serta pengelola bandara swasta. Kebijakan ini menjadi bagian dari upaya meningkatkan kewaspadaan terhadap dampak karhutla pada operasional penerbangan.\n\nCek Berita dan Artikel yang lain di Harian Jogja, dan edisi cetak versi elektronik kami hadir di Epaper Harian Jogja.\n\nSunartono Jurnalis Harian Jogja, bagian dari Bisnis Indonesia Group menulis untuk media cetak dan online"
   },
   {
    "source": "katadata",
    "getter": "auto",
-   "title": "Narasi “Hutan Rusak” dalam Kebijakan Biofuel Indonesia",
-   "link": "https://katadata.co.id/indepth/opini/6adec5bfe7d2b/narasi-hutan-rusak-dalam-kebijakan-biofuel-indonesia",
-   "pubDate": "Tue, 27 Oct 2026 06:05:00 +0700",
-   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/26/Akuat_Supriyanto-2026_10_26-10_09_08_c762b3d6ef2abc447c726afd456e09ff_620x413_thumb.jpg\" alt=\"Akuat Supriyanto\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Wacana pengembangan biofuel dari hutan terdegradasi pasca kebakaran memicu perdebatan antara swasembada energi dan keberlanjutan lingkungan.</p>",
-   "fetched_at": "2026-10-26T23:20:52+07:00",
-   "categories": [
-    "kebakaran",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 10286,
-   "content": "Ada eufemisme yang secara halus ditanamkan dalam kesadaran publik bahwa kebakaran hutan dan lahan (karhutla) yang masif melanda Indonesia sepanjang 2026 telah menyebabkan hutan kita porak-poranda. Narasi ”hutan rusak” itu sepertinya sedang diolah sedemikian rupa untuk menjadi instrumen legitimasi teknokratis bagi kebijakan pengembangan energi terbarukan.\n\nAwal Oktober lalu, dalam Investor Daily Summit, Utusan Khusus Presiden Bidang Iklim dan Energi, Hashim Djojohadikusumo menyatakan bahwa ekspansi biodiesel B50–B100 akan memanfaatkan 12,7 juta hektare hutan terdegradasi yang ia sebut ”tidak ada kayu lagi, hanya semak belukar”. Pernyataan yang bergema di ruangan berpendingin di Jakarta pada saat asap masih membumbung tinggi di pedalaman Sumatra dan Kalimantan, tak ayal memantik tanggapan pro dan kontra.\n\nSecara permukaan, argumen mengenai perlunya swasembada energi dengan memanfaatkan sisa-sisa kerusakan hutan itu tampak logis. Mengapa membiarkan lahan terlantar ketika ia bisa dikonversi menjadi pusat energi domestik guna memitigasi risiko geopolitik pasokan minyak Timur Tengah?\n\nMeski demikian, kebijakan publik tidak pernah bergerak dalam ruang dikotomi biner yang sederhana. Esai ini hadir bukan untuk mendelegitimasi agenda transisi energi, melainkan untuk menguji premis bahwa transisi tersebut harus menabrak sisa hutan alam yang dilabel ”hutan rusak”.\n\nDalam ekologi lanskap, degradasi hutan adalah spektrum, bukan kategori biner yang statis. Hutan sekunder yang mengalami gangguan parsial tetap berfungsi sebagai penyerap karbon (carbon sink), koridor keanekaragaman hayati, dan penyangga hidrologis yang jauh lebih unggul ketimbang monokultur agroindustri. Apa yang tampak sebagai “semak belukar” di mata investasi sebenarnya adalah suksesi alami ekosistem yang sedang memulihkan diri.\n\nBahaya terbesar dari reduksi definisi lahan hutan menjadi sekadar “hutan rusak” tersebut adalah munculnya self-fulfilling prophecy. Ketika suatu kawasan dilabeli “terdegradasi”, status hukumnya rentan dideklasifikasi menjadi area konsesi.\n\nHal tersebut menciptakan moral hazard ekologis dalam ekonomi politik regulasi: kerusakan hutan bisa saja sengaja dibiarkan atau bahkan dipercepat karena degradasi menjadi prasyarat legalitas penerbitan izin konversi.\n\nAngka 12,7 juta hektare itu bukan anomali alamiah, melainkan akumulasi pembiaran deforestasi struktural dan tata kelola konsesi yang buruk selama beberapa tahun terakhir.\n\nDalam literatur ekonomi lingkungan, diskursus tata kelola hutan dan sumber daya alam dapat dibedah menggunakan tesis “Green Paradox” yang dirumuskan ekonom Jerman, Hans-Werner Sinn (2008). Paradoks itu menjelaskan bagaimana kebijakan mitigasi emisi yang tidak tepat justru mempercepat eksploitasi hutan dan sumber daya alam karena produsen bergegas mengekstrak aset sebelum regulasi diperketat.\n\nLaporan Global Forest Coalition (2024) mengonfirmasi fenomena serupa pada proyek co-firing biomassa di Indonesia: subsidi energi hijau justru memperpanjang usia pembangkit batu bara sekaligus memicu deforestasi baru demi pasokan pelet kayu (wood pellet).\n\nDalam rencana hilirisasi biodiesel, paradoks tata kelola itu mewujud dalam manipulasi insentif. Mandat B50–B100, jaminan harga pasar, dan kucuran subsidi dana sawit melahirkan dorongan ekonomi masif: bukan untuk mencari lahan yang benar-benar rusak, melainkan untuk mendefinisikan ulang hutan sehat agar memenuhi syarat administratif untuk “dihijaukan” kembali dengan sawit.\n\nEfek sampingnya diperparah Jevons Paradox, sebagaimana disampaikan William Stanley Jevons (1865), bahwa peningkatan ketersediaan sumber daya baru tidak menurunkan konsumsi total, melainkan mendongkrak skala permintaan. Biofuel tidak sepenuhnya substitutif, sebab sifatnya aditif terhadap konsumsi energi fosil yang masih tinggi.\n\nDi dalam negeri, kebutuhan biodiesel transportasi darat pada 2030 diproyeksikan menyentuh 42 juta kiloliter. Sedangkan Kebijakan Energi Nasional (KEN) hanya mengalokasikan 26,6 juta kiloliter. Defisit struktural 15,4 juta kiloliter itu memicu risiko kanibalisme lahan.\n\nAnalisis Chatham House (September 2026) memperingatkan bahwa pemenuhan target dalam tenggat ambisius akan memicu konflik pemanfaatan lahan (land-use conflict) ekstrem antara sektor energi dan ketahanan pangan nasional.\n\nMari melihat batas empiris berbasis angka. Berdasarkan kajian Daya Dukung dan Daya Tampung Lingkungan Hidup (D3TLH), batas atas aman (ecological ceiling) perluasan perkebunan sawit nasional adalah 18,15 juta hektare. Pada 2026, tutupan sawit eksisting telah mencapai 17,8 juta hektare. Ruang ekspansi fisik yang tersisa sebelum tabrakan ekologis hanya sekitar 350 ribu hektare, sebuah margin yang amat tipis.\n\nMengakomodasi B50 saja membutuhkan sedikitnya 17,9 juta ton Crude Palm Oil (CPO). Jika dipaksakan menuju B100, kalkulasi matematika swasembada energi terbarukan ini akan runtuh saat dihadapkan pada persaingan pemanfaatan CPO domestik untuk pangan (minyak goreng) dan oleokimia.\n\nDirektur Eksekutif MADANI Berkelanjutan, Nadia Hadad (2026), mengingatkan bahwa peningkatan target biofuel tanpa pengaman (safeguard) institusional yang jelas akan menempatkan sisa hutan alam dalam risiko kepunahan. Pilihan pemerintah mengejar ekspansi horizontal ketimbang intensifikasi vertikal mengindikasikan distorsi insentif ekonomi politik.\n\nEkstraksi lahan baru menawarkan jalan pintas penguasaan ruang, kayu tegakan, dan rente kapital baru. Pilihan tersebut jauh lebih instan ketimbang mengelola replanting lahan petani swadaya berumur di atas 20 tahun yang luasnya mencapai 7 juta hektare.\n\nProyek biofuel di “hutan rusak” tak ayal menjurus pada land grabbing yang dipoles dengan estetika hijau (greenwashing). Padahal, laporan teknis Landscape Alliance (2026) mencatat adanya 3,5 juta hektare lahan kritis nonhutan yang setidaknya berpotensi untuk ditanami komoditas bioenergi nonpangan seperti nyamplung, malapari, dan kemiri sunan.\n\nSpesies itu mampu menghasilkan 285 ribu kiloliter energi per tahun sekaligus merehabilitasi fungsi hidrologis tanah marginal tanpa memicu deforestasi atau kelangkaan pangan. Namun opsi ini diabaikan karena tidak menjanjikan margin keuntungan jangka pendek sebesar sawit.\n\nAda ambivalensi mendasar dalam retorika resmi pemerintah. Di satu sisi, terdapat komitmen menghentikan deforestasi demi pangan dan energi. Di sisi lain, ada rencana alokasi 12,7 juta hektare hutan terdegradasi untuk korporasi bioenergi.\n\nMengubah ekosistem hutan--terdegradasi sekalipun--menjadi hamparan monokultur kelapa sawit secara teknis dan ekologis tetap merupakan deforestasi. Kesenjangan komitmen ini dikritik keras WALHI.\n\nPengkampanye Ekosistem Esensial dan Pangan WALHI Nasional, Musdalifah Jamal (2026), menegaskan perlunya instrumen hukum mengikat seperti moratorium izin kehutanan baru berbasis pemulihan selama 20 tahun.\n\nTanpa komitmen itu, dokumen seperti Peta Arahan Pemanfaatan Hutan (PAPH) untuk PBPH 2026—yang mencadangkan 5,67 juta hektare untuk ketahanan pangan dan energi—akan tetap menjadi ancaman langsung bagi hutan alam yang tersisa.\n\nSenada dengan itu, Greenpeace Indonesia menjelang COP30 mengategorikan skema biofuel berskala masif ini sebagai “solusi palsu” iklim. Kebijakan ini dinilai gagal melepaskan diri dari jerat kepentingan pebisnis konglomerasi kelapa sawit.\n\nDalam teori ekonomi politik, fenomena ini disebut regulatory capture (George Stigler, 1971): kondisi ketika otoritas negara merumuskan regulasi yang didikte kepentingan aktor industri yang seharusnya diawasi. Mandat B50–B100 menciptakan captive market yang menyerap produksi CPO secara masif dengan jaminan subsidi negara, sambil memindahkan beban eksternalitas lingkungan ke pundak publik.\n\nIroni terbesar transisi energi ini terpampang pada kenyataan empiris di lapangan. Rencana pemanfaatan “hutan rusak” bergulir di atas tanah yang abunya belum sepenuhnya mendingin akibat kebakaran hutan dan lahan. Data BNPB hingga 13 Oktober 2026 menunjukkan masih ada 639,23 hektare lahan di enam provinsi prioritas yang terbakar, dengan titik terparah di Taman Nasional Tanjung Puting, Kalimantan Tengah (513,89 hektare).\n\nDalam analisis akademik tentang super-wicked problems yang dirumuskan Kelly Levin dkk. (2012), salah satu karakteristik utamanya adalah those who cause the problem also seek to provide the solution: aktor yang memicu masalah bertindak sebagai penyedia solusi.\n\nKorporasi ekstraktif yang diuntungkan lemahnya penegakan hukum karhutla kini hadir kembali ke meja perundingan sebagai “pahlawan hijau”. Lahan yang rusak akibat tata kelola buruk dialihfungsikan menjadi perkebunan energi, melahirkan siklus keuntungan baru di atas kerusakan ekologis yang mereka ciptakan sendiri.\n\nJika pemerintah serius memikirkan keberlanjutan masa depan bangsa, arah transisi energi harus dirombak total melalui empat pilar struktural. Pertama, intensifikasi sawit rakyat melalui skema peremajaan (replanting) berbasis sains.\n\nKedua, diversifikasi bahan baku nonpangan lokal--nyamplung dan kemiri sunan—di lahan kritis nonhutan.\n\nKetiga, melembagakan moratorium izin kehutanan baru selama 20 tahun yang berorientasi penuh pada pemulihan ekologis.\n\nKeempat, melakukan audit Total Economic Value (TEV) untuk menghitung ongkos hilangnya layanan alam sebelum memutuskan konversi lahan.\n\nTransisi energi yang ditopang konversi sisa hutan alam bukanlah lompatan ke depan, melainkan kelanjutan nalar ekstraktif lama yang berganti topeng. Kita tidak sedang mengganti sistem energi. Kita hanya sedang mengganti bahan bakar dari api yang siap melahap sisa-sisa masa depan ekologis generasi yang belum lahir.\n\nHutan kita tidak pernah benar-benar rusak. Yang rusak adalah cara kita memandangnya.\n\nDapatkan akses cepat ke berita terkini dan data berharga dari WhatsApp Channel Katadata.co.id\n\nDapatkan pengalaman membaca lebih nyaman dan nikmati fitur menarik lainnya lewat aplikasi mobile Katadata.\n\nStaf pengajar Fakultas Ekonomi dan Bisnis Universitas Padjadjaran\n\nCatatan Redaksi: Katadata.co.id menerima tulisan opini dari akademisi, pekerja profesional, pengamat, ahli/pakar, tokoh masyarakat, dan pekerja pemerintah. Kriteria tulisan adalah maksimum 1.000 kata dan tidak sedang dikirim atau sudah tayang di media lain. Kirim tulisan ke opini@katadata.co.id disertai dengan CV ringkas dan foto diri."
-  },
-  {
-   "source": "mediaindonesia",
-   "getter": "auto",
-   "title": "Galang Dukungan bagi Masyarakat Terdampak Karhutla",
-   "link": "https://mediaindonesia.com/humaniora/949035/galang-dukungan-bagi-masyarakat-terdampak-karhutla-",
-   "pubDate": "Tue, 27 Oct 2026 05:59:00 +0700",
-   "description": "Manulife Indonesia mengajak masyarakat meningkatkan kewaspadaan terhadap dampak asap, sekaligus menggalang dukungan melalui Yayasan Manulife Peduli.",
-   "fetched_at": "2026-10-26T23:20:20+07:00",
+   "title": "Utang Emisi Asap dan Api tanpa Tuan",
+   "link": "https://katadata.co.id/indepth/opini/6adec74099500/utang-emisi-asap-dan-api-tanpa-tuan",
+   "pubDate": "Tue, 27 Oct 2026 06:45:00 +0700",
+   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/26/Iqbal_Akbar-2026_10_26-10_18_02_0bed66605496a0fbf883424538c4ee2b_620x413_thumb.jpg\" alt=\"Iqbal Akbar\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Emisi karbon dari kebakaran hutan Indonesia diperkirakan memecahkan rekor, menyebar lintas negara dan membayangi kualitas udara di kawasan Asia Tenggara.</p>",
+   "fetched_at": "2026-10-27T02:13:12+07:00",
    "categories": [
     "kebakaran"
    ],
    "content_status": "partial",
-   "content_chars": 148,
-   "content": "Manulife Indonesia mengajak masyarakat meningkatkan kewaspadaan terhadap dampak asap, sekaligus menggalang dukungan melalui Yayasan Manulife Peduli."
+   "content_chars": 384,
+   "content": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/26/Iqbal_Akbar-2026_10_26-10_18_02_0bed66605496a0fbf883424538c4ee2b_620x413_thumb.jpg\" alt=\"Iqbal Akbar\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Emisi karbon dari kebakaran hutan Indonesia diperkirakan memecahkan rekor, menyebar lintas negara dan membayangi kualitas udara di kawasan Asia Tenggara.</p>"
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "Potret Kehidupan Warga Palangka Raya di Tengah Asap Karhutla",
+   "link": "https://visual.republika.co.id/berita/tnjn5f375/potret-kehidupan-warga-palangka-raya-di-tengah-asap-karhutla",
+   "pubDate": "Tue, 27 Oct 2026 09:05:39 +0700",
+   "description": "PALANGKA RAYA --&nbsp;Langit yang menguning kemerahan menjadi latar kehidupan warga di Palangka Raya, Kalimantan Tengah. Asap menyelimuti pepohonan, halaman rumah, hingga bangunan tempat mereka beraktivitas. Di tengah udara yang...",
+   "fetched_at": "2026-10-27T02:13:11+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 231,
+   "content": "PALANGKA RAYA --&nbsp;Langit yang menguning kemerahan menjadi latar kehidupan warga di Palangka Raya, Kalimantan Tengah. Asap menyelimuti pepohonan, halaman rumah, hingga bangunan tempat mereka beraktivitas. Di tengah udara yang..."
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "Kemenhub Tegaskan tak Ada Penutupan Bandara Akibat Karhutla, Ini Penjelasannya",
+   "link": "https://ekonomi.republika.co.id/berita/tnjmr9490/kemenhub-tegaskan-tak-ada-penutupan-bandara-akibat-karhutla-ini-penjelasannya",
+   "pubDate": "Tue, 27 Oct 2026 08:57:09 +0700",
+   "description": "JAKARTA&nbsp;-- Kementerian Perhubungan (Kemenhub) menegaskan tidak ada penutupan bandara akibat kebakaran hutan dan lahan (karhutla), meski sejumlah operasional penerbangan mengalami penyesuaian karena kondisi cuaca dan gangguan jarak pandang.\nDirektur Jenderal...",
+   "fetched_at": "2026-10-27T02:13:11+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 265,
+   "content": "JAKARTA&nbsp;-- Kementerian Perhubungan (Kemenhub) menegaskan tidak ada penutupan bandara akibat kebakaran hutan dan lahan (karhutla), meski sejumlah operasional penerbangan mengalami penyesuaian karena kondisi cuaca dan gangguan jarak pandang.\nDirektur Jenderal..."
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "BNPB Kerahkan 14 Ton Bahan Semai Atasi Karhutla",
+   "link": "https://news.republika.co.id/berita/tnjmly370/bnpb-kerahkan-14-ton-bahan-semai-atasi-karhutla",
+   "pubDate": "Tue, 27 Oct 2026 08:53:58 +0700",
+   "description": "JAKARTA &mdash; Badan Nasional Penanggulangan Bencana menghabiskan total 14,3 ton bahan semai melalui operasi modifikasi cuaca. Langkah ini dilakukan untuk memperbesar potensi hujan dan mempercepat penanganan kebakaran hutan dan...",
+   "fetched_at": "2026-10-27T02:13:11+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 231,
+   "content": "JAKARTA &mdash; Badan Nasional Penanggulangan Bencana menghabiskan total 14,3 ton bahan semai melalui operasi modifikasi cuaca. Langkah ini dilakukan untuk memperbesar potensi hujan dan mempercepat penanganan kebakaran hutan dan..."
   },
   {
    "source": "antara",
    "getter": "getter2",
-   "title": "Kemenhub tegaskan tak ada penutupan bandara imbas karhutla",
-   "link": "https://www.antaranews.com/berita/5813563/kemenhub-tegaskan-tak-ada-penutupan-bandara-imbas-karhutla",
-   "pubDate": "Tue, 27 Oct 2026 05:52:44 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/27/FBCBAC72-401D-4E76-A6AB-A12B7E773C56.jpeg\" align=\"left\" border=\"0\" />Kementerian Perhubungan (Kemenhub) menegaskan tidak ada penutupan bandara akibat kebakaran hutan dan lahan (karhutla), ...",
-   "fetched_at": "2026-10-26T23:20:06+07:00",
+   "title": "Apakah masker medis efektif melindungi diri dari kabut asap?",
+   "link": "https://www.antaranews.com/berita/5813683/apakah-masker-medis-efektif-melindungi-diri-dari-kabut-asap",
+   "pubDate": "Tue, 27 Oct 2026 08:05:28 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/09/07/penjualan-masker-meningkat-di-jakarta-2858621.jpg\" align=\"left\" border=\"0\" />Kabut asap akibat kebakaran hutan dan lahan (karhutla) dapat mengganggu kesehatan, terutama saluran pernapasan. Salah ...",
+   "fetched_at": "2026-10-27T02:12:56+07:00",
    "categories": [
     "kebakaran"
    ],
    "content_status": "partial",
-   "content_chars": 253,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/27/FBCBAC72-401D-4E76-A6AB-A12B7E773C56.jpeg\" align=\"left\" border=\"0\" />Kementerian Perhubungan (Kemenhub) menegaskan tidak ada penutupan bandara akibat kebakaran hutan dan lahan (karhutla), ..."
+   "content_chars": 260,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/09/07/penjualan-masker-meningkat-di-jakarta-2858621.jpg\" align=\"left\" border=\"0\" />Kabut asap akibat kebakaran hutan dan lahan (karhutla) dapat mengganggu kesehatan, terutama saluran pernapasan. Salah ..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Puntung rokok picu kebakaran lahan di Pulau Tidung",
+   "link": "https://www.antaranews.com/berita/5813671/puntung-rokok-picu-kebakaran-lahan-di-pulau-tidung",
+   "pubDate": "Tue, 27 Oct 2026 08:00:06 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/27/86790140-e2cf-481f-aa33-8332ca39eea6.jpeg\" align=\"left\" border=\"0\" />Suku Dinas Penanggulangan Kebakaran dan Penyelamatan (Gulkarmat) Jakarta Utara dan Kepulauan Seribu menyebutkan puntung ...",
+   "fetched_at": "2026-10-27T02:12:56+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 254,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/27/86790140-e2cf-481f-aa33-8332ca39eea6.jpeg\" align=\"left\" border=\"0\" />Suku Dinas Penanggulangan Kebakaran dan Penyelamatan (Gulkarmat) Jakarta Utara dan Kepulauan Seribu menyebutkan puntung ..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Kemarin, penanganan karhutla hingga modifikasi cuaca di tiga provinsi",
+   "link": "https://www.antaranews.com/berita/5813635/kemarin-penanganan-karhutla-hingga-modifikasi-cuaca-di-tiga-provinsi",
+   "pubDate": "Tue, 27 Oct 2026 07:22:01 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/23/simulasi-penanggulangan-karhutla-di-sulteng-2891539.jpg\" align=\"left\" border=\"0\" />Sejumlah berita dari Senin (27/10) masih menarik untuk dibaca, mulai dari sejumlah upaya penanganan kebakaran hutan dan ...",
+   "fetched_at": "2026-10-27T02:12:56+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 268,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/23/simulasi-penanggulangan-karhutla-di-sulteng-2891539.jpg\" align=\"left\" border=\"0\" />Sejumlah berita dari Senin (27/10) masih menarik untuk dibaca, mulai dari sejumlah upaya penanganan kebakaran hutan dan ..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Pemerintah habiskan 14,3 ton bahan semai untuk atasi karhutla",
+   "link": "https://www.antaranews.com/berita/5813619/pemerintah-habiskan-143-ton-bahan-semai-untuk-atasi-karhutla",
+   "pubDate": "Tue, 27 Oct 2026 06:57:40 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/19/operasi-modifikasi-cuaca-di-palembang-2887641.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) menghabiskan total 14,3 ton (14.300 kg) bahan semai melalui operasi ...",
+   "fetched_at": "2026-10-27T02:12:56+07:00",
+   "categories": [
+    "kebakaran",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 255,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/19/operasi-modifikasi-cuaca-di-palembang-2887641.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) menghabiskan total 14,3 ton (14.300 kg) bahan semai melalui operasi ..."
   },
   {
    "source": "liputan6",
@@ -72,7 +181,7 @@
    "link": "https://www.liputan6.com/news/read/8321460/200-personel-brimob-turun-tangani-kebakaran-hutan-kalimantan",
    "pubDate": "Mon, 26 Oct 2026 14:50:40 +0700",
    "description": "Ratusan personel ini dikerahkan untuk membantu menangani kebakaran hutan dan lahan di Kaltim dan Kalteng.",
-   "fetched_at": "2026-10-26T23:20:05+07:00",
+   "fetched_at": "2026-10-27T02:12:54+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -87,7 +196,7 @@
    "link": "https://www.liputan6.com/news/read/8321430/kebakaran-landa-permukiman-padat-di-tamansari-jakbar",
    "pubDate": "Mon, 26 Oct 2026 14:25:57 +0700",
    "description": "Kebakaran di Tamansari terjadi sekitar pukul 12.00 WIB.",
-   "fetched_at": "2026-10-26T23:20:05+07:00",
+   "fetched_at": "2026-10-27T02:12:54+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -98,48 +207,32 @@
   {
    "source": "detik",
    "getter": "getter1",
+   "title": "Sempat Ada Kebakaran di MT Haryono, Lalin Cawang Arah Pancoran Macet",
+   "link": "https://news.detik.com/berita/d-8725609/sempat-ada-kebakaran-di-mt-haryono-lalin-cawang-arah-pancoran-macet",
+   "pubDate": "Tue, 27 Oct 2026 08:59:07 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2025/08/12/ilustrasi-macet-1754995918513_169.jpeg?w=360&q=90\"/> Mobil pemadam kebakaran menangani kebakaran tumpukan kayu di bangunan kosong di Jalan MT Haryono, Jakarta Selatan. Lalu lintas padat akibat insiden ini.",
+   "fetched_at": "2026-10-27T02:12:53+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 276,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2025/08/12/ilustrasi-macet-1754995918513_169.jpeg?w=360&q=90\"/> Mobil pemadam kebakaran menangani kebakaran tumpukan kayu di bangunan kosong di Jalan MT Haryono, Jakarta Selatan. Lalu lintas padat akibat insiden ini."
+  },
+  {
+   "source": "detik",
+   "getter": "getter1",
    "title": "Karhutla Lawu Sisakan 1 Titik, Ahmad Luthfi Minta Penyisiran Menyeluruh",
    "link": "https://news.detik.com/bangun-indonesia/d-8725110/karhutla-lawu-sisakan-1-titik-ahmad-luthfi-minta-penyisiran-menyeluruh",
    "pubDate": "Mon, 26 Oct 2026 17:44:48 +0700",
    "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/26/gubernur-jawa-tengah-ahmad-luthfi-menyebut-kebakaran-hutan-dan-lahan-di-kawasan-gunung-lawu-masih-menyisakan-satu-titik-api-1793011312728_169.jpeg?w=360&q=90\"/> Gubernur Jateng Ahmad Luthfi laporkan satu titik api tersisa di Gunung Lawu. Tim relawan dan BPBD siapkan pemadaman lanjutan untuk mencegah kebakaran meluas.",
-   "fetched_at": "2026-10-26T23:20:03+07:00",
+   "fetched_at": "2026-10-27T02:12:53+07:00",
    "categories": [
     "kebakaran"
    ],
    "content_status": "partial",
    "content_chars": 389,
    "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/26/gubernur-jawa-tengah-ahmad-luthfi-menyebut-kebakaran-hutan-dan-lahan-di-kawasan-gunung-lawu-masih-menyisakan-satu-titik-api-1793011312728_169.jpeg?w=360&q=90\"/> Gubernur Jateng Ahmad Luthfi laporkan satu titik api tersisa di Gunung Lawu. Tim relawan dan BPBD siapkan pemadaman lanjutan untuk mencegah kebakaran meluas."
-  },
-  {
-   "source": "detik",
-   "getter": "getter1",
-   "title": "Kepala BMKG Sebut Titik Karhutla di Sumsel dan Kalteng Tinggi, OMC Dimasifkan",
-   "link": "https://news.detik.com/berita/d-8724813/kepala-bmkg-sebut-titik-karhutla-di-sumsel-dan-kalteng-tinggi-omc-dimasifkan",
-   "pubDate": "Mon, 26 Oct 2026 16:17:09 +0700",
-   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/kabut-asap-makin-pekat-aktivitas-warga-kuala-kapuas-terganggu-1792933853677_169.jpeg?w=360&q=90\"/> BMKG menerangkan, penanganan karhutla masih dilakukan secara masif. Menurut dia, Sumsel dan Kalteng menjadi dua provinsi dengan tingkat karhutla cukup tinggi.",
-   "fetched_at": "2026-10-26T23:20:03+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 328,
-   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/25/kabut-asap-makin-pekat-aktivitas-warga-kuala-kapuas-terganggu-1792933853677_169.jpeg?w=360&q=90\"/> BMKG menerangkan, penanganan karhutla masih dilakukan secara masif. Menurut dia, Sumsel dan Kalteng menjadi dua provinsi dengan tingkat karhutla cukup tinggi."
-  },
-  {
-   "source": "wartaekonomi",
-   "getter": "auto",
-   "title": "Tak Punya KTP Jakarta, Pramono Warga Tetap Bisa Mengakses Layanan Puskesmas",
-   "link": "https://wartaekonomi.co.id/read643614/tak-punya-ktp-jakarta-pramono-warga-tetap-bisa-mengakses-layanan-puskesmas",
-   "pubDate": "Tue, 27 Oct 2026 01:30:00 +0700",
-   "description": "Pramono mengatakan, ia telah mengecek langsung kesiapan petugas dalam melayani masyarakat, termasuk warga yang tidak memiliki KTP Jakarta.",
-   "fetched_at": "2026-10-26T19:33:49+07:00",
-   "categories": [
-    "kebakaran",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 2367,
-   "content": "Home / News / Daerah Tak Punya KTP Jakarta, Pramono Warga Tetap Bisa Mengakses Layanan Puskesmas Selasa, 27 Oktober 2026, 01:30 WIB\n\nGubernur DKI Jakarta Pramono Anung memastikan warga yang tidak memiliki KTP Jakarta tetap dapat berobat di puskesmas. Kepastian itu disampaikannya saat meresmikan gedung baru Puskesmas Kecamatan Taman Sari, Jakarta Barat, Senin (26/10/2026).\n\nPramono mengatakan, ia telah mengecek langsung kesiapan petugas dalam melayani masyarakat, termasuk warga yang tidak memiliki KTP Jakarta.\n\nPengecekan tersebut dilakukan untuk memastikan kebijakan Pemerintah Provinsi DKI Jakarta diterapkan hingga ke tingkat pelayanan.\n\nIa juga meninjau kesiapan layanan kesehatan bagi masyarakat yang terdampak kondisi tertentu, termasuk dampak letusan Gunung Anak Krakatau dan kebakaran hutan.\n\nMenurut Pramono, kunjungan itu bertujuan memastikan respons petugas di lapangan berjalan sesuai dengan kebijakan yang telah ditetapkan pemerintah daerah.\n\nGedung baru Puskesmas Kecamatan Taman Sari berdiri di atas lahan seluas sekitar 976 meter persegi. Luas bangunannya mencapai 2.725 meter persegi.\n\nFasilitas tersebut diperkirakan mampu melayani sekitar 124.500 warga. Jumlah kunjungan pasien rata-rata mencapai 500 orang per hari.\n\nPuskesmas ini juga didukung lima puskesmas pembantu (pustu) dan 63 pos pelayanan terpadu (posyandu). Layanannya mencakup pemeriksaan ibu hamil dan bayi hingga pelayanan bagi warga lanjut usia.\n\nKepala Dinas Kesehatan DKI Jakarta Ani Ruspitawati menjelaskan, sebelumnya Puskesmas Kecamatan Taman Sari beroperasi di Jalan Blustru. Keterbatasan ruang di gedung lama membuat pengembangan layanan belum berjalan maksimal.\n\nDengan menempati gedung baru, puskesmas memiliki ruang lebih luas untuk mengembangkan layanan, terutama kunjungan sehat. Sementara itu, gedung lama di Jalan Blustru akan dialihfungsikan menjadi Puskesmas Pembantu Taman Sari.\n\nAni mengatakan, Pemprov DKI Jakarta terus membangun dan memperbaiki fasilitas kesehatan secara bertahap.\n\nPada 2025, Dinas Kesehatan DKI Jakarta membangun delapan fasilitas kesehatan. Jumlah itu terdiri dari dua puskesmas kecamatan dan enam puskesmas pembantu.\n\nSementara pada 2026, pembangunan direncanakan berlangsung di tiga lokasi puskesmas pembantu.\n\nSelain pembangunan fasilitas baru, Pemprov DKI juga akan memperbaiki sejumlah puskesmas yang kondisinya sudah kurang memadai."
   }
  ]
 }

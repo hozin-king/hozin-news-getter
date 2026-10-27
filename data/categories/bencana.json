@@ -1,22 +1,99 @@
 {
- "updated_at": "2026-10-27T07:13:35+07:00",
+ "updated_at": "2026-10-27T12:56:24+07:00",
  "category": "bencana",
- "count": 4,
+ "count": 8,
  "articles": [
   {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "Malaysia minta penjelasan Myanmar soal 300 pengungsi yang ditahan",
-   "link": "https://www.antaranews.com/berita/5813527/malaysia-minta-penjelasan-myanmar-soal-300-pengungsi-yang-ditahan",
-   "pubDate": "Tue, 27 Oct 2026 01:55:42 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/06/22/imigran-rohingya-aceh-timur_1.jpg\" align=\"left\" border=\"0\" />Pemerintah Malaysia mencermati isu terkait penahanan terhadap ratusan pengungsi Myanmar yang dipulangkan dari Malaysia ...",
-   "fetched_at": "2026-10-26T23:20:06+07:00",
+   "source": "akurat",
+   "getter": "auto",
+   "title": "Hujan dan Banjir Ganggu Akses Proyek 7.952 Huntap di Aceh",
+   "link": "https://www.akurat.co/infrastruktur/901791/hujan-dan-banjir-ganggu-akses-proyek-7-952-huntap-di-aceh",
+   "pubDate": "Tue, 27 Oct 2026 08:50:00 +0700",
+   "description": "",
+   "fetched_at": "2026-10-27T02:13:21+07:00",
+   "categories": [
+    "bencana",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2896,
+   "content": "Pelaksana Tugas (Plt) Direktur Jenderal Perumahan Perdesaan Kementerian Perumahan dan Kawasan Permukiman (PKP), Teddy Paul H Siagian - AKURAT.CO/Esha Tri Wahyuni\n\nAKURAT.CO Pemerintah tengah mengerjakan pembangunan 7.952 unit hunian tetap (huntap) bagi warga terdampak bencana di tiga provinsi di Sumatra. Namun, proses pembangunan di Aceh menghadapi kendala akses akibat meningkatnya intensitas hujan, banjir, dan luapan sungai.\n\n\"Kalau di Sumatra Utara dan Sumatra Barat alhamdulillah sampai sekarang nggak ada problem, justru yang di Aceh. Aceh ini sudah mulai tinggi intensitas hujannya, sudah mulai ada banjir, luapan air sungai,\" kata Teddy saat ditemui di Jakarta, (27/10/2026).\n\nDia menjelaskan, lokasi pembangunan huntap telah melalui kajian Badan Geologi. Karena itu, persoalan yang perlu ditangani saat ini adalah gangguan akses akibat kerusakan infrastruktur, seperti jalan longsor dan jembatan yang bermasalah.\n\n\"Kalau lokasi kita semua aman karena lokasi kita sudah dikaji oleh Badan Geologi. Yang memang menjadi problem itu aksesnya,\" ujarnya.\n\nMenurut Teddy, petugas di balai dan satuan kerja terkait akan menangani kerusakan akses yang masih memungkinkan diperbaiki secara langsung. Sementara itu, kerusakan yang lebih besar akan dikoordinasikan dengan Posko Satuan Tugas (Satgas).\n\nPemerintah juga berkoordinasi dengan pemerintah daerah dan Kementerian Pekerjaan Umum (PU) untuk menangani persoalan akses menuju lokasi pembangunan. Posko Satgas, kata Teddy, telah membagi penanggung jawab untuk masing-masing kabupaten dan kota.\n\nDi tengah tantangan, pemerintah menjalankan sejumlah tahapan pembangunan secara bersamaan. Pekerjaan tersebut mencakup pembersihan lahan atau land clearing, penyiapan lahan atau land development, hingga fabrikasi komponen rumah.Teddy mengatakan, pembangunan huntap mulai berjalan pada akhir September hingga awal Oktober 2026. Karena itu, tahapan pekerjaan saat ini masih berfokus pada persiapan lahan dan produksi material bangunan.\"Kalau progres itu sekarang semua sudah dilaksanakan land clearing dan land development. Tapi kita punya pekerjaan simultan, jadi fabrikasi panel struktur RISHA, terus kemudian fabrikasi untuk kusen, pintu, jendela, kemudian fabrikasi untuk material atap, itu juga dilaksanakan,\" jelasnya.RISHA merupakan teknologi rumah instan sederhana sehat yang menggunakan komponen struktur pracetak. Melalui pengerjaan fabrikasi secara bersamaan dengan persiapan lahan, komponen bangunan diharapkan dapat langsung dipasang ketika lokasi siap dikerjakan.Teddy mengatakan, pendekatan tersebut diharapkan mempercepat pekerjaan di lapangan. Namun, dia tidak merinci target penyelesaian seluruh 7.952 unit huntap maupun persentase progres pembangunan untuk masing-masing provinsi.\n\nDilarang mengambil dan/atau menayangkan ulang sebagian atau keseluruhan artikel di atas untuk konten akun media sosial komersil tanpa seizin redaksi."
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "Cuaca Hari Ini, BMKG: Sejumlah Wilayah Berpotensi Hujan hingga Banjir Rob",
+   "link": "https://www.akurat.co/nasional/901846/cuaca-hari-ini-bmkg-sejumlah-wilayah-berpotensi-hujan-hingga-banjir-rob",
+   "pubDate": "Tue, 27 Oct 2026 08:05:39 +0700",
+   "description": "",
+   "fetched_at": "2026-10-27T02:13:21+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "full",
+   "content_chars": 1980,
+   "content": "Cuaca Hari Ini, BMKG: Sejumlah Wilayah Berpotensi Hujan hingga Banjir Rob\n\nAKURAT.CO Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sebagian besar wilayah Indonesia berpotensi diguyur hujan ringan pada Selasa (27/10/2026).\n\nMasyarakat juga diminta mewaspadai gelombang tinggi, banjir rob, serta potensi awan hujan yang dapat mengganggu aktivitas transportasi.\n\nPrakirawan cuaca BMKG, Bintari, mengatakan potensi hujan ringan diprakirakan terjadi di sejumlah wilayah, antara lain Banda Aceh, Medan, Pekanbaru, Padang, Bengkulu, Palembang, Pangkal Pinang, Serang, Semarang, Surabaya, dan Mataram.\n\nHujan ringan juga berpotensi terjadi di Pontianak, Palangkaraya, Banjarmasin, Samarinda, Tanjung Selor, Makassar, Mamuju, Palu, Gorontalo, Manado, Sorong, Manokwari, Nabire, Jayapura, Jayawijaya, dan Merauke.\n\nSementara itu, potensi udara kabur diprakirakan terjadi di Jambi, Bandar Lampung, Ambon, dan Kendari. Hujan dengan intensitas sedang berpotensi mengguyur Bandung dan Yogyakarta.\n\nAdapun cuaca berawan tebal diprakirakan terjadi di Jakarta dan Ternate, sedangkan Kupang berpotensi berawan. Hujan disertai petir diprakirakan terjadi di Tanjung Pinang.\n\nBMKG mengingatkan nelayan dan masyarakat yang menggunakan transportasi laut untuk mewaspadai gelombang setinggi 2,5 hingga 4 meter yang berpotensi terjadi di Samudra Hindia selatan Jawa Timur.\n\nMasyarakat yang tinggal di wilayah pesisir juga diimbau menyesuaikan aktivitas dengan kondisi pasang air laut karena berpotensi terjadi banjir rob.\n\nWilayah yang perlu mewaspadai potensi tersebut meliputi pesisir Sumatera Utara, Sumatera Barat, Lampung, Jakarta, Jawa Barat, Jawa Timur, dan Bali.\n\nPotensi banjir rob juga dapat terjadi di pesisir Nusa Tenggara Barat, Kalimantan Utara, Kalimantan Selatan, Kalimantan Tengah, Sulawesi Utara, dan Maluku Tengah.\n\nDilarang mengambil dan/atau menayangkan ulang sebagian atau keseluruhan artikel di atas untuk konten akun media sosial komersil tanpa seizin redaksi."
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "Cegah Banjir di Labuhanbatu, PTPN IV Kerahkan Ekskavator Normalisasi Saluran Air",
+   "link": "https://www.akurat.co/riil/901786/cegah-banjir-di-labuhanbatu-ptpn-iv-kerahkan-ekskavator-normalisasi-saluran-air",
+   "pubDate": "Tue, 27 Oct 2026 07:50:00 +0700",
+   "description": "",
+   "fetched_at": "2026-10-27T02:13:21+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "full",
+   "content_chars": 1708,
+   "content": "Normalisasi saluran air di Meranti Paham menggunakan ekskavator dilakukan untuk mengurangi risiko banjir. Pemeliharaan berkala diperlukan agar saluran tidak kembali tersumbat. - Dok. PTPN IV Palmco\n\nCegah Banjir di Labuhanbatu, PTPN IV Kerahkan Ekskavator Normalisasi Saluran Air\n\nAKURAT.CO Trauma akibat hantaman bencana hidrologis masif di wilayah Sumatra dan Aceh pada tahun lalu menjadi pelajaran mahal.\n\nEnggan membiarkan roda ekonomi daerah kembali lumpuh total akibat banjir, PT Perkebunan Nusantara IV (PTPN IV PalmCo) mengambil langkah mitigasi agresif dengan mengerahkan alat berat secara serentak sebelum puncak cuaca ekstrem tiba.\n\nSalah satu fokus utama pergerakan cepat ini terlihat di Dusun VI, Desa Meranti Paham, Kecamatan Panai Hulu, Kabupaten Labuhanbatu, Sumatera Utara.\n\nPTPN IV PalmCo menerjunkan ekskavator untuk menormalisasi aliran sungai dan drainase vital yang selama ini menjadi titik krusial penyumbatan air.\n\nMerespon hal tersebut, Direktur Utama PTPN IV PalmCo, Jatmiko K. Santosa, menegaskan bahwa pihaknya tidak ingin terjebak dalam pola kuno yang hanya fokus pada fase tanggap darurat pascabencana.\n\nSebab menurut Jatmiko, pemulihan infrastruktur dasar, penyediaan air bersih, hingga pembangunan hunian bagi korban terdampak memakan waktu dan sumber daya yang sangat masif.\n\n\"Tahun ini kami menginstruksikan seluruh unit untuk bergerak lebih awal membenahi drainase dan memetakan titik rawan krisis sebelum bencana itu sendiri terjadi,\" tegas Jatmiko dalam keterangan tertulis yang diterima di Jakarta, Selasa (27/10/2026).\n\nDilarang mengambil dan/atau menayangkan ulang sebagian atau keseluruhan artikel di atas untuk konten akun media sosial komersil tanpa seizin redaksi."
+  },
+  {
+   "source": "mediaindonesia",
+   "getter": "auto",
+   "title": "Lava Lewotobi Meluas hingga 4,34 Km, 8 Wilayah Waspada Banjir Lahar",
+   "link": "https://mediaindonesia.com/nusantara/949073/lava-lewotobi-meluas-hingga-434-km-8-wilayah-waspada-banjir-lahar",
+   "pubDate": "Tue, 27 Oct 2026 08:57:00 +0700",
+   "description": "Endapan lava Gunung Lewotobi Laki-laki mencapai 4,34 km ke timur laut dan 3,8 km ke barat-barat laut. Delapan wilayah di Flores Timur diminta mewaspadai banjir lahar hujan.",
+   "fetched_at": "2026-10-27T02:13:12+07:00",
    "categories": [
     "bencana"
    ],
    "content_status": "partial",
-   "content_chars": 245,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/06/22/imigran-rohingya-aceh-timur_1.jpg\" align=\"left\" border=\"0\" />Pemerintah Malaysia mencermati isu terkait penahanan terhadap ratusan pengungsi Myanmar yang dipulangkan dari Malaysia ..."
+   "content_chars": 172,
+   "content": "Endapan lava Gunung Lewotobi Laki-laki mencapai 4,34 km ke timur laut dan 3,8 km ke barat-barat laut. Delapan wilayah di Flores Timur diminta mewaspadai banjir lahar hujan."
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "BNPB Kerahkan 14 Ton Bahan Semai Atasi Karhutla",
+   "link": "https://news.republika.co.id/berita/tnjmly370/bnpb-kerahkan-14-ton-bahan-semai-atasi-karhutla",
+   "pubDate": "Tue, 27 Oct 2026 08:53:58 +0700",
+   "description": "JAKARTA &mdash; Badan Nasional Penanggulangan Bencana menghabiskan total 14,3 ton bahan semai melalui operasi modifikasi cuaca. Langkah ini dilakukan untuk memperbesar potensi hujan dan mempercepat penanganan kebakaran hutan dan...",
+   "fetched_at": "2026-10-27T02:13:11+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 231,
+   "content": "JAKARTA &mdash; Badan Nasional Penanggulangan Bencana menghabiskan total 14,3 ton bahan semai melalui operasi modifikasi cuaca. Langkah ini dilakukan untuk memperbesar potensi hujan dan mempercepat penanganan kebakaran hutan dan..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Merawat Surabaya, mencegah bencana moral",
+   "link": "https://www.antaranews.com/berita/5813707/merawat-surabaya-mencegah-bencana-moral",
+   "pubDate": "Tue, 27 Oct 2026 08:27:08 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/27/IMG_9791.jpg\" align=\"left\" border=\"0\" />Kota yang tangguh tidak cukup diukur dari kemampuannya menghadapi banjir, kebakaran, atau gempa bumi. Ketahanan juga ...",
+   "fetched_at": "2026-10-27T02:12:56+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 222,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/27/IMG_9791.jpg\" align=\"left\" border=\"0\" />Kota yang tangguh tidak cukup diukur dari kemampuannya menghadapi banjir, kebakaran, atau gempa bumi. Ketahanan juga ..."
   },
   {
    "source": "detik",
@@ -25,7 +102,7 @@
    "link": "https://news.detik.com/berita/d-8725508/gempa-m-4-7-terjadi-di-pulau-doi-malut",
    "pubDate": "Tue, 27 Oct 2026 06:13:51 +0700",
    "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/06/08/ilustrasi-gempa-1780909642348_169.jpeg?w=360&q=90\"/> Gempa magnitudo 4,7 mengguncang Pulau Doi, Maluku Utara, pada 27 Oktober 2026. Pusat gempa berada di laut, kedalaman 90 km. Belum ada laporan dampak.",
-   "fetched_at": "2026-10-26T23:20:03+07:00",
+   "fetched_at": "2026-10-27T02:12:53+07:00",
    "categories": [
     "bencana"
    ],
@@ -40,28 +117,13 @@
    "link": "https://news.detik.com/berita/d-8725205/cegah-banjir-susulan-tito-minta-normalisasi-sungai-di-sumatera-dipercepat",
    "pubDate": "Mon, 26 Oct 2026 18:52:37 +0700",
    "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/26/cegah-banjir-susulan-tito-minta-penanganan-sungai-di-sumatera-dipercepat-1793015467222.jpeg?w=360&q=90\"/> Mendagri Tito Karnavian menekankan pentingnya penanganan sedimentasi sungai untuk mencegah banjir susulan di Sumatera.",
-   "fetched_at": "2026-10-26T23:20:03+07:00",
+   "fetched_at": "2026-10-27T02:12:53+07:00",
    "categories": [
     "bencana"
    ],
    "content_status": "partial",
    "content_chars": 295,
    "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/26/cegah-banjir-susulan-tito-minta-penanganan-sungai-di-sumatera-dipercepat-1793015467222.jpeg?w=360&q=90\"/> Mendagri Tito Karnavian menekankan pentingnya penanganan sedimentasi sungai untuk mencegah banjir susulan di Sumatera."
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Ledakan LPG 12 Kg Guncang Kupang Segunting Surabaya, Dua Lansia Terluka dan Belasan Rumah Rusak",
-   "link": "https://beritajatim.com/ledakan-lpg-12-kg-guncang-kupang-segunting-surabaya-dua-lansia-terluka-dan-belasan-rumah-rusak",
-   "pubDate": "Mon, 26 Oct 2026 16:51:25 +0000",
-   "description": "<a href=\"https://beritajatim.com/ledakan-lpg-12-kg-guncang-kupang-segunting-surabaya-dua-lansia-terluka-dan-belasan-rumah-rusak\" title=\"Ledakan LPG 12 Kg Guncang Kupang Segunting Surabaya, Dua Lansia Terluka dan Belasan Rumah Rusak\" rel=\"nofollow\"><img width=\"1516\" height=\"1017\" src=\"https://cdnmedia.beritajatim.com/images/2026/10/Gemini_Generated_Image_mby03wmby03wmby0_11zon.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; c",
-   "fetched_at": "2026-10-26T19:33:48+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "full",
-   "content_chars": 2167,
-   "content": "Ledakan LPG 12 Kg Guncang Kupang Segunting Surabaya, Dua Lansia Terluka dan Belasan Rumah Rusak\n\nSurabaya (beritajatim.com) – Ledakan gas LPG 12 kilogram mengguncang kawasan Kupang Segunting, Surabaya, Senin (26/10/2026). Dua lansia terluka dan belasan rumah mengalami kerusakan dengan tingkat kerusakan mulai ringan hingga berat.\n\nBerdasarkan hasil pemeriksaan awal di lapangan, titik awal ledakan diduga berasal dari rumah nomor 56. Gas dari tabung LPG 12 kilogram diduga bocor dan memenuhi ruangan sebelum akhirnya meledak.\n\nDahsyatnya ledakan membuat bangunan rumah dua lantai tersebut hancur. Material tembok dan genting yang roboh menghantam bangunan di sekitarnya, sehingga merusak enam rumah petak yang berdempetan di area permukiman tersebut.\n\n“Kuatnya tekanan ledakan membuat atap dan bagian dalam rumah korban hancur berantakan. Efek ledakan juga merusak sejumlah rumah warga di sekitarnya,” kata Ketua Tim Kerja Operasional BPBD Kota Surabaya, Arif Sunandar.\n\nSelain menyebabkan kerusakan pada belasan bangunan, kejadian ini juga mengakibatkan dua perempuan lanjut usia (lansia) terluka. Petugas gabungan dari Badan Penanggulangan Bencana Daerah (BPBD) Kota Surabaya bersama warga setempat langsung mengevakuasi kedua korban ke rumah sakit terdekat untuk mendapatkan penanganan medis lanjutan.\n\n“Jumlah korban luka dua jiwa dengan rincian, inisial JL [54] luka bakar 75 persen serta RLOA [84] terkena serpihan kaca di bagian tangan sebelah kiri,” imbuhnya.\n\nUntuk mengantisipasi bahaya korsleting listrik yang dapat memicu kebakaran lanjutan, PLN memadamkan jaringan listrik di sekitar lokasi kejadian. Pihak kepolisian dari Tim Inafis Polrestabes Surabaya juga telah memasang garis polisi untuk melakukan olah tempat kejadian perkara (TKP) guna mendalami penyebab teknis ledakan. (ang/kun)\n\nBaca berita lainnya di Google News atau langsung di halaman Indeks Berita\n\nBeritajatim.com adalah media online berbasis di Surabaya, dan fokus pada pemberitaan di wilayah Jawa Timur. Sejak awal, beritajatim.com memegang teguh kaidah jurnalistik dalam pemberitaan, sehingga aspek akurasi, disiplin verifikasi, independen, melekat kuat di setiap berita Selengkapnya"
   }
  ]
 }
