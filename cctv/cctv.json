@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T14:21:36+07:00",
+ "updated_at": "2026-10-27T21:00:52+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -5556,20 +5556,6 @@
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/756244361092985972933974.m3u8",
      "lat": 5.513709,
      "lon": 95.451133
-    },
-    {
-     "nama": "SIBANCEH KM 59+525 A",
-     "lokasi": "SIBANCEH KM 59+525 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/141710434214833889968446.m3u8",
-     "lat": 5.4974247,
-     "lon": 95.457391
-    },
-    {
-     "nama": "SIBANCEH KM 59+525 B",
-     "lokasi": "SIBANCEH KM 59+525 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/575457507310275789239078.m3u8",
-     "lat": 5.4974247,
-     "lon": 95.457391
     },
     {
      "nama": "SIBANCEH KM 60+525 A",
