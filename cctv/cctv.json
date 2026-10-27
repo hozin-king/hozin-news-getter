@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T04:24:26+07:00",
+ "updated_at": "2026-10-27T08:10:58+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -4361,13 +4361,6 @@
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
    "kamera": [
     {
-     "nama": "MR STA 1",
-     "lokasi": "MR STA 1",
-     "stream": "https://cctv.ctptollways.com:2254/streams/cam_6/index.m3u8",
-     "lat": -627858.0,
-     "lon": 107087738.0
-    },
-    {
      "nama": "MR STA 10",
      "lokasi": "MR STA 10",
      "stream": "https://cctv.ctptollways.com:2254/streams/cam_21/index.m3u8",
@@ -4401,13 +4394,6 @@
      "stream": "https://cctv.ctptollways.com:2254/streams/cam_29/index.m3u8",
      "lat": -6.137309,
      "lon": 107.063111
-    },
-    {
-     "nama": "MR STA 2",
-     "lokasi": "MR STA 2",
-     "stream": "https://cctv.ctptollways.com:2254/streams/cam_13/index.m3u8",
-     "lat": -6.270903,
-     "lon": 107.0912906
     },
     {
      "nama": "MR STA 20",
@@ -4457,13 +4443,6 @@
      "stream": "https://cctv.ctptollways.com:2254/streams/cam_39/index.m3u8",
      "lat": -6.113184,
      "lon": 106.9855
-    },
-    {
-     "nama": "MR STA 3",
-     "lokasi": "MR STA 3",
-     "stream": "https://cctv.ctptollways.com:2254/streams/cam_14/index.m3u8",
-     "lat": -6.268522,
-     "lon": 107.093273
     },
     {
      "nama": "MR STA 5",
