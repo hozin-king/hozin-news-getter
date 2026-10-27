@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-27T08:10:58+07:00",
+ "updated_at": "2026-10-27T14:21:36+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3388,48 +3388,6 @@
      "lon": null
     },
     {
-     "nama": "ENTRANCE GENDING",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/136246164069906379647553.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "EXIT GENDING",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/977167874427763451746762.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "GATE GENDING",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/649541773858342348334288.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "GENDING 0+800",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/127541450610142836446649.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "GENDING 3+300",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/165508286173376779404196.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "GENDING KM 1+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/864495125690853914623791.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "GERBANG TOL CAKUNG",
      "lokasi": "6 Tol Dalam Kota (Kelapa Gading-Pulo Gebang)",
      "stream": "https://camera.jtd.co.id/camera/share/tios/2/81/index.m3u8",
@@ -3598,69 +3556,6 @@
      "lon": null
     },
     {
-     "nama": "KM 837+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/138982752655280577416057.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 841+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/954022855801602338173268.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 842+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/445611965027008738399060.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 843+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/027664306647094286999949.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 844+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/289329487202780435350069.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 845+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/369911633632709343267317.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 846+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/662943616394767421464155.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 847+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/889668200271021187586189.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 849+600",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/647965804800924367765078.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "MR 65+900",
      "lokasi": "Serang - Panimbang Seksi 1 (Serang - Rangkasbitung)",
      "stream": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/3/index.m3u8",
@@ -3759,23 +3654,9 @@
      "lon": null
     },
     {
-     "nama": "ONRAMP GENDING",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/672818584293968095947208.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "On Ramp Jatikarya",
      "lokasi": "Cimanggis-Cibitung",
      "stream": "https://streaming-cct.co.id/LiveApp/streams/364231033851578471527863.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "SS GENDING",
-     "lokasi": "Pasuruan-Probolinggo",
-     "stream": "https://paspro-streaming.co.id/LiveApp/streams/375660359233015132536155.m3u8",
      "lat": null,
      "lon": null
     },
@@ -4059,76 +3940,6 @@
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
    "kamera": [
-    {
-     "nama": "BALENO 11+950 A",
-     "lokasi": "BALENO 11+950 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/0gm47wdhhhWZ1732880032431.m3u8",
-     "lat": -1.906853,
-     "lon": 103.652986
-    },
-    {
-     "nama": "BALENO 11+950 B",
-     "lokasi": "BALENO 11+950 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/9BANOfe5ZXtS1732880042720.m3u8",
-     "lat": -1.906853,
-     "lon": 103.652986
-    },
-    {
-     "nama": "BALENO 12+700 A",
-     "lokasi": "BALENO 12+700 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/N85SYqLArbQc1732880052075.m3u8",
-     "lat": -1.900405,
-     "lon": 103.650647
-    },
-    {
-     "nama": "BALENO 13+900 A",
-     "lokasi": "BALENO 13+900 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/IkqFbquUxrLB1732880072839.m3u8",
-     "lat": -1.900405,
-     "lon": 103.650647
-    },
-    {
-     "nama": "BALENO 13+900 B",
-     "lokasi": "BALENO 13+900 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/UMupbzscAaEt1732880082453.m3u8",
-     "lat": -1.889745,
-     "lon": 103.650272
-    },
-    {
-     "nama": "BALENO 15+010 A",
-     "lokasi": "BALENO 15+010 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/tGN9dJsAiTOl1732880092010.m3u8",
-     "lat": -1.879675,
-     "lon": 103.650168
-    },
-    {
-     "nama": "BALENO 16+095 A",
-     "lokasi": "BALENO 16+095 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/kJH2pdzOcDUt1732880112821.m3u8",
-     "lat": -1.869786,
-     "lon": 103.650038
-    },
-    {
-     "nama": "BALENO 16+095 B",
-     "lokasi": "BALENO 16+095 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/o8OxMF3njwaU1732880123659.m3u8",
-     "lat": -1.869786,
-     "lon": 103.650038
-    },
-    {
-     "nama": "BALENO 16+950 A",
-     "lokasi": "BALENO 16+950 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/DEQCaxT5BRk81732880134527.m3u8",
-     "lat": -1.86973,
-     "lon": 103.650014
-    },
-    {
-     "nama": "BALENO 16+950 B",
-     "lokasi": "BALENO 16+950 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/YiQHKPxepPsC1732880152564.m3u8",
-     "lat": -1.86973,
-     "lon": 103.650014
-    },
     {
      "nama": "BALENO GT BAYUNG LENCIR ENTRANCE",
      "lokasi": "BALENO GT BAYUNG LENCIR ENTRANCE",
