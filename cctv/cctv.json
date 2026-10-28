@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T11:05:12+07:00",
+ "updated_at": "2026-10-28T18:00:59+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -4578,13 +4578,6 @@
      "lon": 106.8620157
     },
     {
-     "nama": "JORRS KM 30+900",
-     "lokasi": "JORRS KM 30+900",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/746991492646583252398044.m3u8",
-     "lat": -6.3073182,
-     "lon": 106.8669867
-    },
-    {
      "nama": "JORRS KM 31+300",
      "lokasi": "JORRS KM 31+300",
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/146024230666959414726933.m3u8",
@@ -4731,13 +4724,6 @@
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
    "kamera": [
-    {
-     "nama": "PACIN GT KAPALO HILALANG ENTRANCE",
-     "lokasi": "PACIN GT KAPALO HILALANG ENTRANCE",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/ZcdASbMzvoSh1739452492750.m3u8",
-     "lat": -0.5281584,
-     "lon": 100.3060466
-    },
     {
      "nama": "PACIN GT PADANG ENTRANCE",
      "lokasi": "PACIN GT PADANG ENTRANCE",
