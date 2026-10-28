@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-28T18:00:59+07:00",
+ "updated_at": "2026-10-29T00:07:29+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3925,13 +3925,6 @@
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/056605534596645381685649.m3u8",
      "lat": -6.107079,
      "lon": 106.894764
-    },
-    {
-     "nama": "ATP KM 67+200 B",
-     "lokasi": "ATP KM 67+200 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/356285838211375724458124.m3u8",
-     "lat": -6.114893,
-     "lon": 106.893044
     }
    ]
   },
@@ -4653,13 +4646,6 @@
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/303549026471898651386718.m3u8",
      "lat": -6.3044946,
      "lon": 106.8511542
-    },
-    {
-     "nama": "JORRS Tunnel Tanah Merdeka A",
-     "lokasi": "JORRS Tunnel Tanah Merdeka A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/298760837680959605712264.m3u8",
-     "lat": -6.3080247,
-     "lon": 106.8736971
     },
     {
      "nama": "JORRS Tunnel Tanah Merdeka B",
