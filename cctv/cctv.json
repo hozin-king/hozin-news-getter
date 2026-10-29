@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T09:08:34+07:00",
+ "updated_at": "2026-10-29T16:28:09+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3925,27 +3925,6 @@
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/056605534596645381685649.m3u8",
      "lat": -6.107079,
      "lon": 106.894764
-    }
-   ]
-  },
-  {
-   "nama": "Tol Bayung Lencir - Tempino - Jambi",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "BALENO GT BAYUNG LENCIR ENTRANCE",
-     "lokasi": "BALENO GT BAYUNG LENCIR ENTRANCE",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/flMmG0EOhSmI1732880230962.m3u8",
-     "lat": -1.9941583,
-     "lon": 103.7001654
-    },
-    {
-     "nama": "BALENO GT MUARO SEBAPO ENTRANCE",
-     "lokasi": "BALENO GT MUARO SEBAPO ENTRANCE",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/cO78kAVjXR5W1734753213622.m3u8",
-     "lat": -1.7306638,
-     "lon": 103.5740245
     }
    ]
   },
