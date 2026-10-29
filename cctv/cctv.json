@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-29T23:38:19+07:00",
+ "updated_at": "2026-10-30T04:34:36+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -5341,30 +5341,9 @@
      "lon": 10660444.0
     },
     {
-     "nama": "21+650 A",
-     "lokasi": "21+650 A",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10569.m3u8",
-     "lat": 632222.0,
-     "lon": 10660000.0
-    },
-    {
-     "nama": "21+650 B",
-     "lokasi": "21+650 B",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10570.m3u8",
-     "lat": 632222.0,
-     "lon": 10660000.0
-    },
-    {
      "nama": "22+150 A",
      "lokasi": "22+150 A",
      "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10571.m3u8",
-     "lat": 632222.0,
-     "lon": 10659528.0
-    },
-    {
-     "nama": "22+150 B",
-     "lokasi": "22+150 B",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10572.m3u8",
      "lat": 632222.0,
      "lon": 10659528.0
     },
