@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T08:36:14+07:00",
+ "updated_at": "2026-10-30T15:06:32+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3521,41 +3521,6 @@
      "lon": null
     },
     {
-     "nama": "KM 53+500",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/728033679170510237677933.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 54+000",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/513568218162926065451774.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 54+400",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/042926552556500254096382.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 55+400",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/419578865556916403624234.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 56+000",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/808428562383454739684500.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "MR 65+900",
      "lokasi": "Serang - Panimbang Seksi 1 (Serang - Rangkasbitung)",
      "stream": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/3/index.m3u8",
@@ -4255,69 +4220,6 @@
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
    "kamera": [
-    {
-     "nama": "GT Jatikarya 2",
-     "lokasi": "GT Jatikarya 2",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/086623470392836343757862.m3u8",
-     "lat": -6.3825,
-     "lon": 106.9185
-    },
-    {
-     "nama": "KM 53+400",
-     "lokasi": "KM 53+400",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/728033679170510237677933.m3u8",
-     "lat": 0.0,
-     "lon": 0.0
-    },
-    {
-     "nama": "KM 53+500",
-     "lokasi": "KM 53+500",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/728033679170510237677933.m3u8",
-     "lat": -6.3821917,
-     "lon": 106.92836365
-    },
-    {
-     "nama": "KM 54+000",
-     "lokasi": "KM 54+000",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/513568218162926065451774.m3u8",
-     "lat": -6.381419,
-     "lon": 106.92412587
-    },
-    {
-     "nama": "KM 54+400",
-     "lokasi": "KM 54+400",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/042926552556500254096382.m3u8",
-     "lat": -6.382721,
-     "lon": 106.93288854
-    },
-    {
-     "nama": "KM 55+000",
-     "lokasi": "KM 55+000",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/240320474473743062493512.m3u8",
-     "lat": -6.7118654,
-     "lon": 106.815062
-    },
-    {
-     "nama": "KM 55+400",
-     "lokasi": "KM 55+400",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/419578865556916403624234.m3u8",
-     "lat": -6.38508,
-     "lon": 106.941107
-    },
-    {
-     "nama": "KM 55+650",
-     "lokasi": "KM 55+650",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/753814245775591052124656.m3u8",
-     "lat": -6.384914,
-     "lon": 106.94333144
-    },
-    {
-     "nama": "KM 56+000",
-     "lokasi": "KM 56+000",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/808428562383454739684500.m3u8",
-     "lat": -6.384752,
-     "lon": 106.94549224
-    },
     {
      "nama": "KM. 59+400",
      "lokasi": "KM. 59+400",
