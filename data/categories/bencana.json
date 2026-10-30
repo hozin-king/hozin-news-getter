@@ -1,70 +1,98 @@
 {
- "updated_at": "2026-10-30T16:30:46+07:00",
+ "updated_at": "2026-10-30T23:30:20+07:00",
  "category": "bencana",
- "count": 5,
+ "count": 8,
  "articles": [
   {
-   "source": "harianjogja",
+   "source": "inews",
    "getter": "auto",
-   "title": "DPRD Sleman Minta EWS Merapi Dipastikan Berfungsi",
-   "link": "https://jogjapolitan.harianjogja.com/r-1276965/dprd-sleman-minta-ews-merapi-dipastikan-berfungsi",
-   "pubDate": "Fri, 30 Oct 2026 14:47:40 +0700",
-   "description": "DPRD Sleman meminta BPBD memastikan sirene EWS Merapi berfungsi serta mengecek jalur evakuasi dan kesiapan logistik pengungsian.",
-   "fetched_at": "2026-10-30T09:06:06+07:00",
-   "categories": [
-    "bencana",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 2709,
-   "content": "Harianjogja.com, SLEMAN—DPRD Kabupaten Sleman meminta Badan Penanggulangan Bencana Daerah (BPBD) memastikan seluruh perangkat sistem peringatan dini atau early warning system (EWS) Gunung Merapi berfungsi dengan baik. Pemeriksaan rutin diperlukan agar masyarakat di kawasan rawan bencana dapat menerima peringatan apabila terjadi peningkatan aktivitas Merapi.\n\nWakil Ketua I DPRD Sleman, Ani Martanti, mengatakan warga yang tinggal di lereng Merapi pada umumnya telah memahami langkah mitigasi bencana. Pengalaman hidup berdampingan dengan aktivitas gunung tersebut membuat masyarakat terbiasa bersiaga dan mengikuti arahan petugas.\n\nMeski demikian, pemahaman masyarakat perlu didukung kesiapan sarana peringatan dini. Ani meminta BPBD rutin memeriksa dan memperbarui perangkat seperti sirene maupun tanda peringatan lainnya.\n\n\"Secara umum masyarakat sudah memahami dan harus selalu siap siaga. Namun, EWS harus benar-benar siap dan berfungsi dengan baik. Jangan sampai ketika bencana terjadi, perangkat peringatan dini justru tidak bisa digunakan,\" katanya, Jumat (30/10/2026).\n\nSelain perangkat EWS, Ani menekankan pentingnya kerja sama pemerintah pusat dan daerah dalam memperkuat mitigasi bencana Merapi. Ketersediaan logistik serta perlengkapan pengungsian juga harus dipastikan agar dapat digunakan sewaktu-waktu ketika evakuasi diperlukan.\n\nDia turut meminta akses jalur evakuasi di kawasan rawan bencana terus dijaga dan ditata. Kesiapan jalur tersebut dinilai penting untuk memperlancar proses penyelamatan warga sekaligus mengurangi risiko jatuhnya korban.\n\nAni juga mengingatkan masyarakat agar tidak mengabaikan ancaman bencana hidrometeorologi, termasuk banjir lahar hujan. Material vulkanik yang menumpuk di aliran sungai berpotensi terbawa arus ketika hujan deras turun.\n\nKarena itu, kepala desa dan lurah di kawasan rawan bencana diminta terus mengingatkan warga agar memahami potensi bahaya tersebut dan meningkatkan kewaspadaan.\n\n\"Jangan sampai kita menyepelekan alam. Material lahar yang menumpuk cukup banyak dan ketika hujan deras bisa menyebabkan banjir yang luar biasa. Kepala desa dan lurah harus terus mengingatkan masyarakat,\" katanya.\n\nAni berharap kesiapsiagaan menghadapi potensi bencana Merapi terus dijaga oleh seluruh pihak, mulai dari masyarakat, pemerintah kalurahan, BPBD, hingga pemerintah pusat dan daerah. Upaya mitigasi, menurut dia, perlu dilakukan secara berkelanjutan melalui pemeriksaan sarana dan prasarana, bukan hanya ketika bencana terjadi.\n\nCek Berita dan Artikel yang lain di Harian Jogja, dan edisi cetak versi elektronik kami hadir di Epaper Harian Jogja.\n\nJumali Jurnalis Harian Jogja, bagian dari Bisnis Indonesia Group menulis untuk media cetak dan online"
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "Hadapi Musim Hujan, Pemkot Tangsel Perketat Mitigasi Banjir dan Waspadai Penyakit",
-   "link": "https://daerah.sindonews.com/read/1766521/6/hadapi-musim-hujan-pemkot-tangsel-perketat-mitigasi-banjir-dan-waspadai-penyakit-1793347831",
-   "pubDate": "Fri, 30 Oct 2026 15:55:12 +0700",
-   "description": "Pemerintah Kota Tangerang Selatan (Pemkot Tangsel) meningkatkan kesiapsiagaan menghadapi musim penghujan dengan memperkuat upaya pencegahan banjir dan mengantisipasi potensi penyebaran penyakit.",
-   "fetched_at": "2026-10-30T09:06:02+07:00",
-   "categories": [
-    "bencana",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 194,
-   "content": "Pemerintah Kota Tangerang Selatan (Pemkot Tangsel) meningkatkan kesiapsiagaan menghadapi musim penghujan dengan memperkuat upaya pencegahan banjir dan mengantisipasi potensi penyebaran penyakit."
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "Gempa Magnitudo 4,0 Mengguncang Enggano Bengkulu",
-   "link": "https://daerah.sindonews.com/read/1766505/174/gempa-magnitudo-40-mengguncang-enggano-bengkulu-1793347857",
-   "pubDate": "Fri, 30 Oct 2026 15:22:11 +0700",
-   "description": "Gempa bumi magnitudo (M) 4,0 mengguncang Enggano, Bengkulu, Jumat (30/10/2026). Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memastikan gempa tidak berpotensi tsunami.",
-   "fetched_at": "2026-10-30T09:06:02+07:00",
+   "title": "Puting Beliung Terjang Bekasi, Ponpes Rusak dan Santri Dievakuasi",
+   "link": "https://www.inews.id/regional/jabar/puting-beliung-terjang-bekasi-ponpes-rusak-dan-santri-dievakuasi",
+   "pubDate": "Fri, 30 Oct 2026 21:51:00 +0700",
+   "description": "Puting beliung merusak pondok pesantren dan dua rumah warga di Cikarang Selatan, Bekasi, hingga sejumlah santri harus dievakuasi.",
+   "fetched_at": "2026-10-30T15:53:11+07:00",
    "categories": [
     "bencana"
    ],
    "content_status": "partial",
-   "content_chars": 175,
-   "content": "Gempa bumi magnitudo (M) 4,0 mengguncang Enggano, Bengkulu, Jumat (30/10/2026). Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memastikan gempa tidak berpotensi tsunami."
+   "content_chars": 129,
+   "content": "Puting beliung merusak pondok pesantren dan dua rumah warga di Cikarang Selatan, Bekasi, hingga sejumlah santri harus dievakuasi."
   },
   {
-   "source": "katadata",
+   "source": "inews",
    "getter": "auto",
-   "title": "30 Helikopter Dikerahkan, BNPB Kerahkan Water Bombing Atasi Karhutla Kalimantan",
-   "link": "https://katadata.co.id/video/news/6ae44f757bf40/30-helikopter-dikerahkan-bnpb-kerahkan-water-bombing-atasi-karhutla-kalimantan",
-   "pubDate": "Fri, 30 Oct 2026 15:04:00 +0700",
-   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/30/Karhutla_Water_Bombing-2026_10_30-15_03_36_3dd4b3dfe94aa68f3a2579b19004d380_640x360_thumb.png\" alt=\"Karhutla Water Bombing\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Kebakaran hutan dan lahan atau karhutla di sejumlah wilayah Kalimantan terus ditangani pemerintah melalui operasi darat dan udara. </p>",
-   "fetched_at": "2026-10-30T09:06:01+07:00",
+   "title": "Rumah di Cianjur Roboh Diterjang Banjir, Pasutri Luka Tertimpa Bangunan",
+   "link": "https://www.inews.id/regional/jabar/rumah-di-cianjur-roboh-diterjang-banjir-pasutri-luka-tertimpa-bangunan",
+   "pubDate": "Fri, 30 Oct 2026 21:37:00 +0700",
+   "description": "Banjir akibat hujan deras membuat rumah warga di Pacet, Cianjur, ambruk hingga menyebabkan pasangan suami istri terluka.",
+   "fetched_at": "2026-10-30T15:53:11+07:00",
    "categories": [
-    "bencana",
-    "kebakaran"
+    "bencana"
    ],
    "content_status": "partial",
-   "content_chars": 384,
-   "content": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/10/30/Karhutla_Water_Bombing-2026_10_30-15_03_36_3dd4b3dfe94aa68f3a2579b19004d380_640x360_thumb.png\" alt=\"Karhutla Water Bombing\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Kebakaran hutan dan lahan atau karhutla di sejumlah wilayah Kalimantan terus ditangani pemerintah melalui operasi darat dan udara. </p>"
+   "content_chars": 120,
+   "content": "Banjir akibat hujan deras membuat rumah warga di Pacet, Cianjur, ambruk hingga menyebabkan pasangan suami istri terluka."
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "BNPB Peringatkan Cuaca Ekstrem, Hujan Lebat Mengintai 7 Provinsi",
+   "link": "https://nasional.sindonews.com/read/1766655/15/bnpb-peringatkan-cuaca-ekstrem-hujan-lebat-mengintai-7-provinsi-1793365832",
+   "pubDate": "Fri, 30 Oct 2026 20:54:01 +0700",
+   "description": "Badan Nasional Penanggulangan Bencana (BNPB) mengingatkan cuaca ekstrem berupa hujan lebat hingga sangat lebat di sejumlah wilayah Indonesia. Potensi tersebut diperkirakan terjadi selama periode 29-31 Oktober 2026.",
+   "fetched_at": "2026-10-30T15:53:10+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 214,
+   "content": "Badan Nasional Penanggulangan Bencana (BNPB) mengingatkan cuaca ekstrem berupa hujan lebat hingga sangat lebat di sejumlah wilayah Indonesia. Potensi tersebut diperkirakan terjadi selama periode 29-31 Oktober 2026."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "BBWS Cimancis tuntaskan penanganan kekeringan 15.851 hektare sawah",
+   "link": "https://www.antaranews.com/berita/5822659/bbws-cimancis-tuntaskan-penanganan-kekeringan-15851-hektare-sawah",
+   "pubDate": "Fri, 30 Oct 2026 22:44:32 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/30/1001651834.jpg\" align=\"left\" border=\"0\" />Balai Besar Wilayah Sungai (BBWS) Cimanuk-Cisanggarung (Cimancis), Jawa Barat, menuntaskan penanganan kekeringan pada ...",
+   "fetched_at": "2026-10-30T15:52:49+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 225,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/30/1001651834.jpg\" align=\"left\" border=\"0\" />Balai Besar Wilayah Sungai (BBWS) Cimanuk-Cisanggarung (Cimancis), Jawa Barat, menuntaskan penanganan kekeringan pada ..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Cegah korupsi, BNPB siapkan dashboard penggunaan DSP kebencanaan",
+   "link": "https://www.antaranews.com/video/5822427/cegah-korupsi-bnpb-siapkan-dashboard-penggunaan-dsp-kebencanaan",
+   "pubDate": "Fri, 30 Oct 2026 21:11:12 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/CEGAH-KORUPSI-BNPB-SIAPKAN-DASHBOARD-PENGGUNAAN-DSP-KEBENCANAAN.jpg\" align=\"left\" border=\"0\" />ANTARA - Badan Nasional Penanggulangan Bencana (BNPB) memastikan pembenahan internal dan pengetatan standar operasional ...",
+   "fetched_at": "2026-10-30T15:52:49+07:00",
+   "categories": [
+    "bencana",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 277,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/CEGAH-KORUPSI-BNPB-SIAPKAN-DASHBOARD-PENGGUNAAN-DSP-KEBENCANAAN.jpg\" align=\"left\" border=\"0\" />ANTARA - Badan Nasional Penanggulangan Bencana (BNPB) memastikan pembenahan internal dan pengetatan standar operasional ..."
+  },
+  {
+   "source": "liputan6",
+   "getter": "getter2",
+   "title": "Tiga Gunung Api Berstatus Siaga, Ini Imbauan BNPB",
+   "link": "https://www.liputan6.com/news/read/8325224/tiga-gunung-api-berstatus-siaga-ini-imbauan-bnpb",
+   "pubDate": "Fri, 30 Oct 2026 19:37:03 +0700",
+   "description": "pemutakhiran data aktivitas gunung api di Indonesia tercatat per Jumat (30/10/2026) pukul 06.00 WIB.",
+   "fetched_at": "2026-10-30T15:52:47+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 100,
+   "content": "pemutakhiran data aktivitas gunung api di Indonesia tercatat per Jumat (30/10/2026) pukul 06.00 WIB."
   },
   {
    "source": "liputan6",
@@ -73,7 +101,7 @@
    "link": "https://www.liputan6.com/news/read/8324733/kpk-periksa-istri-adik-eks-kepala-bnpb-ini-yang-didalami",
    "pubDate": "Fri, 30 Oct 2026 11:37:15 +0700",
    "description": "Perusahaan milik Sri Endang diduga menjadi salah satu vendor dalam proyek BNPB.",
-   "fetched_at": "2026-10-30T09:05:24+07:00",
+   "fetched_at": "2026-10-30T15:52:47+07:00",
    "categories": [
     "bencana",
     "korupsi"
@@ -81,6 +109,21 @@
    "content_status": "partial",
    "content_chars": 79,
    "content": "Perusahaan milik Sri Endang diduga menjadi salah satu vendor dalam proyek BNPB."
+  },
+  {
+   "source": "detik",
+   "getter": "getter1",
+   "title": "Banjir Aceh dan Sumut, BNPB Imbau Warga Waspada Potensi Hujan Lebat",
+   "link": "https://news.detik.com/berita/d-8731720/banjir-aceh-dan-sumut-bnpb-imbau-warga-waspada-potensi-hujan-lebat",
+   "pubDate": "Fri, 30 Oct 2026 19:44:30 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/30/banjir-di-aceh-selatan-dok-bnpb-1793339668231_169.jpeg?w=360&q=90\"/> BNPB mengimbau masyarakat untuk meningkatkan kesiapsiagaan menghadapi banjir, angin kencang, dan tanah longsor saat musim hujan. Waspadai cuaca ekstrem.",
+   "fetched_at": "2026-10-30T15:52:46+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 292,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/30/banjir-di-aceh-selatan-dok-bnpb-1793339668231_169.jpeg?w=360&q=90\"/> BNPB mengimbau masyarakat untuk meningkatkan kesiapsiagaan menghadapi banjir, angin kencang, dan tanah longsor saat musim hujan. Waspadai cuaca ekstrem."
   }
  ]
 }
