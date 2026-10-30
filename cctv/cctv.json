@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-30T04:34:36+07:00",
+ "updated_at": "2026-10-30T08:36:14+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -5472,104 +5472,6 @@
      "stream": "https://cctv.cms.co.id/stream2/stream.m3u8",
      "lat": -7.343414,
      "lon": 112.771144
-    }
-   ]
-  },
-  {
-   "nama": "Tol Tangerang-Merak",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "Balaraja Barat Entrance",
-     "lokasi": "Balaraja Barat Entrance",
-     "stream": "https://cctv.mms-corp.id/balbar-entrance/index.m3u8",
-     "lat": -6.200043,
-     "lon": 106.459138
-    },
-    {
-     "nama": "Balaraja Barat Exit",
-     "lokasi": "Balaraja Barat Exit",
-     "stream": "https://cctv.mms-corp.id/balbar-exit/index.m3u8",
-     "lat": -6.200073,
-     "lon": 106.459107
-    },
-    {
-     "nama": "Balaraja Timur Exit",
-     "lokasi": "Balaraja Timur Exit",
-     "stream": "https://cctv.mms-corp.id/baltim-exit/index.m3u8",
-     "lat": -6.204228,
-     "lon": 106.48515
-    },
-    {
-     "nama": "Cikupa Entrance",
-     "lokasi": "Cikupa Entrance",
-     "stream": "https://cctv.mms-corp.id/cikupa-entrance/index.m3u8",
-     "lat": -6.205704,
-     "lon": 106.523394
-    },
-    {
-     "nama": "Cikupa Exit",
-     "lokasi": "Cikupa Exit",
-     "stream": "https://cctv.mms-corp.id/cikupa-exit/index.m3u8",
-     "lat": -6.205511,
-     "lon": 106.5237
-    },
-    {
-     "nama": "Ciltim Entrance",
-     "lokasi": "Ciltim Entrance",
-     "stream": "https://cctv.mms-corp.id/ciltim-entrance/index.m3u8",
-     "lat": -6.023313,
-     "lon": 106.089044
-    },
-    {
-     "nama": "Ciltim Exit",
-     "lokasi": "Ciltim Exit",
-     "stream": "https://cctv.mms-corp.id/ciltim-exit/index.m3u8",
-     "lat": -6.023181,
-     "lon": 106.089168
-    },
-    {
-     "nama": "KM 29+700 B",
-     "lokasi": "KM 29+700 B",
-     "stream": "https://cctv.mms-corp.id/km29-bandung/index.m3u8",
-     "lat": -6.207018,
-     "lon": 106.5392137
-    },
-    {
-     "nama": "KM 96+500 B",
-     "lokasi": "KM 96+500 B",
-     "stream": "https://cctv.mms-corp.id/km96-ambon/index.m3u8",
-     "lat": -5.980932,
-     "lon": 106.0206789
-    },
-    {
-     "nama": "Merak Entrance",
-     "lokasi": "Merak Entrance",
-     "stream": "https://cctv.mms-corp.id/merak-entrance/index.m3u8",
-     "lat": -5.972331,
-     "lon": 106.008234
-    },
-    {
-     "nama": "Merak Exit",
-     "lokasi": "Merak Exit",
-     "stream": "https://cctv.mms-corp.id/merak-exit/index.m3u8",
-     "lat": -5.973052,
-     "lon": 106.008518
-    },
-    {
-     "nama": "Sertim Entrance",
-     "lokasi": "Sertim Entrance",
-     "stream": "https://cctv.mms-corp.id/sertim-entrance/index.m3u8",
-     "lat": -6.116225,
-     "lon": 106.182451
-    },
-    {
-     "nama": "Sertim Exit",
-     "lokasi": "Sertim Exit",
-     "stream": "https://cctv.mms-corp.id/sertim-exit/index.m3u8",
-     "lat": -6.116099,
-     "lon": 106.183003
     }
    ]
   }
