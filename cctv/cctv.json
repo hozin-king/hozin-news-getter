@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-31T13:40:30+07:00",
+ "updated_at": "2026-10-31T20:20:55+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3227,13 +3227,6 @@
      "lon": null
     },
     {
-     "nama": "23+150",
-     "lokasi": "6 Tol Dalam Kota (Kelapa Gading-Pulo Gebang)",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/27/index.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "23+200",
      "lokasi": "JORR S",
      "stream": "https://pub.hk-opt.com/LiveApp/streams/271820726275436138198288.m3u8",
@@ -3251,48 +3244,6 @@
      "nama": "24+000",
      "lokasi": "JORR S",
      "stream": "https://pub.hk-opt.com/LiveApp/streams/222888349210580537521273.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "24+150",
-     "lokasi": "6 Tol Dalam Kota (Kelapa Gading-Pulo Gebang)",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/25/index.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "25+540",
-     "lokasi": "6 Tol Dalam Kota (Kelapa Gading-Pulo Gebang)",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/80/index.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "26+800",
-     "lokasi": "6 Tol Dalam Kota (Kelapa Gading-Pulo Gebang)",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/20/index.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "27+100",
-     "lokasi": "6 Tol Dalam Kota (Kelapa Gading-Pulo Gebang)",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/19/index.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "28+150",
-     "lokasi": "6 Tol Dalam Kota (Kelapa Gading-Pulo Gebang)",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/1/61/index.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "28+600",
-     "lokasi": "6 Tol Dalam Kota (Kelapa Gading-Pulo Gebang)",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/20/index.m3u8",
      "lat": null,
      "lon": null
     },
@@ -3377,13 +3328,6 @@
      "nama": "ATP GT SEMPER II",
      "lokasi": "Akses Tanjung Priok",
      "stream": "https://extstream.hk-opt2.com/LiveApp/streams/539029826611825636156852.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "GERBANG TOL CAKUNG",
-     "lokasi": "6 Tol Dalam Kota (Kelapa Gading-Pulo Gebang)",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/81/index.m3u8",
      "lat": null,
      "lon": null
     },
@@ -3598,13 +3542,6 @@
      "lon": null
     },
     {
-     "nama": "ON RAMP BEKASI (28+150)",
-     "lokasi": "6 Tol Dalam Kota (Kelapa Gading-Pulo Gebang)",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/20/index.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "ON RAMP WALANTAKA",
      "lokasi": "Serang - Panimbang Seksi 1 (Serang - Rangkasbitung)",
      "stream": "https://cctv.wikaserangpanimbang.com/camera/bearer/tiod/1/1/index.m3u8",
@@ -3624,76 +3561,6 @@
      "stream": "https://streaming-cct.co.id/LiveApp/streams/692570761636324091874119.m3u8",
      "lat": null,
      "lon": null
-    }
-   ]
-  },
-  {
-   "nama": "Tol 6 Tol Dalam Kota (Kelapa Gading-Pulo Gebang)",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "22+670",
-     "lokasi": "22+670",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/78/index.m3u8",
-     "lat": -6158617.0,
-     "lon": 106903188.0
-    },
-    {
-     "nama": "23+150",
-     "lokasi": "23+150",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/27/index.m3u8",
-     "lat": -6.158798,
-     "lon": 106.902556
-    },
-    {
-     "nama": "24+150",
-     "lokasi": "24+150",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/25/index.m3u8",
-     "lat": -6.1651506,
-     "lon": 106.9129272
-    },
-    {
-     "nama": "25+540",
-     "lokasi": "25+540",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/80/index.m3u8",
-     "lat": -6.173327,
-     "lon": 106.917908
-    },
-    {
-     "nama": "26+800",
-     "lokasi": "26+800",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/20/index.m3u8",
-     "lat": -6179151.0,
-     "lon": 106918487.0
-    },
-    {
-     "nama": "27+100",
-     "lokasi": "27+100",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/19/index.m3u8",
-     "lat": -6.182948,
-     "lon": 106.922189
-    },
-    {
-     "nama": "28+600",
-     "lokasi": "28+600",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/4/35/index.m3u8",
-     "lat": -6183023.0,
-     "lon": 106932242.0
-    },
-    {
-     "nama": "GERBANG TOL CAKUNG",
-     "lokasi": "GERBANG TOL CAKUNG",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/81/index.m3u8",
-     "lat": -6.186473,
-     "lon": 106.937349
-    },
-    {
-     "nama": "ON RAMP BEKASI (28+150)",
-     "lokasi": "ON RAMP BEKASI (28+150)",
-     "stream": "https://camera.jtd.co.id/camera/share/tios/2/20/index.m3u8",
-     "lat": -6.183321,
-     "lon": 106.928626
     }
    ]
   },
