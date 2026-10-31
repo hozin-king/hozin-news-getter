@@ -1,8 +1,24 @@
 {
- "updated_at": "2026-11-01T02:02:01+07:00",
+ "updated_at": "2026-11-01T05:59:16+07:00",
  "category": "korupsi",
- "count": 4,
+ "count": 5,
  "articles": [
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Dirjen Imigrasi: Dedi Congor Dilarang ke Luar Negeri selama 6 Bulan hingga April 2027",
+   "link": "https://nasional.sindonews.com/read/1766993/13/dirjen-imigrasi-dedi-congor-dilarang-ke-luar-negeri-selama-6-bulan-hingga-april-2027-1793463052",
+   "pubDate": "Sat, 31 Oct 2026 23:55:37 +0700",
+   "description": "Direktorat Jenderal Imigrasi menyatakan telah memasukkan nama Ahmad Dedi alias Dedi Congor selaku pegawai pada Ditjen Bea dan Cukai ke daftar pencegahan ke luar negeri.",
+   "fetched_at": "2026-10-31T20:07:03+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 1266,
+   "content": "Direktorat Jenderal Imigrasi menyatakan telah memasukkan nama Ahmad Dedi alias Dedi Congor selaku pegawai pada Ditjen Bea dan Cukai ke daftar pencegahan ke luar negeri. Foto/SindoNews\n\nJAKARTA - Direktorat Jenderal Imigrasi menyatakan telah memasukkan nama Ahmad Dedi alias Dedi Congor selaku pegawai pada Ditjen Bea dan Cukai ke daftar pencegahan ke luar negeri. Direktur Jenderal Imigrasi, Hendarsam Marantoko menyebutkan, pencegahan tersebut sebagaimana permohonan dari Komisi Pemberantasan Korupsi (KPK). Menurutnya, masa berlaku pencegahan tersebut selama enam bulan ke depan. \"Untuk enam bulan, sampai 23 April 2027,\" kata Hendarsam, Sabtu (31/10/2026). Baca juga: Dedi Congor Dicegah ke Luar Negeri sejak 23 Oktober 2026 Menurut Hendarsam, KPK mengajukan permohonan tersebut pada 23 Oktober 2026. Di hari yang sama pencegahan berlaku. Pencegahan ini dilakukan usai KPK menetapkan Dedi Congor sebagai tersangka dalam pengembangan perkara dugaan korupsi di lingkungan Ditjen Bea Cukai.\n\nFollow WhatsApp Channel SINDOnews untuk Berita Terbaru Setiap Hari\n\nDapatkan berita terkini dan kejutan menarik dari SINDOnews.com, Klik Disini untuk mendaftarkan diri anda sekarang juga!\n\nDirjen Imigrasi: Dedi Congor Dilarang ke Luar Negeri selama 6 Bulan hingga April 2027"
+  },
   {
    "source": "sindonews",
    "getter": "auto",
@@ -10,7 +26,7 @@
    "link": "https://nasional.sindonews.com/read/1766987/13/periksa-adik-eks-kepala-bnpb-kpk-dalami-pengerjaan-proyek-1793459422",
    "pubDate": "Sat, 31 Oct 2026 23:00:46 +0700",
    "description": "Komisi Pemberantasan Korupsi (KPK) telah memeriksa Nera Susanto selaku wiraswasta yang merupakan adik dari eks Kepala BNPB, Suharyanto pada Jumat 30 Oktober 2026. Nera diperiksa sebagai saksi terkait kasus dugaan korupsi dana siap pakai kebencanaan BNPB.",
-   "fetched_at": "2026-10-31T16:11:05+07:00",
+   "fetched_at": "2026-10-31T20:07:03+07:00",
    "categories": [
     "bencana",
     "korupsi"
@@ -26,7 +42,7 @@
    "link": "https://www.liputan6.com/news/read/8325367/bupati-bogor-diperiksa-kpk-terkait-dugaan-korupsi-pemotongan-upah-pungut-pajak",
    "pubDate": "Sat, 31 Oct 2026 00:57:16 +0700",
    "description": "Pendalaman dilakukan saat KPK memeriksa Bupati Bogor Rudy Susmanto sebagai saksi pada 29 Oktober 2026.",
-   "fetched_at": "2026-10-31T16:10:44+07:00",
+   "fetched_at": "2026-10-31T20:06:44+07:00",
    "categories": [
     "korupsi",
     "pemerintahan"
@@ -42,7 +58,7 @@
    "link": "https://www.liputan6.com/news/read/8325232/kpk-geledah-bea-cukai-semarang-sita-dokumen-dan-uang",
    "pubDate": "Fri, 30 Oct 2026 19:50:11 +0700",
    "description": "Dua kantor bea cukai di Semarang disasar KPK.",
-   "fetched_at": "2026-10-31T16:10:44+07:00",
+   "fetched_at": "2026-10-31T20:06:44+07:00",
    "categories": [
     "korupsi"
    ],
@@ -51,19 +67,19 @@
    "content": "Dua kantor bea cukai di Semarang disasar KPK."
   },
   {
-   "source": "liputan6",
-   "getter": "getter2",
-   "title": "PT Djarum Hormati Penggeledahan KPK Terkait Kasus Korupsi Bea Cukai",
-   "link": "https://www.liputan6.com/news/read/8325109/pt-djarum-hormati-penggeledahan-kpk-terkait-kasus-korupsi-bea-cukai",
-   "pubDate": "Fri, 30 Oct 2026 17:01:31 +0700",
-   "description": "KPK menggeledah enam perusahaan terafiliasi PT Djarum di Kudus dan menyita dokumen serta barang bukti elektronik terkait penyidikan dugaan korupsi sektor cukai. PT Djarum menyatakan menghormati proses hukum.",
-   "fetched_at": "2026-10-31T16:10:44+07:00",
+   "source": "detik",
+   "getter": "getter1",
+   "title": "Gerak Terbatas Dedi Congor Sebab Dicegah ke Luar Negeri",
+   "link": "https://news.detik.com/berita/d-8732899/gerak-terbatas-dedi-congor-sebab-dicegah-ke-luar-negeri",
+   "pubDate": "Sat, 31 Oct 2026 21:03:14 +0700",
+   "description": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/30/ahmad-dedi-muliadetikcom-1793344861310_169.png?w=360&q=90\"/> Dedi Congor ditetapkan sebagai tersangka oleh KPK dalam kasus dugaan suap pengurusan impor di lingkungan Bea Cukai. Dedi kini dicegah ke luar negeri.",
+   "fetched_at": "2026-10-31T20:06:42+07:00",
    "categories": [
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 207,
-   "content": "KPK menggeledah enam perusahaan terafiliasi PT Djarum di Kudus dan menyita dokumen serta barang bukti elektronik terkait penyidikan dugaan korupsi sektor cukai. PT Djarum menyatakan menghormati proses hukum."
+   "content_chars": 281,
+   "content": "<img src=\"https://akcdn.detik.net.id/community/media/visual/2026/10/30/ahmad-dedi-muliadetikcom-1793344861310_169.png?w=360&q=90\"/> Dedi Congor ditetapkan sebagai tersangka oleh KPK dalam kasus dugaan suap pengurusan impor di lingkungan Bea Cukai. Dedi kini dicegah ke luar negeri."
   }
  ]
 }
