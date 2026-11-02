@@ -1,74 +1,164 @@
 {
- "updated_at": "2026-11-01T22:53:57+07:00",
+ "updated_at": "2026-11-02T14:12:25+07:00",
  "category": "korupsi",
- "count": 4,
+ "count": 10,
  "articles": [
   {
-   "source": "bloombergtechnoz",
+   "source": "wartaekonomi",
    "getter": "auto",
-   "title": "Kejagung Geledah Kantor PT IPPS Terkait Kasus Transfer Pricing",
-   "link": "https://www.bloombergtechnoz.com/detail-news/126382/kejagung-geledah-kantor-pt-ipps-terkait-kasus-transfer-pricing",
-   "pubDate": "Sun, 01 Nov 2026 13:30:00 +0700",
-   "description": "<img src=\"https://images.bloombergtechnoz.com/data/2026/08/image-20260831155124.jpeg\" /> Kejagung  menggeledah kantor PT IPPS di Menara Batavia, Jakarta Pusat, dalam penyidikan kasus dugaan tindak pidana korupsi transfer pricing.",
-   "fetched_at": "2026-11-01T09:38:58+07:00",
+   "title": "Bahas Nepotisme hingga Korupsi Dana Bencana, Sudirman Said Sebut Indonesia Hadapi Krisis Tata Kelola",
+   "link": "https://wartaekonomi.co.id/read645040/bahas-nepotisme-hingga-korupsi-dana-bencana-sudirman-said-sebut-indonesia-hadapi-krisis-tata-kelola",
+   "pubDate": "Mon, 02 Nov 2026 12:28:00 +0700",
+   "description": "Ketua Umum Konferensi Republik Sudirman Said mengatakan Indonesia membutuhkan kepemimpinan moral baru untuk keluar dari persoalan tata kelola.",
+   "fetched_at": "2026-11-02T05:47:26+07:00",
+   "categories": [
+    "bencana",
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 3794,
+   "content": "Home / News / Politik Bahas Nepotisme hingga Korupsi Dana Bencana, Sudirman Said Sebut Indonesia Hadapi Krisis Tata Kelola Senin, 02 November 2026, 12:28 WIB\n\nKetua Umum Konferensi Republik Sudirman Said menilai Indonesia tengah menghadapi krisis tata kelola yang dapat mengancam masa depan generasi mendatang. Ia menyampaikan pandangan tersebut dalam pidato bertajuk “Belajar pada Tangan” di Konferensi Republik, Institut Filsafat dan Teknologi Kreatif (IFTK) Ledalero, Maumere, Nusa Tenggara Timur, Sabtu (31/10/2026).\n\nSudirman mengatakan Indonesia membutuhkan kepemimpinan moral baru untuk keluar dari persoalan tata kelola. Ia menilai integritas dan profesionalisme harus menjadi dasar dalam menjalankan urusan publik, terutama ketika masyarakat sedang menghadapi bencana.\n\nDalam pidatonya, Rektor Universitas Harakat Negeri itu mengingat kembali pengalamannya di Badan Rehabilitasi dan Rekonstruksi (BRR) Aceh-Nias setelah tsunami 2004. Saat itu, Kepala BRR Kuntoro Mangkusubroto berpesan kepada tim agar tidak mengkhianati harapan masyarakat dan tidak mengambil keuntungan dari dana penanganan bencana.\n\nMenurut Sudirman, pesan tersebut menjadi salah satu prinsip yang menjaga integritas lembaga selama proses rehabilitasi dan rekonstruksi. Ia menilai pengelolaan negara tidak cukup hanya dilakukan secara profesional, tetapi juga harus dilandasi kejujuran dan tanggung jawab moral.\n\nIa kemudian menyinggung kasus dugaan korupsi dana siap pakai kebencanaan di Badan Nasional Penanggulangan Bencana (BNPB). Sudirman menyebut kasus tersebut sebagai gambaran persoalan integritas dalam pengelolaan negara, terutama karena dana yang seharusnya digunakan untuk membantu korban bencana justru diduga diselewengkan.\n\nSudirman juga memaparkan sejumlah persoalan yang menurutnya menjadi tanda krisis tata kelola. Di bidang ekonomi, ia menyoroti tekanan terhadap keuangan daerah dan menyempitnya lapangan kerja. Ia juga mengkritik pengembangan industri ekstraktif yang dinilai kurang memperhatikan risiko bencana ekologis.\n\nDalam bidang politik dan pemerintahan, Sudirman menilai praktik nepotisme, pelemahan institusi, serta berkurangnya transparansi dan mekanisme pengawasan menjadi persoalan serius. Ia juga menyoroti melemahnya prinsip meritokrasi dalam pengisian jabatan publik.\n\nMenurut dia, berbagai persoalan tersebut tidak hanya berdampak pada kondisi saat ini, tetapi juga menyangkut keadilan antargenerasi dan keberlanjutan kehidupan masyarakat di masa depan.\n\nSudirman mengajak masyarakat sipil mengambil peran dalam merespons persoalan tersebut. Ia mengutip ajaran tentang kewajiban mengubah kemungkaran melalui tindakan, perkataan, dan sikap hati sebagai dasar untuk tidak bersikap pasif.\n\nPada akhir pidatonya, Sudirman mengajak peserta mengacungkan tiga jari dan membacakan sembilan pendirian dalam Manifesto Konferensi Republik. Beberapa di antaranya menyatakan bahwa pemerintah merupakan pengurus, bukan penguasa; jabatan publik harus diberikan kepada orang yang cakap, bukan sekadar dekat dengan kekuasaan; serta kekuasaan harus dapat diawasi dan dikoreksi.\n\nKonferensi bertema “Masyarakat Sipil dan Masa Depan Republik” tersebut diselenggarakan IFTK Ledalero bersama Universitas Nusa Nipa dan jejaring masyarakat sipil pada 30–31 Oktober 2026. Kegiatan itu diikuti sekitar 2.000 peserta.\n\nForum ditutup dengan deklarasi “Republik Diuji di Tanah Ini” yang memuat sembilan tuntutan. Salah satu isu yang disoroti adalah peninjauan ulang penetapan Flores sebagai pulau panas bumi tanpa persetujuan warga.\n\nSebelumnya, Konferensi Republik juga digelar di Universitas Gadjah Mada pada Mei 2026. Agenda di Universitas Indonesia pada Juni dilaksanakan secara daring setelah acara tatap muka batal, sementara kegiatan di Universitas Andalas, Padang, berlangsung pada akhir Agustus 2026."
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Polda Jatim Siapkan Pemberatan Hukuman bagi Pemain Lama Penyalahgunaan BBM Subsidi",
+   "link": "https://beritajatim.com/polda-jatim-siapkan-pemberatan-hukuman-bagi-pemain-lama-penyalahgunaan-bbm-subsidi",
+   "pubDate": "Mon, 02 Nov 2026 05:38:23 +0000",
+   "description": "<a href=\"https://beritajatim.com/polda-jatim-siapkan-pemberatan-hukuman-bagi-pemain-lama-penyalahgunaan-bbm-subsidi\" title=\"Polda Jatim Siapkan Pemberatan Hukuman bagi Pemain Lama Penyalahgunaan BBM Subsidi\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/konpers-Polda-Jatim.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decod",
+   "fetched_at": "2026-11-02T05:47:25+07:00",
    "categories": [
     "hukum-kriminal",
     "korupsi"
    ],
    "content_status": "full",
-   "content_chars": 1346,
-   "video_type": "youtube",
-   "video_id": "n-Fv976AHtE",
-   "video_url": "https://www.youtube.com/watch?v=n-Fv976AHtE",
-   "content": "Kejagung Geledah Kantor PT IPPS Terkait Kasus Transfer Pricing\n\nDirdik Jampidsus Saiful Bahri Siregar berbicara terkait kasus korupsi tata kelola nikel di Kejagung, Senin (31/8/2026). (Bloomberg Technoz/Andrean K)\n\nBloomberg Technoz, Jakarta - Kejaksaan Agung (Kejagung) menggeledah kantor PT IPPS di Menara Batavia, Jakarta Pusat, dalam penyidikan kasus dugaan tindak pidana korupsi transfer pricing yang dilakukan PT TPL Tbk kepada sejumlah entitas perusahaan selama periode 2008-2025.\n\nKepala Pusat Penerangan Hukum (Kapuspenkum) Kejagung Anang Supriatna mengatakan, penggeledahan itu berlangsung pada Kamis (29/10) pukul 10.00 WIB sampai dengan Jumat (30/10) pukul 03.00 WIB.\n\nPenggeledahan tersebut dilakukan oleh Tim Penyidik Satuan Tugas Khusus Penanganan dan Penyelesaian Perkara Tindak Pidana Korupsi (Satgassus P3TPK) pada Jaksa Agung Muda Bidang Tindak Pidana Khusus (Jampidsus).\n\n\"Penggeledahan dilakukan di Kantor PT IPPS di Menara Batavia Lantai 11, Jl. K.H. Mas Mansyur Kav. 126, Kelurahan Karet Tengsin, Kecamatan Tanah Abang, Jakarta Pusat,\" kata Anang, dikutip Minggu (1/11/2026).\n\nDalam penggeledahan tersebut, penyidik menyita sejumlah dokumen dan barang bukti elektronik. Salah satu barang yang disita yakni telepon genggam (handphone) yang di dalamnya ditemukan data percakapan yang diduga berkaitan dengan perkara tersebut."
+   "content_chars": 3478,
+   "content": "Polda Jatim Siapkan Pemberatan Hukuman bagi Pemain Lama Penyalahgunaan BBM Subsidi\n\nSurabaya (beritajatim.com) – Polda Jawa Timur membuka peluang pemberatan hukuman terhadap tersangka penyalahgunaan bahan bakar minyak (BBM) bersubsidi yang diduga merupakan pemain lama atau pernah terlibat dalam kasus serupa. Penyidik juga menyiapkan penerapan Undang-Undang Tindak Pidana Pencucian Uang (TPPU) untuk menelusuri dan merampas harta yang berasal dari hasil kejahatan.\n\nLangkah tersebut menjadi perhatian Polda Jatim karena praktik penyalahgunaan BBM bersubsidi diduga terus berulang dengan pelaku yang sama. Penindakan tidak hanya diarahkan pada tindak pidana penyalahgunaan BBM, tetapi juga kemungkinan pemberatan hukuman berdasarkan rekam jejak tersangka serta penelusuran aset hasil kejahatan.\n\nHal itu disampaikan Kapolda Jatim Irjen Pol Dekananto Eko Purwono dalam konferensi pers yang digelar Senin (2/11/2026) pagi.\n\nDalam sesi tanya jawab, wartawan menyoroti dugaan berulangnya kasus penyalahgunaan BBM subsidi dengan pelaku yang sama. Persoalan tersebut dinilai sensitif karena isu BBM bersubsidi mudah memantik reaksi dan keresahan masyarakat.\n\nMenanggapi pertanyaan tersebut, Kapolda Jatim menyatakan penyidik akan mendalami rekam jejak para tersangka. Jika ditemukan bahwa mereka merupakan residivis atau pernah dipidana dalam perkara serupa, riwayat tersebut akan menjadi bahan pertimbangan dalam proses penuntutan.\n\n“Terkait pemberatan terhadap para tersangka itu nanti tentunya secara teknis akan berkoordinasi dengan pihak kejaksaan karena ini mungkin pelaku yang sebelumnya residivis atau pernah melakukan ini,” jawab pejabat Polda Jatim.\n\nKoordinasi dengan Kejaksaan Tinggi Jawa Timur akan dilakukan dalam kerangka sistem peradilan pidana atau criminal justice system. Polisi akan menyampaikan riwayat para tersangka beserta alat bukti yang diperoleh selama penyidikan agar jaksa dapat menilai kemungkinan penerapan pemberatan sesuai ketentuan perundang-undangan.\n\nSelain mendalami kemungkinan pemberatan hukuman, penyidik juga akan menjerat para pelaku dengan UU TPPU. Penerapan aturan tersebut diarahkan untuk menelusuri harta kekayaan yang diduga berasal dari tindak pidana penyalahgunaan BBM bersubsidi.\n\nPolda Jatim menyatakan akan merampas harta para pelaku yang terbukti berasal dari hasil kejahatan. Dengan langkah tersebut, penanganan perkara tidak hanya menyasar pelaku dan praktik penyalahgunaan BBM subsidi, tetapi juga aset yang diperoleh dari tindak pidana tersebut. [uci/beq]\n\nBaca berita lainnya di Google News atau langsung di halaman Indeks Berita\n\nPolda Jatim membuka peluang pemberatan hukuman terhadap tersangka penyalahgunaan BBM bersubsidi yang diduga merupakan pemain lama atau pernah terlibat kasus serupa. Penyidik akan mendalami rekam jejak para tersangka untuk mengetahui apakah mereka pernah dipidana dalam perkara penyalahgunaan BBM subsidi. Polda Jatim juga menyampaikan rencana penerapan Undang-Undang Tindak Pidana Pencucian Uang (TPPU) dan perampasan harta yang berasal dari hasil kejahatan. Koordinasi dengan Kejaksaan Tinggi Jawa Timur akan dilakukan untuk membahas kemungkinan pemberatan hukuman dalam kerangka sistem peradilan pidana.\n\nBeritajatim.com adalah media online berbasis di Surabaya, dan fokus pada pemberitaan di wilayah Jawa Timur. Sejak awal, beritajatim.com memegang teguh kaidah jurnalistik dalam pemberitaan, sehingga aspek akurasi, disiplin verifikasi, independen, melekat kuat di setiap berita Selengkapnya"
   },
   {
-   "source": "harianjogja",
+   "source": "inews",
    "getter": "auto",
-   "title": "Terbukti Korupsi Anggaran Kalurahan, Lurah Bohol Gunungkidul Dipecat",
-   "link": "https://jogjapolitan.harianjogja.com/r-1277197/terbukti-korupsi-anggaran-kalurahan-lurah-bohol-gunungkidul-dipecat",
-   "pubDate": "Sun, 01 Nov 2026 15:17:16 +0700",
-   "description": "Pemkab Gunungkidul memecat Lurah Bohol Margana setelah kasus korupsi anggaran kalurahan 2022-2024 berkekuatan hukum tetap.",
-   "fetched_at": "2026-11-01T09:38:42+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 3638,
-   "content": "Terbukti Korupsi Anggaran Kalurahan, Lurah Bohol Gunungkidul Dipecat\n\nFoto ilustrasi ASN, dibuat menggunakan Artificial Inteligence.\n\nHarianjogja.com, GUNUNGKIDUL—Pemkab Gunungkidul resmi memecat Margana dari jabatan Lurah Bohol, Rongkop, setelah kasus korupsi anggaran kalurahan periode 2022-2024 yang menjeratnya berkekuatan hukum tetap atau inkrah. Surat Keputusan (SK) pemberhentian diserahkan kepada Margana pada Jumat (30/10/2026).\n\nKepala Bidang Bina Administrasi dan Aparatur Pemerintahan Kalurahan, Dinas Pemberdayaan Masyarakat Kalurahan Pengendalian Penduduk dan Keluarga Berencana (DPMKP2KB) Gunungkidul, Kriswantoro, mengatakan pihaknya telah menerima salinan putusan kasasi dari Mahkamah Agung (MA).\n\nPutusan tersebut menjadi dasar Pemkab Gunungkidul untuk menjatuhkan sanksi pemberhentian secara tetap kepada Margana. Sebelumnya, status Margana masih diberhentikan sementara agar dapat fokus menyelesaikan perkara hukumnya.\n\n“Salinan kasasi dijadikan dasar untuk memberikan sanksi tetap kepada bersangkutan. Selama ini, Lurah Margana statusnya masih diberhentikan sementara agar fokus menyelesaikan kasusnya hingga memiliki kekuatan hukum yang tetap,” kata Kriswantoro, Sabtu (31/10/2026).\n\nKriswantoro menjelaskan, DPMKP2KB bersama Bagian Hukum Pemkab Gunungkidul telah menyusun kajian mengenai pemberian sanksi dengan mengacu pada salinan putusan kasasi. Berdasarkan ketentuan yang berlaku, Margana dinyatakan bersalah sehingga dijatuhi sanksi pemberhentian dari jabatan Lurah Bohol.\n\n“SK pemberhentian sudah kami berikan ke bersangkutan Jumat [30/10/2026] sehingga dengan surat itu, maka secara otomatis tidak lagi menjabat sebagai Lurah Bohol,” kata Kriswantoro.\n\nKasus korupsi anggaran Kalurahan Bohol tersebut tidak hanya melibatkan Margana. Carik Bohol, Kelik Istanta, juga terlibat dalam perkara yang sama dan telah lebih dahulu diberhentikan dari jabatannya.\n\n“Kasus dari carik terlebih dahulu inkrah sehingga setelah itu dilakukan pemecatan terhadap yang bersangkutan,” kata Kriswantoro.\n\nSebelumnya, Kepala Seksi Pidana Khusus Kejari Gunungkidul, Alfian Listya Kurniawan, mengatakan putusan kasasi terhadap perkara korupsi dengan terdakwa Margana telah keluar pada 20 Agustus 2026.\n\nKejari Gunungkidul kemudian menerima salinan putusan MA Nomor 9391K/Pidsus/2026. Setelah itu, kejaksaan menindaklanjutinya dengan mengeksekusi Margana pada 6 Oktober untuk menjalani hukuman sesuai putusan Pengadilan Tipikor.\n\n“Berhubung sudah ada kekuatan hukum yang tetap, maka terpidana langsung dieksekusi di 6 Oktober lalu, guna menjalani hukuman sesuai dengna putusan di Pengadilan Tipikor,” kata Alfian.\n\nMenurut Alfian, MA menolak kasasi yang diajukan jaksa penuntut umum (JPU) dan menguatkan putusan Pengadilan Tipikor. Dengan demikian, Margana harus menjalani hukuman satu tahun penjara sesuai vonis pada pengadilan tingkat pertama.\n\n“Kasus sudah bergulir sejak tahun lalu dan langsung ditahan. Dengan putusan hukuman satu tahun, maka terdakwa [Lurah Margana] sebentar lagi bisa langsung bebas,” katanya.\n\nBerdasarkan hasil audit Inspektorat Gunungkidul terhadap pengelolaan keuangan Kalurahan Bohol selama 2022-2024, kerugian dalam perkara tersebut mencapai Rp418,2 juta.\n\nMargana dan Kelik Istanta diketahui menggunakan keuangan kalurahan untuk kepentingan pribadi. Keduanya juga tidak menjalankan etika pengadaan barang dan jasa di kalurahan karena mengatur penyedia untuk kegiatan kalurahan.\n\nCek Berita dan Artikel yang lain di Harian Jogja, dan edisi cetak versi elektronik kami hadir di Epaper Harian Jogja.\n\nSunartono Jurnalis Harian Jogja, bagian dari Bisnis Indonesia Group menulis untuk media cetak dan online"
-  },
-  {
-   "source": "liputan6",
-   "getter": "getter2",
-   "title": "Bupati Bogor Diperiksa KPK Terkait Dugaan Korupsi Pemotongan Upah Pungut Pajak",
-   "link": "https://www.liputan6.com/news/read/8325367/bupati-bogor-diperiksa-kpk-terkait-dugaan-korupsi-pemotongan-upah-pungut-pajak",
-   "pubDate": "Sat, 31 Oct 2026 00:57:16 +0700",
-   "description": "Pendalaman dilakukan saat KPK memeriksa Bupati Bogor Rudy Susmanto sebagai saksi pada 29 Oktober 2026.",
-   "fetched_at": "2026-11-01T09:38:20+07:00",
-   "categories": [
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 102,
-   "content": "Pendalaman dilakukan saat KPK memeriksa Bupati Bogor Rudy Susmanto sebagai saksi pada 29 Oktober 2026."
-  },
-  {
-   "source": "liputan6",
-   "getter": "getter2",
-   "title": "KPK Geledah Bea Cukai Semarang, Sita Dokumen dan Uang",
-   "link": "https://www.liputan6.com/news/read/8325232/kpk-geledah-bea-cukai-semarang-sita-dokumen-dan-uang",
-   "pubDate": "Fri, 30 Oct 2026 19:50:11 +0700",
-   "description": "Dua kantor bea cukai di Semarang disasar KPK.",
-   "fetched_at": "2026-11-01T09:38:20+07:00",
+   "title": "Sidang Kasus Pemerasan-TPPU Eks Jampidsus Febrie, Jaksa Siapkan 103 Saksi",
+   "link": "https://www.inews.id/news/nasional/sidang-kasus-pemerasan-tppu-eks-jampidsus-febrie-jaksa-siapkan-103-saksi",
+   "pubDate": "Mon, 02 Nov 2026 12:10:00 +0700",
+   "description": "JPU menyiapkan 103 saksi, lima ahli, dan bukti elektronik untuk pembuktian kasus dugaan pemerasan dan TPPU yang menjerat Febrie Adriansyah.",
+   "fetched_at": "2026-11-02T05:47:19+07:00",
    "categories": [
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 45,
-   "content": "Dua kantor bea cukai di Semarang disasar KPK."
+   "content_chars": 139,
+   "content": "JPU menyiapkan 103 saksi, lima ahli, dan bukti elektronik untuk pembuktian kasus dugaan pemerasan dan TPPU yang menjerat Febrie Adriansyah."
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "MAKI Duga Rencana Dinas Nusron Wahid ke Jepang Modus Mangkir Panggilan KPK",
+   "link": "https://nasional.sindonews.com/read/1767367/13/maki-duga-rencana-dinas-nusron-wahid-ke-jepang-modus-mangkir-panggilan-kpk-1793596296",
+   "pubDate": "Mon, 02 Nov 2026 12:31:12 +0700",
+   "description": "MAKI menuding rencana perjalanan dinas Menteri ATR/Kepala BPN Nusron Wahid ke Jepang diduga kuat sebagai modus untuk menghindari panggilan dari penyidik KPK.",
+   "fetched_at": "2026-11-02T05:47:18+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 157,
+   "content": "MAKI menuding rencana perjalanan dinas Menteri ATR/Kepala BPN Nusron Wahid ke Jepang diduga kuat sebagai modus untuk menghindari panggilan dari penyidik KPK."
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Jaksa Siapkan 103 Saksi dan 5 Ahli dalam Sidang Kasus Dugaan Pemerasan Eks Jampidsus",
+   "link": "https://nasional.sindonews.com/read/1767361/13/jaksa-siapkan-103-saksi-dan-5-ahli-dalam-sidang-kasus-dugaan-pemerasan-eks-jampidsus-1793596293",
+   "pubDate": "Mon, 02 Nov 2026 12:03:19 +0700",
+   "description": "Jaksa Penuntut Umum akan menghadirkan 103 saksi dalam persidangan kasus dugaan pemerasan dan tindak pidana pencucian uang (TPPU) yang menjerar eks Jampidsus Febrie Adriansyah.",
+   "fetched_at": "2026-11-02T05:47:18+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 175,
+   "content": "Jaksa Penuntut Umum akan menghadirkan 103 saksi dalam persidangan kasus dugaan pemerasan dan tindak pidana pencucian uang (TPPU) yang menjerar eks Jampidsus Febrie Adriansyah."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "KPK panggil Kepala BPKPAD Klaten sebagai saksi kasus Hamenang",
+   "link": "https://www.antaranews.com/berita/5825951/kpk-panggil-kepala-bpkpad-klaten-sebagai-saksi-kasus-hamenang",
+   "pubDate": "Mon, 02 Nov 2026 12:39:44 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/16/pengungkapan-ott-di-pemkab-klaten-2886345.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) memanggil Kepala Badan Pengelolaan Keuangan, Pendapatan, dan Aset Daerah Kabupaten ...",
+   "fetched_at": "2026-11-02T05:46:58+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 256,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/16/pengungkapan-ott-di-pemkab-klaten-2886345.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) memanggil Kepala Badan Pengelolaan Keuangan, Pendapatan, dan Aset Daerah Kabupaten ..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "KPK panggil tujuh pihak swasta dan satu IRT pada kasus korupsi BNPB",
+   "link": "https://www.antaranews.com/berita/5825935/kpk-panggil-tujuh-pihak-swasta-dan-satu-irt-pada-kasus-korupsi-bnpb",
+   "pubDate": "Mon, 02 Nov 2026 12:34:33 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/15/xpc29bny.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) memanggil tujuh pihak swasta dan seorang ibu rumah tangga (IRT) untuk diperiksa ...",
+   "fetched_at": "2026-11-02T05:46:58+07:00",
+   "categories": [
+    "bencana",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 220,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/15/xpc29bny.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) memanggil tujuh pihak swasta dan seorang ibu rumah tangga (IRT) untuk diperiksa ..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "KPK panggil Wakil Ketua DPRD Pemalang dan enam saksi kasus Pemalang",
+   "link": "https://www.antaranews.com/berita/5825931/kpk-panggil-wakil-ketua-dprd-pemalang-dan-enam-saksi-kasus-pemalang",
+   "pubDate": "Mon, 02 Nov 2026 12:28:13 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/07/30/IMG_8099.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) memanggil Wakil Ketua DPRD Kabupaten Pemalang berinisial AI dan enam saksi lainnya ...",
+   "fetched_at": "2026-11-02T05:46:58+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 223,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/07/30/IMG_8099.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) memanggil Wakil Ketua DPRD Kabupaten Pemalang berinisial AI dan enam saksi lainnya ..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Sidang perdana kasus korupsi pertambangan PT AKT digelar pada Kamis",
+   "link": "https://www.antaranews.com/berita/5825831/sidang-perdana-kasus-korupsi-pertambangan-pt-akt-digelar-pada-kamis",
+   "pubDate": "Mon, 02 Nov 2026 11:51:59 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/03/28/Kejagung-tahan-pengusaha-tambang-Samin-Tan-280326-sth-03.jpg\" align=\"left\" border=\"0\" />Sidang perdana kasus dugaan tindak pidana korupsi berupa penyimpangan dalam pengelolaan pertambangan PT AKT (Asmin ...",
+   "fetched_at": "2026-11-02T05:46:58+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 268,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/03/28/Kejagung-tahan-pengusaha-tambang-Samin-Tan-280326-sth-03.jpg\" align=\"left\" border=\"0\" />Sidang perdana kasus dugaan tindak pidana korupsi berupa penyimpangan dalam pengelolaan pertambangan PT AKT (Asmin ..."
+  },
+  {
+   "source": "jawapos",
+   "getter": "getter1",
+   "title": "MAKI Sebut Nusron Wahid Mau Dinas ke Jepang, Curiga Hindari Panggilan KPK",
+   "link": "https://www.jawapos.com/kasuistika/2611020194/maki-sebut-nusron-wahid-mau-dinas-ke-jepang-curiga-hindari-panggilan-kpk",
+   "pubDate": "Mon, 02 Nov 2026 12:38:22 GMT",
+   "description": "Menteri ATR/BPN Nusron Wahid diduga akan pergi ke Jepang, berpotensi menghindari panggilan KPK, setelah dua kali mangkir. KPK sudah tetapkan 8 tersangka.",
+   "fetched_at": "2026-11-02T05:46:56+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 153,
+   "content": "Menteri ATR/BPN Nusron Wahid diduga akan pergi ke Jepang, berpotensi menghindari panggilan KPK, setelah dua kali mangkir. KPK sudah tetapkan 8 tersangka."
   }
  ]
 }
