@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-04T08:56:14+07:00",
+ "updated_at": "2026-11-04T15:40:53+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3353,13 +3353,6 @@
      "lon": null
     },
     {
-     "nama": "GT Jatikarya 1",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/395563568012170999809057.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "JORRS GT AMPERA 1",
      "lokasi": "JORR S",
      "stream": "https://pub.hk-opt.com/LiveApp/streams/314944433014333275671534.m3u8",
@@ -3419,27 +3412,6 @@
      "nama": "Jalan Akses On Ramp BSD Timur 1 On Ramp",
      "lokasi": "Serpong - Balaraja Seksi 1",
      "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10021.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "KM 25+000 (KM 51+000)",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/418964061815952674729554.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "On Ramp Jatikarya",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/364231033851578471527863.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "VMS On RAMP JATIKARYA",
-     "lokasi": "Cimanggis-Cibitung",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/692570761636324091874119.m3u8",
      "lat": null,
      "lon": null
     }
@@ -3939,27 +3911,6 @@
      "stream": "https://cctv.ctptollways.com:2254/streams/cam_19/index.m3u8",
      "lat": -6.223123,
      "lon": 107.086387
-    }
-   ]
-  },
-  {
-   "nama": "Tol Cimanggis-Cibitung",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "KM. 59+400",
-     "lokasi": "KM. 59+400",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/309234587115641908709722.m3u8",
-     "lat": -6.378138,
-     "lon": 106.974712
-    },
-    {
-     "nama": "KM. 61+600",
-     "lokasi": "KM. 61+600",
-     "stream": "https://streaming-cct.co.id/LiveApp/streams/859389239238521120834932.m3u8",
-     "lat": -6.375688,
-     "lon": 106.994273
     }
    ]
   },
