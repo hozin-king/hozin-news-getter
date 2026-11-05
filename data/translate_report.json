@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-11-04T15:37:12+07:00",
- "mode": "argos",
+ "updated_at": "2026-11-05T10:04:23+07:00",
+ "mode": "google",
  "translated": [
-  "67e4e59fedf0c1b3",
-  "016e19afd34b6d9a",
-  "56171ce575d18539",
-  "9c0f1ce69a3ec69a",
-  "a4a94c87c546535b",
-  "2810ed713469f4d8",
-  "2076f199ec80f163",
-  "69f02704bebf82fd",
-  "b0483298aef069e5",
-  "62a41470f1d1a215"
+  "39849069c9f90b17",
+  "86a70e6c2b485e95",
+  "89ad3d252d7a1d03",
+  "1ad56f412ac3850d",
+  "78dfca97421721c7",
+  "a37b946d6469b630",
+  "3aaa0288b755e3ea",
+  "8ca78a6f71f726ea",
+  "2b80189085e9f0d7",
+  "3947a76244f3c31a"
  ],
  "failed": [],
- "held_partial": 292,
- "candidates": 90
+ "held_partial": 301,
+ "candidates": 108
 }
