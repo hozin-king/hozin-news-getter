@@ -1,37 +1,70 @@
 {
- "updated_at": "2026-11-06T14:42:06+07:00",
+ "updated_at": "2026-11-06T22:37:46+07:00",
  "category": "korupsi",
- "count": 2,
+ "count": 4,
  "articles": [
   {
-   "source": "liputan6",
-   "getter": "getter2",
-   "title": "KPK Ungkap Alasan Tak Cegah Nusron Wahid ke Luar Negeri",
-   "link": "https://www.liputan6.com/news/read/8329424/kpk-ungkap-alasan-tak-cegah-nusron-wahid-ke-luar-negeri",
-   "pubDate": "Thu, 05 Nov 2026 19:24:08 +0700",
-   "description": "Nusron Wahid baru memenuhi panggilan KPK pada Rabu (4/11/2026).",
-   "fetched_at": "2026-11-06T01:43:38+07:00",
+   "source": "jpnn",
+   "getter": "auto",
+   "title": "Inspektorat Dalami Pungli Rekrutmen Pegawai Dishub Surabaya Total Kerugian Rp80 Juta",
+   "link": "https://jatim.jpnn.com/jatim-terkini/50033/inspektorat-dalami-pungli-rekrutmen-pegawai-dishub-surabaya-total-kerugian-rp80-juta",
+   "pubDate": "Fri, 06 Nov 2026 15:33:00 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/jatim/news/normal/2026/11/06/wali-kota-surabaya-eri-cahyadi-ketika-bertemu-terduga-asn-pu-itrm.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jatim.jpnn.com</strong>, SURABAYA - Pemerintah Kota (Pemkot) Surabaya tengah mengusut dugaan praktik pungutan liar (pungli) dengan modus rekrutmen pegawai kontrak Dinas Perhubungan (Dishub), senilai Rp80 juta.",
+   "fetched_at": "2026-11-06T08:33:49+07:00",
    "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 405,
+   "content": "<img src=\"https://cloud.jpnn.com/photo/jatim/news/normal/2026/11/06/wali-kota-surabaya-eri-cahyadi-ketika-bertemu-terduga-asn-pu-itrm.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jatim.jpnn.com</strong>, SURABAYA - Pemerintah Kota (Pemkot) Surabaya tengah mengusut dugaan praktik pungutan liar (pungli) dengan modus rekrutmen pegawai kontrak Dinas Perhubungan (Dishub), senilai Rp80 juta."
+  },
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "Kejari Sikka Geledah 2 Kantor Dinas terkait Dugaan Korupsi Pengadaan Watergen Rp1,5 Miliar",
+   "link": "https://www.inews.id/regional/regional/kejari-sikka-geledah-2-kantor-dinas-terkait-dugaan-korupsi-pengadaan-watergen-rp15-miliar",
+   "pubDate": "Fri, 06 Nov 2026 14:55:00 +0700",
+   "description": "Kejari Sikka menggeledah Kantor PUPR dan Setda terkait dugaan korupsi pengadaan watergen tahun 2022 dengan kerugian negara Rp1,5 miliar.",
+   "fetched_at": "2026-11-06T08:33:47+07:00",
+   "categories": [
+    "hukum-kriminal",
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 63,
-   "content": "Nusron Wahid baru memenuhi panggilan KPK pada Rabu (4/11/2026)."
+   "content_chars": 136,
+   "content": "Kejari Sikka menggeledah Kantor PUPR dan Setda terkait dugaan korupsi pengadaan watergen tahun 2022 dengan kerugian negara Rp1,5 miliar."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "PN Tipikor vonis mantan Bupati Bengkulu Utara 3 tahun 4 bulan penjara",
+   "link": "https://www.antaranews.com/berita/5836347/pn-tipikor-vonis-mantan-bupati-bengkulu-utara-3-tahun-4-bulan-penjara",
+   "pubDate": "Fri, 06 Nov 2026 14:34:17 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/06/81724.jpg\" align=\"left\" border=\"0\" />Majelis Hakim Pengadilan Negeri Tindak Pidana Korupsi (PN Tipikor) Bengkulu menjatuhkan vonis hukuman penjara terhadap ...",
+   "fetched_at": "2026-11-06T08:33:25+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 221,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/06/81724.jpg\" align=\"left\" border=\"0\" />Majelis Hakim Pengadilan Negeri Tindak Pidana Korupsi (PN Tipikor) Bengkulu menjatuhkan vonis hukuman penjara terhadap ..."
   },
   {
    "source": "liputan6",
    "getter": "getter2",
-   "title": "Silmy Karim Klaim Jadi Korban Kriminalisasi KPK",
-   "link": "https://www.liputan6.com/news/read/8329295/silmy-karim-klaim-jadi-korban-kriminalisasi-kpk",
-   "pubDate": "Thu, 05 Nov 2026 17:20:34 +0700",
-   "description": "Tak hanya dirinya, Silmy Karim mengklaim nama baik keluarganya ikut rusak.",
-   "fetched_at": "2026-11-06T01:43:38+07:00",
+   "title": "KPK Sita Uang Rp 2 Miliar dari Dirut KAI Bobby Rasyidin",
+   "link": "https://www.liputan6.com/news/read/8329863/kpk-sita-uang-rp-2-miliar-dari-dirut-kai-bobby-rasyidin",
+   "pubDate": "Fri, 06 Nov 2026 14:09:10 +0700",
+   "description": "Uang itu disita saat Bobby diperiksa dalam kapasitasnya sebagai saksi dalam perkara tersebut.",
+   "fetched_at": "2026-11-06T08:33:24+07:00",
    "categories": [
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 74,
-   "content": "Tak hanya dirinya, Silmy Karim mengklaim nama baik keluarganya ikut rusak."
+   "content_chars": 93,
+   "content": "Uang itu disita saat Bobby diperiksa dalam kapasitasnya sebagai saksi dalam perkara tersebut."
   }
  ]
 }

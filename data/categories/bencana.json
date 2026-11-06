@@ -1,85 +1,68 @@
 {
- "updated_at": "2026-11-06T14:42:06+07:00",
+ "updated_at": "2026-11-06T22:37:46+07:00",
  "category": "bencana",
- "count": 12,
+ "count": 18,
  "articles": [
   {
-   "source": "cnbcindonesia",
-   "getter": "auto",
-   "title": "Blue Tsunami! Bursa AS Hancur Rp 45.000 T Lenyap, Data Center Terancam",
-   "link": "https://www.cnbcindonesia.com/market/20261106071924-17-782817/blue-tsunami-bursa-as-hancur-rp-45000-t-lenyap-data-center-terancam",
-   "pubDate": "Fri, 06 Nov 2026 08:40:00 +0700",
-   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/03/wall-street-reuters-1793702165662_169.jpeg?w=1200&amp;q=90\"/> Wall Street mengalami aksi jual besar-besaran setelah kemenangan Partai Demokrat, Nasdaq anjlok 5,5%. Kekhawatiran investor terhadap infrastruktur AI meningkat.",
-   "fetched_at": "2026-11-06T01:44:27+07:00",
-   "categories": [
-    "bencana",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 4292,
-   "content": "Blue Tsunami! Bursa AS Hancur Rp 45.000 T Lenyap, Data Center Terancam\n\nJakarta, CNBC Indonesia - Pasar saham Amerika Serikat (AS), Wall Street, mengalami aksi jual besar-besaran pada perdagangan Kamis (5/11/2026) waktu setempat. Indeks teknologi Nasdaq terpuruk setelah kemenangan besar Partai Demokrat dalam pemilu paruh waktu, yang diibaratkan dengan \"blue tsunami\", memicu kekhawatiran investor terhadap masa depan investasi infrastruktur kecerdasan buatan (AI).\n\nIstilah blue sendiri berarti warna biru yang menjadi identitas partai. Sementara tsunami merujuk gelombang kemenangan.\n\nNasdaq Composite anjlok 5,5%. Ini menjadi penurunan harian terdalam sejak peristiwa Liberation Day pada April 2025. Sementara itu, Nasdaq 100 yang berisi perusahaan-perusahaan berkapitalisasi besar merosot 6,4%. Koreksi tersebut menghapus sekitar US$2,5 triliun (sekitar Rp45.000 triliun) dari total nilai pasar Nasdaq 100.\n\nTekanan jual terjadi di tengah kekhawatiran bahwa kemenangan Partai Demokrat dapat memperlambat pembangunan pusat data (data center) di AS. Investor menilai perubahan peta politik berpotensi meningkatkan pengawasan dan hambatan perizinan terhadap proyek-proyek infrastruktur AI.\n\n\"Hal utama dari hasil pemilu ini, terutama dengan kemenangan Demokrat di banyak pemilihan gubernur, adalah perlambatan pembangunan pusat data yang menjadi tema utama,\" ujar kepala strategi pasar di JonesTrading, Michael O'Rourke, Stamford, Connecticut, dimuat Reuters.\n\nNasdaq Composite kini masuk zona koreksi atau correction territory setelah turun hampir 12% dari rekor penutupan tertingginya pada 6 Oktober 2026. Secara umum, koreksi pasar didefinisikan sebagai penurunan minimal 10% dari level puncak terakhir.\n\nAksi jual saham teknologi juga menjadi penurunan beruntun kedua bagi saham-saham AI. Sejak pertengahan Oktober, Nasdaq Composite bahkan telah mengalami lima kali penurunan lebih dari 500 poin.\n\nSektor semikonduktor menjadi salah satu yang paling terpukul. Philadelphia Semiconductor Index (SOX) anjlok 12% dan menyentuh level terendah dalam lebih dari enam bulan sementara saham Nvidia merosot 9%, sedangkan Advanced Micro Devices (AMD) terjun 17%.\n\nTekanan juga menjalar ke perusahaan teknologi raksasa atau hyperscalers. Saham Amazon dan Alphabet masing-masing turun 2,2%. Microsoft tsendiri erkoreksi 3,6%. Sementara itu, saham perusahaan penyedia komputasi awan khusus AI atau neocloud ikut mengalami tekanan hebat. Nebius anjlok 15%, sedangkan CoreWeave merosot 10%. Saham kedua perusahaan tersebut bahkan telah kehilangan setengah atau lebih dari nilainya sejak Nasdaq Composite mencapai rekor tertinggi pada 6 Oktober lalu.\n\nCoreWeave menjadi salah satu indikator kekhawatiran investor terhadap besarnya belanja dan pembiayaan industri AI. Premi credit default swap (CDS), instrumen yang digunakan untuk melindungi investor dari risiko gagal bayar, lima tahun perusahaan tersebut melebar ke rekor 1.267,9 basis poin.\n\nKenaikan premi CDS menunjukkan pasar semakin mengkhawatirkan risiko kredit perusahaan. Premi CDS lima tahun Intel juga menyentuh rekor 149,7 basis poin.\n\nKekhawatiran investor tidak hanya berkaitan dengan valuasi saham teknologi yang dinilai terlalu tinggi, tetapi juga keberlanjutan pembangunan infrastruktur AI. Pembangunan pusat data membutuhkan investasi miliaran dolar, termasuk untuk fasilitas komputasi, pasokan listrik, dan sistem pendingin.\n\nNamun, proyek-proyek tersebut kini berpotensi menghadapi hambatan politik. Bahkan penolakan masyarakat setempat.\n\nManaging Director Granite Wealth Management, Bruce Zaro, menilai pembangunan pusat data dapat menghadapi perlawanan lebih besar karena dampaknya terhadap lingkungan dan infrastruktur lokal.\n\n\"Penolakan terhadap pembangunan pusat data yang berlokasi di lingkungan tempat tinggal masyarakat akan semakin besar, karena membebani jaringan listrik dan sistem air,\" ujarnya.\n\nAnalis UBS juga memperkirakan sekitar 30% dari tambahan kapasitas pusat data yang direncanakan di AS pada 2028 berpotensi terdampak oleh kemungkinan penghentian sementara pembangunan. Jika terealisasi, kondisi tersebut dapat mengancam prospek industri yang selama ini sangat bergantung pada ekspansi fasilitas pusat data secara cepat.\n\nSaham Chip Terjun Bebas Pembangunan Data Center Terancam (sef/sef) [Gambas:Video CNBC]"
-  },
-  {
-   "source": "cnbcindonesia",
-   "getter": "auto",
-   "title": "35 Negara Minta Warga Timbun Makanan dan Tas Darurat, Ada Apa?",
-   "link": "https://www.cnbcindonesia.com/news/20261105200531-4-782766/35-negara-minta-warga-timbun-makanan-tas-darurat-ada-apa",
-   "pubDate": "Fri, 06 Nov 2026 08:05:00 +0700",
-   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/01/24/para-pembeli-mengantre-panjang-di-kasir-saat-warga-membeli-persediaan-makanan-dan-perlengkapan-rumah-tangga-menjelang-badai-mu-1769259897228_169.jpeg?w=1200&amp;q=90\"/> Puluhan negara mendesak warganya untuk siapkan bekal darurat. Ancaman perang, cuaca ekstrem, dan serangan siber jadi alasan utama.",
-   "fetched_at": "2026-11-06T01:44:27+07:00",
-   "categories": [
-    "bencana",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 2611,
-   "content": "35 Negara Minta Warga Timbun Makanan & Tas Darurat, Ada Apa?\n\nJakarta, CNBC Indonesia - Puluhan negara di dunia kini secara resmi mendesak warganya untuk menyiapkan sejumlah bekal dalam keadaan darurat. Total terdapat 35 negara yang meminta warganya untuk segera menyetok makanan, air, hingga obat-obatan.\n\nMengutip Newsweek, The Nation, dan Anadolu Agency, Jumat (6/11/2026), seruan global ini terkait ancaman perang, cuaca ekstrem, serta serangan siber. Setiap negara mulai menyarankan tingkat dan waktu kesiapsiagaan yang berbeda-beda bagi masyarakatnya.\n\nThailand menjadi negara terbaru di kawasan Asia yang mengikuti langkah siaga darurat ini. Departemen Pencegahan dan Mitigasi Bencana (DDPM) Thailand kini gencar mengimbau setiap rumah tangga untuk menyiapkan tas darurat untuk 72 jam pertama.\n\n\"Tas darurat dapat berguna saat terjadi banjir bandang, gempa bumi, wabah penyakit, hingga kerusuhan dan sabotase,\" papar Direktur Jenderal DDPM Thailand Nirat Pongsitthaworn.\n\nLangkah serupa juga didorong secara masif oleh Komisi Eropa demi memperkuat kesiapsiagaan publik menghadapi krisis. Mereka merekomendasikan persiapan tas perlengkapan keselamatan darurat (grab bags) dan mengintegrasikan materi kesiapsiagaan di sekolah dasar.\n\n\"Pedoman ini berupaya membekali individu dengan pengetahuan dan alat untuk melindungi diri selama keadaan darurat,\" tegas Komisaris Manajemen Krisis Eropa Hadja Lahbib.\n\nSecara rinci, rata-rata negara memang meminta warga bersiap menyetok perlengkapan untuk tiga hari awal. Namun, beberapa negara seperti Swedia dan Norwegia menyarankan persediaan untuk seminggu, sementara Jerman menyarankan hingga 10 hari.\n\nPemerintah wilayah Normandia di Prancis bahkan meminta warganya untuk tidak menunggu datangnya keadaan darurat. Mereka mendesak warga setempat melalui media sosial untuk mulai bersiap dari sekarang.\n\n\"Saya memang suka kacang-kacangan, jadi saya punya banyak kacang-kacangan di lemari, dan sup, makanan itulah yang saya rekomendasikan,\" ucap Perdana Menteri Inggris Andy Burnham.\n\nDi Amerika Serikat (AS), Menteri Pertahanan Pete Hegseth menyebut pangkalan militer AS harus mampu beroperasi mandiri setidaknya selama tiga bulan. Hal ini sangat diperlukan seandainya akses pasokan dari luar terputus akibat suatu konflik.\n\nMantan Wakil Direktur FBI Dan Bongino juga menilai langkah kesiapsiagaan ini krusial untuk mengurangi kepanikan massal di masa sulit.\n\n\"Siapkan radio darurat dan baterai, sediakan juga persediaan makanan darurat serta tablet pemurni air,\" pungkas Bongino.\n\nDaftar Negara Yang Terapkan Keadaan Darurat: Uni Eropa (tps/tps) [Gambas:Video CNBC]"
-  },
-  {
-   "source": "cnbcindonesia2",
-   "getter": "auto",
-   "title": "Tsunami Biru Guncang Wall Street, Rp 45.200 T Lenyap dalam 24 Jam",
-   "link": "https://www.cnbcindonesia.com/research/20261106072023-128-782815/tsunami-biru-guncang-wall-street-rp-45200-t-lenyap-dalam-24-jam",
-   "pubDate": "Fri, 06 Nov 2026 07:30:24 +0700",
-   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/03/wall-street-reuters-1793702165662_169.jpeg?w=1200&amp;q=90\"/> Wall Street mengalami aksi jual besar-besaran pada perdagangan Kamis (5/11/2026).",
-   "fetched_at": "2026-11-06T01:44:27+07:00",
-   "categories": [
-    "bencana",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 9112,
-   "content": "Tsunami Biru Guncang Wall Street, Rp 45.200 T Lenyap dalam 24 Jam\n\nJakarta, CNBC Indonesia - Kemenangan telak Partai Demokrat dalam pemilu paruh waktu Amerika Serikat (AS) memicu kekhawatiran terhadap masa depan industri kecerdasan buatan (AI). Bursa saham AS pun jadi korban.\n\nWall Street mengalami aksi jual besar-besaran pada perdagangan Kamis (5/11/2026). Saham rontok karena ada kekhawatiran mengenai kelanjutan pembangunan pusat data.\n\nMengutip Reuters dan CNBC International, indeks Nasdaq Composite anjlok 5,52% dan ditutup di level 24.315. Penurunan tersebut menjadi yang terdalam sejak peristiwa Liberation Day pada April 2025 sekaligus membawa Nasdaq resmi masuk zona koreksi.\n\nSementara itu, indeks Nasdaq 100 merosot 6,4%. Pelemahan ini membuat kapitalisasinya menguap US$2,5 triliun atau Rp 45.187 triliun (US$ 1=Rp 18.075). Tsunami biru (lambang partai Demokrat) membuat investor cemas.\n\nIndeks Dow Jones Industrial Average terpangkas 1.833,06 poin atau 3,44% ke level 51.523,06. Penurunan tersebut menghapus lebih dari seluruh kenaikan yang dicatat Dow dalam reli besar sehari sebelumnya setelah hasil pemilu paruh waktu AS.\n\nKetiga indeks utama Wall Street mencatatkan kinerja harian terburuk sejak April 2025. Indeks saham berkapitalisasi kecil Russell 2000 juga terkoreksi 4,45% dan masuk ke zona koreksi.\n\nAksi jual ini terjadi setelah pasar sebelumnya sempat menyambut positif hasil pemilu AS. Namun, investor kini mulai mencemaskan dampak kemenangan besar Partai Demokrat terhadap kebijakan industri teknologi, khususnya ekspansi infrastruktur AI.\n\nNasdaq Composite sendiri telah turun hampir 12% dari rekor penutupan pada 6 Oktober. Secara teknis, pasar memasuki zona koreksi ketika indeks melemah setidaknya 10% dari level tertinggi terbarunya.\n\nPenurunan saham teknologi juga berlangsung selama dua hari berturut-turut. Sejak pertengahan Oktober, Nasdaq Composite telah mencatat lima kali penurunan lebih dari 500 poin.\n\nKemenangan besar Partai Demokrat di Kongres AS, ditambah keberhasilan mereka dalam sejumlah pemilihan gubernur, memunculkan kekhawatiran bahwa pengawasan terhadap industri AI akan semakin ketat.\n\nInvestor khawatir kebijakan baru dan meningkatnya penolakan masyarakat dapat memperlambat pembangunan pusat data. Padahal, fasilitas tersebut menjadi tulang punggung ekspansi industri AI yang membutuhkan kapasitas komputasi sangat besar.\n\nSalah satu tokoh yang mendorong pembatasan pembangunan pusat data adalah Senator Bernie Sanders dari Vermont, yang berkoalisi dengan Partai Demokrat. Ia menyerukan moratorium nasional terhadap pembangunan pusat data.\n\nDalam unggahan di platform X pada Rabu malam, Sanders menyatakan masyarakat AS tidak ingin oligarki perusahaan teknologi besar merusak lingkungan, memangkas lapangan kerja, dan mengancam masa depan umat manusia.\n\nMichael O'Rourke, kepala strategi pasar JonesTrading, menilai perlambatan pembangunan pusat data menjadi isu utama yang akan terus membayangi pasar setelah hasil pemilu.\n\n\"Pesan utama dari hasil pemilu ini, terutama setelah Demokrat memenangkan banyak kursi gubernur, adalah perlambatan pembangunan pusat data menjadi isu utama yang akan terus membayangi pasar,\" ujarnya, dikutip dari Reuters.\n\nPenolakan masyarakat bukan tanpa alasan. Pembangunan pusat data dalam skala besar dinilai berpotensi membebani jaringan listrik dan pasokan air di wilayah sekitarnya.\n\nBruce Zaro, direktur pelaksana Granite Wealth Management, mengatakan proses perizinan proyek pusat data ke depan berpotensi semakin sulit.\n\nMenurutnya, meskipun sejumlah proyek telah memperoleh persetujuan, masih banyak proyek lain yang harus melalui proses perizinan. Penolakan masyarakat dapat menjadi hambatan baru bagi ekspansi industri tersebut.\n\nAnalis UBS bahkan memperkirakan sekitar 30% dari tambahan kapasitas pusat data AS yang direncanakan beroperasi pada 2028 berisiko terdampak potensi penghentian sementara pembangunan.\n\nKondisi tersebut menjadi ancaman bagi industri AI yang sangat bergantung pada ekspansi fasilitas pusat data secara cepat.\n\nKekhawatiran terhadap masa depan investasi AI langsung menghantam saham-saham produsen chip.\n\nIndeks Philadelphia SE Semiconductor (SOX) anjlok 12% dan menyentuh level terendah dalam lebih dari enam bulan. Sementara itu, ETF semikonduktor iShares Semiconductor (SOXX) terjun lebih dari 12%, mencatat penurunan harian terdalam sejak pandemi Covid-19 merebak pada Maret 2020.\n\nSaham Nvidia merosot 9%, sedangkan Advanced Micro Devices (AMD) terjun 17%. Broadcom juga anjlok 10%.\n\nSaham Qualcomm ikut merosot 9% meskipun perusahaan melaporkan laba yang melampaui ekspektasi analis. Pelemahan terjadi setelah proyeksi laba perusahaan ke depan dinilai lebih rendah dari perkiraan pasar.\n\nSaham perusahaan perangkat lunak Oracle turut turun hampir 7%.\n\nTekanan juga menjalar ke perusahaan teknologi raksasa atau hyperscalers. Amazon dan Alphabet masing-masing melemah 2,2%, sedangkan Microsoft turun 3,6%.\n\nIndeks volatilitas Wall Street, CBOE Volatility Index (VIX), yang dikenal sebagai pengukur ketakutan pasar, mencatat kenaikan terbesar sejak Desember 2024.\n\nAksi jual tidak hanya menghantam produsen chip, tetapi juga perusahaan penyedia infrastruktur komputasi awan khusus AI atau neocloud.\n\nSaham CoreWeave anjlok hampir 10%, sementara Nebius merosot sekitar 15% dan IREN terkoreksi hampir 17%. Saham operator pusat data Applied Digital dan Cipher Digital juga terjun lebih dari 14%.\n\nCoreWeave menjadi salah satu barometer kekhawatiran investor terhadap besarnya belanja dan pembiayaan industri AI.\n\nRisiko pendanaan perusahaan tersebut tercermin dari pelebaran credit default swap (CDS) tenor lima tahun. Berdasarkan data S&P Global Market Intelligence, spread CDS CoreWeave melebar ke rekor 1.267,9 basis poin.\n\nCDS merupakan instrumen keuangan yang berfungsi sebagai perlindungan terhadap risiko gagal bayar. Pelebaran spread menunjukkan meningkatnya persepsi pasar terhadap risiko kredit perusahaan.\n\nSpread CDS tenor lima tahun Intel juga menyentuh rekor 149,7 basis poin.\n\nSementara itu, saham CoreWeave dan Nebius telah kehilangan setidaknya separuh nilainya sejak Nasdaq Composite mencetak rekor pada 6 Oktober.\n\nTekanan juga merembet ke sektor utilitas dan pemasok peralatan yang terkait dengan pembangunan pusat data. Saham GE Vernova turun 7,4%, sedangkan Constellation Energy melemah 2,5%.\n\nBloomberg News juga melaporkan Microsoft tengah memperketat pengawasan terhadap sejumlah proyek pusat data milik Nebius, IREN, dan Nscale.\n\nGejolak pasar kali ini menunjukkan perubahan sikap investor terhadap industri AI. Jika sebelumnya pasar berfokus pada potensi pertumbuhan dan keuntungan besar dari teknologi tersebut, kini perhatian mulai beralih pada besarnya biaya investasi dan risiko pendanaannya.\n\nTed Parkhill, pendiri sekaligus CEO Incline Investment Management, menggambarkan perubahan sentimen tersebut.\n\n\"Pasar kini mulai beralih dari sekadar melihat potensi AI menjadi menghitung berapa mahal biaya untuk mengembangkan AI,\" ujarnya.\n\nMenurutnya, AI memang berpotensi mengubah dunia dalam jangka panjang. Namun, hal itu tidak berarti seluruh saham yang berkaitan dengan AI saat ini telah dihargai secara wajar.\n\n\"Pasar masih akan menghadapi banyak gejolak,\" katanya, dikutip dari Reuters.\n\nTim Holland, Chief Investment Officer Orion, mengatakan investor kini memilih mengambil jarak hingga memperoleh gambaran lebih jelas mengenai dampak pemilu paruh waktu terhadap siklus belanja modal atau capital expenditure (capex) AI.\n\n\"Sektor ini merupakan pendorong pertumbuhan ekonomi terbesar yang kita miliki selama sekitar tiga tahun terakhir,\" ujarnya kepada CNBC International.\n\nMenurut Holland, perhatian investor kini tertuju pada arah kebijakan dan sikap partai yang meraih kemenangan besar, baik di tingkat federal maupun negara bagian.\n\nKeith Lerner, Chief Investment Officer Truist Wealth, menilai aksi jual pada Kamis menunjukkan tekanan yang semakin meluas dari saham teknologi ke pasar secara keseluruhan.\n\n\"Berbeda dengan kemarin, kini kita melihat aksi jual saham teknologi, dengan skala yang begitu besar, mulai merambat ke pasar secara lebih luas. Tekanan pasar semakin membesar,\" ujarnya.\n\nBukti meluasnya tekanan terlihat dari saham Caterpillar yang turun 6%, JPMorgan merosot 4%, serta Boeing dan Nike yang masing-masing terkoreksi 2%.\n\nSejumlah analis memperkirakan tekanan jual masih dapat berlanjut, termasuk ke pasar Asia pada perdagangan Jumat.\n\nIndeks Nikkei Jepang dan Kospi Korea Selatan, yang telah naik lebih dari 20% sepanjang tahun ini, turut tertekan setelah aksi jual saham pusat data pada Rabu.\n\nDi sisi lain, gejolak pasar juga memunculkan pertanyaan mengenai kemungkinan perubahan jadwal IPO Anthropic yang diperkirakan berlangsung pada musim gugur tahun ini. Penundaan IPO perusahaan AI tersebut berpotensi semakin memperburuk sentimen investor.\n\nDengan demikian, tekanan terhadap Wall Street bukan lagi sekadar persoalan koreksi valuasi saham teknologi. Pasar kini menghadapi kombinasi kekhawatiran politik, risiko pembiayaan, besarnya biaya investasi, serta ketidakpastian terhadap kelanjutan pembangunan infrastruktur AI."
-  },
-  {
    "source": "darilaut",
    "getter": "auto",
-   "title": "Tsunami dan Titik Rawan Bencana Multi-bahaya Beruntun di Wilayah Pesisir Cincin Api Pasifik",
-   "link": "https://darilaut.id/berita/tsunami-dan-titik-rawan-bencana-multi-bahaya-beruntun-di-wilayah-pesisir-cincin-api-pasifik",
-   "pubDate": "Wed, 04 Nov 2026 04:15:12 +0000",
-   "description": "<p>Darilaut &#8211; Mempertimbangkan risiko tsunami di kawasan pesisir saja tidaklah cukup. Wilayah pesisir merupakan titik rawan bagi risiko bencana berbagai jenis bahaya (multi-bahaya) yang bersifat beruntun, majemuk, dan kompleks. Seperti pada peristiwa gempa bumi berkekuatan magnitudo 8,8 yang mengguncang lepas pantai timur Rusia, dekat Semenanjung Kamchatka, pada dini hari tanggal 30 Juli 2025 Tak lama [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/berita/tsunami-dan-titik-rawan-ben",
-   "fetched_at": "2026-11-06T01:44:26+07:00",
+   "title": "Konferensi Iklim PBB di Tengah Kekeringan, Banjir Dahsyat, Gelombang Panas dan El Niño Sangat Kuat",
+   "link": "https://darilaut.id/berita/konferensi-iklim-pbb-di-tengah-kekeringan-banjir-dahsyat-gelombang-panas-dan-el-nino-sangat-kuat",
+   "pubDate": "Fri, 06 Nov 2026 05:43:50 +0000",
+   "description": "<p>Darilaut &#8211; Dunia kini memiliki lebih banyak sarana untuk mengatasi perubahan iklim dibandingkan sebelumnya. Namun demikian jutaan orang masih belum dapat memanfaatkannya. Seiring dengan kemajuan teknologi energi bersih yang melesat lebih cepat dari kapan pun, tantangan yang dihadapi berbagai negara pada Conference of the Parties (COP) ke-31 bukan lagi sekadar mencari solusi, melainkan memastikan bahwa [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/berita/konferensi-iklim-pbb-di-",
+   "fetched_at": "2026-11-06T08:34:17+07:00",
    "categories": [
     "bencana"
    ],
    "content_status": "full",
-   "content_chars": 1704,
-   "content": "Tsunami dan Titik Rawan Bencana Multi-bahaya Beruntun di Wilayah Pesisir Cincin Api Pasifik\n\nDarilaut – Mempertimbangkan risiko tsunami di kawasan pesisir saja tidaklah cukup. Wilayah pesisir merupakan titik rawan bagi risiko bencana berbagai jenis bahaya (multi-bahaya) yang bersifat beruntun, majemuk, dan kompleks.\n\nSeperti pada peristiwa gempa bumi berkekuatan magnitudo 8,8 yang mengguncang lepas pantai timur Rusia, dekat Semenanjung Kamchatka, pada dini hari tanggal 30 Juli 2025\n\nTak lama setelah gempa bumi dan gelombang tsunami awal terjadi, gunung berapi Klyuchevskoy di Semenanjung Kamchatka, Rusia, mengalami erupsi dahsyat.\n\nErupsi yang awalnya berlangsung lambat telah dimulai sejak 20 Juli, namun pergeseran seismik mendalam akibat gempa bumi memicu aliran lava yang meluncur deras menuruni lereng barat gunung berapi tersebut, bahkan mencapai ketinggian hingga enam kilometer di atas bibir kawah, tulis Temily Baker, Elena Pronina, Elisa Belaz, dan Jamal Ahmed Mughal.\n\nLaporan dengan judul ”Tsunami Kamchatka 2025 dan pentingnya kesiapsiagaan” diterbitkan Komisi Ekonomi dan Sosial Perserikatan Bangsa-Bangsa untuk Asia dan Pasifik (UN-ESCAP).\n\nTerletak di dalam kawasan Pacific Ring of Fire (Cincin Api Pasifik), wilayah Kamchatka digambarkan oleh para ilmuwan terkemuka setempat sebagai “simpul tektonik kolosal”.\n\nSejarah terkini menunjukkan bahwa berbagai ancaman di kawasan Pasifik jarang terjadi secara terpisah. Pada tahun 2023, dua siklon tropis dan gempa bumi berkekuatan 6,5 magnitudo berdampak pada lebih dari 80 persen populasi Vanuatu hanya dalam kurun waktu 3 hari.\n\nMenginformasikan berbagai perihal tentang laut, pesisir, ikan, kapal, berita terkini dan lain sebagainya."
+   "content_chars": 1572,
+   "content": "Konferensi Iklim PBB di Tengah Kekeringan, Banjir Dahsyat, Gelombang Panas dan El Niño Sangat Kuat\n\nDarilaut – Dunia kini memiliki lebih banyak sarana untuk mengatasi perubahan iklim dibandingkan sebelumnya. Namun demikian jutaan orang masih belum dapat memanfaatkannya.\n\nSeiring dengan kemajuan teknologi energi bersih yang melesat lebih cepat dari kapan pun, tantangan yang dihadapi berbagai negara pada Conference of the Parties (COP) ke-31 bukan lagi sekadar mencari solusi, melainkan memastikan bahwa solusi tersebut terjangkau oleh semua pihak.\n\nBanjir dahsyat, gelombang panas yang mematikan, dan kekeringan berkepanjangan telah menjadi ciri utama tahun 2026—tahun di mana para ilmuwan mengonfirmasi bahwa dunia berada di jalur yang akan melampaui ambang batas pemanasan 1,5°C yang ditetapkan dalam Perjanjian Paris.\n\nDi tengah situasi ini, ditambah dengan fenomena El Niño sangat kuat yang diperkirakan akan semakin memperparah dampak iklim, perwakilan dari lebih dari 190 negara akan berkumpul di Antalya, Turki, pada 9 hingga 20 November untuk mengikuti COP31—konferensi iklim tahunan utama PBB.\n\nConference of the Parties (Konferensi Para Pihak) dalam konteks ini merujuk pada negara-negara yang menjadi pihak dalam Konvensi Kerangka Kerja PBB tentang Perubahan Iklim (UNFCCC). Pertemuan tahunan ini menjadi wadah bagi pemerintah untuk mengevaluasi kemajuan dan merundingkan cara mengatasi tantangan yang tidak mungkin diselesaikan oleh satu negara saja.\n\nMenginformasikan berbagai perihal tentang laut, pesisir, ikan, kapal, berita terkini dan lain sebagainya."
   },
   {
    "source": "darilaut",
    "getter": "auto",
-   "title": "Tsunami Dahsyat Dari Dekat Semenanjung Kamchatka Rusia",
-   "link": "https://darilaut.id/berita/tsunami-dahsyat-dari-dekat-semenanjung-kamchatka-rusia",
-   "pubDate": "Wed, 04 Nov 2026 04:09:49 +0000",
-   "description": "<p>Darilaut &#8211; Gempa bumi berkekuatan magnitudo 8,8 mengguncang lepas pantai timur Rusia, dekat Semenanjung Kamchatka, pada dini hari tanggal 30 Juli 2025. Gempa ini tercatat sebagai gempa bumi terbesar keenam sejak tahun 1900. Pada saat yang sama, puluhan negara di kawasan Pasifik mengeluarkan peringatan dan imbauan terkait tsunami. Hal ini menegaskan bahwa peristiwa semacam ini [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/berita/tsunami-dahsyat-dari-dekat-semenanjung-kamchatka-r",
-   "fetched_at": "2026-11-06T01:44:26+07:00",
+   "title": "Potensi Hujan Lebat dan Kekeringan di Sejumlah Wilayah Indonesia",
+   "link": "https://darilaut.id/berita/potensi-hujan-lebat-dan-kekeringan-di-sejumlah-wilayah-indonesia",
+   "pubDate": "Fri, 06 Nov 2026 05:16:17 +0000",
+   "description": "<p>Darilaut &#8211; Prediksi curah hujan Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) pada Dasarian I hingga II November 2026 menunjukkan bahwa sebagian besar wilayah Indonesia diprakirakan mengalami curah hujan kategori rendah hingga menengah (0–150 mm/dasarian). Potensi hujan sedang hingga lebat tersebutyang dapat disertai kilat/petir dan angin kencang masih dapat terjadi di sejumlah wilayah, sementara daerah dengan [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/berita/potensi-",
+   "fetched_at": "2026-11-06T08:34:17+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran"
+   ],
+   "content_status": "full",
+   "content_chars": 1890,
+   "content": "Potensi Hujan Lebat dan Kekeringan di Sejumlah Wilayah Indonesia\n\nDarilaut – Prediksi curah hujan Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) pada Dasarian I hingga II November 2026 menunjukkan bahwa sebagian besar wilayah Indonesia diprakirakan mengalami curah hujan kategori rendah hingga menengah (0–150 mm/dasarian).\n\nPotensi hujan sedang hingga lebat tersebutyang dapat disertai kilat/petir dan angin kencang masih dapat terjadi di sejumlah wilayah, sementara daerah dengan curah hujan terbatas tetap perlu mengantisipasi potensi kekeringan dan kebakaran hutan dan lahan.\n\nHasil monitoring Hari Tanpa Hujan (HTH) BMKG juga menunjukkan sebanyak 543 titik pengamatan mengalami kategori sangat panjang hingga ekstrem panjang. Hal ini mengindikasikan bahwa kondisi kering masih berlangsung di sejumlah wilayah, meskipun hujan signifikan telah terjadi di wilayah lainnya.\n\nMenurut Direktorat Meteorologi Publik BMKG kondisi kering tersebut juga perlu menjadi perhatian terkait potensi kebakaran hutan dan lahan. Hasil pemantauan satelit menunjukkan bahwa titik panas (hotspot) dengan tingkat kepercayaan tinggi paling banyak terdeteksi di Papua Selatan sebanyak 615 titik, diikuti Kalimantan Tengah (255 titik) dan Kalimantan Timur (223 titik).\n\nPotensi hujan sepekan ke depan, pada 6 – 8 November 2026, perlu diwaspadai adanya peningkatan hujan dengan intensitas sedang yang terjadi di Aceh Sumatra Utara, Sumatra Barat, Riau, KepulauanRiau, Jambi, Sumatra Selatan, Kep. Bangka Belitung, Lampung, Banten, Jawa Barat, Jawa Tengah, Kalimantan Barat, Kalimantan Tengah, Kalimantan Timur, Kalimantan Utara, Sulawesi Utara, Gorontalo, Sulawesi Tengah, Sulawesi Barat, Maluku Utara, Maluku, Papua Barat Daya, Papua Barat, Papua Tengah, Papua Pegunungan, Papua, dan Papua Selatan.\n\nMenginformasikan berbagai perihal tentang laut, pesisir, ikan, kapal, berita terkini dan lain sebagainya."
+  },
+  {
+   "source": "darilaut",
+   "getter": "auto",
+   "title": "Pendekatan Inovatif Mengurangi Risiko Tsunami",
+   "link": "https://darilaut.id/berita/pendekatan-inovatif-mengurangi-risiko-tsunami",
+   "pubDate": "Fri, 06 Nov 2026 02:59:13 +0000",
+   "description": "<p>Darilaut – Majelis Umum Perserikatan Bangsa-Bangsa (PBB) menetapkan tanggal 5 November sebagai Hari Kesadaran Tsunami Sedunia (World Tsunami Awareness Day). Penetapan ini sebagai seruan kepada berbagai negara, lembaga internasional, dan masyarakat sipil untuk meningkatkan kesadaran mengenai tsunami serta berbagi pendekatan inovatif dalam upaya pengurangan risiko. Hari Kesadaran Tsunami tersebut merupakan gagasan dari Jepang. Berdasarkan pengalaman [&#8230;]</p>\n<p>The post <a href=\"https://da",
+   "fetched_at": "2026-11-06T08:34:17+07:00",
    "categories": [
     "bencana"
    ],
    "content_status": "full",
-   "content_chars": 1462,
-   "content": "Darilaut – Gempa bumi berkekuatan magnitudo 8,8 mengguncang lepas pantai timur Rusia, dekat Semenanjung Kamchatka, pada dini hari tanggal 30 Juli 2025. Gempa ini tercatat sebagai gempa bumi terbesar keenam sejak tahun 1900.\n\nPada saat yang sama, puluhan negara di kawasan Pasifik mengeluarkan peringatan dan imbauan terkait tsunami. Hal ini menegaskan bahwa peristiwa semacam ini benar-benar bersifat lintas batas, sekaligus menyoroti pentingnya sistem peringatan dini yang telah disiapkan.\n\nDalam hitungan menit, gelombang setinggi lima meter dilaporkan menerjang Severo-Kurilsk, dengan air yang menggenangi daratan hingga sejauh 200 meter ke arah pedalaman. Banjir besar di wilayah pesisir tersebut memicu penetapan status darurat dan evakuasi terhadap 2.700 orang—termasuk 600 anak-anak—di seluruh wilayah Sakhalin.\n\nJepang juga mengevakuasi lebih dari 1,9 juta orang, termasuk mereka yang berada di sekitar pembangkit listrik tenaga nuklir Fukushima.\n\nKomisi Ekonomi dan Sosial Perserikatan Bangsa-Bangsa untuk Asia dan Pasifik (UN-ESCAP) melaporkan sistem peringatan dini yang efektif dan terkoordinasi dari Pacific Tsunami Warning System (PTWS) telah menyelamatkan banyak sekali nyawa.\n\nLaporan tersebut dengan judul ”Tsunami Kamchatka 2025 dan pentingnya kesiapsiagaan” ditulis oleh Temily Baker, Elena Pronina, Elisa Belaz, dan Jamal Ahmed Mughal.\n\nMenginformasikan berbagai perihal tentang laut, pesisir, ikan, kapal, berita terkini dan lain sebagainya."
+   "content_chars": 1425,
+   "content": "Darilaut – Majelis Umum Perserikatan Bangsa-Bangsa (PBB) menetapkan tanggal 5 November sebagai Hari Kesadaran Tsunami Sedunia (World Tsunami Awareness Day).\n\nPenetapan ini sebagai seruan kepada berbagai negara, lembaga internasional, dan masyarakat sipil untuk meningkatkan kesadaran mengenai tsunami serta berbagi pendekatan inovatif dalam upaya pengurangan risiko.\n\nHari Kesadaran Tsunami tersebut merupakan gagasan dari Jepang. Berdasarkan pengalaman pahit yang berulang kali dialami, Jepang telah membangun keahlian yang mumpuni selama bertahun-tahun dalam berbagai aspek, seperti sistem peringatan dini tsunami, tindakan publik, serta upaya membangun kembali dengan lebih baik (build back better) pascabencana guna meminimalkan dampak di masa depan.\n\nKantor PBB untuk Pengurangan Risiko Bencana (UNDRR) memfasilitasi peringatan Hari Kesadaran Tsunami Sedunia ini dengan bekerja sama dengan berbagai badan lain di dalam sistem PBB.\n\nTsunami merupakan peristiwa yang jarang terjadi, namun bisa sangat mematikan. Dalam 100 tahun terakhir, 58 kejadian tsunami telah merenggut lebih dari 260.000 nyawa—dengan rata-rata 4.600 korban jiwa per peristiwa—jumlah yang melampaui dampak bencana alam lainnya.\n\nJumlah korban jiwa tertinggi dalam periode tersebut terjadi akibat tsunami Samudra Hindia pada bulan Desember 2004.\n\nMenginformasikan berbagai perihal tentang laut, pesisir, ikan, kapal, berita terkini dan lain sebagainya."
+  },
+  {
+   "source": "darilaut",
+   "getter": "auto",
+   "title": "Setiap Detik Sangat Berharga Saat Terjadi Peristiwa Tsunami",
+   "link": "https://darilaut.id/berita/setiap-detik-sangat-berharga-saat-terjadi-peristiwa-tsunami",
+   "pubDate": "Fri, 06 Nov 2026 02:51:54 +0000",
+   "description": "<p>Darilaut &#8211; Ketika peristiwa tsunami melanda, setiap detik sangatlah berharga. Mengetahui apa yang harus dilakukan dapat menyelamatkan nyawa. Meskipun jarang terjadi, tsunami dapat meluluhlantakkan komunitas pesisir, sehingga kesadaran dan kesiapsiagaan menjadi sangat penting. Dengan mengusung tema “Siap menghadapi tsunami: Ketangguhan dimulai dari diri Anda”, Hari Kesadaran Tsunami Sedunia (World Tsunami Awareness Day) yang diperingati&#160; tanggal [&#8230;]</p>\n<p>The post <a href=\"ht",
+   "fetched_at": "2026-11-06T08:34:17+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "full",
+   "content_chars": 1408,
+   "content": "Darilaut – Ketika peristiwa tsunami melanda, setiap detik sangatlah berharga. Mengetahui apa yang harus dilakukan dapat menyelamatkan nyawa.\n\nMeskipun jarang terjadi, tsunami dapat meluluhlantakkan komunitas pesisir, sehingga kesadaran dan kesiapsiagaan menjadi sangat penting.\n\nDengan mengusung tema “Siap menghadapi tsunami: Ketangguhan dimulai dari diri Anda”, Hari Kesadaran Tsunami Sedunia (World Tsunami Awareness Day) yang diperingati tanggal 5 November, menyoroti kekuatan tindakan individu maupun komunitas.\n\nMengenali tanda-tanda peringatan alam, mengetahui rute evakuasi, menyusun rencana dan latihan tanggap darurat, serta berpartisipasi dalam latihan evakuasi dapat menjadi penentu antara hidup dan mati. Setiap orang memiliki peran dalam melindungi diri sendiri, orang-orang terkasih, serta komunitas mereka.\n\nPeringatan dini akan menyelamatkan nyawa jika masyarakat tahu bagaimana harus bertindak—dan bertindak dengan cepat.\n\nMelansir UN News, dalam banyak skenario tsunami, gelombang datang lebih cepat daripada peringatan resmi.\n\nJika terjadi guncangan tanah yang kuat atau tidak biasa, permukaan air laut naik atau turun secara tiba-tiba, atau terdengar suara gemuruh yang keras, segeralah bergerak ke tempat yang lebih tinggi atau menjauh dari pantai menuju daratan yang lebih aman.\n\nMenginformasikan berbagai perihal tentang laut, pesisir, ikan, kapal, berita terkini dan lain sebagainya."
   },
   {
    "source": "partainasdem",
@@ -88,7 +71,7 @@
    "link": "https://partainasdem.id/2026/11/06/surya-paloh-raih-world-humanity-award-di-bosphorus-summit-turki/",
    "pubDate": "Fri, 06 Nov 2026 00:48:00 +0000",
    "description": "ISTANBUL (6 November): Ketulusan dalam kerja-kerja kemanusiaan mengantarkan Ketua Umum Partai NasDem Surya Paloh meraih pengakuan internasional. Ia dianugerahi World Humanity Award dalam ajang Bosphorus Summit ke-17 di Istanbul, Turki, Kamis (5/11), atas dedikasi panjangnya dalam berbagai misi kemanusiaan di Indonesia maupun dunia. Penghargaan bergengsi tersebut diserahkan langsung oleh Founder dan CEO International Cooperation Platform [&#8230;]",
-   "fetched_at": "2026-11-06T01:44:20+07:00",
+   "fetched_at": "2026-11-06T08:34:10+07:00",
    "categories": [
     "bencana"
    ],
@@ -103,7 +86,7 @@
    "link": "https://partainasdem.id/2026/11/05/lestari-moerdijat-serukan-dialog-dan-kolaborasi-atasi-tantangan-global/",
    "pubDate": "Thu, 05 Nov 2026 08:50:00 +0000",
    "description": "ISTANBUL (5 November): Wakil Ketua MPR RI Lestari Moerdijat menegaskan pentingnya dialog dan kolaborasi tiga sektor—pemerintah, dunia usaha, dan masyarakat sipil dalam menghadapi berbagai tantangan global.  Hal itu disampaikan Lestari dalam pidato pada Konferensi Tingkat Tinggi (KTT) Bosphorus ke-17 di Istanbul, Turki, Kamis (5/11), yang dihadiri para pemimpin dan pakar di sejumlah bidang dari berbagai [&#8230;]",
-   "fetched_at": "2026-11-06T01:44:20+07:00",
+   "fetched_at": "2026-11-06T08:34:10+07:00",
    "categories": [
     "bencana",
     "pemerintahan"
@@ -115,11 +98,28 @@
   {
    "source": "forestinsights",
    "getter": "auto",
+   "title": "215 Hotspot Terdeteksi di Indonesia, Kebakaran Gambut Masih Jadi Ancaman",
+   "link": "https://forestinsights.id/215-hotspot-terdeteksi-di-indonesia-kebakaran-gambut-masih-jadi-ancaman/?utm_source=rss&utm_medium=rss&utm_campaign=215-hotspot-terdeteksi-di-indonesia-kebakaran-gambut-masih-jadi-ancaman",
+   "pubDate": "Fri, 06 Nov 2026 02:36:36 +0000",
+   "description": "<p>Jumlah titik panas atau hotspot dengan tingkat kepercayaan tinggi di Indonesia meningkat tajam dalam pemantauan terbaru Kementerian Kehutanan. Hingga Rabu (4/11/2026) pukul 21.00 WIB, sistem pemantauan SiPongi mencatat 215 hotspot di berbagai wilayah Indonesia, bertambah 133 titik dibandingkan sehari sebelumnya yang mencapai 82 titik. Kenaikan tersebut mendorong pemerintah memperkuat upaya pengendalian kebakaran hutan dan lahan [&#8230;]</p>\n<p>The post <a href=\"https://forestinsights.id/215-",
+   "fetched_at": "2026-11-06T08:34:07+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 4355,
+   "content": "Jumlah titik panas atau hotspot dengan tingkat kepercayaan tinggi di Indonesia meningkat tajam dalam pemantauan terbaru Kementerian Kehutanan. Hingga Rabu (4/11/2026) pukul 21.00 WIB, sistem pemantauan SiPongi mencatat 215 hotspot di berbagai wilayah Indonesia, bertambah 133 titik dibandingkan sehari sebelumnya yang mencapai 82 titik. Kenaikan tersebut mendorong pemerintah memperkuat upaya pengendalian kebakaran hutan dan lahan (karhutla), terutama di Kalimantan Tengah.\n\nDari enam provinsi yang menjadi prioritas pengendalian karhutla, jumlah hotspot meningkat dari 35 menjadi 41 titik. Kalimantan Tengah mendominasi dengan 37 titik, disusul Kalimantan Selatan sebanyak tiga titik dan Jambi satu titik. Sementara itu, Kalimantan Barat, Sumatera Selatan, dan Riau tidak mencatat hotspot dengan tingkat kepercayaan tinggi dalam pemantauan tersebut.\n\nTrending Indonesia dan FCLP Bahas Penguatan Pasar Karbon dan Diplomasi Kehutanan Global\n\nKalimantan Tengah mengalami kenaikan paling signifikan, dari satu menjadi 37 titik dalam sehari. Sebaliknya, kondisi di sejumlah provinsi menunjukkan perbaikan. Jambi mengalami penurunan dari 25 menjadi satu titik, Sumatera Selatan dari enam menjadi nihil, sedangkan Kalimantan Barat turun dari tiga titik menjadi nihil.\n\nKementerian Kehutanan meningkatkan patroli dan pengecekan langsung ke lapangan atau groundcheck untuk memastikan indikasi yang terdeteksi satelit. Langkah ini diperlukan karena hotspot merupakan anomali suhu permukaan yang teridentifikasi melalui satelit NASA Terra/Aqua, SNPP, dan NOAA-20. Dengan demikian, jumlah hotspot tidak serta-merta menunjukkan jumlah kejadian kebakaran ataupun luas lahan yang terbakar.\n\nKondisi di Sumatera Selatan menjadi salah satu contoh pentingnya verifikasi lapangan. Meski pemantauan terakhir tidak menunjukkan hotspot dengan tingkat kepercayaan tinggi, laporan Posko Pengendalian Kebakaran Hutan Kementerian Kehutanan pada 4 November masih mencatat kegiatan pemadaman di Talang Rimba dan Pulau Geronggang, Kabupaten Ogan Komering Ilir. Kedua lokasi tersebut merupakan kawasan bergambut dengan tipe kebakaran bawah yang masih memerlukan penanganan lanjutan.\n\nSementara itu, tim gabungan di kawasan Taman Nasional Tanjung Puting, Kalimantan Tengah, melanjutkan kegiatan mopping up dan penyisiran di wilayah Sei Sekonyer–Tanjung Harapan. Petugas memeriksa jalur, mengumpulkan sarana dan prasarana pemadaman, serta menyisir kembali area yang sebelumnya terbakar. Berdasarkan laporan terakhir, kondisi api di lokasi tersebut telah dinyatakan aman.\n\nMeski demikian, kenaikan hotspot di Kalimantan Tengah tetap menjadi perhatian karena karakteristik lahan gambut memungkinkan bara api bertahan dan menyebar di bawah permukaan tanah. Manggala Agni Kementerian Kehutanan bersama unsur terkait terus meningkatkan patroli, pembasahan, pendinginan, dan penyisiran untuk mencegah api kembali menyala.\n\nPerbaikan juga terlihat di sejumlah daerah lain. Petugas Manggala Agni berhasil memadamkan api sepenuhnya di Desa Tasuk, Kabupaten Berau, Kalimantan Timur. Api di Desa Tabarano, Kabupaten Poso, Sulawesi Tengah, juga telah dinyatakan padam.\n\nSelain penanganan di darat, pemerintah tetap menyesuaikan operasi udara dan Operasi Modifikasi Cuaca (OMC) dengan perkembangan situasi di masing-masing wilayah. Pelaksanaan intervensi tersebut mempertimbangkan kondisi atmosfer, potensi pertumbuhan awan, serta kebutuhan pengendalian karhutla.\n\nTrending Penelitian Terkini Jadi Dasar Kebijakan Pengelolaan Gambut\n\nDalam operasi penanganan, Manggala Agni Kementerian Kehutanan berkoordinasi dengan BNPB, TNI, Polri, BMKG, BPBD, pemerintah daerah, Masyarakat Peduli Api, dunia usaha, relawan, dan berbagai unsur terkait. Mereka melakukan patroli, pengecekan lapangan, pemadaman, penyekatan penjalaran api, pembasahan, hingga pendinginan sesuai kondisi di lapangan.\n\nKementerian Kehutanan mengingatkan bahwa peningkatan hotspot perlu direspons dengan kewaspadaan, tetapi angka tersebut harus dibaca bersama hasil pemeriksaan langsung. Tidak terdeteksinya hotspot bukan berarti api telah sepenuhnya padam. Sebaliknya, kenaikan jumlah hotspot juga tidak dapat langsung diartikan sebagai bertambahnya jumlah kebakaran atau luas wilayah yang terbakar.\n\n***\n\nThe post 215 Hotspot Terdeteksi di Indonesia, Kebakaran Gambut Masih Jadi Ancaman appeared first on Forest Insights Indonesia ."
+  },
+  {
+   "source": "forestinsights",
+   "getter": "auto",
    "title": "Hotspot Karhutla di Enam Provinsi Naik 79 Persen, Kalteng Jadi Wilayah dengan Titik Terbanyak",
    "link": "https://forestinsights.id/hotspot-karhutla-di-enam-provinsi-naik-79-persen-kalteng-jadi-wilayah-dengan-titik-terbanyak/?utm_source=rss&utm_medium=rss&utm_campaign=hotspot-karhutla-di-enam-provinsi-naik-79-persen-kalteng-jadi-wilayah-dengan-titik-terbanyak",
    "pubDate": "Tue, 03 Nov 2026 03:10:17 +0000",
    "description": "<p>Peningkatan titik panas atau hotspot di sejumlah wilayah prioritas menunjukkan bahwa ancaman kebakaran hutan dan lahan (karhutla) masih membutuhkan penanganan serius. Kementerian Kehutanan mencatat 100 hotspot dengan tingkat kepercayaan tinggi secara nasional hingga 1 November 2026 pukul 21.00 WIB. Angka tersebut meningkat empat titik dibandingkan hari sebelumnya, sementara jumlah hotspot di enam provinsi prioritas melonjak [&#8230;]</p>\n<p>The post <a href=\"https://forestinsights.id/hotspot-",
-   "fetched_at": "2026-11-06T01:44:17+07:00",
+   "fetched_at": "2026-11-06T08:34:07+07:00",
    "categories": [
     "bencana",
     "kebakaran",
@@ -136,7 +136,7 @@
    "link": "https://forestinsights.id/hotspot-karhutla-turun-jadi-96-titik-kemenhut-waspadai-bara-api-di-lahan-gambut-kalteng/?utm_source=rss&utm_medium=rss&utm_campaign=hotspot-karhutla-turun-jadi-96-titik-kemenhut-waspadai-bara-api-di-lahan-gambut-kalteng",
    "pubDate": "Mon, 02 Nov 2026 03:33:11 +0000",
    "description": "<p>Penurunan jumlah titik panas atau hotspot kebakaran hutan dan lahan (karhutla) secara nasional belum sepenuhnya mengakhiri ancaman kebakaran di sejumlah wilayah. Kementerian Kehutanan mencatat 96 hotspot dengan tingkat kepercayaan tinggi hingga 31 Oktober 2026 pukul 21.00 WIB, turun 64 titik dibandingkan sehari sebelumnya yang mencapai 160 titik. Meski demikian, pemerintah masih mewaspadai potensi kebakaran di [&#8230;]</p>\n<p>The post <a href=\"https://forestinsights.id/hotspot-karhutla-turun",
-   "fetched_at": "2026-11-06T01:44:17+07:00",
+   "fetched_at": "2026-11-06T08:34:07+07:00",
    "categories": [
     "bencana",
     "hukum-kriminal",
@@ -148,49 +148,145 @@
    "content": "Penurunan jumlah titik panas atau hotspot kebakaran hutan dan lahan (karhutla) secara nasional belum sepenuhnya mengakhiri ancaman kebakaran di sejumlah wilayah. Kementerian Kehutanan mencatat 96 hotspot dengan tingkat kepercayaan tinggi hingga 31 Oktober 2026 pukul 21.00 WIB, turun 64 titik dibandingkan sehari sebelumnya yang mencapai 160 titik. Meski demikian, pemerintah masih mewaspadai potensi kebakaran di Kalimantan Tengah, terutama pada kawasan bergambut yang dapat menyimpan bara di bawah permukaan tanah.\n\nData pemantauan SiPongi Kementerian Kehutanan menunjukkan, dari enam provinsi prioritas pengendalian karhutla, Kalimantan Tengah mencatat 15 hotspot, Sumatera Selatan tiga titik, dan Kalimantan Selatan satu titik. Sementara itu, Kalimantan Barat, Jambi, dan Riau tidak mencatat hotspot dengan tingkat kepercayaan tinggi.\n\nTrending N-250 Gatotkoco: Pembuktian Kemampuan Anak Bangsa\n\nKalimantan Tengah menjadi perhatian karena jumlah hotspot di provinsi tersebut justru meningkat dari 12 menjadi 15 titik dalam sehari. Kondisi lahan gambut juga menyulitkan proses pemadaman karena api dapat bertahan di bawah permukaan tanah meskipun kobaran tidak lagi terlihat. Karena itu, petugas masih melanjutkan pembasahan, penyisiran bara, pemadaman lanjutan, dan patroli untuk mencegah api kembali menyala.\n\nMenteri Kehutanan Raja Juli Antoni turun langsung meninjau kawasan bekas kebakaran di Kalimantan Tengah untuk memastikan kondisi lapangan sekaligus memperkuat pengawasan terhadap potensi aktivitas ilegal. Dalam kunjungan tersebut, Menhut bersama jajaran Kementerian Kehutanan menggunakan drone untuk memantau kondisi kawasan dari udara sebelum memeriksa sejumlah titik bekas kebakaran secara langsung.\n\nPeninjauan itu juga melibatkan operasi pengawasan dan penegakan hukum kehutanan. Petugas memasang papan peringatan larangan aktivitas pertambangan di dalam kawasan hutan, memeriksa kendaraan dan aktivitas yang ditemukan di sekitar lokasi, serta mengecek temuan kayu dan kondisi areal bekas kebakaran.\n\nPetugas Penegakan Hukum Kehutanan turut melakukan pemeriksaan awal terhadap sejumlah pihak yang berada di lokasi untuk mendalami aktivitas mereka. Pemerintah akan menindaklanjuti temuan tersebut berdasarkan hasil pemeriksaan lapangan dan bukti yang diperoleh.\n\nMenteri Kehutanan menegaskan bahwa kawasan hutan yang telah terbakar tidak boleh dimanfaatkan sebagai celah untuk melakukan kegiatan ilegal atau mengubah peruntukan kawasan secara melawan hukum. Pengawasan setelah kebakaran, menurutnya, sama pentingnya dengan upaya pemadaman karena pemerintah harus memastikan kawasan tetap terlindungi setelah api berhasil dikendalikan.\n\nPenanganan karhutla, dengan demikian, tidak berhenti ketika titik api padam. Pemerintah juga perlu menelusuri penyebab kebakaran, menjaga kawasan yang terdampak, dan menindak setiap dugaan pelanggaran yang ditemukan di lapangan.\n\nDalam upaya memperkuat penegakan hukum, Direktorat Jenderal Penegakan Hukum Kehutanan Kementerian Kehutanan terus mendalami perkara dugaan pelanggaran terkait karhutla dan aktivitas ilegal di kawasan hutan. Kementerian Kehutanan sebelumnya telah menetapkan PT MAP di Kalimantan Barat dan PT GAP di Kalimantan Tengah sebagai tersangka korporasi setelah penyidik mendalami perkara dan mengumpulkan alat bukti.\n\nSementara itu, operasi pengendalian api tetap berlangsung melalui kerja sama Manggala Agni Kementerian Kehutanan dengan BNPB, TNI, Polri, BMKG, BPBD, pemerintah daerah, Masyarakat Peduli Api, relawan, serta pelaku usaha. Tim gabungan melaksanakan patroli, verifikasi lapangan, pemadaman, pembasahan, penyisiran bara, dan pendinginan sesuai kondisi masing-masing wilayah.\n\nTrending HPSN 2025: Kementerian LH Perkuat Gerakan Sadar Lingkungan di Kampus dan Sekolah\n\nKementerian Kehutanan mengingatkan bahwa penurunan hotspot nasional dari 160 menjadi 96 titik harus menjadi momentum untuk mempercepat penuntasan penanganan karhutla, bukan alasan untuk mengurangi kewaspadaan. Terlebih, kondisi di Kalimantan Tengah menunjukkan bahwa potensi kebakaran masih perlu diantisipasi.\n\nPemerintah menilai keberhasilan pengendalian karhutla tidak cukup diukur dari penurunan jumlah hotspot. Petugas harus memastikan api dan bara benar-benar padam, kebakaran tidak kembali terjadi, kawasan bekas terbakar tetap terlindungi, serta setiap dugaan pelanggaran diproses sesuai ketentuan hukum.\n\n***\n\nThe post Hotspot Karhutla Turun Jadi 96 Titik, Kemenhut Waspadai Bara Api di Lahan Gambut Kalteng appeared first on Forest Insights Indonesia ."
   },
   {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "BNPB dukung rekonstruksi dampak bencana di Lombok Timur",
-   "link": "https://www.antaranews.com/berita/5835699/bnpb-dukung-rekonstruksi-dampak-bencana-di-lombok-timur",
-   "pubDate": "Fri, 06 Nov 2026 08:29:37 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/06/1006193839.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) memberikan dana hibah rehabilitasi dan rekonstruksi (hibah RR) kepada ...",
-   "fetched_at": "2026-11-06T01:43:39+07:00",
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Sidoarjo Siagakan 17 Pompa Air dan Empat Posko Bencana, Antisipasi Banjir hingga Angin Kencang",
+   "link": "https://beritajatim.com/sidoarjo-siagakan-17-pompa-air-dan-empat-posko-bencana-antisipasi-banjir-hingga-angin-kencang",
+   "pubDate": "Fri, 06 Nov 2026 08:27:27 +0000",
+   "description": "<a href=\"https://beritajatim.com/sidoarjo-siagakan-17-pompa-air-dan-empat-posko-bencana-antisipasi-banjir-hingga-angin-kencang\" title=\"Sidoarjo Siagakan 17 Pompa Air dan Empat Posko Bencana, Antisipasi Banjir hingga Angin Kencang\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/alat-banjir.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thum",
+   "fetched_at": "2026-11-06T08:33:52+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 5408,
+   "content": "Sidoarjo Siagakan 17 Pompa Air dan Empat Posko Bencana, Antisipasi Banjir hingga Angin Kencang\n\nSidoarjo (beritajatim.com) – Pemerintah Kabupaten (Pemkab) Sidoarjo memperkuat kesiapsiagaan menghadapi potensi bencana hidrometeorologi, mulai dari banjir, angin kencang, hingga kekeringan. Sejumlah peralatan penanggulangan bencana disiagakan, sementara posko di wilayah rawan diperkuat dan normalisasi sungai terus dilanjutkan.\n\nSejumlah wilayah yang menjadi perhatian karena berpotensi mengalami banjir antara lain Tanggulangin, Porong, Candi, Waru, Jabon, Krembung, hingga kawasan Sidoarjo Kota.\n\nUntuk mendukung penanganan di lapangan, Pemkab Sidoarjo menyiapkan 17 unit pompa air, empat perahu karet, 51 kendaraan operasional, ambulans, 10 sepeda motor trail, serta 12 unit mobil pemadam kebakaran.\n\nSelain itu, tersedia 40 tenda pengungsian, dua dapur umum, 20 genset, 50 gergaji mesin, dan 17 unit peralatan pompa. Kesiapan tersebut juga didukung 32 rumah air yang tersebar di enam kecamatan, yakni Taman, Tanggulangin, Sidoarjo, Waru, Candi, dan Porong.\n\nPemkab Sidoarjo turut menyiapkan satu posko siaga utama BPBD serta empat posko bencana di wilayah Tanggulangin, Porong, Candi, dan Jabon. Posko-posko tersebut akan diaktifkan apabila terjadi bencana banjir.\n\nKesiapan itu ditegaskan Bupati Sidoarjo Subandi saat memimpin Apel Kesiapsiagaan Bencana Hidrometeorologi di Alun-alun Sidoarjo, Jumat (6/11/2026).\n\nKegiatan tersebut diikuti sekitar 400 peserta dari unsur TNI, Polri, BPBD, perangkat daerah di lingkungan Pemkab Sidoarjo, Basarnas Surabaya, PLN Sidoarjo, PMI Sidoarjo, serta relawan.\n\nDalam kesempatan tersebut, Subandi menginstruksikan seluruh kecamatan untuk mengaktifkan posko bencana dan meningkatkan koordinasi lintas sektor. Menurutnya, kesiapan seluruh unsur diperlukan agar penanganan bencana dapat dilakukan secara cepat dan terkoordinasi.\n\n“Saya instruksikan masing-masing kecamatan mengaktifkan posko bencana. Kolaborasi harus terus ditingkatkan, termasuk melalui forum dan pelatihan kebencanaan. Bencana ini tidak bisa diperkirakan sehingga harus kita tanggulangi dengan kesiapsiagaan,” tegasnya.\n\nSelain menyiapkan peralatan, Pemkab Sidoarjo terus melakukan pengendalian banjir melalui normalisasi sungai dan saluran air. Pekerjaan tersebut terutama difokuskan di wilayah Tanggulangin, Porong, dan Candi. Titik-titik rawan banjir di kawasan perkotaan juga telah dipetakan untuk mendukung langkah antisipasi.\n\n“Saat ini normalisasi oleh Dinas Pekerjaan Umum Bina Marga dan Sumber Daya Air (DPUBMSDA) terus dilakukan. Koordinasi dengan para camat juga terus dilakukan,” ungkapnya.\n\nDi wilayah Kedungpeluk, Kecamatan Candi, juga telah dibangun dam berukuran besar yang disertai normalisasi untuk mendukung pengendalian banjir.\n\nNamun, Subandi mengakui penanganan banjir di sejumlah wilayah Sidoarjo masih menghadapi tantangan. Kondisi geografis Sidoarjo sebagai wilayah Delta membuat proses pembuangan air tidak selalu bisa dilakukan dengan cepat, terutama ketika terjadi air pasang atau rob.\n\n“Kalau air rob meluap, air tidak bisa langsung kita keluarkan. Kita harus menunggu sampai kondisi air memungkinkan, baru dilakukan pembuangan,” jelasnya.\n\nSubandi menambahkan, karakteristik ancaman bencana di wilayah Delta Sidoarjo lebih didominasi banjir. Meski demikian, kesiapsiagaan juga diarahkan untuk menghadapi potensi bencana lain, seperti angin puting beliung, kebakaran, dan kekeringan.\n\nSubandi menyampaikan apresiasi kepada seluruh unsur yang telah bahu-membahu dalam penanganan bencana di Kabupaten Sidoarjo.\n\n“Saya berharap sinergi pemerintah daerah, TNI, Polri, instansi terkait, dan relawan terus diperkuat sehingga upaya mitigasi dan penanganan bencana dapat berjalan optimal serta memberikan perlindungan bagi masyarakat,” tutupnya.\n\nBerdasarkan data BMKG, musim hujan di Sidoarjo diperkirakan berlangsung mulai Desember 2026 hingga Maret 2027, dengan puncak hujan diprediksi terjadi pada Februari 2027. Durasi musim hujan tahun ini diperkirakan lebih singkat.\n\nSementara itu, fenomena El Nino diperkirakan masih berlangsung hingga Februari 2027 sehingga pola cuaca cenderung sulit diprediksi.\n\nSepanjang Januari hingga 1 November 2026, Kabupaten Sidoarjo tercatat mengalami 28 kejadian bencana. Rinciannya terdiri atas empat kejadian banjir, 21 kejadian angin kencang, dan tiga kejadian kekeringan.\n\nDampak angin kencang tercatat terjadi di 14 kecamatan dan 63 desa. Sebanyak 288 rumah dilaporkan mengalami kerusakan ringan. [isa/beq]\n\nBaca berita lainnya di Google News atau langsung di halaman Indeks Berita\n\nPemkab Sidoarjo menyiagakan berbagai peralatan penanggulangan bencana, termasuk 17 unit pompa air, empat perahu karet, 51 kendaraan operasional, dan 12 mobil pemadam kebakaran. Empat posko bencana di Tanggulangin, Porong, Candi, dan Jabon disiapkan untuk diaktifkan apabila terjadi banjir. Normalisasi sungai dan saluran air terus dilakukan, terutama di Tanggulangin, Porong, Candi, serta wilayah rawan banjir lainnya. Sepanjang Januari hingga 1 November 2026, Sidoarjo mencatat 28 kejadian bencana, terdiri atas empat banjir, 21 angin kencang, dan tiga kekeringan.\n\nBeritajatim.com adalah media online berbasis di Surabaya, dan fokus pada pemberitaan di wilayah Jawa Timur. Sejak awal, beritajatim.com memegang teguh kaidah jurnalistik dalam pemberitaan, sehingga aspek akurasi, disiplin verifikasi, independen, melekat kuat di setiap berita Selengkapnya"
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "BPBD Probolinggo Petakan Ulang Jalur Evakuasi Usai Erupsi Bromo Setinggi 500 Meter",
+   "link": "https://beritajatim.com/bpbd-probolinggo-petakan-ulang-jalur-evakuasi-usai-erupsi-bromo-setinggi-500-meter",
+   "pubDate": "Fri, 06 Nov 2026 07:37:03 +0000",
+   "description": "<a href=\"https://beritajatim.com/bpbd-probolinggo-petakan-ulang-jalur-evakuasi-usai-erupsi-bromo-setinggi-500-meter\" title=\"BPBD Probolinggo Petakan Ulang Jalur Evakuasi Usai Erupsi Bromo Setinggi 500 Meter\" rel=\"nofollow\"><img width=\"1480\" height=\"918\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/1002456295.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"asy",
+   "fetched_at": "2026-11-06T08:33:52+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "full",
+   "content_chars": 4533,
+   "content": "BPBD Probolinggo Petakan Ulang Jalur Evakuasi Usai Erupsi Bromo Setinggi 500 Meter\n\nProbolinggo (beritajatim.com) – Erupsi Gunung Bromo dengan kolom letusan mencapai sekitar 500 meter di atas puncak mendorong Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Probolinggo memperkuat langkah kesiapsiagaan. Jalur evakuasi dan titik posko pengungsian kini dipetakan ulang untuk mengantisipasi kemungkinan erupsi susulan.\n\nBPBD tidak ingin lengah menghadapi aktivitas vulkanik gunung yang berada di kawasan Taman Nasional Bromo Tengger Semeru (TNBTS) tersebut. Bersama TNI dan Polri, pemetaan dilakukan pada Jumat (6/11/2026), sehari setelah Gunung Bromo menyemburkan kolom abu pada Kamis petang.\n\nKepala Pelaksana BPBD Kabupaten Probolinggo, Oemar Sjarif, mengatakan pemetaan tersebut merupakan bagian dari kesiapsiagaan menghadapi kemungkinan kondisi darurat. Langkah ini terutama disiapkan jika aktivitas vulkanik Bromo kembali meningkat dan mengharuskan warga maupun wisatawan dievakuasi.\n\n“Hari ini kami bersama TNI dan Polri melakukan pemetaan kembali jalur evakuasi dan titik-titik posko pengungsi sebagai upaya mitigasi apabila sewaktu-waktu Gunung Bromo erupsi kembali,” kata Oemar saat dikonfirmasi melalui telepon, Jumat (6/11/2026).\n\nGunung Bromo tercatat mengalami erupsi pada Kamis (5/11/2026) pukul 17.11 WIB. Kolom letusan teramati mencapai sekitar 500 meter di atas puncak atau 2.829 meter di atas permukaan laut (mdpl).\n\nMeski terjadi erupsi, status aktivitas vulkanik Gunung Bromo belum mengalami peningkatan. Hingga Jumat pagi, gunung tersebut masih berada pada Level II atau Waspada.\n\nOemar menyebut hasil pemantauan melalui kamera pengawas (CCTV) menunjukkan aktivitas gunung masih relatif stabil. Meski demikian, BPBD terus berkoordinasi dengan Pos Pengamatan Gunung Api (PPGA) Bromo dan Balai Besar Taman Nasional Bromo Tengger Semeru (BB TNBTS) untuk mengikuti perkembangan aktivitas vulkanik.\n\n“Tidak ada peningkatan atau kenaikan status Gunung Bromo, sehingga statusnya tetap Waspada. Masyarakat dan wisatawan dilarang memasuki kawasan dalam radius satu kilometer dari kawah aktif Bromo,” tegasnya.\n\nCatatan kegempaan selama 24 jam pada Kamis menunjukkan aktivitas vulkanik Bromo masih terekam melalui sejumlah jenis gempa. Di antaranya satu kali gempa letusan dengan amplitudo 23 milimeter dan durasi 46 detik.\n\nSelain itu, tercatat empat kali gempa frekuensi rendah, enam kali gempa hybrid atau fase banyak, serta satu kali tremor menerus dengan amplitudo dominan 0,5 milimeter.\n\nPengamatan visual juga menunjukkan asap kawah utama berwarna putih hingga kelabu dengan intensitas tipis, sedang, hingga tebal. Ketinggiannya berkisar 50 sampai 500 meter dari puncak. Kondisi gunung terpantau jelas hingga tertutup kabut dengan tingkat 0-III.\n\nDi tengah kondisi tersebut, Pusat Vulkanologi dan Mitigasi Bencana Geologi (PVMBG) mengeluarkan peringatan khusus bagi masyarakat dan pelaku aktivitas wisata di kawasan Bromo. Mereka diminta tidak memasuki radius satu kilometer dari kawah aktif.\n\nPVMBG juga mengingatkan potensi letusan freatik yang dapat terjadi secara mendadak tanpa didahului gejala vulkanik yang jelas.\n\n“Masyarakat di sekitar Gunung Bromo, pedagang, wisatawan, pendaki, dan pengelola wisata Gunung Bromo agar mewaspadai terjadinya letusan freatik yang bersifat tiba-tiba dan tanpa didahului oleh gejala-gejala vulkanik yang jelas,” ujar Oemar.\n\nDengan status yang masih Waspada, BPBD meminta masyarakat tidak mengabaikan rekomendasi keselamatan. Terlebih, erupsi Bromo telah kembali terjadi dan kesiapan menghadapi kemungkinan keadaan darurat menjadi hal yang harus diprioritaskan. [rap/beq]\n\nBaca berita lainnya di Google News atau langsung di halaman Indeks Berita\n\nBPBD Kabupaten Probolinggo bersama TNI dan Polri memetakan ulang jalur evakuasi serta titik posko pengungsian setelah Gunung Bromo erupsi pada 5 November 2026. Erupsi pada Kamis pukul 17.11 WIB menghasilkan kolom letusan sekitar 500 meter di atas puncak atau 2.829 meter di atas permukaan laut. Status Gunung Bromo masih Level II atau Waspada, dengan rekomendasi larangan memasuki radius satu kilometer dari kawah aktif. PVMBG mengingatkan potensi letusan freatik yang dapat terjadi mendadak tanpa didahului gejala vulkanik yang jelas.\n\nBeritajatim.com adalah media online berbasis di Surabaya, dan fokus pada pemberitaan di wilayah Jawa Timur. Sejak awal, beritajatim.com memegang teguh kaidah jurnalistik dalam pemberitaan, sehingga aspek akurasi, disiplin verifikasi, independen, melekat kuat di setiap berita Selengkapnya"
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "950 Ribu Warga Gaza Terancam Banjir Musim Dingin",
+   "link": "https://news.republika.co.id/berita/to2nh0393/950-ribu-warga-gaza-terancam-banjir-musim-dingin",
+   "pubDate": "Fri, 06 Nov 2026 15:27:00 +0700",
+   "description": "GAZA &mdash; Ancaman bencana kemanusiaan kembali membayangi Jalur Gaza menjelang musim dingin. Hampir 950 ribu warga Palestina yang mengungsi kini tinggal di kawasan dengan risiko banjir sedang hingga tinggi.&nbsp;\nKondisi...",
+   "fetched_at": "2026-11-06T08:33:46+07:00",
    "categories": [
     "bencana"
    ],
    "content_status": "partial",
-   "content_chars": 222,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/06/1006193839.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) memberikan dana hibah rehabilitasi dan rekonstruksi (hibah RR) kepada ..."
+   "content_chars": 225,
+   "content": "GAZA &mdash; Ancaman bencana kemanusiaan kembali membayangi Jalur Gaza menjelang musim dingin. Hampir 950 ribu warga Palestina yang mengungsi kini tinggal di kawasan dengan risiko banjir sedang hingga tinggi.&nbsp;\nKondisi..."
   },
   {
    "source": "antara",
    "getter": "getter2",
-   "title": "BPBD Probolinggo petakan kembali jalur evakuasi pascaerupsi Bromo",
-   "link": "https://www.antaranews.com/berita/5835627/bpbd-probolinggo-petakan-kembali-jalur-evakuasi-pascaerupsi-bromo",
-   "pubDate": "Fri, 06 Nov 2026 07:56:42 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/06/WhatsApp-Image-2026-11-05-at-19.41.55.jpeg\" align=\"left\" border=\"0\" />Badan Penanggulangan Bencana Daerah (BPBD) Probolinggo, Jawa Timur, memetakan kembali jalur evakuasi dan titik posko ...",
-   "fetched_at": "2026-11-06T01:43:39+07:00",
+   "title": "BNPB: Jenazah terakhir kru dari heli karhutla di Kalteng dievakuasi",
+   "link": "https://www.antaranews.com/berita/5836491/bnpb-jenazah-terakhir-kru-dari-heli-karhutla-di-kalteng-dievakuasi",
+   "pubDate": "Fri, 06 Nov 2026 15:23:20 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/05/1001982515.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) menyatakan jenazah Sertu (Anumerta) Heri Prasetyo, salah satu personel ...",
+   "fetched_at": "2026-11-06T08:33:25+07:00",
    "categories": [
-    "bencana"
+    "bencana",
+    "kebakaran"
    ],
    "content_status": "partial",
-   "content_chars": 252,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/06/WhatsApp-Image-2026-11-05-at-19.41.55.jpeg\" align=\"left\" border=\"0\" />Badan Penanggulangan Bencana Daerah (BPBD) Probolinggo, Jawa Timur, memetakan kembali jalur evakuasi dan titik posko ..."
+   "content_chars": 223,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/05/1001982515.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) menyatakan jenazah Sertu (Anumerta) Heri Prasetyo, salah satu personel ..."
   },
   {
    "source": "antara",
    "getter": "getter2",
-   "title": "Humaniora kemarin, Bromo erupsi hingga persiapan visa haji",
-   "link": "https://www.antaranews.com/berita/5835595/humaniora-kemarin-bromo-erupsi-hingga-persiapan-visa-haji",
-   "pubDate": "Fri, 06 Nov 2026 07:46:22 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/06/WhatsApp-Image-2026-11-05-at-19.41.55.jpeg\" align=\"left\" border=\"0\" />Sejumlah berita humaniora pada Kamis yang menarik perhatian pembaca dan masih layak untuk disimak pagi ini, mulai dari ...",
-   "fetched_at": "2026-11-06T01:43:39+07:00",
+   "title": "BNPB: Satgas padamkan kebakaran areal perkebunan di Magetan dan Luwu",
+   "link": "https://www.antaranews.com/berita/5836431/bnpb-satgas-padamkan-kebakaran-areal-perkebunan-di-magetan-dan-luwu",
+   "pubDate": "Fri, 06 Nov 2026 15:00:26 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/02/karhutla-pdip.jpeg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) menyatakan kebakaran lahan perkebunan warga di Kabupaten Magetan, Jawa ...",
+   "fetched_at": "2026-11-06T08:33:25+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 227,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/02/karhutla-pdip.jpeg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) menyatakan kebakaran lahan perkebunan warga di Kabupaten Magetan, Jawa ..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Pemkot Bogor tetapkan siaga bencana hidrometeorologi",
+   "link": "https://www.antaranews.com/video/5836311/pemkot-bogor-tetapkan-siaga-bencana-hidrometeorologi",
+   "pubDate": "Fri, 06 Nov 2026 14:32:35 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/PEMKOT-BOGOR-TETAPKAN-SIAGA-BENCANA-HIDROMETEOROLOGI.jpg\" align=\"left\" border=\"0\" />ANTARA - Pemerintah Kota Bogor menetapkan status siaga darurat bencana hidrometeorologi basah untuk mengantisipasi ...",
+   "fetched_at": "2026-11-06T08:33:25+07:00",
+   "categories": [
+    "bencana",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 261,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/PEMKOT-BOGOR-TETAPKAN-SIAGA-BENCANA-HIDROMETEOROLOGI.jpg\" align=\"left\" border=\"0\" />ANTARA - Pemerintah Kota Bogor menetapkan status siaga darurat bencana hidrometeorologi basah untuk mengantisipasi ..."
+  },
+  {
+   "source": "liputan6",
+   "getter": "getter2",
+   "title": "Dampak Longsor di Gayo Lues: Jembatan Ambruk dan Satu Tewas",
+   "link": "https://www.liputan6.com/news/read/8329748/dampak-longsor-di-gayo-lues-jembatan-ambruk-dan-satu-tewas",
+   "pubDate": "Fri, 06 Nov 2026 11:33:37 +0700",
+   "description": "Bencana longsor melanda Kabupaten Gayo Lues, Provinsi Aceh, dan berdampak pada dua kecamatan.",
+   "fetched_at": "2026-11-06T08:33:24+07:00",
    "categories": [
     "bencana"
    ],
    "content_status": "partial",
-   "content_chars": 254,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/06/WhatsApp-Image-2026-11-05-at-19.41.55.jpeg\" align=\"left\" border=\"0\" />Sejumlah berita humaniora pada Kamis yang menarik perhatian pembaca dan masih layak untuk disimak pagi ini, mulai dari ..."
+   "content_chars": 93,
+   "content": "Bencana longsor melanda Kabupaten Gayo Lues, Provinsi Aceh, dan berdampak pada dua kecamatan."
+  },
+  {
+   "source": "liputan6",
+   "getter": "getter2",
+   "title": "Menhut Ungkap Sulitnya Evakuasi Helikopter Jatuh saat Misi Padamkan Karhutla",
+   "link": "https://www.liputan6.com/news/read/8329725/menhut-ungkap-sulitnya-evakuasi-helikopter-jatuh-saat-misi-padamkan-karhutla",
+   "pubDate": "Fri, 06 Nov 2026 11:08:41 +0700",
+   "description": "Ada dua kondisi yang menjadi tantangan bagi tim gabungan dalam melakukan pencarian korban dan evakuasi badan helikopter.",
+   "fetched_at": "2026-11-06T08:33:24+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 120,
+   "content": "Ada dua kondisi yang menjadi tantangan bagi tim gabungan dalam melakukan pencarian korban dan evakuasi badan helikopter."
+  },
+  {
+   "source": "liputan6",
+   "getter": "getter2",
+   "title": "Potensi Banjir dan Longsor, BNPB Beberkan Langkah Mitigasi untuk Pemda",
+   "link": "https://www.liputan6.com/news/read/8329657/potensi-banjir-dan-longsor-bnpb-beberkan-langkah-mitigasi-untuk-pemda",
+   "pubDate": "Fri, 06 Nov 2026 09:32:12 +0700",
+   "description": "Masa transisi menuju musim hujan perlu diantisipasi karena dinamika cuaca berlangsung singkat dan intensif.",
+   "fetched_at": "2026-11-06T08:33:24+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 107,
+   "content": "Masa transisi menuju musim hujan perlu diantisipasi karena dinamika cuaca berlangsung singkat dan intensif."
   }
  ]
 }
