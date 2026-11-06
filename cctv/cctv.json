@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-06T02:32:28+07:00",
+ "updated_at": "2026-11-06T07:48:23+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3199,13 +3199,6 @@
      "lon": null
     },
     {
-     "nama": "19+850",
-     "lokasi": "JORR S",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/675323017321643087627650.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "21+300",
      "lokasi": "JORR S",
      "stream": "https://pub.hk-opt.com/LiveApp/streams/743206696886685995011480.m3u8",
@@ -3248,86 +3241,9 @@
      "lon": null
     },
     {
-     "nama": "59+000 A",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/095660838019901274554950.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "59+000 B",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/956464037412277558025165.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "59+400 A",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/675323017321643087627650.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "59+400 B",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/675323017321643087627650.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "60+000 A",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/062223762734246730973930.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "60+000 B",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/381024135984437558197100.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "61+400 A",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/756751654695732090756915.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "61+400 B",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/241370079371388169899174.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ATP GT KB BAWANG",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/710404214066673275657182.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "ATP GT KOJA BARAT",
      "lokasi": "Akses Tanjung Priok",
      "stream": "https://extstream.hk-opt2.com/LiveApp/streams/800925316301503102079844.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ATP GT KOJA DIRECT",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/539029826611825636156852.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ATP GT SEMPER II",
-     "lokasi": "Akses Tanjung Priok",
-     "stream": "https://extstream.hk-opt2.com/LiveApp/streams/539029826611825636156852.m3u8",
      "lat": null,
      "lon": null
     },
@@ -3423,13 +3339,6 @@
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
    "kamera": [
     {
-     "nama": "ATP GT KB BAWANG",
-     "lokasi": "ATP GT KB BAWANG",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/710404214066673275657182.m3u8",
-     "lat": 106.893244,
-     "lon": -6.11957
-    },
-    {
      "nama": "ATP GT KOJA BARAT",
      "lokasi": "ATP GT KOJA BARAT",
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/800925316301503102079844.m3u8",
@@ -3437,165 +3346,11 @@
      "lon": null
     },
     {
-     "nama": "ATP GT KOJA DIRECT",
-     "lokasi": "ATP GT KOJA DIRECT",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/849705788476171969074221.m3u8",
-     "lat": 106.900061,
-     "lon": -6.103144
-    },
-    {
      "nama": "ATP GT KOJA TIMUR",
      "lokasi": "ATP GT KOJA TIMUR",
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/610831844814460955304790.m3u8",
      "lat": -6.108496,
      "lon": 106.91125
-    },
-    {
-     "nama": "ATP GT SEMPER II",
-     "lokasi": "ATP GT SEMPER II",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/539029826611825636156852.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "ATP KM 59+000 A",
-     "lokasi": "ATP KM 59+000 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/095660838019901274554950.m3u8",
-     "lat": -6.1439996,
-     "lon": 106.9398527
-    },
-    {
-     "nama": "ATP KM 59+000 B",
-     "lokasi": "ATP KM 59+000 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/956464037412277558025165.m3u8",
-     "lat": -6.1439996,
-     "lon": 106.9398527
-    },
-    {
-     "nama": "ATP KM 59+400 A",
-     "lokasi": "ATP KM 59+400 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/675323017321643087627650.m3u8",
-     "lat": -6.140674,
-     "lon": 106.938908
-    },
-    {
-     "nama": "ATP KM 59+400 B",
-     "lokasi": "ATP KM 59+400 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/742155705555120746594962.m3u8",
-     "lat": -6.140674,
-     "lon": 106.938908
-    },
-    {
-     "nama": "ATP KM 60+000 B",
-     "lokasi": "ATP KM 60+000 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/381024135984437558197100.m3u8",
-     "lat": -61.298742,
-     "lon": 106.9313783
-    },
-    {
-     "nama": "ATP KM 60+000A",
-     "lokasi": "ATP KM 60+000A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/062223762734246730973930.m3u8",
-     "lat": -6.135349,
-     "lon": 106.935296
-    },
-    {
-     "nama": "ATP KM 60+800 A",
-     "lokasi": "ATP KM 60+800 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/215099945954037183566898.m3u8",
-     "lat": -6.130164,
-     "lon": 106.931521
-    },
-    {
-     "nama": "ATP KM 60+800 B",
-     "lokasi": "ATP KM 60+800 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/936875605865456745186345.m3u8",
-     "lat": -6.130164,
-     "lon": 106.931521
-    },
-    {
-     "nama": "ATP KM 61+400 A",
-     "lokasi": "ATP KM 61+400 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/756751654695732090756915.m3u8",
-     "lat": -6.124933,
-     "lon": 106.927774
-    },
-    {
-     "nama": "ATP KM 61+400 B",
-     "lokasi": "ATP KM 61+400 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/241370079371388169899174.m3u8",
-     "lat": -6.124933,
-     "lon": 106.927774
-    },
-    {
-     "nama": "ATP KM 62+450 A",
-     "lokasi": "ATP KM 62+450 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/341140856007945232503242.m3u8",
-     "lat": -6.116377,
-     "lon": 106.924952
-    },
-    {
-     "nama": "ATP KM 62+450 B",
-     "lokasi": "ATP KM 62+450 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/929965054608082862392361.m3u8",
-     "lat": -6.116377,
-     "lon": 106.924952
-    },
-    {
-     "nama": "ATP KM 63+000 A",
-     "lokasi": "ATP KM 63+000 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/167891762725762261014120.m3u8",
-     "lat": -6.1105598,
-     "lon": 106.923271
-    },
-    {
-     "nama": "ATP KM 63+000 B",
-     "lokasi": "ATP KM 63+000 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/131194518355658410125310.m3u8",
-     "lat": -61.105598,
-     "lon": 106.9232709
-    },
-    {
-     "nama": "ATP KM 64+100 A",
-     "lokasi": "ATP KM 64+100 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/884788511122999510332002.m3u8",
-     "lat": -6.107252,
-     "lon": 106.920274
-    },
-    {
-     "nama": "ATP KM 64+100 B",
-     "lokasi": "ATP KM 64+100 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/395196439889823078971618.m3u8",
-     "lat": -6.107252,
-     "lon": 106.920274
-    },
-    {
-     "nama": "ATP KM 65+000 A",
-     "lokasi": "ATP KM 65+000 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/359581681833174683835659.m3u8",
-     "lat": -6.108809,
-     "lon": 106.909949
-    },
-    {
-     "nama": "ATP KM 65+000 B",
-     "lokasi": "ATP KM 65+000 B",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/732329756425808171838308.m3u8",
-     "lat": -6.108809,
-     "lon": 106.909949
-    },
-    {
-     "nama": "ATP KM 65+800 A",
-     "lokasi": "ATP KM 65+800 A",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/282683392556897946274334.m3u8",
-     "lat": -6.107867,
-     "lon": 106.900088
-    },
-    {
-     "nama": "ATP KM 66+400",
-     "lokasi": "ATP KM 66+400",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/056605534596645381685649.m3u8",
-     "lat": -6.107079,
-     "lon": 106.894764
     }
    ]
   },
