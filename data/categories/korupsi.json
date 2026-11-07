@@ -1,70 +1,116 @@
 {
- "updated_at": "2026-11-06T22:37:46+07:00",
+ "updated_at": "2026-11-07T15:13:17+07:00",
  "category": "korupsi",
- "count": 4,
+ "count": 7,
  "articles": [
   {
-   "source": "jpnn",
+   "source": "bloombergtechnoz",
    "getter": "auto",
-   "title": "Inspektorat Dalami Pungli Rekrutmen Pegawai Dishub Surabaya Total Kerugian Rp80 Juta",
-   "link": "https://jatim.jpnn.com/jatim-terkini/50033/inspektorat-dalami-pungli-rekrutmen-pegawai-dishub-surabaya-total-kerugian-rp80-juta",
-   "pubDate": "Fri, 06 Nov 2026 15:33:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/jatim/news/normal/2026/11/06/wali-kota-surabaya-eri-cahyadi-ketika-bertemu-terduga-asn-pu-itrm.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jatim.jpnn.com</strong>, SURABAYA - Pemerintah Kota (Pemkot) Surabaya tengah mengusut dugaan praktik pungutan liar (pungli) dengan modus rekrutmen pegawai kontrak Dinas Perhubungan (Dishub), senilai Rp80 juta.",
-   "fetched_at": "2026-11-06T08:33:49+07:00",
+   "title": "Bos BGN Beber Alasan Rekrut Dua Eks Pejabat KPK",
+   "link": "https://www.bloombergtechnoz.com/detail-news/127030/bos-bgn-beber-alasan-rekrut-dua-eks-pejabat-kpk",
+   "pubDate": "Sat, 07 Nov 2026 10:30:00 +0700",
+   "description": "<img src=\"https://images.bloombergtechnoz.com/data/2026/10/image-20261023093342.jpg\" /> Kepala BGN Sudaryono mengungkapkan alasan lembaganya menunjuk dua personel yang memiliki pengalaman di Komisi Pemberantasan Korupsi (KPK).",
+   "fetched_at": "2026-11-07T07:18:26+07:00",
    "categories": [
-    "korupsi",
-    "pemerintahan"
+    "korupsi"
    ],
-   "content_status": "partial",
-   "content_chars": 405,
-   "content": "<img src=\"https://cloud.jpnn.com/photo/jatim/news/normal/2026/11/06/wali-kota-surabaya-eri-cahyadi-ketika-bertemu-terduga-asn-pu-itrm.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jatim.jpnn.com</strong>, SURABAYA - Pemerintah Kota (Pemkot) Surabaya tengah mengusut dugaan praktik pungutan liar (pungli) dengan modus rekrutmen pegawai kontrak Dinas Perhubungan (Dishub), senilai Rp80 juta."
+   "content_status": "full",
+   "content_chars": 1054,
+   "video_type": "youtube",
+   "video_id": "n-Fv976AHtE",
+   "video_url": "https://www.youtube.com/watch?v=n-Fv976AHtE",
+   "content": "Bloomberg Technoz, Jakarta - Kepala Badan Gizi Nasional (BGN) Sudaryono mengungkapkan alasan lembaganya menunjuk dua personel yang memiliki pengalaman di Komisi Pemberantasan Korupsi (KPK) di tubuh organisasinya.\n\nSudaryono mengatakan, penunjukan tersebut menjadi bagian dari upaya BGN untuk membangun sistem penyelenggaraan program yang semakin transparan, akuntabel, dan berintegritas.\n\n\"Ini adalah langkah kami untuk memperkuat komitmen antikorupsi. Bagi kami, integritas dan akuntabilitas bukan sekadar prinsip administratif, melainkan fondasi utama dalam menjalankan program sebesar MBG,\" ujarnya dalam keterangan resmi, dikutip Sabtu (7/11/2026).\n\nSudaryono mengatakan, BGN terbuka terhadap berbagai masukan, kajian, dan rekomendasi KPK, termasuk hasil kajian mengenai potensi kerawanan korupsi dalam penyelenggaraan Program MBG.\n\nBGN, kata dia, berkomitmen membangun sistem penyelenggaraan program yang mengedepankan prinsip kehati-hatian, transparansi, pengawasan, serta pencegahan potensi penyimpangan sejak tahap perencanaan hingga pelaksanaan."
   },
   {
-   "source": "inews",
+   "source": "republika",
    "getter": "auto",
-   "title": "Kejari Sikka Geledah 2 Kantor Dinas terkait Dugaan Korupsi Pengadaan Watergen Rp1,5 Miliar",
-   "link": "https://www.inews.id/regional/regional/kejari-sikka-geledah-2-kantor-dinas-terkait-dugaan-korupsi-pengadaan-watergen-rp15-miliar",
-   "pubDate": "Fri, 06 Nov 2026 14:55:00 +0700",
-   "description": "Kejari Sikka menggeledah Kantor PUPR dan Setda terkait dugaan korupsi pengadaan watergen tahun 2022 dengan kerugian negara Rp1,5 miliar.",
-   "fetched_at": "2026-11-06T08:33:47+07:00",
+   "title": "MIND ID Gandeng KPK Integrasikan Sistem Pengaduan untuk Cegah Korupsi di Sektor Pertambangan",
+   "link": "https://esgnow.republika.co.id/berita/to4c6x522/mind-id-gandeng-kpk-integrasikan-sistem-pengaduan-untuk-cegah-korupsi-di-sektor-pertambangan",
+   "pubDate": "Sat, 07 Nov 2026 13:18:33 +0700",
+   "description": "JAKARTA -- PT Mineral Industri Indonesia (Persero) atau MIND ID menggandeng Komisi Pemberantasan Korupsi (KPK) untuk mengintegrasikan sistem pengaduan guna mencegah praktik korupsi dan kecurangan di sektor pertambangan. Kerja...",
+   "fetched_at": "2026-11-07T07:18:11+07:00",
    "categories": [
-    "hukum-kriminal",
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 136,
-   "content": "Kejari Sikka menggeledah Kantor PUPR dan Setda terkait dugaan korupsi pengadaan watergen tahun 2022 dengan kerugian negara Rp1,5 miliar."
+   "content_chars": 228,
+   "content": "JAKARTA -- PT Mineral Industri Indonesia (Persero) atau MIND ID menggandeng Komisi Pemberantasan Korupsi (KPK) untuk mengintegrasikan sistem pengaduan guna mencegah praktik korupsi dan kecurangan di sektor pertambangan. Kerja..."
   },
   {
    "source": "antara",
    "getter": "getter2",
-   "title": "PN Tipikor vonis mantan Bupati Bengkulu Utara 3 tahun 4 bulan penjara",
-   "link": "https://www.antaranews.com/berita/5836347/pn-tipikor-vonis-mantan-bupati-bengkulu-utara-3-tahun-4-bulan-penjara",
-   "pubDate": "Fri, 06 Nov 2026 14:34:17 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/06/81724.jpg\" align=\"left\" border=\"0\" />Majelis Hakim Pengadilan Negeri Tindak Pidana Korupsi (PN Tipikor) Bengkulu menjatuhkan vonis hukuman penjara terhadap ...",
-   "fetched_at": "2026-11-06T08:33:25+07:00",
+   "title": "Polda PBD tahan dua tersangka korupsi perjalanan dinas fiktif",
+   "link": "https://www.antaranews.com/berita/5838103/polda-pbd-tahan-dua-tersangka-korupsi-perjalanan-dinas-fiktif",
+   "pubDate": "Sat, 07 Nov 2026 12:14:47 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/07/1001279145.jpg\" align=\"left\" border=\"0\" />Kepolisian Daerah&nbsp;Papua Barat Daya (Polda PBD) menahan dua tersangka kasus dugaan korupsi belanja perjalanan dinas ...",
+   "fetched_at": "2026-11-07T07:17:51+07:00",
    "categories": [
     "hukum-kriminal",
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 221,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/06/81724.jpg\" align=\"left\" border=\"0\" />Majelis Hakim Pengadilan Negeri Tindak Pidana Korupsi (PN Tipikor) Bengkulu menjatuhkan vonis hukuman penjara terhadap ..."
+   "content_chars": 227,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/07/1001279145.jpg\" align=\"left\" border=\"0\" />Kepolisian Daerah&nbsp;Papua Barat Daya (Polda PBD) menahan dua tersangka kasus dugaan korupsi belanja perjalanan dinas ..."
   },
   {
    "source": "liputan6",
    "getter": "getter2",
-   "title": "KPK Sita Uang Rp 2 Miliar dari Dirut KAI Bobby Rasyidin",
-   "link": "https://www.liputan6.com/news/read/8329863/kpk-sita-uang-rp-2-miliar-dari-dirut-kai-bobby-rasyidin",
-   "pubDate": "Fri, 06 Nov 2026 14:09:10 +0700",
-   "description": "Uang itu disita saat Bobby diperiksa dalam kapasitasnya sebagai saksi dalam perkara tersebut.",
-   "fetched_at": "2026-11-06T08:33:24+07:00",
+   "title": "Dua Eks KPK Masuk BGN, Apa Tugas Mereka di Program MBG?",
+   "link": "https://www.liputan6.com/news/read/8330304/dua-eks-kpk-masuk-bgn-apa-tugas-mereka-di-program-mbg",
+   "pubDate": "Sat, 07 Nov 2026 05:45:44 +0700",
+   "description": "BGN menempatkan dua mantan personel KPK di posisi strategis untuk memperkuat pengawasan dan mencegah potensi penyimpangan program MBG.",
+   "fetched_at": "2026-11-07T07:17:50+07:00",
    "categories": [
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 93,
-   "content": "Uang itu disita saat Bobby diperiksa dalam kapasitasnya sebagai saksi dalam perkara tersebut."
+   "content_chars": 134,
+   "content": "BGN menempatkan dua mantan personel KPK di posisi strategis untuk memperkuat pengawasan dan mencegah potensi penyimpangan program MBG."
+  },
+  {
+   "source": "liputan6",
+   "getter": "getter2",
+   "title": "Dua Mantan Pejabat KPK Dapat Tugas Khusus di BGN",
+   "link": "https://www.liputan6.com/news/read/8330289/dua-mantan-pejabat-kpk-dapat-tugas-khusus-di-bgn",
+   "pubDate": "Fri, 06 Nov 2026 23:58:38 +0700",
+   "description": "Dua mantan pejabat KPK itu adalah Mungki Hadipratikno dan Haerudin.",
+   "fetched_at": "2026-11-07T07:17:50+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 67,
+   "content": "Dua mantan pejabat KPK itu adalah Mungki Hadipratikno dan Haerudin."
+  },
+  {
+   "source": "liputan6",
+   "getter": "getter2",
+   "title": "Penjelasan KPK soal Penyitaan Rp 2 Miliar dari Dirut KAI",
+   "link": "https://www.liputan6.com/news/read/8330178/penjelasan-kpk-soal-penyitaan-rp-2-miliar-dari-dirut-kai",
+   "pubDate": "Fri, 06 Nov 2026 19:45:46 +0700",
+   "description": "KPK mengungkapkan penyitaan uang Rp 2 miliar dari Dirut KAI Bobby Rasyidin telah dilakukan sejak Agustus 2025.",
+   "fetched_at": "2026-11-07T07:17:50+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 110,
+   "content": "KPK mengungkapkan penyitaan uang Rp 2 miliar dari Dirut KAI Bobby Rasyidin telah dilakukan sejak Agustus 2025."
+  },
+  {
+   "source": "liputan6",
+   "getter": "getter2",
+   "title": "Kejagung Geledah 6 Lokasi Terkait Korupsi Nikel Sultra, Ini Hasilnya",
+   "link": "https://www.liputan6.com/news/read/8330160/kejagung-geledah-6-lokasi-terkait-korupsi-nikel-sultra-ini-hasilnya",
+   "pubDate": "Fri, 06 Nov 2026 19:02:44 +0700",
+   "description": "Kejagung menyita uang Rp11,8 miliar dan sejumlah barang elektronik dari penggeledahan enam lokasi di Jakarta.",
+   "fetched_at": "2026-11-07T07:17:50+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 109,
+   "content": "Kejagung menyita uang Rp11,8 miliar dan sejumlah barang elektronik dari penggeledahan enam lokasi di Jakarta."
   }
  ]
 }
