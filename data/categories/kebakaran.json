@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-09T00:37:11+07:00",
+ "updated_at": "2026-11-09T04:39:00+07:00",
  "category": "kebakaran",
- "count": 23,
+ "count": 16,
  "articles": [
   {
    "source": "unas",
@@ -10,7 +10,7 @@
    "link": "https://www.unas.ac.id/berita/tiga-badai-dalam-sebulan-menyelamatkan-wajah-indonesia/",
    "pubDate": "Sat, 07 Nov 2026 04:43:42 +0000",
    "description": "**&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;",
-   "fetched_at": "2026-11-08T15:10:22+07:00",
+   "fetched_at": "2026-11-08T19:42:11+07:00",
    "categories": [
     "hukum-kriminal",
     "kebakaran",
@@ -25,9 +25,9 @@
    "getter": "auto",
    "title": "Evakuasi korban jatuhnya heli pemadam karhutla",
    "link": "https://www.antarafoto.com/id/view/2902331/evakuasi-korban-jatuhnya-heli-pemadam-karhutla",
-   "pubDate": "Sun, 08 Nov 2026 22:10:02 +0700",
+   "pubDate": "Mon, 09 Nov 2026 02:40:01 +0700",
    "description": "Tim penyelamat gabungan mengevakuasi korban jatuhnya helikopter Super Puma H-225 dengan registrasi VH-HGM di Sungai Barito, Desa Tabatan, Kecamatan Kuripan, Kabupaten Barito Kuala, Kalimantan Selatan, Minggu (8/11/2026). Helikopter tersebut mengalami kecelakaan saat menjalankan misi operasi pemadaman kebakaran hutan dan lahan (karhutla) yang menyebabkan seorang kru yang merupakan WNI tewas, sementara dua orang pilot yang merupakan WNA selamat. ANTARA FOTO/HO-Humas Kantor SAR Banjarmasin/bar/sgd",
-   "fetched_at": "2026-11-08T15:10:19+07:00",
+   "fetched_at": "2026-11-08T19:42:08+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -36,95 +36,19 @@
    "content": "Tim penyelamat gabungan mengevakuasi korban jatuhnya helikopter Super Puma H-225 dengan registrasi VH-HGM di Sungai Barito, Desa Tabatan, Kecamatan Kuripan, Kabupaten Barito Kuala, Kalimantan Selatan, Minggu (8/11/2026). Helikopter tersebut mengalami kecelakaan saat menjalankan misi operasi pemadaman kebakaran hutan dan lahan (karhutla) yang menyebabkan seorang kru yang merupakan WNI tewas, sementara dua orang pilot yang merupakan WNA selamat. ANTARA FOTO/HO-Humas Kantor SAR Banjarmasin/bar/sgd"
   },
   {
-   "source": "antarafoto",
+   "source": "timesindonesia",
    "getter": "auto",
-   "title": "Evakuasi korban jatuhnya heli pemadam karhutla",
-   "link": "https://www.antarafoto.com/id/view/2902327/evakuasi-korban-jatuhnya-heli-pemadam-karhutla",
-   "pubDate": "Sun, 08 Nov 2026 22:10:02 +0700",
-   "description": "Kepala Basarnas Kelas A Banjarmasin I Putu Sudayana (kiri) memantau proses evakuasi korban jatuhnya helikopter Super Puma H-225 dengan registrasi VH-HGM di Sungai Barito, Desa Tabatan, Kecamatan Kuripan, Kabupaten Barito Kuala, Kalimantan Selatan, Minggu (8/11/2026). Helikopter tersebut mengalami kecelakaan saat menjalankan misi operasi pemadaman kebakaran hutan dan lahan (karhutla) yang menyebabkan seorang kru yang merupakan WNI tewas, sementara dua orang pilot yang merupakan WNA selamat. ANTAR",
-   "fetched_at": "2026-11-08T15:10:19+07:00",
-   "categories": [
-    "bencana",
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 546,
-   "content": "Kepala Basarnas Kelas A Banjarmasin I Putu Sudayana (kiri) memantau proses evakuasi korban jatuhnya helikopter Super Puma H-225 dengan registrasi VH-HGM di Sungai Barito, Desa Tabatan, Kecamatan Kuripan, Kabupaten Barito Kuala, Kalimantan Selatan, Minggu (8/11/2026). Helikopter tersebut mengalami kecelakaan saat menjalankan misi operasi pemadaman kebakaran hutan dan lahan (karhutla) yang menyebabkan seorang kru yang merupakan WNI tewas, sementara dua orang pilot yang merupakan WNA selamat. ANTARA FOTO/HO-Humas Kantor SAR Banjarmasin/bar/sgd"
-  },
-  {
-   "source": "antarafoto",
-   "getter": "auto",
-   "title": "Pascakebakaran bus Damri di Bandung",
-   "link": "https://www.antarafoto.com/id/view/2902323/pascakebakaran-bus-damri-di-bandung",
-   "pubDate": "Sun, 08 Nov 2026 22:10:02 +0700",
-   "description": "Petugas pemadam kebakaran Kota Bandung melakukan proses pendinginan pascakebakaran armada bus Djawatan Angkutan Motor Republik Indonesia (DAMRI) di Garasi pool Damri, Bandung, Jawa Barat, Minggu (8/11/2026). Dinas Kebakaran dan Penyelamatan Kota Bandung mendata sedikitnya 10 unit bus  Damri serta 13 rumah semi permanen milik warga hangus akibat kebakaran yang penyebabnya masih dalam penyelidikan. ANTARA FOTO/Novrian Arbi/sgd",
-   "fetched_at": "2026-11-08T15:10:19+07:00",
+   "title": "Gelar Pentas Amal, 250 Musisi Jalanan Yogyakarta Peduli Korban Karhutla Kalimantan",
+   "link": "https://timesindonesia.co.id/peristiwa-daerah/616708/gelar-pentas-amal-250-musisi-jalanan-yogyakarta-peduli-korban-karhutla-kalimantan",
+   "pubDate": "Mon, 09 Nov 2026 00:28:00 +0000",
+   "description": "Pentas amal yang berlangsung mulai pukul 16.00 hingga 22.30 WIB ini, digelar di sejumlah titik mulai dari Tugu Yogyakarta, DPRD DIY, Hotel Mutiara, Pasar Beringharjo, Benteng Vredeburg, hingga Titik Nol Kilometer.",
+   "fetched_at": "2026-11-08T19:42:06+07:00",
    "categories": [
     "kebakaran"
    ],
-   "content_status": "partial",
-   "content_chars": 428,
-   "content": "Petugas pemadam kebakaran Kota Bandung melakukan proses pendinginan pascakebakaran armada bus Djawatan Angkutan Motor Republik Indonesia (DAMRI) di Garasi pool Damri, Bandung, Jawa Barat, Minggu (8/11/2026). Dinas Kebakaran dan Penyelamatan Kota Bandung mendata sedikitnya 10 unit bus  Damri serta 13 rumah semi permanen milik warga hangus akibat kebakaran yang penyebabnya masih dalam penyelidikan. ANTARA FOTO/Novrian Arbi/sgd"
-  },
-  {
-   "source": "antarafoto",
-   "getter": "auto",
-   "title": "Pascakebakaran bus Damri di Bandung",
-   "link": "https://www.antarafoto.com/id/view/2902319/pascakebakaran-bus-damri-di-bandung",
-   "pubDate": "Sun, 08 Nov 2026 22:10:02 +0700",
-   "description": "Petugas berjaga di depan sejumlah bus Djawatan Angkutan Motor Republik Indonesia (DAMRI) yang terbakar di Garasi pool Damri, Bandung, Jawa Barat, Minggu (8/11/2026). Dinas Kebakaran dan Penyelamatan Kota Bandung mendata sedikitnya 10 unit bus Damri serta 13 rumah semi permanen milik warga hangus akibat kebakaran yang penyebabnya masih dalam penyelidikan. ANTARA FOTO/Novrian Arbi/sgd",
-   "fetched_at": "2026-11-08T15:10:19+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 385,
-   "content": "Petugas berjaga di depan sejumlah bus Djawatan Angkutan Motor Republik Indonesia (DAMRI) yang terbakar di Garasi pool Damri, Bandung, Jawa Barat, Minggu (8/11/2026). Dinas Kebakaran dan Penyelamatan Kota Bandung mendata sedikitnya 10 unit bus Damri serta 13 rumah semi permanen milik warga hangus akibat kebakaran yang penyebabnya masih dalam penyelidikan. ANTARA FOTO/Novrian Arbi/sgd"
-  },
-  {
-   "source": "antarafoto",
-   "getter": "auto",
-   "title": "Pascakebakaran bus Damri di Bandung",
-   "link": "https://www.antarafoto.com/id/view/2902315/pascakebakaran-bus-damri-di-bandung",
-   "pubDate": "Sun, 08 Nov 2026 22:10:02 +0700",
-   "description": "Petugas berdiri di depan sejumlah bus Djawatan Angkutan Motor Republik Indonesia (DAMRI) yang terbakar di Garasi pool Damri, Bandung, Jawa Barat, Minggu (8/11/2026). Dinas Kebakaran dan Penyelamatan Kota Bandung mendata sedikitnya 10 unit bus Damri serta 13 rumah semi permanen milik warga hangus akibat kebakaran yang penyebabnya masih dalam penyelidikan. ANTARA FOTO/Novrian Arbi/sgd",
-   "fetched_at": "2026-11-08T15:10:19+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 385,
-   "content": "Petugas berdiri di depan sejumlah bus Djawatan Angkutan Motor Republik Indonesia (DAMRI) yang terbakar di Garasi pool Damri, Bandung, Jawa Barat, Minggu (8/11/2026). Dinas Kebakaran dan Penyelamatan Kota Bandung mendata sedikitnya 10 unit bus Damri serta 13 rumah semi permanen milik warga hangus akibat kebakaran yang penyebabnya masih dalam penyelidikan. ANTARA FOTO/Novrian Arbi/sgd"
-  },
-  {
-   "source": "antarafoto",
-   "getter": "auto",
-   "title": "Pascakebakaran bus Damri di Bandung",
-   "link": "https://www.antarafoto.com/id/view/2902311/pascakebakaran-bus-damri-di-bandung",
-   "pubDate": "Sun, 08 Nov 2026 22:10:02 +0700",
-   "description": "Petugas pemadam kebakaran Kota Bandung berusaha memadamkan api yang menjalar ke rumah warga pascakebakaran armada bus Djawatan Angkutan Motor Republik Indonesia (DAMRI) di Garasi pool Damri, Bandung, Jawa Barat, Minggu (8/11/2026). Dinas Kebakaran dan Penyelamatan Kota Bandung mendata sedikitnya 10 unit bus  Damri serta 13 rumah semi permanen milik warga hangus akibat kebakaran yang penyebabnya masih dalam penyelidikan. ANTARA FOTO/Novrian Arbi/sgd",
-   "fetched_at": "2026-11-08T15:10:19+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 452,
-   "content": "Petugas pemadam kebakaran Kota Bandung berusaha memadamkan api yang menjalar ke rumah warga pascakebakaran armada bus Djawatan Angkutan Motor Republik Indonesia (DAMRI) di Garasi pool Damri, Bandung, Jawa Barat, Minggu (8/11/2026). Dinas Kebakaran dan Penyelamatan Kota Bandung mendata sedikitnya 10 unit bus  Damri serta 13 rumah semi permanen milik warga hangus akibat kebakaran yang penyebabnya masih dalam penyelidikan. ANTARA FOTO/Novrian Arbi/sgd"
-  },
-  {
-   "source": "antarafoto",
-   "getter": "auto",
-   "title": "Pascakebakaran bus Damri di Bandung",
-   "link": "https://www.antarafoto.com/id/view/2902307/pascakebakaran-bus-damri-di-bandung",
-   "pubDate": "Sun, 08 Nov 2026 22:10:02 +0700",
-   "description": "Petugas pemadam kebakaran Kota Bandung berusaha memadamkan api yang menjalar ke rumah warga pascakebakaran armada bus Djawatan Angkutan Motor Republik Indonesia (DAMRI) di Garasi pool Damri, Bandung, Jawa Barat, Minggu (8/11/2026). Dinas Kebakaran dan Penyelamatan Kota Bandung mendata sedikitnya 10 unit bus  Damri serta 13 rumah semi permanen milik warga hangus akibat kebakaran yang penyebabnya masih dalam penyelidikan. ANTARA FOTO/Novrian Arbi/sgd",
-   "fetched_at": "2026-11-08T15:10:19+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 452,
-   "content": "Petugas pemadam kebakaran Kota Bandung berusaha memadamkan api yang menjalar ke rumah warga pascakebakaran armada bus Djawatan Angkutan Motor Republik Indonesia (DAMRI) di Garasi pool Damri, Bandung, Jawa Barat, Minggu (8/11/2026). Dinas Kebakaran dan Penyelamatan Kota Bandung mendata sedikitnya 10 unit bus  Damri serta 13 rumah semi permanen milik warga hangus akibat kebakaran yang penyebabnya masih dalam penyelidikan. ANTARA FOTO/Novrian Arbi/sgd"
+   "content_status": "full",
+   "content_chars": 3175,
+   "content": "Sekitar 250 musisi jalanan Yogyakarta menggelar pentas amal bertajuk Dari Malioboro Memelukmu Dengan Cinta , Minggu sore (8/11/2026).\n\nKegiatan ini menjadi bentuk solidaritas untuk membantu warga Kalimantan yang terdampak kebakaran hutan dan lahan ( karhutla ).\n\nPentas amal yang berlangsung mulai pukul 16.00 hingga 22.30 WIB ini, digelar di sejumlah titik mulai dari Tugu Yogyakarta, DPRD DIY, Hotel Mutiara, Pasar Beringharjo, Benteng Vredeburg, hingga Titik Nol Kilometer.\n\nPenggagas acara sekaligus Ketua Paseduluran Malioboro , Silvester Alvon, mengatakan kegiatan tersebut merupakan bagian dari agenda rutin musisi jalanan Yogyakarta yang digelar setiap Minggu Wage dengan nama Senandung Wage.\n\nNamun, khusus November 2026, kegiatan Senandung Wage diarahkan untuk menggalang donasi bagi masyarakat yang terdampak bencana karhutla di Kalimantan.\n\n\"Apa yang dilakukan musisi Yogya ini adalah bentuk bela rasa pada saudara-saudara kita, khususnya di Kalimantan,\" ujar Alvon kepada TIMES Indonesia di Titik Nol KM, Malioboro.\n\n\"Bisa dibayangkan betapa tersiksanya bernapas di udara yang tercemar asap. Semua aktivitas manusia, mulai dari sekolahan, perkantoran, hingga kegiatan sosial ekonomi, pasti terdampak. Bahkan tidak sedikit yang terenggut nyawanya,\" imbuh Alvon.\n\nMenurut Alvon, ada sekitar 250 musisi jalanan beserta kru pendukung terlibat dalam kegiatan ini.\n\nMereka berasal dari belasan kelompok musik, di antaranya GP Coustic, Second, Lionidast, Paku Payung, Ajiningratan, Terang Bulan, Monice, Vostiana, Cak Rus n The Young Dayak, KUA, TRUE, ASTRO, Larasati, Arieska, Satria, Kinnara, Wijaya, Calung F, dan Rajawali.\n\nSelain pertunjukan musik jalanan, di panggung yang berada di kawasan Titik Nol Kilometer diisi dengan pentas seni dari mahasiswa asal Kalimantan dan Maluku. Mereka mengusung tajuk Manggatang Solidarity .\n\nDi Kawasan Titik Nol KM, sejumlah pertunjukan ditampilkan dengan penuh semarak antara lain pertunjukan musik akustik, angklung, tari Gelang Dadas, tari Dayak, tari Nuku, monolog, musikalisasi puisi, hingga flash mob.\n\nPenggalangan donasi dalam kegiatan amal ini menyasar masyarakat dan wisatawan yang sedang berkunjung di sepanjang kawasan Tugu, Malioboro, hingga Titik Nol Kilometer.\n\nDi beberapa titik area pertunjukan panitia juga menyediakan kotak amal serta layanan donasi melalui kode QRIS untuk memudahkan pengunjung memberikan bantuan.\n\nDengan demikian, pengunjung tidak hanya dapat menikmati pertunjukan seni dan musik, tetapi juga berkontribusi membantu masyarakat Kalimantan yang terdampak karhutla.\n\nAlvon mengatakan seluruh donasi yang terkumpul akan dihitung pada malam ini juga setelah acara selesai. Dana tersebut selanjutnya disalurkan melalui rekan-rekan di Asrama Mahasiswa Kalimantan Tengah untuk diteruskan kepada masyarakat terdampak yang membutuhkan bantuan.\n\nPentas amal Dari Malioboro Memelukmu Dengan Cinta terselenggara melalui kolaborasi sejumlah komunitas dan organisasi di Yogyakarta, yakni Komunitas Paseduluran Malioboro (Kompas Malioboro), Asrama Mahasiswa Kalimantan Selatan, Institut Musik Jalanan, Kelompok Asutenan, Perkumpulan Men for Others Indonesia, dan Sekretariat Bersama Keistimewaan DIY. (*)"
   },
   {
    "source": "darilaut",
@@ -133,7 +57,7 @@
    "link": "https://darilaut.id/berita/potensi-hujan-lebat-dan-kekeringan-di-sejumlah-wilayah-indonesia",
    "pubDate": "Fri, 06 Nov 2026 05:16:17 +0000",
    "description": "<p>Darilaut &#8211; Prediksi curah hujan Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) pada Dasarian I hingga II November 2026 menunjukkan bahwa sebagian besar wilayah Indonesia diprakirakan mengalami curah hujan kategori rendah hingga menengah (0–150 mm/dasarian). Potensi hujan sedang hingga lebat tersebutyang dapat disertai kilat/petir dan angin kencang masih dapat terjadi di sejumlah wilayah, sementara daerah dengan [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/berita/potensi-",
-   "fetched_at": "2026-11-08T15:10:14+07:00",
+   "fetched_at": "2026-11-08T19:42:04+07:00",
    "categories": [
     "bencana",
     "kebakaran"
@@ -149,7 +73,7 @@
    "link": "https://forestinsights.id/hotspot-karhutla-turun-dari-338-menjadi-55-titik-kemenhut-belum-hentikan-operasi/?utm_source=rss&utm_medium=rss&utm_campaign=hotspot-karhutla-turun-dari-338-menjadi-55-titik-kemenhut-belum-hentikan-operasi",
    "pubDate": "Sun, 08 Nov 2026 05:27:48 +0000",
    "description": "<p>Jumlah titik panas atau hotspot dengan tingkat kepercayaan tinggi di Indonesia mengalami penurunan signifikan dalam pemantauan terbaru Kementerian Kehutanan. Hingga Jumat (6/11/2026) pukul 21.00 WIB, sistem pemantauan SiPongi mencatat 55 hotspot secara nasional, berkurang 283 titik dibandingkan sehari sebelumnya yang mencapai 338 titik. Meski menunjukkan perkembangan positif, pemerintah tetap melanjutkan operasi pengendalian kebakaran hutan dan [&#8230;]</p>\n<p>The post <a href=\"https://fores",
-   "fetched_at": "2026-11-08T15:10:05+07:00",
+   "fetched_at": "2026-11-08T19:41:54+07:00",
    "categories": [
     "bencana",
     "kebakaran",
@@ -166,7 +90,7 @@
    "link": "https://forestinsights.id/215-hotspot-terdeteksi-di-indonesia-kebakaran-gambut-masih-jadi-ancaman/?utm_source=rss&utm_medium=rss&utm_campaign=215-hotspot-terdeteksi-di-indonesia-kebakaran-gambut-masih-jadi-ancaman",
    "pubDate": "Fri, 06 Nov 2026 02:36:36 +0000",
    "description": "<p>Jumlah titik panas atau hotspot dengan tingkat kepercayaan tinggi di Indonesia meningkat tajam dalam pemantauan terbaru Kementerian Kehutanan. Hingga Rabu (4/11/2026) pukul 21.00 WIB, sistem pemantauan SiPongi mencatat 215 hotspot di berbagai wilayah Indonesia, bertambah 133 titik dibandingkan sehari sebelumnya yang mencapai 82 titik. Kenaikan tersebut mendorong pemerintah memperkuat upaya pengendalian kebakaran hutan dan lahan [&#8230;]</p>\n<p>The post <a href=\"https://forestinsights.id/215-",
-   "fetched_at": "2026-11-08T15:10:05+07:00",
+   "fetched_at": "2026-11-08T19:41:54+07:00",
    "categories": [
     "bencana",
     "kebakaran",
@@ -183,7 +107,7 @@
    "link": "https://forestinsights.id/hotspot-karhutla-di-enam-provinsi-naik-79-persen-kalteng-jadi-wilayah-dengan-titik-terbanyak/?utm_source=rss&utm_medium=rss&utm_campaign=hotspot-karhutla-di-enam-provinsi-naik-79-persen-kalteng-jadi-wilayah-dengan-titik-terbanyak",
    "pubDate": "Tue, 03 Nov 2026 03:10:17 +0000",
    "description": "<p>Peningkatan titik panas atau hotspot di sejumlah wilayah prioritas menunjukkan bahwa ancaman kebakaran hutan dan lahan (karhutla) masih membutuhkan penanganan serius. Kementerian Kehutanan mencatat 100 hotspot dengan tingkat kepercayaan tinggi secara nasional hingga 1 November 2026 pukul 21.00 WIB. Angka tersebut meningkat empat titik dibandingkan hari sebelumnya, sementara jumlah hotspot di enam provinsi prioritas melonjak [&#8230;]</p>\n<p>The post <a href=\"https://forestinsights.id/hotspot-",
-   "fetched_at": "2026-11-08T15:10:05+07:00",
+   "fetched_at": "2026-11-08T19:41:54+07:00",
    "categories": [
     "bencana",
     "kebakaran",
@@ -196,27 +120,11 @@
   {
    "source": "fajar",
    "getter": "auto",
-   "title": "Aksi Mulai Jonatan Christie, Sumbangkan Bonus Medali Emas Asian Games 2026 untuk Korban Karhutla",
-   "link": "https://fajar.co.id/2026/11/08/aksi-mulai-jonatan-christie-sumbangkan-bonus-medali-emas-asian-games-2026-untuk-korban-karhutla/",
-   "pubDate": "Sun, 08 Nov 2026 13:55:00 +0000",
-   "description": "Pebulutangkis Tunggal Putra Indonesia yang Meraih Medali Emas di ajang Asian Games 2026, Jonatan Christie.",
-   "fetched_at": "2026-11-08T15:09:55+07:00",
-   "categories": [
-    "bencana",
-    "kebakaran"
-   ],
-   "content_status": "full",
-   "content_chars": 1993,
-   "content": "Beranda Olahraga Aksi Mulai Jonatan Christie, Sumbangkan Bonus Medali Emas Asian Games 2026 untuk Korban Karhutla\n\nFAJAR.CO.ID,JAKARTA -- Aksi mulia dilakukan salah satu atlet bulutangkis terbaik Indonesia di sektor tunggal putra, Jonatan Christie.\n\nJonatan Christie diketahui menyumbangkan bonus yang diraihnya di Asian Games 2026 untuk korban bencana kebakaran hutan dan lahan (Karhutla) di Indonesia.\n\nSeperti diketahui, Jonatan membantu Tim Bulu Tangkis Putra Indonesia meraih medali emas di nomor beregu pada Asian Games 2026. Itu merupakan kepingan mulia pertama dalam 28 tahun terakhir.\n\nAdapun bonus ini didapatkan usai meraih medali emas di ajang ASEAN Games yang juga sekaligus melengkapi prestasi di ajang ini.\n\nIa sebelumnya jadi juara di nomor perorangan pada edisi 2018 di Jakarta.\n\nKebahagiaan itu lalu dibagikan Jonatan dengan cara menyumbangkan bonusnya bagi korban gempa di Nusa Tenggara Barat (NTB).\n\nUang yang didonasikan Jojo digunakan untuk membangun beberapa fasilitas seperti sekolah dan masjid.\n\nTunggal putra Indonesia ini diketahui mendonasikan untuk korban karhutla di sejumlah wilayah di Indonesia lewat platform KitaBisa.\n\n“Terima kasih Jonatan sudah ikut berbagi kebaikan untuk perempuan, ibu, dan anak-anak terdampak karhutla. Kebaikanmu jadi bagian dari harapan untuk mereka yang sedang menghadapi masa sulit,” tulis KitaBisa di akun Instagram @kitabisacom, dikutip Minggu (8/11/2026).\n\nMasih di unggahan yang sama terlihat Jonatan menyumbang uang tunai sebesar Rp500 juta.\n\nNominal tersebut akan digunakan untuk membantu perempuan, ibu, dan anak-anak yang terdampak karhutla.\n\nSelain itu, lewat unggahan lain, Jonatan mengaku mendonasikan 100% bonus yang diterima dari Asian Games 2026.\n\nSelain untuk perempuan, ibu, dan anak-anak, ia ikut menyalurkan bantuan untuk upaya pemulihan ekosistem yang terdampak.\n\nDiketahui, bonus yang diterima Jonatan di Asian Games 2026 berasal dari nomor beregu. Untuk kategori ini, peraih medali emas mendapatkan Rp1,5 miliar."
-  },
-  {
-   "source": "fajar",
-   "getter": "auto",
    "title": "Beragam Respon yang Didapatkan Ria Ricis usai Tulis Caption KidZania di Lokasi Karhutla",
    "link": "https://fajar.co.id/2026/11/08/beragam-respon-yang-didapatkan-ria-ricis-usai-tulis-caption-kidzania-di-lokasi-karhutla/",
    "pubDate": "Sun, 08 Nov 2026 13:39:13 +0000",
    "description": "Momen Influencer sekaligus YouTuber, Ria Ricis saat datang Langsung di Lokasi Kebakaran Hutan dan Lahan (Karhutla). (Foto: @riaricis1795).",
-   "fetched_at": "2026-11-08T15:09:55+07:00",
+   "fetched_at": "2026-11-08T19:41:46+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -231,7 +139,7 @@
    "link": "https://beritajatim.com/bawa-lima-tuntutan-aliansi-suroboyo-bergerak-serukan-prabowo-gibran-mundur",
    "pubDate": "Sun, 08 Nov 2026 13:44:56 +0000",
    "description": "<a href=\"https://beritajatim.com/bawa-lima-tuntutan-aliansi-suroboyo-bergerak-serukan-prabowo-gibran-mundur\" title=\"Bawa Lima Tuntutan, Aliansi Suroboyo Bergerak Serukan Prabowo-Gibran Mundur\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/ASAP.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://cd",
-   "fetched_at": "2026-11-08T15:09:52+07:00",
+   "fetched_at": "2026-11-08T19:41:42+07:00",
    "categories": [
     "kebakaran",
     "pemerintahan"
@@ -247,7 +155,7 @@
    "link": "https://beritajatim.com/kebakaran-beruntun-di-saradan-madiun-dua-rumah-warga-dilalap-api",
    "pubDate": "Sun, 08 Nov 2026 13:14:43 +0000",
    "description": "<a href=\"https://beritajatim.com/kebakaran-beruntun-di-saradan-madiun-dua-rumah-warga-dilalap-api\" title=\"Kebakaran Beruntun di Saradan Madiun, Dua Rumah Warga Dilalap Api\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/kebakaran-1.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https://cdnmedia.berita",
-   "fetched_at": "2026-11-08T15:09:52+07:00",
+   "fetched_at": "2026-11-08T19:41:42+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -256,49 +164,36 @@
    "content": "Kebakaran Beruntun di Saradan Madiun, Dua Rumah Warga Dilalap Api\n\nPetugas Damkar memadamkan api di dapur rumah Suparman, Desa Sambirejo, Saradan. (Foto : Damkar fo beritajatim.com)\n\nMadiun (beritajatim.com) – Dua rumah warga di Kecamatan Saradan, Kabupaten Madiun, terbakar dalam waktu berdekatan, Minggu (8/11/2026). Ironisnya, kedua kebakaran tersebut sama-sama melanda bagian dapur dan terjadi hanya berselang sekitar 30 menit.\n\nDua rumah yang terbakar masing-masing milik Suparman, warga Desa Sambirejo, dan Febrianto Dwi Cahyanto, warga Desa Sumbersari. Akibat kejadian tersebut, bangunan dapur, perabotan rumah tangga hingga sejumlah gabah milik korban hangus dilalap api.\n\nTotal kerugian materi akibat dua kebakaran tersebut ditaksir mencapai Rp160 juta. Beruntung, tidak ada korban jiwa maupun luka-luka dalam dua peristiwa tersebut.\n\nKepala Bidang Kesiapsiagaan dan Pengendalian Bahaya Kebakaran Satpol PP Kabupaten Madiun, Andy Koerniawan, membenarkan adanya dua kejadian kebakaran di wilayah Saradan tersebut. Petugas pemadam kebakaran harus bergerak cepat setelah menerima laporan dari dua lokasi berbeda.\n\n“Benar, pada Minggu (8/11/2026) terjadi dua kebakaran rumah di wilayah Kecamatan Saradan. Lokasinya berbeda, yakni di Desa Sambirejo dan Desa Sumbersari,” ujarnya.\n\nKebakaran pertama terjadi di rumah Suparman, warga RT 05/RW 02, Desa Sambirejo. Peristiwa itu diketahui sekitar pukul 12.35 WIB. Tujuh menit kemudian, petugas Damkar Kabupaten Madiun menerima laporan dari warga.\n\nPetugas langsung menerjunkan dua unit mobil pemadam, yakni unit suplai dan Fuso Pos 1, pada pukul 12.44 WIB. Armada tiba di lokasi sekitar pukul 12.58 WIB dan langsung melakukan pemadaman.\n\nApi berhasil dipadamkan sekitar pukul 13.25 WIB. Penanganan dinyatakan selesai dua menit kemudian. Dari hasil pendataan sementara, bagian dapur rumah beserta sejumlah perabotan milik korban hangus terbakar.\n\nKebakaran tersebut diduga dipicu korsleting listrik. Akibatnya, Suparman diperkirakan mengalami kerugian materi hingga Rp50 juta.\n\nBelum sepenuhnya selesai penanganan kebakaran pertama, petugas kembali menerima laporan kejadian serupa. Kali ini, api membakar dapur rumah Febrianto Dwi Cahyanto di Dusun Kenep, RT 15/RW 04, Desa Sumbersari.\n\nKebakaran kedua diketahui terjadi sekitar pukul 13.05 WIB. Laporan diterima petugas Damkar pada pukul 13.21 WIB. Enam menit berselang, dua unit mobil pemadam langsung diberangkatkan dan tiba di lokasi sekitar pukul 13.30 WIB.\n\nPetugas bersama unsur terkait melakukan pemadaman hingga api berhasil dikendalikan. Proses penanganan kebakaran di lokasi kedua tersebut baru dinyatakan selesai sekitar pukul 15.25 WIB.\n\nBerdasarkan pendataan sementara, kebakaran diduga bermula dari aktivitas pembakaran jerami. Api kemudian merembet hingga membakar bagian dapur rumah korban.\n\nTak hanya bangunan dapur dan perabotan rumah tangga, sebanyak lima sak gabah milik Febrianto juga ikut hangus terbakar. Kerugian materi akibat kejadian tersebut ditaksir mencapai Rp110 juta.\n\n“Kalau ditotal, kerugian dari dua kejadian kebakaran ini diperkirakan mencapai Rp160 juta. Untuk kejadian pertama kerugiannya sekitar Rp50 juta, sedangkan di lokasi kedua sekitar Rp110 juta. Alhamdulillah, tidak ada korban jiwa maupun luka-luka,” jelas Andy.\n\nDalam penanganan dua kebakaran tersebut, petugas Damkar Kabupaten Madiun dibantu BPBD Kabupaten Madiun dan anggota Polsek Saradan. Khusus di lokasi Desa Sumbersari, penanganan juga melibatkan Babinsa dan Bhabinkamtibmas setempat.\n\nAndy mengimbau masyarakat lebih waspada terhadap potensi kebakaran, terutama yang bersumber dari instalasi listrik maupun aktivitas pembakaran terbuka.\n\n“Kami mengimbau masyarakat agar lebih berhati-hati. Pastikan instalasi listrik di rumah dalam kondisi aman. Kalau membakar jerami atau sampah, jangan ditinggalkan begitu saja karena api bisa merembet ke bangunan di sekitarnya,” pesannya.\n\nPeristiwa kebakaran beruntun di dua desa tersebut menjadi pengingat bahwa kelalaian kecil dapat berujung pada kerugian besar. Terlebih, kebakaran di lingkungan permukiman berpotensi merembet dan membahayakan keselamatan warga sekitar. (rbr/ian)\n\nBaca berita lainnya di Google News atau langsung di halaman Indeks Berita\n\nBeritajatim.com adalah media online berbasis di Surabaya, dan fokus pada pemberitaan di wilayah Jawa Timur. Sejak awal, beritajatim.com memegang teguh kaidah jurnalistik dalam pemberitaan, sehingga aspek akurasi, disiplin verifikasi, independen, melekat kuat di setiap berita Selengkapnya"
   },
   {
-   "source": "wartaekonomi",
+   "source": "akurat",
    "getter": "auto",
-   "title": "Usai 22 Tahun Menjelajah Antariksa, Satelit NASA Terbakar di Langit Sumatra",
-   "link": "https://wartaekonomi.co.id/read646409/usai-22-tahun-menjelajah-antariksa-satelit-nasa-terbakar-di-langit-sumatra",
-   "pubDate": "Sun, 08 Nov 2026 21:40:00 +0700",
-   "description": "Satelit NASA Neil Gehrels Swift Observatory terbakar saat memasuki atmosfer Bumi di atas Sumatera Utara setelah hampir 22 tahun beroperasi.",
-   "fetched_at": "2026-11-08T15:09:52+07:00",
+   "title": "Helikopter Water Bombing BNPB Jatuh, 1 Personel Masih Dalam Pencarian",
+   "link": "https://www.akurat.co/riil/905278/helikopter-water-bombing-bnpb-jatuh-1-personel-masih-dalam-pencarian",
+   "pubDate": "Mon, 09 Nov 2026 01:30:22 +0700",
+   "description": "",
+   "fetched_at": "2026-11-08T19:41:42+07:00",
    "categories": [
+    "bencana",
     "kebakaran"
    ],
-   "content_status": "partial",
-   "content_chars": 139,
-   "content": "Satelit NASA Neil Gehrels Swift Observatory terbakar saat memasuki atmosfer Bumi di atas Sumatera Utara setelah hampir 22 tahun beroperasi."
+   "content_status": "full",
+   "content_chars": 2380,
+   "content": "Helikopter Water Bombing BNPB Jatuh, 1 Personel Masih Dalam Pencarian\n\nAKURAT.CO Direktorat Jenderal Perhubungan Udara Kementerian Perhubungan (Kemenhub), telah menerima laporan sementara terkait kecelakaan helikopter jenis Eurocopter EC225LP Super Puma II+ (Airbus Helicopters H225) yang jatuh di perairan Sungai Barito.\n\nHelikopter dengan nomor registrasi VH-HGM, dioperasikan untuk mendukung misi Badan Nasional Penanggulangan Bencana (BNPB) dalam penanganan kebakaran hutan dan lahan (karhutla) di Kalimantan.\n\nBerdasarkan informasi awal yang diterima, pada pukul 11.56 WIB, helikopter tersebut mengalami kecelakaan saat melakukan pengambilan air untuk kegiatan water bombing di wilayah Sungai Barito, Banjarmasin.\n\nHelikopter dilaporkan membawa tiga personel, terdiri atas dua pilot dan satu Helicopter Landing Officer (HLO). Dua pilot dilaporkan selamat, sementara satu personel HLO hingga saat ini masih dalam proses pencarian.\n\nMenindaklanjuti kejadian tersebut, Direktorat Jenderal Perhubungan Udara melalui Direktorat Kelaikudaraan dan Pengoperasian Pesawat Udara dan Otoritas Bandar Udara Wilayah III terus berkoordinasi dengan pihak operator, BNPB.\n\nSerta, instansi terkait lainnya untuk mendukung penanganan kejadian dan memperoleh informasi terkini, khususnya terkait proses pencarian personel yang belum ditemukan.\n\n“Prioritas utama kami saat ini adalah memastikan penanganan kejadian berjalan dengan baik, khususnya mendukung upaya pencarian terhadap satu personel yang belum ditemukan. Kami terus berkoordinasi dengan pihak terkait, sekaligus menyiapkan langkah pemeriksaan awal dari aspek kelaikudaraan dan pengoperasian pesawat udara,” kata Direktur Jenderal Perhubungan Udara, Lukman F. Laisa, Minggu (8/11/2026) malam.\n\nSelanjutnya, Direktorat Kelaikudaraan dan Pengoperasian Pesawat Udara akan melakukan pengumpulan data dan informasi teknis sebagai bagian dari langkah pemeriksaan awal sesuai dengan kewenangan Direktorat Jenderal Perhubungan Udara.\n\n“Direktorat Jenderal Perhubungan Udara melalui Otoritas Bandar Udara Wilayah III akan terus memantau perkembangan penanganan kejadian dan menyampaikan informasi lebih lanjut berdasarkan data serta hasil koordinasi yang telah terverifikasi,” tambah Lukman.\n\nDilarang mengambil dan/atau menayangkan ulang sebagian atau keseluruhan artikel di atas untuk konten akun media sosial komersil tanpa seizin redaksi."
   },
   {
-   "source": "jpnn",
+   "source": "sindonews",
    "getter": "auto",
-   "title": "Polisi Sebut Belasan Rumah Terdampak Kebakaran Pul DAMRI di Bandung",
-   "link": "https://www.jpnn.com/news/polisi-sebut-belasan-rumah-terdampak-kebakaran-pool-damri-di-bandung",
-   "pubDate": "Sun, 08 Nov 2026 21:01:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/watermark/2026/11/08/sejumlah-bus-damri-hangus-terbakar-di-pool-damri-jalan-kebon-wagq.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong> - Sebanyak 13 rumah terdampak api dan asap dalam kebakaran hebat yang melahap 10 unit bus di pul DAMRI, Jalan Kebon Kawung, Kota Bandung.&nbsp;",
-   "fetched_at": "2026-11-08T15:09:49+07:00",
+   "title": "Anggota DPR Rina Sa'adah Tekankan Pentingnya Keselamatan Petugas Pemadam Karhutla",
+   "link": "https://nasional.sindonews.com/read/1769837/15/anggota-dpr-rina-saadah-tekankan-pentingnya-keselamatan-petugas-pemadam-karhutla-1794150717",
+   "pubDate": "Sun, 08 Nov 2026 22:52:04 +0700",
+   "description": "Menurut Rina, kecelakaan ini harus menjadi perhatian serius memperkuat perlindungan seluruh petugas penanggulangan karhutla, baik awak udara, personel darat, maupun relawan.",
+   "fetched_at": "2026-11-08T19:41:37+07:00",
    "categories": [
-    "kebakaran"
+    "kebakaran",
+    "pemerintahan"
    ],
    "content_status": "partial",
-   "content_chars": 355,
-   "content": "<img src=\"https://cloud.jpnn.com/photo/arsip/watermark/2026/11/08/sejumlah-bus-damri-hangus-terbakar-di-pool-damri-jalan-kebon-wagq.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong> - Sebanyak 13 rumah terdampak api dan asap dalam kebakaran hebat yang melahap 10 unit bus di pul DAMRI, Jalan Kebon Kawung, Kota Bandung.&nbsp;"
-  },
-  {
-   "source": "republika",
-   "getter": "auto",
-   "title": "Kebakaran Stasiun Gambir Diduga akibat Fenomena Kelistrikan, Kerugian Rp 200 Juta",
-   "link": "https://news.republika.co.id/berita/to6uag370/kebakaran-stasiun-gambir-diduga-akibat-fenomena-kelistrikan-kerugian-rp-200-juta",
-   "pubDate": "Sun, 08 Nov 2026 21:44:40 +0700",
-   "description": "JAKARTA &mdash; Kebakaran terjadi di ruang panel listrik Stasiun Gambir, Jakarta Pusat, pada Sabtu (7/11) malam. Dinas Penanggulangan Kebakaran dan Penyelamatan (Gulkarmat) DKI Jakarta menyebut kebakaran diduga disebabkan fenomena...",
-   "fetched_at": "2026-11-08T15:09:46+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 233,
-   "content": "JAKARTA &mdash; Kebakaran terjadi di ruang panel listrik Stasiun Gambir, Jakarta Pusat, pada Sabtu (7/11) malam. Dinas Penanggulangan Kebakaran dan Penyelamatan (Gulkarmat) DKI Jakarta menyebut kebakaran diduga disebabkan fenomena..."
+   "content_chars": 173,
+   "content": "Menurut Rina, kecelakaan ini harus menjadi perhatian serius memperkuat perlindungan seluruh petugas penanggulangan karhutla, baik awak udara, personel darat, maupun relawan."
   },
   {
    "source": "katadata",
@@ -307,7 +202,7 @@
    "link": "https://katadata.co.id/berita/nasional/6aefdf6d4f714/pesawat-pengebom-air-bantuan-australia-mulai-padamkan-karhutla-di-kaltim",
    "pubDate": "Sun, 08 Nov 2026 09:33:00 +0700",
    "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/09/13/2026_09_13-13_53_00_9d47665e-af4a-11f1-9607-0242ac12000a_620x413_thumb.jpg\" alt=\"Tujuh desa dan tiga kelurahan dikepung asap karhutla\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Armada pesawat pengebom air (water bombing) bantuan Pemerintah Australia mulai dioperasikan untuk menggempur titik kebakaran hutan dan lahan (karhutla) di wilayah Provinsi Kalimantan Timur. </p>",
-   "fetched_at": "2026-11-08T15:09:46+07:00",
+   "fetched_at": "2026-11-08T19:41:36+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -318,47 +213,48 @@
   {
    "source": "antara",
    "getter": "getter2",
-   "title": "Kebakaran pool Damri, 10 bus tua terbakar dan 13 rumah terdampak",
-   "link": "https://www.antaranews.com/video/5840263/kebakaran-pool-damri-10-bus-tua-terbakar-dan-13-rumah-terdampak",
-   "pubDate": "Sun, 08 Nov 2026 21:17:02 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/KEBAKARAN-POOL-DAMRI-10-BUS-TUA-TERBAKAR-DAN-13-RUMAH-TERDAMPAK.jpg\" align=\"left\" border=\"0\" />ANTARA - Kebakaran melanda pool bus Damri di Jalan Kebon Kawung, Kecamatan Cicendo, Kota Bandung, Minggu (8/11). ...",
-   "fetched_at": "2026-11-08T15:09:28+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 270,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/KEBAKARAN-POOL-DAMRI-10-BUS-TUA-TERBAKAR-DAN-13-RUMAH-TERDAMPAK.jpg\" align=\"left\" border=\"0\" />ANTARA - Kebakaran melanda pool bus Damri di Jalan Kebon Kawung, Kecamatan Cicendo, Kota Bandung, Minggu (8/11). ..."
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
    "title": "Bantuan Australia sasar titik api karhutla di Kutai Timur",
    "link": "https://www.antaranews.com/berita/5840267/bantuan-australia-sasar-titik-api-karhutla-di-kutai-timur",
    "pubDate": "Sun, 08 Nov 2026 21:12:25 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/08/IMG_5906.jpeg\" align=\"left\" border=\"0\" />Bantuan Pemerintah Australia melalui operasi pemadaman dari udara mulai menyasar sejumlah titik kebakaran hutan dan ...",
-   "fetched_at": "2026-11-08T15:09:28+07:00",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/08/IMG_5906_1.jpeg\" align=\"left\" border=\"0\" />Bantuan Pemerintah Australia melalui operasi pemadaman dari udara mulai menyasar sejumlah titik kebakaran hutan dan ...",
+   "fetched_at": "2026-11-08T19:41:17+07:00",
    "categories": [
     "kebakaran"
    ],
    "content_status": "partial",
-   "content_chars": 222,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/08/IMG_5906.jpeg\" align=\"left\" border=\"0\" />Bantuan Pemerintah Australia melalui operasi pemadaman dari udara mulai menyasar sejumlah titik kebakaran hutan dan ..."
+   "content_chars": 224,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/08/IMG_5906_1.jpeg\" align=\"left\" border=\"0\" />Bantuan Pemerintah Australia melalui operasi pemadaman dari udara mulai menyasar sejumlah titik kebakaran hutan dan ..."
   },
   {
-   "source": "antara",
+   "source": "liputan6",
    "getter": "getter2",
-   "title": "Desainer Kutim angkat isu karhutla dalam karya busana",
-   "link": "https://www.antaranews.com/berita/5840207/desainer-kutim-angkat-isu-karhutla-dalam-karya-busana",
-   "pubDate": "Sun, 08 Nov 2026 20:42:16 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/08/IMG_5909.jpeg\" align=\"left\" border=\"0\" />Isu kebakaran hutan dan lahan (karhutla) di Kalimantan Timur diangkat melalui karya fesyen oleh desainer lokal Kutai ...",
-   "fetched_at": "2026-11-08T15:09:28+07:00",
+   "title": "BNPB: Kebakaran Hutan dan Kekeringan Masih Terjadi di Sulawesi",
+   "link": "https://www.liputan6.com/news/read/8330958/bnpb-kebakaran-hutan-dan-kekeringan-masih-terjadi-di-sulawesi",
+   "pubDate": "Sun, 08 Nov 2026 16:03:56 +0700",
+   "description": "Kebakaran di Sulawesi Tengah, Sulawesi Tenggara, dan Sulawesi Selatan bahkan menghanguskan belasan hektare lahan.",
+   "fetched_at": "2026-11-08T19:41:15+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 113,
+   "content": "Kebakaran di Sulawesi Tengah, Sulawesi Tenggara, dan Sulawesi Selatan bahkan menghanguskan belasan hektare lahan."
+  },
+  {
+   "source": "liputan6",
+   "getter": "getter2",
+   "title": "Tim Gabungan Temukan Cockpit Voice Recorder Helikopter yang Jatuh saat Tangani Karhutla",
+   "link": "https://www.liputan6.com/news/read/8330894/tim-gabungan-temukan-cockpit-voice-recorder-helikopter-yang-jatuh-saat-tangani-karhutla",
+   "pubDate": "Sun, 08 Nov 2026 13:13:03 +0700",
+   "description": "Tim Gabungan TNI dan Basarnas menemukan cockpit voice recorder diduga milik helikopter yang jatuh saat padamkan kebakaran hutan di Kalteng.",
+   "fetched_at": "2026-11-08T19:41:15+07:00",
    "categories": [
     "kebakaran"
    ],
    "content_status": "partial",
-   "content_chars": 223,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/08/IMG_5909.jpeg\" align=\"left\" border=\"0\" />Isu kebakaran hutan dan lahan (karhutla) di Kalimantan Timur diangkat melalui karya fesyen oleh desainer lokal Kutai ..."
+   "content_chars": 139,
+   "content": "Tim Gabungan TNI dan Basarnas menemukan cockpit voice recorder diduga milik helikopter yang jatuh saat padamkan kebakaran hutan di Kalteng."
   }
  ]
 }
