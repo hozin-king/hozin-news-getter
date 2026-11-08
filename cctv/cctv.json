@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-08T11:33:05+07:00",
+ "updated_at": "2026-11-08T18:44:24+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -4688,27 +4688,6 @@
      "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10577.m3u8",
      "lat": 632222.0,
      "lon": 10659639.0
-    }
-   ]
-  },
-  {
-   "nama": "Tol Simpang Susun Waru - Bandara Juanda",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "KM 0+200",
-     "lokasi": "KM 0+200",
-     "stream": "https://cctv.cms.co.id/stream1/stream.m3u8",
-     "lat": -7.3466463,
-     "lon": 112.730179603647
-    },
-    {
-     "nama": "KM 02+200",
-     "lokasi": "KM 02+200",
-     "stream": "https://cctv.cms.co.id/stream2/stream.m3u8",
-     "lat": -7.343414,
-     "lon": 112.771144
     }
    ]
   }
