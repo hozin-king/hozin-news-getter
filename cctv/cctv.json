@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-10T10:12:35+07:00",
+ "updated_at": "2026-11-10T19:08:55+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3199,48 +3199,6 @@
      "lon": null
     },
     {
-     "nama": "21+300",
-     "lokasi": "JORR S",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/743206696886685995011480.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "22+400",
-     "lokasi": "JORR S",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/269363542266933731794240.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "23+000",
-     "lokasi": "JORR S",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/121810470572829194057319.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "23+200",
-     "lokasi": "JORR S",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/271820726275436138198288.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "23+600",
-     "lokasi": "JORR S",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/101502919369166746058073.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "24+000",
-     "lokasi": "JORR S",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/222888349210580537521273.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "ATP GT KOJA BARAT",
      "lokasi": "Akses Tanjung Priok",
      "stream": "https://extstream.hk-opt2.com/LiveApp/streams/800925316301503102079844.m3u8",
@@ -3314,13 +3272,6 @@
      "nama": "JORRS GT LENTENG AGUNG 2",
      "lokasi": "JORR S",
      "stream": "https://pub.hk-opt.com/LiveApp/streams/720556408093325199948146.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "JORRS GT PASAR REBO",
-     "lokasi": "JORR S",
-     "stream": "https://pub.hk-opt.com/LiveApp/streams/786252567929925275184104.m3u8",
      "lat": null,
      "lon": null
     },
@@ -3724,90 +3675,6 @@
      "lon": 106.8447685
     },
     {
-     "nama": "JORRS GT PASAR REBO",
-     "lokasi": "JORRS GT PASAR REBO",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/786252567929925275184104.m3u8",
-     "lat": -6.3104152,
-     "lon": 106.8847441
-    },
-    {
-     "nama": "JORRS KM 19+850",
-     "lokasi": "JORRS KM 19+850",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/288999494098565239566328.m3u8",
-     "lat": -6.2834271,
-     "lon": 106.7738913
-    },
-    {
-     "nama": "JORRS KM 20+300",
-     "lokasi": "JORRS KM 20+300",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/977760504019242121012038.m3u8",
-     "lat": -6.2866661,
-     "lon": 106.7766431
-    },
-    {
-     "nama": "JORRS KM 20+800",
-     "lokasi": "JORRS KM 20+800",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/052053429007064876625130.m3u8",
-     "lat": -6.29098,
-     "lon": 106.7802773
-    },
-    {
-     "nama": "JORRS KM 21+300",
-     "lokasi": "JORRS KM 21+300",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/743206696886685995011480.m3u8",
-     "lat": -6.2915629,
-     "lon": 106.7837955
-    },
-    {
-     "nama": "JORRS KM 21+800",
-     "lokasi": "JORRS KM 21+800",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/977787495230088227640516.m3u8",
-     "lat": -6.2918991,
-     "lon": 106.7881857
-    },
-    {
-     "nama": "JORRS KM 22+400",
-     "lokasi": "JORRS KM 22+400",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/269363542266933731794240.m3u8",
-     "lat": -6.2921739,
-     "lon": 106.7938054
-    },
-    {
-     "nama": "JORRS KM 23+000",
-     "lokasi": "JORRS KM 23+000",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/121810470572829194057319.m3u8",
-     "lat": -6.292387,
-     "lon": 106.7991677
-    },
-    {
-     "nama": "JORRS KM 23+200",
-     "lokasi": "JORRS KM 23+200",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/271820726275436138198288.m3u8",
-     "lat": -6.2924203,
-     "lon": 106.8009845
-    },
-    {
-     "nama": "JORRS KM 23+600",
-     "lokasi": "JORRS KM 23+600",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/101502919369166746058073.m3u8",
-     "lat": -6.2924292,
-     "lon": 106.8044466
-    },
-    {
-     "nama": "JORRS KM 24+000",
-     "lokasi": "JORRS KM 24+000",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/222888349210580537521273.m3u8",
-     "lat": -6.2922037,
-     "lon": 106.8080419
-    },
-    {
-     "nama": "JORRS KM 24+450",
-     "lokasi": "JORRS KM 24+450",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/529068807902101265499497.m3u8",
-     "lat": -6.2920982,
-     "lon": 106.8121265
-    },
-    {
      "nama": "JORRS KM 24+900",
      "lokasi": "JORRS KM 24+900",
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/179954112963766001683574.m3u8",
@@ -3897,13 +3764,6 @@
      "stream": "https://pub2.hk-opt.com/LiveApp/streams/452218312235468702302329.m3u8",
      "lat": -6.3080654,
      "lon": 106.8734084
-    },
-    {
-     "nama": "JORRS KM 32+750",
-     "lokasi": "JORRS KM 32+750",
-     "stream": "https://pub2.hk-opt.com/LiveApp/streams/854107383579084611495985.m3u8",
-     "lat": -6.3058847,
-     "lon": 106.8824666
     },
     {
      "nama": "JORRS Tunnel Ampera A",
