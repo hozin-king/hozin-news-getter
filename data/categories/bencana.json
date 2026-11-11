@@ -1,71 +1,53 @@
 {
- "updated_at": "2026-11-11T19:23:19+07:00",
+ "updated_at": "2026-11-12T03:00:11+07:00",
  "category": "bencana",
- "count": 4,
+ "count": 3,
  "articles": [
   {
-   "source": "bloombergtechnoz",
+   "source": "cnbcindonesia",
    "getter": "auto",
-   "title": "KUR Korban Gempa NTT Direstrukturisasi, Bunga Jadi 0% pada 2027",
-   "link": "https://www.bloombergtechnoz.com/detail-news/127429/kur-korban-gempa-ntt-direstrukturisasi-bunga-jadi-0-pada-2027",
-   "pubDate": "Wed, 11 Nov 2026 17:30:00 +0700",
-   "description": "<img src=\"https://images.bloombergtechnoz.com/data/2026/08/image-20260823090712.jpg\" /> Pemerintah melakukan restrukturisasi Kredit Usaha Rakyat (KUR) korban gempa Nusa Tenggara Timur (NTT) hingga 3 tahun.",
-   "fetched_at": "2026-11-11T11:26:02+07:00",
+   "title": "Petaka Ancam Portugal, 8 Distrik Siaga Darurat",
+   "link": "https://www.cnbcindonesia.com/news/20261111163536-4-784351/petaka-ancam-portugal-8-distrik-siaga-darurat",
+   "pubDate": "Wed, 11 Nov 2026 21:30:00 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/02/05/seorang-pria-menerobos-genangan-air-untuk-mencapai-rumahnya-saat-badai-leo-membanjiri-jalanan-alcacer-do-sal-portugal-4-februa-1770259507090_169.jpeg?w=1200&amp;q=90\"/> Portugal menutup sekolah dan layanan non-esensial,",
+   "fetched_at": "2026-11-11T18:51:20+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "full",
+   "content_chars": 1601,
+   "content": "Jakarta, CNBC Indonesia - Negara Eropa, Portugal, mengumumkan menutup sekolah, layanan non-esensial, serta sebuah konferensi teknologi berskala dunia Rabu. Ini seiring dengan persiapan menghadapi angin kencang akibat Badai Charles.\n\nDelapan distrik di negara tersebut, termasuk ibu kota Lisbon, telah ditetapkan dalam status siaga merah. Status tersebut merupakan tingkat tertinggi untuk cuaca ekstrem.\n\nBadai Charles mencapai daratan Portugal Rabu pagi setelah melewati pulau Madeira pada Selasa malam. Hembusan angin diperkirakan mencapai kecepatan hingga 140 kilometer per jam, kategori keempat dari skala lima untuk kekuatan angin badai (hurricane).\n\n\"Siapa pun yang bisa, sebaiknya tetap berada di rumah,\" ujar Menteri Dalam Negeri Luis Neves dalam konferensi pers, dikutip AFP.\n\n\"Jangan meremehkan bahaya dan risiko yang terkait dengan peristiwa cuaca ekstrem ini,\" kata Perdana Menteri (PM) Luis Montenegro.\n\nPrakiraan hujan deras menimbulkan kekhawatiran akan terjadinya banjir, terutama di wilayah perkotaan. Petaka ini sama dengan bencana yang melanda negara di Semenanjung Iberia tersebut pada awal tahun 2026.\n\nSebelumnya, antara 22 Januari hingga 16 Februari, Portugal dihantam oleh enam badai berturut-turut yang menurut pihak berwenang menelan setidaknya tujuh korban jiwa. Beberapa media Portugal melaporkan jumlah korban yang lebih tinggi, yakni hampir 20 orang, baik secara langsung maupun tidak langsung.\n\nSemenanjung Iberia sangat rentan terhadap pola cuaca ekstrem. Mulai dari gelombang panas dan periode hujan lebat, yang diperparah oleh perubahan iklim akibat aktivitas manusia."
+  },
+  {
+   "source": "cnbcindonesia2",
+   "getter": "auto",
+   "title": "Gubernur Aceh Umumkan Status Darurat Bencana Banjir, Begini Kondisinya",
+   "link": "https://www.cnbcindonesia.com/news/20261111203303-4-784434/gubernur-aceh-umumkan-status-darurat-bencana-banjir-begini-kondisinya",
+   "pubDate": "Wed, 11 Nov 2026 20:49:04 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/11/gubernur-aceh-muzakir-manaf-menetapkan-status-siaga-darurat-bencana-hidrometeorologi-aceh-tahun-2026-terhitung-mulai-11-novemb-1794404113030_169.jpeg?w=1200&amp;q=90\"/> Gubernur Aceh Muzakir Manaf menetapkan Status Siaga Darurat Bencana hingga 31 Januari 2027 akibat banjir besar.",
+   "fetched_at": "2026-11-11T18:51:20+07:00",
    "categories": [
     "bencana",
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 968,
-   "video_type": "youtube",
-   "video_id": "n-Fv976AHtE",
-   "video_url": "https://www.youtube.com/watch?v=n-Fv976AHtE",
-   "content": "KUR Korban Gempa NTT Direstrukturisasi, Bunga Jadi 0% pada 2027\n\nBloomberg Technoz, Jakarta - Pemerintah melakukan restrukturisasi Kredit Usaha Rakyat (KUR) korban gempa Nusa Tenggara Timur (NTT) hingga 3 tahun.\n\n“OJK juga menyiapkan restrukturisasi bisa dilakukan dalam 3 tahun dan suku bunga margin tahun depan untuk KUR di NTT itu sebesar 0% di tahun 2027,” kata Menteri Koordinator Bidang Perekonomian, Airlangga Hartarto di kantor Kemenko Perekonomian, Rabu (11/11/2026).\n\nSementara itu, di tahun 2028, pemerintah menetapkan suku bunga margin sebesar 3% untuk korban bencana NTT.\n\nKetua Dewan Komisioner Otoritas Jasa Keuangan (OJK) Friderica Widyasari Dewi mengatakan bahwa restrukturisasi kredit akan diberikan kepada masyarakat di 8 kabupaten di NTT.\n\n“Kami memberikan restrukturisasi di NTT tersebut untuk mereka yang terdampak dengan bencana sampai dengan 3 tahun. Itu di 8 kabupaten di NTT,” kata Friderica di kantor Kemenko Perekonomian, Rabu (11/11/2026)."
+   "content_chars": 2409,
+   "content": "Gubernur Aceh Umumkan Status Darurat Bencana Banjir, Begini Kondisinya\n\nJakarta, CNBC Indonesia - Gubernur Aceh Muzakir Manaf mengumumkan Status Siaga Darurat Bencana, menyusul banjir besar yang melanda sejumlah wilayah di provinsi tersebut.Penetapan status siaga ini berlaku mulai 11 November 2026 hingga 31 Januari 2027 mendatang.\n\nMuzakir menyebut penetapan status darurat bencana ini diambil sebagai upaya antisipasi dan kesiapsiagaan menghadapi lonjakan potensi bencana, menyusul tingginya prediksi curah hujan di wilayah Aceh dalam beberapa bulan ke depan.\n\n\"Saya secara resmi menetapkan Status Siaga Darurat Bencana Hidrometeorologi Aceh Tahun 2026, terhitung mulai 11 November 2026 hingga 31 Januari 2027,\" kata Muzakir dalam keterangannya, Rabu (11/11).\n\n\"Penetapan ini merupakan langkah untuk meningkatkan kesiapsiagaan dan memastikan seluruh unsur pemerintah siap menghadapi potensi bencana akibat kondisi cuaca dan curah hujan dalam beberapa bulan ke depan,\" tambahnya.\n\nBadan Nasional Penanggulangan Bencana (BNPB) melaporkan banjir bandang yang melanda sejumlah kabupaten di Aceh makin meluas dan memaksa banyak warga untuk mengungsi. Wilayah yang terdampak banjir di antaranya Kabupaten Pidie Jaya, Kabupaten Bireuen, Kabupaten Gayo Lues, dan Kabupaten Aceh Barat Daya.\n\nDi Kabupaten Bireuen, banjir dipicu tingginya curah hujan di wilayah hulu sungai yang memicu peningkatan debit air. Kondisi tersebut diperparah dengan pasangnya air laut sehingga aliran sungai tidak dapat mengalir secara optimal menuju laut. Akibatnya, air sungai meluap dan menggenangi sejumlah permukiman warga yang berada di sekitar aliran sungai.\n\nTerkait cuaca ekstrem yang memicu bencana tersebut, Gubernur Aceh menyebut bahwa ia telah meminta seluruh Satuan Kerja Perangkat Aceh dan pemangku kepentingan terkait untuk meningkatkan kewaspadaan, memperkuat koordinasi, serta memastikan kesiapan personel dan peralatan.\n\n\"Pemantauan kondisi di seluruh kabupaten/kota harus dilakukan selama 24 jam. Setiap kejadian bencana agar segera dilaporkan dan ditangani secara cepat serta terkoordinasi,\" katanya.\"Saya juga meminta instansi terkait, khususnya Badan Penanggulangan Bencana Aceh (BPBA), Dinas Sosial, Dinas Kesehatan, Dinas Pekerjaan Umum dan Penataan Ruang (PUPR), Dinas Perumahan dan Kawasan Permukiman (Perkim), serta Dinas Pengairan untuk memastikan personel dan peralatan selalu dalam kondisi siap dikerahkan.\""
   },
   {
-   "source": "sindonews",
+   "source": "beritajatim",
    "getter": "auto",
-   "title": "Korban Gempa NTT Dapat Keringanan KUR, Bebas Bunga 0% di 2027",
-   "link": "https://ekbis.sindonews.com/read/1770983/33/korban-gempa-ntt-dapat-keringanan-kur-bebas-bunga-0-di-2027-1794391863",
-   "pubDate": "Wed, 11 Nov 2026 18:00:30 +0700",
-   "description": "Pemerintah menyiapkan relaksasi suku bunga Kredit Usaha Rakyat (KUR) menjadi 0% pada 2027 bagi debitur yang terdampak bencana gempa bumi di Nusa Tenggara Timur (NTT).",
-   "fetched_at": "2026-11-11T11:25:45+07:00",
+   "title": "Angin Kencang Rusak 17 Rumah Warga Bondowoso, Pohon Tumbang Timpa Bangunan",
+   "link": "https://beritajatim.com/angin-kencang-rusak-17-rumah-warga-bondowoso-pohon-tumbang-timpa-bangunan",
+   "pubDate": "Wed, 11 Nov 2026 16:26:03 +0000",
+   "description": "<a href=\"https://beritajatim.com/angin-kencang-rusak-17-rumah-warga-bondowoso-pohon-tumbang-timpa-bangunan\" title=\"Angin Kencang Rusak 17 Rumah Warga Bondowoso, Pohon Tumbang Timpa Bangunan\" rel=\"nofollow\"><img width=\"400\" height=\"267\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/thumbnail-5.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https",
+   "fetched_at": "2026-11-11T18:50:53+07:00",
    "categories": [
     "bencana"
    ],
    "content_status": "partial",
-   "content_chars": 166,
-   "content": "Pemerintah menyiapkan relaksasi suku bunga Kredit Usaha Rakyat (KUR) menjadi 0% pada 2027 bagi debitur yang terdampak bencana gempa bumi di Nusa Tenggara Timur (NTT)."
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "Badan Geologi: Erupsi Anak Krakatau tidak akan sama dengan tahun 1883",
-   "link": "https://www.antaranews.com/berita/5847159/badan-geologi-erupsi-anak-krakatau-tidak-akan-sama-dengan-tahun-1883",
-   "pubDate": "Wed, 11 Nov 2026 18:22:44 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/1000039351.jpg\" align=\"left\" border=\"0\" />Badan Geologi memastikan karakteristik erupsi maupun potensi tsunami dari aktivitas Gunung Anak Krakatau saat ini akan ...",
-   "fetched_at": "2026-11-11T11:23:36+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 226,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/1000039351.jpg\" align=\"left\" border=\"0\" />Badan Geologi memastikan karakteristik erupsi maupun potensi tsunami dari aktivitas Gunung Anak Krakatau saat ini akan ..."
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "Warga sebut longsor di lahan parkir padel Kemang terjadi dua kali",
-   "link": "https://www.antaranews.com/berita/5847087/warga-sebut-longsor-di-lahan-parkir-padel-kemang-terjadi-dua-kali",
-   "pubDate": "Wed, 11 Nov 2026 17:59:21 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/1001159985.jpg\" align=\"left\" border=\"0\" />Warga Kemang Selatan, Jakarta Selatan, menyebutkan longsor di area pembangunan lahan parkir lapangan padel di wilayah ...",
-   "fetched_at": "2026-11-11T11:23:36+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 225,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/1001159985.jpg\" align=\"left\" border=\"0\" />Warga Kemang Selatan, Jakarta Selatan, menyebutkan longsor di area pembangunan lahan parkir lapangan padel di wilayah ..."
+   "content_chars": 500,
+   "content": "<a href=\"https://beritajatim.com/angin-kencang-rusak-17-rumah-warga-bondowoso-pohon-tumbang-timpa-bangunan\" title=\"Angin Kencang Rusak 17 Rumah Warga Bondowoso, Pohon Tumbang Timpa Bangunan\" rel=\"nofollow\"><img width=\"400\" height=\"267\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/thumbnail-5.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https"
   }
  ]
 }

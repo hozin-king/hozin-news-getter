@@ -1,23 +1,8 @@
 {
- "updated_at": "2026-11-11T19:23:19+07:00",
+ "updated_at": "2026-11-12T03:00:11+07:00",
  "category": "hukum-kriminal",
  "count": 17,
  "articles": [
-  {
-   "source": "vidio",
-   "getter": "auto",
-   "title": "Roy Suryo akan Cecar Ajudan Jokowi hingga Dian Sandi di Sidang Ijazah",
-   "link": "https://www.vidio.com/watch/9746917-roy-suryo-akan-cecar-ajudan-jokowi-hingga-dian-sandi-di-sidang-ijazah",
-   "pubDate": "Wed, 11 Nov 2026 17:36:36 +0700",
-   "description": "JAKARTA, KOMPAS.TV  Terdakwa kasus dugaan pencemaran nama baik dan fitnah terhadap Joko Widodo, Roy Suryo, menyoroti tiga saksi yang disebut akan dihadirkan dalam persidangan.\n\nRoy menyebut tiga saksi salah satunya AKBP Syarif ajudan Jokowi, Dian Sandi, dan pihak yang menurutnya berkaitan dengan analisis foto yang dipersoalkan dalam perkara.\n\n\"Yang kedua yang mau hadir adalah AKBP Syarif yang dulu namanya masih Kompol Syarif. Dia adalah orang yang melaporkan kepada Jokowi tiga unggahan pertama k",
-   "fetched_at": "2026-11-11T11:26:21+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "JAKARTA, KOMPAS.TV  Terdakwa kasus dugaan pencemaran nama baik dan fitnah terhadap Joko Widodo, Roy Suryo, menyoroti tiga saksi yang disebut akan dihadirkan dalam persidangan.\n\nRoy menyebut tiga saksi salah satunya AKBP Syarif ajudan Jokowi, Dian Sandi, dan pihak yang menurutnya berkaitan dengan analisis foto yang dipersoalkan dalam perkara.\n\n\"Yang kedua yang mau hadir adalah AKBP Syarif yang dulu namanya masih Kompol Syarif. Dia adalah orang yang melaporkan kepada Jokowi tiga unggahan pertama k"
-  },
   {
    "source": "unas",
    "getter": "auto",
@@ -25,7 +10,7 @@
    "link": "https://www.unas.ac.id/berita/ketika-bank-jatuh-presiden-pun-jatuh-belajar-dari-paraguay/",
    "pubDate": "Tue, 10 Nov 2026 06:15:00 +0000",
    "description": "**Robi Nurhadi, PhDDosen Hubungan Internasional FISIP Universitas Nasional** Dalam empat hari, Paraguay kehilangan presidennya. Bukan karena kudeta, bukan karena pemilu,",
-   "fetched_at": "2026-11-11T11:26:20+07:00",
+   "fetched_at": "2026-11-11T18:51:26+07:00",
    "categories": [
     "hukum-kriminal",
     "pemerintahan"
@@ -41,7 +26,7 @@
    "link": "https://www.unas.ac.id/berita/tiga-badai-dalam-sebulan-menyelamatkan-wajah-indonesia/",
    "pubDate": "Sat, 07 Nov 2026 04:43:42 +0000",
    "description": "**&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;",
-   "fetched_at": "2026-11-11T11:26:20+07:00",
+   "fetched_at": "2026-11-11T18:51:26+07:00",
    "categories": [
     "hukum-kriminal",
     "kebakaran",
@@ -54,215 +39,238 @@
   {
    "source": "timesindonesia",
    "getter": "auto",
-   "title": "Polemik Ijazah Gibran, Syahganda Sebut Tidak Ada Lagi Peluang Tempuh PTUN",
-   "link": "https://timesindonesia.co.id/pemerintahan/617233/polemik-ijazah-gibran-syahganda-sebut-tidak-ada-lagi-peluang-tempuh-ptun",
-   "pubDate": "Wed, 11 Nov 2026 18:02:00 +0000",
-   "description": "Kepala Bakom RI Syahganda Nainggolan membantah Presiden Prabowo menyarankan Gibran kembali menempuh jalur PTUN terkait polemik dokumen ijazahnya.",
-   "fetched_at": "2026-11-11T11:26:15+07:00",
+   "title": "Kasus Narkoba Tinggi, DPRD Banjarnegara Maraton Godok Raperda Fasilitasi P4GN dan Prekusor Narkotika",
+   "link": "https://timesindonesia.co.id/peristiwa-daerah/617297/kasus-narkoba-tinggi-dprd-banjarnegara-maraton-godok-raperda-fasilitasi-p4gn-dan-prekusor-narkotika",
+   "pubDate": "Wed, 11 Nov 2026 21:51:00 +0000",
+   "description": "DPRD Banjarnegara menginisiasi Raperda P4GN guna menekan peredaran narkoba yang kini menempati urutan kedua kasus tertinggi di wilayah tersebut serta melindungi masyarakat.",
+   "fetched_at": "2026-11-11T18:51:21+07:00",
    "categories": [
     "hukum-kriminal",
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 5845,
-   "content": "Kepala Badan Komunikasi Pemerintah (Bakom) RI Syahganda Nainggolan membantah Presiden Prabowo Subianto menyarankan Wakil Presiden (Wapres) Gibran Rakabuming Raka untuk membuktikan keabsahan dokumen pendidikannya melalui Pengadilan Tata Usaha Negara (PTUN). Menurut Syahganda, putusan Mahkamah Agung (MA) dan Mahkamah Konstitusi (MK) terkait polemik surat keterangan ijazah Gibran telah bersifat final dan mengikat.\n\nDalam keterangannya kepada wartawan di Jakarta, Rabu (11/11/2026), Syahganda merujuk pada pernyataan Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra mengenai tidak adanya lagi upaya hukum terhadap putusan tersebut.\n\n\"Bahwa Yusril itu mengatakan bahwa tidak ada kesempatan untuk PTUN artinya itu yang dia diskusikan dengan Presiden dong. Itulah concern Presiden dong,\" kata Syahganda.\n\nIa menegaskan, saran Presiden terkait persoalan tersebut seharusnya merujuk pada penjelasan Yusril mengenai proses hukum setelah putusan MA dan MK.\n\n\"Sehingga tidak mungkin Presiden menganjurkan Gibran untuk lagi melakukan perlawanan hukum. Karena Yusril kan Menko Hukumnya Presiden, artinya pandangan hukum Bapak Presiden, menurut saya, diwakili oleh Profesor Yusril,\" tuturnya.\n\nPernyataan Syahganda itu muncul setelah Gibran menyampaikan bahwa Prabowo menyarankan dirinya tetap memperjuangkan persoalan dokumen pendidikan melalui PTUN. Gibran juga menyebut Presiden meminta dirinya menghadirkan seluruh dokumen pendidikan dari sekolah dasar (SD) hingga sarjana (S1).\n\nDitemui di Istana Wakil Presiden, Jakarta, Selasa (10/11/2026), Gibran mengatakan pertemuannya dengan Prabowo pada pagi hari menghasilkan sejumlah saran dan masukan terkait dinamika yang berkembang.\n\n\"Salah satu saran beliau adalah agar saya tetap fight di PTUN (Pengadilan Tata Usaha Negara) dengan menghadirkan seluruh dokumen-dokumen dari SD sampai dengan S1,\" kata Gibran.\n\nSelain itu, Gibran menyatakan akan berkoordinasi dengan Kementerian Pendidikan Dasar dan Menengah (Dikdasmen) untuk mengajukan peninjauan kembali (PK) ke MA.\n\nSyahganda Sebut Tidak Ada Lagi Peluang Tempuh PTUN\n\nSyahganda menyatakan, peluang Gibran untuk kembali menempuh proses hukum di PTUN terkait surat keterangan ijazahnya sudah tidak ada. Ia merujuk pada putusan MA dan MK yang menurutnya telah menyelesaikan persoalan hukum tersebut.\n\n\"Itu kan sudah dibantah oleh Pak Yusril. Bahwa, tidak ada lagi harapan di PTUN karena itu sudah dari Mahkamah Agung dan Mahkamah Konstitusi. Jadi enggak usah mengulang lagi,\" ujar Syahganda kepada ANTARA di Jakarta, Rabu.\n\nSyahganda mengaku sempat berdiskusi sekitar 15 menit dengan Yusril mengenai persoalan tersebut sebelum Yusril memasuki ruangan Presiden di Istana Kepresidenan, Selasa (10/11/2026).\n\nIa juga menilai Prabowo tidak mungkin mendorong Gibran menempuh langkah hukum tersebut. Menurut Syahganda, Presiden sedang menelusuri pihak yang menggunakan hasil penyadapan terhadap dirinya.\n\nPekan lalu, kata Syahganda, ia dipanggil Prabowo selama dua jam untuk membahas situasi setelah dugaan penyadapan tersebut.\n\n\"Jadi tidak mungkin Presiden dalam situasi seperti ini mendorong-dorong Pak Wapres atau siapa pun karena dia sedang memeriksa siapa sebenarnya pengguna sadapan yang dilakukan oleh Listyo Sigit dan teman-teman,\" ucapnya.\n\nYusril Sebut Putusan MA dan MK Bersifat Final\n\nSebelumnya, Yusril Ihza Mahendra menyatakan putusan MA terkait surat keterangan penyetaraan pendidikan Gibran bersifat final. MA mengabulkan permohonan kasasi dalam gugatan pembatalan surat keterangan penyetaraan ijazah SMA Gibran.\n\nDalam putusan terpisah, MK disebut tidak menemukan bukti ijazah sekolah Gibran di luar negeri yang digunakan untuk mengurus penyetaraan pendidikan setingkat SMA.\n\nYusril menjelaskan tidak ada pihak yang dapat mengajukan PK atas putusan MA tersebut karena telah berkekuatan hukum tetap.\n\n\"Memang ini sudah tidak bisa diapa-apakan lagi karena putusan dari Mahkamah Konstitusi itu bersifat final and binding, tidak ada upaya hukum lagi. Dan putusan Mahkamah Agung itu juga sudah final oleh karena tidak ada pihak yang bisa mengajukan PK atas putusan itu,\" kata Yusril saat menjawab pertanyaan wartawan di Kompleks Istana Kepresidenan, Jakarta, Selasa (10/11/2026).\n\nMA juga memerintahkan Kementerian Pendidikan dan Kebudayaan, yang kini menjadi Kementerian Pendidikan Dasar dan Menengah, untuk mencabut surat keterangan tersebut.\n\nSyahganda Tanggapi Proses Hak Menyatakan Pendapat di DPR\n\nDalam kesempatan yang sama, Syahganda mengatakan pemerintah menghormati hak legislatif untuk memproses Hak Menyatakan Pendapat (HMP) terkait usulan pemakzulan Gibran.\n\n\"Ini kita lagi mempelajari karena kita masih menghormati hak-hak legislatif untuk memproses gitu, kita lihat 1-2 hari ini bagaimana tanggapan Bapak Presiden,\" kata Syahganda kepada ANTARA di Jakarta, Rabu.\n\nIa menyebut HMP merupakan hak legislatif untuk menyampaikan pendapat terkait dugaan bahwa presiden dan/atau wakil presiden tidak lagi memenuhi syarat atau melakukan pelanggaran sebagaimana diatur dalam ketentuan perundang-undangan.\n\nJika usul HMP diterima dalam rapat paripurna yang dihadiri sedikitnya dua pertiga dari jumlah anggota DPR, parlemen selanjutnya membentuk panitia khusus (pansus) yang terdiri atas seluruh unsur fraksi.\n\nPansus bekerja paling lama 60 hari sejak dibentuk. Laporan pelaksanaan tugas pansus kemudian disampaikan dalam rapat paripurna.\n\nApabila rapat paripurna menerima laporan pansus yang menyatakan wakil presiden melakukan pelanggaran hukum atau tidak lagi memenuhi syarat, DPR menyampaikan keputusan HMP kepada MK.\n\nJika MK memutuskan pendapat DPR terbukti, DPR menyelenggarakan rapat paripurna untuk meneruskan usul pemberhentian wakil presiden kepada Majelis Permusyawaratan Rakyat (MPR). Sebaliknya, jika MK menyatakan pendapat DPR tidak terbukti, usul pemberhentian tidak dapat dilanjutkan.(*)"
+   "content_chars": 3287,
+   "content": "Ancaman bahaya narkoba dan sejenisnya di Wilayah Kabupaten Banjarnegara semakin mengkhawatirkan. Bahkan berdasarkan data statistik, kasus narkoba menduduki rangking kedua setelah pencurian.\n\n‎Oleh karena itu DRPD Banjarnegara menginisiasi Raperda tentang Fasilitasi Pencegahan dan Pemberantasan Penyalahgunaan dan Peredaran Gelap Narkotika (P4GN) dan Prekusor Narkotika.\n\n‎\"Raperda tentang narkotika ini sangat mendesak sebagai instrumen perlindungan warga dari obat-obatan terlarang,\" ujar Ketua DPRD Banjarnegara Slamet SM saat ditanya TIMES Indonesia, Rabu (11/11/2026).\n\n‎Dijelaskan olehnya, DPRD Banjarnegara tengah menggodok tujuh Raperda yang harus diselesaikan tahun ini. Satu diantara, merupakan inisiatif DPRD tentang P4GN dan 6 lainnya inisiatif eksekutif.\n\n‎Perda P4GN, jelas Slamet, urgensinya sangat besar, mengingat saat ini peredaran obat - obatan terlarang dan narkoba begitu marak di Wilayah Kabupaten Banjarnegara.\n\nSuasana sidang paripurna DPRD Banjarnegara. (FOTO: Muchlas Hamidi/TIMES Indonesia)\n\n‎Ia juga menganggap masalah ini sangat serius sehingga harus mendapat perhatian khusus dari semua institusi pemerintahan.\n\n‎\"Hal ini pulalah kenapa ini menjadi inisiatif DPRD karena pada dasarnya kami sangat support terkait bagaimana penanggulangan dan pencegahan terkait keberadaan narkoba di Banjarnegara,\" tanda Slamet SM.\n\n‎Diharapkan Slamet dengan adanya Perda tersebut, nanti, apapun yang menjadi kebijakan daerah dan stakeholder yang ada di Kabupaten Banjarnegara ada naungan regulasi yang bisa mengatur terkait dengan bagaimana kita melakukan pencegahan dan penanggulangan peredaran narkoba.\n\n‎Ketua DPRD Banjarnegara Slamet SM kembali menegaskan bahwa pencegahan Narkoba ini tidak hanya menjadi tanggung jawab pemerintah saja, atau penegak hukum saja, tetapi menjadi tanggung jawab kita bersama, termasuk semua lapisan masyarakat untuk bisa andil besar menjaga dan mengawasi anak-anaknya sehingga dapat terbebas dari bahaya narkoba dan zat adiktif lainnya.\n\n‎Dalam kesempatan ini, Slamet SM juga mengapresiasi kepada penegak hukum dan masyarakat yang sangat peduli terhadap masalah peredaran narkoba yang semakin meresahkan masyarakat yakni narkoba dan prekusor yang ada di Wilayah Kabupaten Banjarnegara\n\n‎ \"Kepedulian masyarakat dan tokoh agama di sejumlah wilayah kecamatan sangat tinggi terhadap peredaran narkoba. sehingga kita bisa bersinergi dalam upaya menanggulangi ancaman bahaya narkotika ke depan,\" imbuhnya.\n\n‎Terpisah Udani Puji Lestari, S.Farm, selaku Ketua Badan Pembentukan Peraturan Daerah (Bapemperda) DPRD Kabupaten Banjarnegara menegaskan jika Perda P4GN mengarah pada upaya-upaya pencegahan dan bagi pelaku pelanggaran hanya dikenakan sanksi administratif.\n\n‎\"Untuk sanksi pidana, tentu menjadi ranah kepolisian sesuai dengan UU Narkotika,\" katanya seraya menambahkan jika ruang lingkup Perda Fasilitasi P4GN adalah pencegahan, penanganan dan rehabilitasi, pemberantasan, Tim Terpadu P4GN, partisipasi masyarakat, pelaporan, pemantauan dan evaluasi, pembinaan, pengawasan dan pendanaan.\n\n‎Sementara menurut pantauan TIMES Indonesia, tim Bapemperda DPRD Banjarnegara tampak maraton membentuk panitia khusus (Pansus) dan selanjutnya melakukan pembahasan Raperda dengan dinas instansi terkait untuk selanjutnya ditetapkan sebagai Perda. (*)"
   },
   {
    "source": "timesindonesia",
    "getter": "auto",
-   "title": "Danang Wicaksana Soroti Dugaan Penyadapan Presiden Prabowo, Arief Sujatmiko Ajak Masyarakat Jaga Kondusivitas",
-   "link": "https://timesindonesia.co.id/politik/617217/danang-wicaksana-soroti-dugaan-penyadapan-presiden-prabowo-arief-sujatmiko-ajak-masyarakat-jaga-kondusivitas",
-   "pubDate": "Wed, 11 Nov 2026 17:35:00 +0000",
-   "description": "Anggota DPR Danang Wicaksana Sulistya sebut dugaan penyadapan Presiden Prabowo menyangkut keamanan negara dan potensi makar. Ia meminta publik mengawal proses hukum yang sedang berjalan di Polri.",
-   "fetched_at": "2026-11-11T11:26:15+07:00",
+   "title": "Jika Jabatan Wapres Kosong, Begini Aturan Konstitusi tentang Keberlangsungan Pemerintahan",
+   "link": "https://timesindonesia.co.id/peristiwa-nasional/617295/jika-jabatan-wapres-kosong-begini-aturan-konstitusi-tentang-keberlangsungan-pemerintahan",
+   "pubDate": "Wed, 11 Nov 2026 21:40:00 +0000",
+   "description": "Jika Gibran Rakabuming Raka benar-benar mundur, Prabowo tetap dapat menjalankan pemerintahan. UUD 1945 mengatur mekanisme pengisian jabatan Wapres melalui MPR.",
+   "fetched_at": "2026-11-11T18:51:21+07:00",
    "categories": [
     "hukum-kriminal",
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 4456,
-   "content": "Anggota Komisi V DPR RI Danang Wicaksana Sulistya menilai dugaan penyadapan ilegal terhadap Presiden RI Prabowo Subianto yang menyeret nama mantan Kapolri Listyo Sigit Prabowo merupakan persoalan serius karena menyangkut keamanan kepala negara dan kedaulatan bangsa.\n\nMenurut ketua DPD Partai Gerindra DIY ini, persoalan tersebut tidak bisa dipandang sebatas pelanggaran prosedur maupun persoalan internal institusi. Dugaan penyadapan terhadap kepala negara menyangkut aspek keamanan nasional dan kepentingan strategis negara.\n\n“Ini bukan sekadar pelanggaran prosedur atau persoalan internal institusi, tetapi menyangkut keamanan Kepala Negara, kepentingan strategis, serta kedaulatan bangsa,” ujar Danang, Rabu (4/11/2026).\n\nDanang juga menyatakan sependapat dengan pandangan Menteri Sekretaris Negara (Mensesneg) Prasetyo Hadi bahwa dugaan tersebut berpotensi mengarah pada tindak pidana makar apabila unsur-unsur pidananya terbukti.\n\nDanang menilai setiap tindakan yang dilakukan secara terencana dengan tujuan mengganggu atau membahayakan pemerintahan yang sah harus menjadi perhatian serius.\n\nMeski demikian, Danang memilih tidak berspekulasi mengenai motif maupun kemungkinan keterlibatan pihak lain. Ia menyerahkan sepenuhnya proses pengungkapan perkara kepada aparat penegak hukum.\n\n“Meski Listyo Sigit merupakan mantan pimpinan Polri, saya yakin penyidik akan profesional, transparan, dan mengungkap persoalan ini hingga terang benderang,” tegas Danang.\n\nDanang mengajak masyarakat untuk menunggu hasil penyidikan dan tetap memberikan kepercayaan kepada Polri dalam mengungkap fakta hukum secara objektif.\n\nArief Sujatmiko : Sampaikan Aspirasi dengan Santun dan Bertanggung Jawab\n\nSementara itu, Ketua PD Satria DIY Arief Sujatmiko mengajak seluruh elemen masyarakat untuk menyerahkan sepenuhnya kasus penyadapan Presiden RI Prabowo Subiyanto kepada aparat kepolisian.\n\nMiko, sapaan akrab Arief Sujatmiko meminta kepada masyarakat tetap menjaga suasana demokrasi yang sehat dan kondusif dalam menyikapi berbagai persoalan kebangsaan.\n\nMiko menegaskan bahwa menyampaikan pendapat di muka umum merupakan hak masyarakat yang harus dihormati. Kebebasan menyampaikan aspirasi menjadi bagian penting dalam kehidupan demokrasi dan dijamin oleh konstitusi.\n\n“Kami menghormati hak setiap warga negara untuk menyampaikan pendapat dan aspirasi di muka umum. Itu merupakan bagian dari demokrasi. Namun, penyampaiannya harus dilakukan dengan cara yang baik, santun, tertib, serta tetap mengedepankan tanggung jawab,” ujar Miko.\n\nMiko, mengingatkan agar setiap kegiatan penyampaian aspirasi tidak disertai tindakan anarkis, perusakan fasilitas umum, maupun tindakan lain yang dapat merugikan masyarakat luas.\n\nMenurutnya, fasilitas umum merupakan milik bersama yang harus dijaga dan digunakan untuk kepentingan masyarakat. Karena itu, perbedaan pandangan maupun kritik terhadap pemerintah seharusnya disampaikan melalui cara-cara yang konstruktif tanpa menimbulkan kerugian bagi pihak lain.\n\nMiko juga mengimbau masyarakat agar tidak mudah terprovokasi oleh informasi yang belum terverifikasi, termasuk berbagai isu yang berkembang di media sosial.\n\n“Perbedaan pendapat merupakan hal yang wajar dalam demokrasi. Jangan sampai perbedaan tersebut justru memecah persatuan. Mari kita kedepankan dialog, saling menghormati, serta menjaga persaudaraan dan persatuan bangsa,” pesan alumni Geografi UGM ini.\n\nMiko berharap seluruh elemen masyarakat, khususnya generasi muda, dapat berperan aktif menjaga keamanan dan ketertiban lingkungan. Menurutnya, kritik dan aspirasi masyarakat tetap diperlukan sebagai bagian dari kontrol sosial, tetapi harus disampaikan secara damai dan bertanggung jawab.\n\nMiko juga mengajak seluruh pihak untuk memberikan ruang kepada aparat penegak hukum dalam menjalankan tugasnya secara profesional dan transparan, sehingga setiap persoalan dapat diselesaikan berdasarkan fakta dan ketentuan hukum yang berlaku.\n\n“Harapan kami, demokrasi tetap berjalan dengan baik, masyarakat dapat menyampaikan aspirasi secara bebas dan bertanggung jawab, serta situasi keamanan dan ketertiban tetap terjaga. Persatuan bangsa harus menjadi kepentingan bersama yang kita utamakan,” terang Miko.\n\nDengan demikian, penyelesaian berbagai persoalan kebangsaan diharapkan tetap mengedepankan supremasi hukum, keterbukaan, penghormatan terhadap hak masyarakat, serta komitmen bersama menjaga persatuan dan keutuhan Negara Kesatuan Republik Indonesia (NKRI). (*)"
+   "content_chars": 6644,
+   "content": "Kabar pengunduran diri Wakil Presiden Gibran Rakabuming Raka pada Rabu (11/11/2026) memunculkan sejumlah pertanyaan mengenai keberlangsungan pemerintahan Indonesia. Salah satunya, apakah Presiden Prabowo Subianto tetap dapat menjalankan pemerintahan apabila jabatan Wakil Presiden benar-benar kosong?\n\nPertanyaan tersebut menarik karena Indonesia memiliki pengalaman panjang ketika jabatan Wakil Presiden tidak terisi. Setelah Mohammad Hatta mengundurkan diri pada 1 Desember 1956, Indonesia baru kembali memiliki Wakil Presiden pada 23 Maret 1973, ketika Sri Sultan Hamengkubuwono IX dilantik mendampingi Presiden Soeharto.\n\nDalam sistem ketatanegaraan Indonesia, kekosongan jabatan Wakil Presiden tidak serta-merta menghentikan pemerintahan. Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 (UUD 1945) telah mengatur kedudukan Presiden, mekanisme pengisian jabatan Wakil Presiden, hingga kondisi apabila kedua jabatan tersebut kosong secara bersamaan.\n\nLantas, bagaimana aturan konstitusi mengenai situasi tersebut? Apakah Prabowo bisa tetap menjalankan pemerintahan tanpa didampingi Gibran? Berikut penjelasannya.\n\n1. Presiden Tetap Memegang Kekuasaan Pemerintahan\n\nKedudukan Presiden dan Wakil Presiden diatur dalam Pasal 4 UUD 1945. Pada ayat (1), disebutkan bahwa Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang-Undang Dasar.\n\nSementara itu, ayat (2) menjelaskan bahwa dalam menjalankan kewajibannya, Presiden dibantu oleh satu orang Wakil Presiden.\n\nBerdasarkan ketentuan tersebut, Presiden merupakan pemegang kekuasaan pemerintahan, sedangkan Wakil Presiden membantu Presiden dalam menjalankan kewajibannya. Dengan demikian, apabila terjadi kekosongan jabatan Wakil Presiden, kewenangan Presiden untuk menjalankan pemerintahan tidak otomatis berakhir atau beralih kepada pihak lain.\n\nPrabowo tetap dapat menjalankan tugasnya sebagai kepala pemerintahan meskipun untuk sementara waktu tidak didampingi Wakil Presiden.\n\nKetentuan ini juga berkaitan dengan Pasal 17 UUD 1945 yang menyebutkan bahwa Presiden dibantu oleh menteri-menteri negara. Para menteri tersebut diangkat dan diberhentikan oleh Presiden.\n\nArtinya, penyelenggaraan pemerintahan tetap memiliki perangkat konstitusional meskipun jabatan Wakil Presiden kosong.\n\n2. MPR Memilih Wapres Pengganti dalam Waktu 60 Hari\n\nMeski Presiden tetap dapat menjalankan pemerintahan, konstitusi tidak membiarkan kekosongan jabatan Wakil Presiden berlangsung tanpa mekanisme penyelesaian. Hal tersebut diatur secara khusus dalam Pasal 8 ayat (2) UUD 1945.\n\nBunyi ketentuannya:\n\n\"Dalam hal terjadi kekosongan Wakil Presiden, selambat-lambatnya dalam waktu enam puluh hari, Majelis Permusyawaratan Rakyat menyelenggarakan sidang untuk memilih Wakil Presiden dari dua calon yang diusulkan oleh Presiden.\"\n\nKetentuan tersebut menjelaskan bahwa pengisian jabatan Wakil Presiden menjadi kewenangan Majelis Permusyawaratan Rakyat (MPR).\n\nApabila terjadi kekosongan jabatan secara resmi, Presiden Prabowo harus mengusulkan dua nama calon Wakil Presiden kepada MPR. Selanjutnya, MPR menggelar sidang untuk memilih satu di antara dua calon tersebut sebagai Wakil Presiden pengganti.\n\nWakil Presiden yang terpilih akan menjalankan tugas hingga berakhirnya masa jabatan pemerintahan yang sedang berlangsung.\n\nDengan demikian, Prabowo tidak dapat langsung menunjuk satu orang untuk menggantikan Gibran melalui keputusan presiden tanpa melalui mekanisme pemilihan di MPR.\n\n3. Jika Presiden dan Wapres Sama-Sama Kosong, Tiga Menteri Mengambil Alih Tugas Kepresidenan\n\nUUD 1945 juga mengatur kemungkinan yang lebih jauh, yakni apabila jabatan Presiden dan Wakil Presiden mengalami kekosongan secara bersamaan. Ketentuan tersebut tercantum dalam Pasal 8 ayat (3) UUD 1945.\n\nDalam kondisi tersebut, tugas kepresidenan dijalankan secara bersama-sama oleh tiga menteri, yakni Menteri Luar Negeri, Menteri Dalam Negeri, dan Menteri Pertahanan.\n\nKetiganya menjalankan tugas kepresidenan hingga MPR menyelenggarakan sidang untuk memilih Presiden dan Wakil Presiden yang baru. Sidang tersebut harus diselenggarakan paling lambat 30 hari setelah terjadi kekosongan kedua jabatan.\n\nNamun, ketentuan ini berlaku apabila Presiden dan Wakil Presiden secara bersamaan tidak dapat menjalankan kewajibannya karena meninggal dunia, berhenti, diberhentikan, atau tidak dapat melakukan kewajibannya selama masa jabatan.\n\nArtinya, apabila hanya jabatan Wakil Presiden yang kosong sementara Presiden masih menjalankan tugasnya, mekanisme pengambilalihan tugas kepresidenan oleh tiga menteri tersebut tidak berlaku.\n\n4. Jika Wapres Mundur, Apakah Harus Melalui Pemakzulan?\n\nPengunduran diri dan pemakzulan merupakan dua mekanisme berbeda dalam sistem ketatanegaraan Indonesia.\n\nPengunduran diri terjadi ketika pejabat yang bersangkutan menyatakan keinginan untuk melepaskan jabatannya. Sementara itu, pemakzulan atau pemberhentian dalam masa jabatan memiliki prosedur tersendiri sebagaimana diatur dalam Pasal 7A dan Pasal 7B UUD 1945.\n\nPasal 7A menyebutkan bahwa Presiden dan/atau Wakil Presiden dapat diberhentikan oleh MPR atas usul DPR apabila terbukti melakukan pelanggaran hukum tertentu, perbuatan tercela, atau tidak lagi memenuhi syarat sebagai Presiden dan/atau Wakil Presiden.\n\nAdapun Pasal 7B mengatur tahapan pemberhentian yang melibatkan DPR, Mahkamah Konstitusi (MK), dan MPR.\n\nDalam mekanisme tersebut, DPR terlebih dahulu mengajukan permintaan kepada MK untuk memeriksa dan memutus pendapat DPR mengenai dugaan pelanggaran oleh Presiden dan/atau Wakil Presiden.\n\nApabila MK membenarkan pendapat DPR, proses dapat dilanjutkan ke MPR untuk mengambil keputusan mengenai pemberhentian.\n\nDengan demikian, pengunduran diri secara sukarela tidak dapat disamakan dengan proses pemakzulan yang memiliki persyaratan dan tahapan konstitusional tersendiri.\n\n5. Bagaimana Jika Gibran Benar-Benar Tidak Lagi Menjabat Wapres?\n\nApabila pengunduran diri Gibran telah menyebabkan kekosongan jabatan Wakil Presiden secara resmi, pemerintahan Prabowo tetap dapat berjalan. Namun, pemerintah juga harus mengikuti mekanisme pengisian jabatan yang telah diatur dalam konstitusi.\n\nPresiden memiliki kewenangan mengusulkan dua calon, sedangkan MPR bertugas memilih satu di antaranya melalui sidang yang diselenggarakan paling lambat 60 hari setelah terjadi kekosongan.\n\nDengan mekanisme tersebut, Indonesia telah memiliki aturan untuk mengantisipasi kekosongan jabatan Wakil Presiden tanpa harus menghentikan jalannya pemerintahan.\n\nKetentuan ini menjadi penting di tengah dinamika politik yang berkembang setelah munculnya kabar pengunduran diri Gibran Rakabuming Raka dari jabatan Wakil Presiden.(*)"
+  },
+  {
+   "source": "cnbcindonesia",
+   "getter": "auto",
+   "title": "Kelakar Prabowo di HUT Nasdem: Jangan-jangan Disadap Aku di Sini",
+   "link": "https://www.cnbcindonesia.com/news/20261112013321-4-784459/kelakar-prabowo-di-hut-nasdem-jangan-jangan-disadap-aku-di-sini",
+   "pubDate": "Thu, 12 Nov 2026 01:43:10 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/12/presiden-prabowo-subianto-menghadiri-perayaan-hut-ke-15-partai-nasional-demokrat-di-jakarta-rabu-11112026-malam-1794422556490_169.png?w=1200&amp;q=90\"/> Presiden Prabowo melontarkan candaan saat HUT ke-15 Partai NasDem, menyinggung isu penyadapan dan dinamika politik terkini. Sorak sorai hadirin menyambutnya.",
+   "fetched_at": "2026-11-11T18:51:20+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 1490,
+   "content": "Kelakar Prabowo di HUT Nasdem: Jangan-jangan Disadap Aku di Sini\n\nJakarta, CNBC Indonesia - Presiden Prabowo Subianto melontarkan kelakar saat menghadiri perayaan HUT ke-15 Partai Nasional Demokrat di Jakarta Pusat, Rabu (11/11/2026) malam. Momen itu terjadi saat Prabowo mengawali sambutannya dalam perayaan tersebut.\n\nKetua Umum Partai Gerakan Indonesia Raya itu sempat menyapa para tokoh yang hadir. Namun, menurut Prabowo, seharusnya nama-nama ketua umum partai yang disebut terlebih dahulu.\"Harusnya ketua umum partai duluan. Ketua Umum Partai Golkar Saudara Bahlil Lahadalia. Maaf, maaf,\" ujar Prabowo.Prabowo kemudian menyinggung dinamika yang terjadi dalam beberapa hari terakhir. Sambil menundukkan kepala ke bawah mimbar, dia melontarkan candaan penyadapan.\"Beberapa hari ini agak penuh dinamika. Jangan-jangan disadap aku di sini,\" papar Prabowo yang langsung disambut sorak sorai dan tepuk tangan hadirin.Candaan tersebut muncul di tengah sorotan terhadap dinamika politik nasional dalam beberapa hari terakhir. Termasuk polemik dugaan penyadapan Prabowo oleh empat perwira tinggi Polri, termasuk eks Kapolri Jenderal Polisi Listyo Sigit Prabowo.Dinamika politik saat ini juga melibatkan Wakil Presiden Gibran Rakabuming Raka. Gibran disebut-sebut sudah mengajukan pengunduran diri kepada Prabowo sebagai respons atas putusan Mahkamah Konstitusi (MK) dan Mahkamah Agung (MA) terhadap dokumen kependidikannya ketika mengikuti Pemilihan Umum Presiden dan Wakil Presiden 2024-2029."
   },
   {
    "source": "cnbcindonesia2",
    "getter": "auto",
-   "title": "Bakom Bantah Prabowo Sarankan Gibran Tempuh Jalur PTUN Soal Ijazah",
-   "link": "https://www.cnbcindonesia.com/lifestyle/20261111171956-33-784370/bakom-bantah-prabowo-sarankan-gibran-tempuh-jalur-ptun-soal-ijazah",
-   "pubDate": "Wed, 11 Nov 2026 17:22:13 +0700",
-   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/10/02/syahganda-nainggolan-saat-tiba-di-istana-negara-jakarta-jumat-2102026-1790926354675_169.jpeg?w=1200&amp;q=90\"/> Kepala Bakom RI Syahganda Nainggolan bantah pernyataan Wapres Gibran soal saran Prabowo untuk jalur hukum terkait ijazahnya.",
-   "fetched_at": "2026-11-11T11:26:14+07:00",
+   "title": "OJK Benahi Sekuritas dan MI, Ini Peta Kelompok dari 192 Pelaku Usaha",
+   "link": "https://www.cnbcindonesia.com/market/20261111203645-17-784437/ojk-benahi-sekuritas-dan-mi-ini-peta-kelompok-dari-192-pelaku-usaha",
+   "pubDate": "Wed, 11 Nov 2026 20:41:08 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2018/02/06/527255d2-8d26-4bee-b081-df2089cfe9f0_169.jpeg?w=1200&amp;q=90\"/> OJK mengumumkan 192 pelaku pasar modal telah berkomitmen untuk penguatan kelembagaan. Ini bertujuan menciptakan industri yang sehat dan transparan.",
+   "fetched_at": "2026-11-11T18:51:20+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "full",
+   "content_chars": 4563,
+   "content": "OJK Benahi Sekuritas dan MI, Ini Peta Kelompok dari 192 Pelaku Usaha\n\nJakarta, CNBC Indonesia - Otoritas Jasa Keuangan (OJK) menyampaikan, sebanyak 192 pelaku industri pasar modal telah menyampaikan komitmen penguatan kelembagaan melalui penetapan kelompok kegiatan usaha. Jumlah tersebut terdiri dari 107 Perusahaan Efek (PE) dan 85 Manajer Investasi (MI) hingga 29 Oktober 2026.Plt. Kepala Departemen Surveillance dan Kebijakan Sektor Jasa Keuangan Terintegrasi OJK Wahyu Budi Satriyo mengatakan, langkah ini merupakan bagian dari upaya OJK memperkuat struktur industri pasar modal Indonesia, terutama dari sisi permodalan, tata kelola, kualitas kepemilikan dan pengendalian, hingga manajemen risiko.\"Upaya ini merupakan bagian dari komitmen OJK membangun industri pasar modal yang semakin sehat, transparan, berintegritas, dan berdaya saing melalui penguatan regulasi, kelembagaan, pengawasan, serta penegakan hukum secara konsisten. Hal ini sekaligus bertujuan memperkuat pelindungan investor serta menjaga kepercayaan masyarakat dan investor global terhadap pasar modal Indonesia,\" ujarnya dalam keterangan resminya, Rabu (11/11/2026).\n\nBerdasarkan data OJK, dari 107 Perusahaan Efek yang telah menyampaikan komitmen, sebanyak 74 perusahaan memilih kelompok Perusahaan Efek Kegiatan Usaha (PEKU) 3. Kemudian, 22 perusahaan memilih PEKU 2 dan 11 perusahaan lainnya memilih PEKU 1.Sementara itu, dari 85 Manajer Investasi yang telah menyampaikan pilihan kelompok kegiatan usaha, sebanyak 70 perusahaan memilih Manajer Investasi Kegiatan Usaha (MIKU) 2 dan 15 perusahaan memilih MIKU 1.Penetapan kelompok kegiatan usaha tersebut merupakan tindak lanjut dari Peraturan OJK (POJK) Nomor 3 Tahun 2026 tentang Penyelenggaraan Kegiatan Usaha Perusahaan Efek yang Melakukan Kegiatan Usaha sebagai Penjamin Emisi Efek dan Perantara Pedagang Efek, serta POJK Nomor 5 Tahun 2026 tentang Penyelenggaraan Kegiatan Usaha Manajer Investasi.\"Melalui kedua peraturan tersebut, OJK mendorong penguatan permodalan, kualitas kepemilikan dan pengendalian, kepengurusan, tata kelola, serta manajemen risiko PE dan MI yang bertujuan untuk memastikan kemampuan setiap perusahaan sesuai dengan kompleksitas kegiatan usaha dan risiko yang dihadapinya,\" sebutnya.Kedua POJK tersebut juga mengatur pembagian kelompok kegiatan usaha berdasarkan kemampuan perusahaan dan pemenuhan persyaratan tertentu. Kelompok tersebut adalah Perusahaan Efek Kegiatan Usaha (PEKU) dan Manajer Investasi Kegiatan Usaha (MIKU). Pengelompokan ini menjadi dasar untuk menentukan kegiatan usaha yang dapat dijalankan sesuai dengan kemampuan masing-masing perusahaan.Selain itu, OJK memberikan masa transisi kepada pelaku industri untuk memenuhi berbagai persyaratan tersebut secara bertahap. Proses penyesuaian ditargetkan dapat diselesaikan hingga April 2029.Selama periode transisi, OJK akan memantau perkembangan pemenuhan komitmen masing-masing perusahaan serta berkoordinasi dengan pemegang saham, pengurus, asosiasi industri, dan pemangku kepentingan lainnya.OJK juga menekankan pentingnya dukungan pemegang saham dalam memastikan kecukupan modal, memperkuat tata kelola, serta meningkatkan kemampuan operasional perusahaan agar proses transformasi kelembagaan dapat berjalan efektif dan berkelanjutan.Di sisi lain, OJK juga memperkuat pengawasan dan penegakan hukum untuk menjaga integritas pasar modal sekaligus mencegah terulangnya pelanggaran oleh pelaku industri.Terhadap Perusahaan Efek yang terbukti melakukan pelanggaran, OJK tidak hanya menjatuhkan sanksi, tetapi juga meminta perusahaan melakukan pembenahan internal. Langkah tersebut mencakup peningkatan pembinaan dan pengawasan pegawai, pengembangan kompetensi sumber daya manusia, serta penguatan sistem pengendalian internal dan fungsi kepatuhan.Perusahaan juga diminta mengevaluasi secara menyeluruh penyebab terjadinya pelanggaran dan menetapkan langkah perbaikan untuk mencegah kejadian serupa. Hasil evaluasi serta pelaksanaan perbaikan tersebut wajib disampaikan kepada OJK.Adapun dalam pengawasan Manajer Investasi, OJK meningkatkan komunikasi secara proaktif dengan asosiasi industri serta memperkuat pembinaan dan pengawasan guna mendorong kepatuhan terhadap ketentuan dan penerapan tata kelola yang baik.OJK menegaskan, penguatan kelembagaan tersebut menjadi bagian dari agenda reformasi pasar modal untuk menciptakan industri yang lebih sehat, transparan, dan berintegritas. Upaya ini juga diharapkan dapat memperkuat perlindungan investor serta menjaga kepercayaan masyarakat dan investor global terhadap pasar modal Indonesia."
+  },
+  {
+   "source": "cnbcindonesia2",
+   "getter": "auto",
+   "title": "11 Pegawai Intelijen AS Bunuh Diri, Gedung Putih Turun Tangan",
+   "link": "https://www.cnbcindonesia.com/research/20261111143328-128-784298/11-pegawai-intelijen-as-bunuh-diri-gedung-putih-turun-tangan",
+   "pubDate": "Wed, 11 Nov 2026 20:40:00 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2024/07/14/trump-ditembak-ini-12-presiden-as-tewas-selamat-uji-coba-pembunuhan_169.jpeg?w=1200&amp;q=90\"/> Rentetan kasus bunuh diri mengguncang badan intelijen AS. Sebanyak 11 orang meninggal dalam setahun, memicu perhatian Gedung Putih dan Kongres.",
+   "fetched_at": "2026-11-11T18:51:20+07:00",
    "categories": [
     "hukum-kriminal",
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 1784,
-   "content": "Bakom Bantah Prabowo Sarankan Gibran Tempuh Jalur PTUN Soal Ijazah\n\nJakarta, CNBC Indonesia - Kepala Badan Komunikasi Pemerintah (Bakom) RI Syahganda Nainggolan membantah pernyataan Wakil Presiden (Wapres) Gibran Rakabuming yang menyebut Presiden Prabowo Subianto menyarankan dia untuk menempuh jalur hukum melalui Pengadilan Tata Usaha Negara (PTUN) untuk membuktikan keabsahan ijazahnya.\n\nMenurutnya, pandangan hukum Presiden dalam persoalan tersebut mengacu pada penjelasan Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra.\n\n\"Pak Yusril mengatakan bahwa tidak ada kesempatan untuk PTUN. Tidak mungkin presiden menganjurkan Pak Gibran untuk melakukan perlawanan hukum. Pandangan hukum bapak presiden diwakili oleh Profesor Yusril,\" kata Syahganda, dikutip dari akun Instagram @bakom.ri, Rabu (11/11/2026).\n\nSyahganda menegaskan bahwa sikap pemerintah terkait persoalan ijazah Gibran sejalan dengan pandangan hukum yang telah disampaikan Yusril.\n\nSebelumnya, Yusril menyatakan putusan Mahkamah Agung (MA) terkait surat keterangan penyetaraan pendidikan Gibran bersifat final. Putusan tersebut menyatakan surat keterangan penyetaraan pendidikan yang menjadi polemik tidak sah dan batal.\n\nSaat memberikan konferensi pers di Istana Wakil Presiden, Selasa (10/11/2026), Gibran menegaskan Prabowo sudah seperti ayahnya sendiri. Ia juga mengatakan Prabowo memberikan masukan terkait kasus yang bergulir terkait di PTUN.\n\n\"Beliau (Prabowo) memberikan banyak saran dan masukan terkait dinamika yang terjadi saat ini. Salah satu saran beliau adalah agar saya tetap fight di PTUN dengan mengajukan seluruh dokumen dari SD sampai S1,\" Gibran menjelaskan. Namun, dia juga tidak menjelaskan lebih lanjut terkait isu pengunduran dirinya dari jabatan Wapres."
+   "content_chars": 9104,
+   "content": "11 Pegawai Intelijen AS Bunuh Diri, Gedung Putih Turun Tangan\n\nJakarta, CNBC Indonesia - Dunia intelijen Amerika Serikat (AS) sedang menghadapi masalah serius. Dalam setahun terakhir, sedikitnya 11 orang yang bekerja di badan intelijen dan militer siber AS meninggal akibat bunuh diri.\n\nRentetan kematian ini membuat pemerintah AS khawatir. Gedung Putih hingga Kongres pun turun tangan, meminta penjelasan mengenai apa yang sebenarnya terjadi di balik pekerjaan para agen intelijen dan ahli perang siber tersebut.\n\nMelansir dari The Japan Times, Rabu (11/11/2026), sebanyak 11 kasus bunuh diri terjadi dalam kurun waktu 12 bulan hingga September 2026. Para korban bekerja di National Security Agency (NSA) dan US Cyber Command.\n\nNSA merupakan badan intelijen AS yang bertugas mengumpulkan informasi melalui penyadapan dan komunikasi elektronik. Sementara itu, US Cyber Command merupakan komando militer yang menjalankan operasi perang siber, termasuk menghadapi ancaman dan serangan digital dari negara lain.\n\nKedua lembaga tersebut bermarkas di Fort Meade, Maryland, yang menjadi salah satu pusat kegiatan intelijen AS.\n\nDari 11 kasus yang dilaporkan, sebanyak 10 kematian terjadi di sekitar Fort Meade. Sementara satu kasus lainnya terjadi di dekat fasilitas NSA di Georgia.\n\nPara korban berasal dari berbagai kalangan, mulai dari anggota militer, pegawai sipil, hingga kontraktor yang bekerja untuk kedua lembaga tersebut.\n\nYang lebih mengejutkan, lima orang meninggal hanya dalam waktu sekitar satu bulan, yakni sejak awal Juni hingga awal Juli 2026.\n\nBanyaknya kasus dalam waktu berdekatan membuat pihak militer mengatakannya sebagai suicide cluster, yakni sejumlah kasus bunuh diri yang terjadi berdekatan dalam waktu atau terjadi di wilayah tertentu.\n\nKasus serupa kembali terjadi pada September. Kali ini, korbannya adalah seorang tentara perempuan berusia 21 tahun dan seorang pegawai sipil NSA berusia 59 tahun.\n\nJumlah kematian tersebut lebih besar dibandingkan yang sebelumnya diketahui publik. Namun, belum tersedia data yang cukup untuk memastikan apakah tingkat bunuh diri di kedua lembaga itu memang lebih tinggi dibandingkan tahun-tahun sebelumnya.\n\nSelama ini, perang sering dibayangkan sebagai pertempuran antara tentara yang saling berhadapan menggunakan senjata.\n\nNamun, perang modern tidak lagi hanya berlangsung di darat, laut, atau udara. Ada pula perang yang dilakukan melalui komputer, jaringan komunikasi, hingga serangan terhadap sistem digital negara lain.\n\nDi sinilah NSA dan US Cyber Command memainkan peran penting.\n\nPara pegawainya memang tidak selalu berada di garis depan pertempuran. Namun, mereka harus menghadapi pekerjaan yang menuntut konsentrasi tinggi, jam kerja panjang, dan tekanan yang terus bertambah.\n\nSebagian personel bahkan menghabiskan waktu berjam-jam di dalam fasilitas berkeamanan tinggi tanpa jendela. Mereka bekerja dalam ruangan tertutup untuk menjalankan berbagai operasi rahasia.\n\nPerang AS dengan Iran serta berbagai konflik di luar negeri membuat aktivitas intelijen dan operasi siber meningkat. Di saat yang sama, perkembangan kecerdasan buatan atau artificial intelligence (AI) menambah pekerjaan mereka.\n\nKemampuan AI yang semakin canggih dalam membantu aktivitas peretasan membuat ancaman siber semakin sulit ditangani.\n\nHarry Coker Jr., mantan pejabat senior NSA dan Central Intelligence Agency (CIA), mengatakan bahwa pekerjaan di kedua lembaga tersebut kini bisa terasa sangat melelahkan.\n\nMenurut dia, banyak orang menganggap personel siber tidak menghadapi tekanan seperti tentara di medan perang karena mereka bekerja jauh dari lokasi pertempuran.\n\nPadahal, meskipun secara fisik tidak berada di garis depan, tekanan mental dan emosional yang mereka hadapi tetap besar.\n\nMeski demikian, belum ada kesimpulan bahwa tekanan pekerjaan menjadi penyebab seluruh kasus bunuh diri tersebut.\n\nDari hasil pemeriksaan awal, sejumlah korban juga diketahui menghadapi masalah pribadi, keluarga, hingga keuangan. Penyebab kematian masing-masing individu pun tidak bisa disamakan.\n\nSalah satu kematian yang mendapat perhatian adalah kasus Kevin Stallings, seorang analis intelijen Angkatan Udara AS berusia 36 tahun.\n\nDi tempat kerja, Stallings dikenal sebagai sosok yang pendiam dan rajin. Dia juga sering membantu rekan-rekannya menyelesaikan pekerjaan.\n\nMantan komandannya, T. Gwyddon Owen, mengenang Stallings sebagai orang yang tidak pernah mengeluh meskipun harus menangani tugas-tugas yang sulit.\n\nNamun, di luar pekerjaannya, Stallings ternyata sedang menghadapi berbagai persoalan.\n\nDia memiliki masalah utang, rumah tangganya berakhir, dan dirinya juga harus menghadapi kehilangan dalam kehidupan pribadinya.\n\nPada 17 Juni 2026, Stallings meninggalkan tempat kerjanya di Fort Meade lebih awal untuk menghadiri sebuah janji temu.\n\nAkan tetapi, polisi Maryland baru menerima laporan dari seorang pimpinan Angkatan Udara pada 22 Juni, beberapa hari setelah Stallings tidak hadir bekerja.\n\nKetika polisi dan pejabat militer mendatangi apartemennya, Stallings ditemukan telah meninggal dunia.\n\nMereka mempertanyakan mengapa pihak militer tidak segera memeriksa keadaan Stallings ketika dia mulai tidak masuk kerja.\n\nPadahal, menurut seorang pejabat AS yang memahami prosedur Angkatan Udara, komandan biasanya akan memeriksa langsung ke rumah anggota militer yang tidak diketahui keberadaannya dalam waktu 24 jam.\n\nAdam Stallings, saudara Kevin, mempertanyakan mengapa tidak ada yang lebih cepat mencari tahu kondisi adiknya.\n\nAyah mereka, James Stallings II, yang juga merupakan veteran Angkatan Udara, menilai penanganan tersebut sebagai bentuk kelalaian dalam menjalankan tugas.\n\nKisah Stallings memperlihatkan bahwa di balik pekerjaan intelijen yang penuh kerahasiaan, ada persoalan pribadi yang mungkin tidak diketahui orang-orang di sekitarnya.\n\nBanyaknya kasus kematian dalam waktu berdekatan akhirnya membuat pemerintah AS bergerak.\n\nSetelah lima kasus bunuh diri terjadi pada Juni hingga Juli, sejumlah komite Kongres yang mengawasi militer dan intelijen meminta penjelasan langsung dari pimpinan NSA dan US Cyber Command.\n\nPada Agustus, Wakil Direktur NSA Tim Kosiba bahkan datang ke Gedung Putih untuk memberikan penjelasan kepada staf pemerintahan mengenai kasus tersebut.\n\nDi sisi lain, pimpinan kedua lembaga mulai menyadari perlunya perubahan dalam mengatur pekerjaan dan menyediakan bantuan kesehatan mental bagi para pegawai.\n\nJenderal Joshua Rudd, yang mulai memimpin NSA dan Cyber Command pada Maret 2026, sebelumnya telah meminta anggaran sebesar US$11 juta pada April untuk memperkuat layanan kesehatan mental personel siber.\n\nPermintaan itu disampaikan karena Rudd khawatir jam kerja yang berat bisa membuat pegawai mengalami kelelahan berkepanjangan atau burnout, bahkan mengganggu kemampuan mereka dalam menjalankan operasi.\n\nPada Oktober, sejumlah anggota Kongres turut mendesak agar dana tersebut segera disetujui.\n\nKini, para personel siber diwajibkan mendapatkan delapan jam istirahat tanpa gangguan dalam setiap 24 jam. Mereka juga tidak boleh bekerja lebih dari 12 jam berturut-turut, kecuali mendapatkan izin khusus.\n\nNSA dan Cyber Command juga memperluas layanan kesehatan agar pegawai militer maupun sipil memiliki akses yang lebih mudah untuk mendapatkan bantuan.\n\nNamun, mencari tenaga kesehatan mental untuk bekerja di lingkungan intelijen ternyata bukan perkara mudah.\n\nPasalnya, para tenaga kesehatan tersebut juga harus melewati pemeriksaan keamanan yang ketat sebelum diperbolehkan masuk ke fasilitas tempat berbagai informasi rahasia negara ditangani.\n\nPemeriksaan itu mencakup pengecekan latar belakang hingga tes poligraf. Dalam beberapa kasus, prosesnya bahkan bisa memakan waktu hampir dua tahun.\n\nUntuk mempercepat penanganan, Cyber Command mulai menambah tenaga pendamping, termasuk psikolog, pekerja sosial klinis, dan pendamping spiritual.\n\nSementara itu, Walter Reed Army Institute of Research juga tengah melakukan penelitian mengenai kondisi kerja di Cyber Command, termasuk menghitung berapa banyak tenaga kesehatan mental yang sebenarnya dibutuhkan.\n\nAnggota Kongres AS dari Partai Demokrat, Sarah Elfreth, mengatakan bahwa banyaknya kematian tersebut telah menyadarkan sejumlah pejabat di Departemen Pertahanan AS mengenai pentingnya menangani masalah ini dengan segera.\n\nMenurut dia, militer AS memang sudah memiliki banyak pengalaman menghadapi perang. Namun, dampak perang elektronik terhadap kondisi psikologis manusia masih belum banyak dipahami.\n\nSelama ini, perhatian terhadap kesehatan mental tentara lebih sering dikaitkan dengan mereka yang terjun langsung ke medan perang.\n\nPadahal, di balik komputer dan layar pemantau, para personel intelijen dan perang siber juga menghadapi tekanan yang tidak ringan.\n\nRentetan kematian di NSA dan US Cyber Command kini membuat pemerintah AS harus memikirkan bukan hanya bagaimana memenangkan perang di dunia digital, tetapi juga bagaimana menjaga kondisi orang-orang yang menjalankannya.\n\nPerang Iran dan Ancaman AI Bikin Beban Kerja Intelijen AS Makin Berat Kisah Tragis Analis Intelijen AS Gedung Putih dan Kongres Turun Tangan (evw/luc)"
   },
   {
-   "source": "fajar",
+   "source": "bloombergtechnoz",
    "getter": "auto",
-   "title": "Polisi Dalami Dugaan Pencurian 4.000 Meteran PDAM di Makassar",
-   "link": "https://fajar.co.id/2026/11/11/polisi-dalami-dugaan-pencurian-4-000-meteran-pdam-di-makassar/",
-   "pubDate": "Wed, 11 Nov 2026 10:32:24 +0000",
-   "description": "FAJAR.CO.ID, MAKASSAR &#8212; Perumda Air Minum Kota Makassar menghadapi persoalan serius terkait maraknya dugaan aksi...",
-   "fetched_at": "2026-11-11T11:25:54+07:00",
+   "title": "Projo: Wapres Gibran Rakabuming Raka Mengundurkan Diri",
+   "link": "https://www.bloombergtechnoz.com/detail-news/127443/projo-wapres-gibran-rakabuming-raka-mengundurkan-diri",
+   "pubDate": "Wed, 11 Nov 2026 19:32:59 +0700",
+   "description": "<img src=\"https://images.bloombergtechnoz.com/data/2026/11/image-20261111195846.jpg\" /> Wapres Gibran Rakabuming Raka Mengundurkan Diri",
+   "fetched_at": "2026-11-11T18:51:07+07:00",
    "categories": [
-    "hukum-kriminal"
+    "hukum-kriminal",
+    "pemerintahan"
    ],
-   "content_status": "partial",
-   "content_chars": 121,
-   "content": "FAJAR.CO.ID, MAKASSAR &#8212; Perumda Air Minum Kota Makassar menghadapi persoalan serius terkait maraknya dugaan aksi..."
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Jaringan Narkotika di Malang Tertangkap, Sita 16 Paket Sabu Hingga Ribuan Obat",
-   "link": "https://beritajatim.com/jaringan-narkotika-di-malang-tertangkap-sita-16-paket-sabu-hingga-ribuan-obat",
-   "pubDate": "Wed, 11 Nov 2026 11:23:28 +0000",
-   "description": "<a href=\"https://beritajatim.com/jaringan-narkotika-di-malang-tertangkap-sita-16-paket-sabu-hingga-ribuan-obat\" title=\"Jaringan Narkotika di Malang Tertangkap, Sita 16 Paket Sabu Hingga Ribuan Obat\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/narkoba-Malang.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" sr",
-   "fetched_at": "2026-11-11T11:25:51+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "<a href=\"https://beritajatim.com/jaringan-narkotika-di-malang-tertangkap-sita-16-paket-sabu-hingga-ribuan-obat\" title=\"Jaringan Narkotika di Malang Tertangkap, Sita 16 Paket Sabu Hingga Ribuan Obat\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/narkoba-Malang.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" sr"
+   "content_status": "full",
+   "content_chars": 1208,
+   "video_type": "youtube",
+   "video_id": "n-Fv976AHtE",
+   "video_url": "https://www.youtube.com/watch?v=n-Fv976AHtE",
+   "content": "Bloomberg Technoz, Jakarta - Ketua Umum Projo, Budi Arie Setiadi mengatakan, Wakil Presiden ke-14 Gibran Rakabuming Raka telah mengundurkan diri dari jabatannya, Rabu (12/11/2026). Putera sulung Presiden ke-7 Joko Widodo (Jokowi) tersebut hanya menjalani masa tugasnya selama nyaris 25 bulan atau sekitar dua tahun.\n\n\"Mas Gibran sudah mengundurkan diri,\" kata bos tim relawan Jokowi tersebut.\n\nGibran akhirnya melepas jabatannya sebagai RI-2 usai surat keterangan penyetaraan pendidikan tingkat SMA-nya menjadi polemik hingga berakhir ke pengadilan.\n\nMahkamah Konstitusi menguji suket pendidikan Gibran dalam perkara Nomor 01/PHPU.PRES-XXIV/2026. Dalam putusannya, MK menilai tak bisa menemukan bukti dan keberadaan fisik ijazah Gibran yang menunjukkan telah menyelesaikan pendidikan tingkat SMA atau sederajatnya.\n\nSedangkan Mahkamah Agung kemudian menguatkan putusan Mahkamah Konstitusi saat mengetok kasasi nomor 742 K/TUN/2026. Majelis kasasi menilai Suket yang dikeluarkan Direktorat Dikdasmen Kementerian Pendidikan dan Kebudayaan pada 2019 tak sah dan batal demi hukum. Hal ini berarti, suket yang menyatakan Gibran telah menyelesaikan pendidikan tingkat SMA atau sederajatnya tersebut tak pernah ada."
   },
   {
    "source": "beritajatim",
    "getter": "auto",
-   "title": "Sebulan Operasi Sarang Narkoba, Polres Mojokerto Kota Bekuk 19 Pengedar",
-   "link": "https://beritajatim.com/sebulan-operasi-sarang-narkoba-polres-mojokerto-kota-bekuk-19-pengedar",
-   "pubDate": "Wed, 11 Nov 2026 10:50:53 +0000",
-   "description": "<a href=\"https://beritajatim.com/sebulan-operasi-sarang-narkoba-polres-mojokerto-kota-bekuk-19-pengedar\" title=\"Sebulan Operasi Sarang Narkoba, Polres Mojokerto Kota Bekuk 19 Pengedar\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/Narkoba-Mojokerto.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https",
-   "fetched_at": "2026-11-11T11:25:51+07:00",
+   "title": "837 Personel Polda Jatim Purna Tugas, Wakapolda: Pengabdian Tak Berakhir",
+   "link": "https://beritajatim.com/837-personel-polda-jatim-purna-tugas-wakapolda-pengabdian-tak-berakhir",
+   "pubDate": "Wed, 11 Nov 2026 15:39:26 +0000",
+   "description": "<a href=\"https://beritajatim.com/837-personel-polda-jatim-purna-tugas-wakapolda-pengabdian-tak-berakhir\" title=\"837 Personel Polda Jatim Purna Tugas, Wakapolda: Pengabdian Tak Berakhir\" rel=\"nofollow\"><img width=\"680\" height=\"453\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/1002021629_11zon.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https:",
+   "fetched_at": "2026-11-11T18:50:53+07:00",
    "categories": [
     "hukum-kriminal"
    ],
    "content_status": "partial",
    "content_chars": 500,
-   "content": "<a href=\"https://beritajatim.com/sebulan-operasi-sarang-narkoba-polres-mojokerto-kota-bekuk-19-pengedar\" title=\"Sebulan Operasi Sarang Narkoba, Polres Mojokerto Kota Bekuk 19 Pengedar\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/Narkoba-Mojokerto.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https"
+   "content": "<a href=\"https://beritajatim.com/837-personel-polda-jatim-purna-tugas-wakapolda-pengabdian-tak-berakhir\" title=\"837 Personel Polda Jatim Purna Tugas, Wakapolda: Pengabdian Tak Berakhir\" rel=\"nofollow\"><img width=\"680\" height=\"453\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/1002021629_11zon.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" srcset=\"https:"
   },
   {
    "source": "beritajatim",
    "getter": "auto",
-   "title": "Bisnis Chip Royal Dream Raup Rp75 Juta Sehari, Polres Gresik Tangkap 3 Admin Judi Online",
-   "link": "https://beritajatim.com/bisnis-chip-royal-dream-raup-rp75-juta-sehari-polres-gresik-tangkap-3-admin-judi-online",
-   "pubDate": "Wed, 11 Nov 2026 10:28:34 +0000",
-   "description": "<a href=\"https://beritajatim.com/bisnis-chip-royal-dream-raup-rp75-juta-sehari-polres-gresik-tangkap-3-admin-judi-online\" title=\"Bisnis Chip Royal Dream Raup Rp75 Juta Sehari, Polres Gresik Tangkap 3 Admin Judi Online\" rel=\"nofollow\"><img width=\"1026\" height=\"886\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/17883.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decodin",
-   "fetched_at": "2026-11-11T11:25:51+07:00",
+   "title": "Kasus Kamera Pengintai di Toilet FK Unair, JPU Tuntut Terdakwa 17 Bulan Penjara",
+   "link": "https://beritajatim.com/kasus-kamera-pengintai-di-toilet-fk-unair-jpu-tuntut-terdakwa-17-bulan-penjara",
+   "pubDate": "Wed, 11 Nov 2026 15:05:02 +0000",
+   "description": "<a href=\"https://beritajatim.com/kasus-kamera-pengintai-di-toilet-fk-unair-jpu-tuntut-terdakwa-17-bulan-penjara\" title=\"Kasus Kamera Pengintai di Toilet FK Unair, JPU Tuntut Terdakwa 17 Bulan Penjara\" rel=\"nofollow\"><img width=\"1021\" height=\"680\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/1002021317_11zon.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async",
+   "fetched_at": "2026-11-11T18:50:53+07:00",
    "categories": [
     "hukum-kriminal"
    ],
    "content_status": "partial",
    "content_chars": 500,
-   "content": "<a href=\"https://beritajatim.com/bisnis-chip-royal-dream-raup-rp75-juta-sehari-polres-gresik-tangkap-3-admin-judi-online\" title=\"Bisnis Chip Royal Dream Raup Rp75 Juta Sehari, Polres Gresik Tangkap 3 Admin Judi Online\" rel=\"nofollow\"><img width=\"1026\" height=\"886\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/17883.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decodin"
+   "content": "<a href=\"https://beritajatim.com/kasus-kamera-pengintai-di-toilet-fk-unair-jpu-tuntut-terdakwa-17-bulan-penjara\" title=\"Kasus Kamera Pengintai di Toilet FK Unair, JPU Tuntut Terdakwa 17 Bulan Penjara\" rel=\"nofollow\"><img width=\"1021\" height=\"680\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/1002021317_11zon.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async"
   },
   {
-   "source": "jpnn",
+   "source": "harianjogja",
    "getter": "auto",
-   "title": "Polda NTB Ungkap Dua Kasus TPPO ke Arab Saudi, Lima Orang Tersangka Ditangkap",
-   "link": "https://www.jpnn.com/news/polda-ntb-ungkap-dua-kasus-tppo-ke-arab-saudi-lima-orang-tersangka-ditangkap",
-   "pubDate": "Wed, 11 Nov 2026 18:14:12 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/11/11/arsip-foto-lima-tersangka-dalam-dua-kasus-tppo-tujuan-arab-s-sdmo.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, MATARAM - Polda Nusa Tenggara Barat (NTB) mengungkap dua kasus dugaan tindak pidana perdagangan orang (<a href=\"https://www.jpnn.com/tag/tppo\" title=\"Semua artikel tentang TPPO\">TPPO</a>) dengan modus pengiriman <a href=\"https://www.jpnn.com/tag/pekerja-migran-indonesia\" title=\"Semua artik",
-   "fetched_at": "2026-11-11T11:25:48+07:00",
+   "title": "Viral Dugaan Pencurian Motor di UNY, Polisi Tangkap Pemuda 19 Tahun",
+   "link": "https://jogjapolitan.harianjogja.com/r-1278418/viral-dugaan-pencurian-motor-di-uny-polisi-tangkap-pemuda-19-tahun",
+   "pubDate": "Wed, 11 Nov 2026 22:57:02 +0700",
+   "description": "Pemuda 19 tahun asal Kulonprogo diamankan di area parkir UNY setelah diduga membuka dasbor dan jok sepeda motor.",
+   "fetched_at": "2026-11-11T18:50:51+07:00",
    "categories": [
     "hukum-kriminal"
    ],
    "content_status": "partial",
-   "content_chars": 500,
-   "content": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/11/11/arsip-foto-lima-tersangka-dalam-dua-kasus-tppo-tujuan-arab-s-sdmo.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, MATARAM - Polda Nusa Tenggara Barat (NTB) mengungkap dua kasus dugaan tindak pidana perdagangan orang (<a href=\"https://www.jpnn.com/tag/tppo\" title=\"Semua artikel tentang TPPO\">TPPO</a>) dengan modus pengiriman <a href=\"https://www.jpnn.com/tag/pekerja-migran-indonesia\" title=\"Semua artik"
+   "content_chars": 112,
+   "content": "Pemuda 19 tahun asal Kulonprogo diamankan di area parkir UNY setelah diduga membuka dasbor dan jok sepeda motor."
   },
   {
    "source": "inews",
    "getter": "auto",
-   "title": "Jual Istri untuk Layanan Seks Bertiga, Suami di Sidoarjo Ditangkap di Apartemen",
-   "link": "https://www.inews.id/regional/jatim/jual-istri-untuk-layanan-seks-bertiga-suami-di-sidoarjo-ditangkap-di-apartemen",
-   "pubDate": "Wed, 11 Nov 2026 18:04:00 +0700",
-   "description": "Suami di Sidoarjo ditangkap karena diduga menjual istrinya untuk layanan seks bertiga dengan tarif hingga Rp700.000 sekali layanan.",
-   "fetched_at": "2026-11-11T11:25:46+07:00",
+   "title": "Sindikat Judol Berkedok Jual Beli Chip Royal Dream Dibongkar, Omzet Rp75 Juta Sehari",
+   "link": "https://www.inews.id/regional/jatim/sindikat-judol-berkedok-jual-beli-chip-royal-dream-dibongkar-omzet-rp75-juta-sehari",
+   "pubDate": "Thu, 12 Nov 2026 01:31:00 +0700",
+   "description": "Polres Gresik membongkar sindikat judi online berkedok jual beli chip Royal Dream di Tangerang dengan omzet hingga Rp75 juta per hari.",
+   "fetched_at": "2026-11-11T18:50:49+07:00",
    "categories": [
     "hukum-kriminal"
    ],
    "content_status": "partial",
-   "content_chars": 131,
-   "content": "Suami di Sidoarjo ditangkap karena diduga menjual istrinya untuk layanan seks bertiga dengan tarif hingga Rp700.000 sekali layanan."
+   "content_chars": 134,
+   "content": "Polres Gresik membongkar sindikat judi online berkedok jual beli chip Royal Dream di Tangerang dengan omzet hingga Rp75 juta per hari."
   },
   {
-   "source": "sindonews",
+   "source": "inews",
    "getter": "auto",
-   "title": "Jadi Mata-mata Rusia, Seorang Tentara AS Ditangkap di Inggris",
-   "link": "https://international.sindonews.com/read/1770891/41/jadi-mata-mata-rusia-seorang-tentara-as-ditangkap-di-inggris-1794384704",
-   "pubDate": "Wed, 11 Nov 2026 18:07:01 +0700",
-   "description": "Seorang tentara Angkatan Darat AS telah ditangkap atas dugaan menjadi mata-mata untuk Rusia. Itu diungkapkan kepolisian antiterorisme Inggris.",
-   "fetched_at": "2026-11-11T11:25:45+07:00",
+   "title": "Bentrok Saat Eksekusi Lahan di Karo, 3 Petugas TNI-Polri Terluka dan Kendaraan Dibakar",
+   "link": "https://www.inews.id/regional/sumut/bentrok-saat-eksekusi-lahan-di-karo-3-petugas-tni-polri-terluka-dan-kendaraan-dibakar",
+   "pubDate": "Wed, 11 Nov 2026 23:13:00 +0700",
+   "description": "Bentrokan saat eksekusi lahan di Siosar, Karo, menyebabkan tiga petugas TNI-Polri terluka dan kendaraan dinas dibakar massa.",
+   "fetched_at": "2026-11-11T18:50:49+07:00",
    "categories": [
     "hukum-kriminal"
    ],
    "content_status": "partial",
-   "content_chars": 142,
-   "content": "Seorang tentara Angkatan Darat AS telah ditangkap atas dugaan menjadi mata-mata untuk Rusia. Itu diungkapkan kepolisian antiterorisme Inggris."
+   "content_chars": 124,
+   "content": "Bentrokan saat eksekusi lahan di Siosar, Karo, menyebabkan tiga petugas TNI-Polri terluka dan kendaraan dinas dibakar massa."
+  },
+  {
+   "source": "katadata",
+   "getter": "auto",
+   "title": "Polda Metro Jaya Bantah Kabar Penangkapan Eks Ketua KPK Firli Bahuri",
+   "link": "https://katadata.co.id/berita/nasional/6af47f757540c/polda-metro-jaya-bantah-kabar-penangkapan-eks-ketua-kpk-firli-bahuri",
+   "pubDate": "Wed, 11 Nov 2026 21:45:00 +0700",
+   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/11/01/Kepala_Bidang_Humas_Polda_Metro_Jaya_Kombes_Pol_Budi_Hermanto-2026_11_01-11_07_27_802d0da242c247d0632f9e7bf0a10c9a_620x413_thumb.jpg\" alt=\"Kepala Bidang Humas Polda Metro Jaya Kombes Pol Budi Hermanto.\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Polda Metro Jaya menegaskan mantan Ketua KPK Firli Bahuri tidak ditangkap, melainkan didatangi penyidik Direktorat Reserse Kriminal Khusus (Ditreskrimsus).</p>",
+   "fetched_at": "2026-11-11T18:50:46+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 487,
+   "content": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/11/01/Kepala_Bidang_Humas_Polda_Metro_Jaya_Kombes_Pol_Budi_Hermanto-2026_11_01-11_07_27_802d0da242c247d0632f9e7bf0a10c9a_620x413_thumb.jpg\" alt=\"Kepala Bidang Humas Polda Metro Jaya Kombes Pol Budi Hermanto.\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Polda Metro Jaya menegaskan mantan Ketua KPK Firli Bahuri tidak ditangkap, melainkan didatangi penyidik Direktorat Reserse Kriminal Khusus (Ditreskrimsus).</p>"
   },
   {
    "source": "republika",
    "getter": "auto",
-   "title": "Wamenhaj Sebut Pelaku Penipuan Haji dan Umroh Sebagai Bandit Agama",
-   "link": "https://republika.co.id/page/shorts/yt-toc3w1233640271/wamenhaj-sebut-pelaku-penipuan-haji-dan-umroh-sebagai-bandit-agama",
-   "pubDate": "Wed, 11 Nov 2026 18:00:01 +0700",
-   "description": "Wakil Menteri Haji dan Umrah (Wamenhaj) Dahnil Anzar Simanjuntak menyoroti maraknya kasus penipuan dalam penyelenggaraan ibadah haji dan umrah. Ia bahkan menyebut para pelaku penipuan tersebut sebagai **“bandit agama”**...",
-   "fetched_at": "2026-11-11T11:23:55+07:00",
+   "title": "Kejati Bengkulu Tuntut 9 Terdakwa Korupsi Pengadaan Pembangkit Listrik",
+   "link": "https://news.republika.co.id/berita/tocmni8330000/kejati-bengkulu-tuntut-9-terdakwa-korupsi-pengadaan-pembangkit-listrik",
+   "pubDate": "Thu, 12 Nov 2026 00:45:18 +0700",
+   "description": "REPUBLIKA.CO.ID, BENGKULU, – Jaksa Penuntut Umum (JPU) Kejaksaan Tinggi (Kejati) Bengkulu resmi menuntut sembilan terdakwa dalam kasus dugaan korupsi pengadaan di salah satu pembangkit listrik di Kabupaten Kepahiang, Provinsi...",
+   "fetched_at": "2026-11-11T18:50:44+07:00",
    "categories": [
-    "hukum-kriminal"
+    "hukum-kriminal",
+    "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 222,
-   "content": "Wakil Menteri Haji dan Umrah (Wamenhaj) Dahnil Anzar Simanjuntak menyoroti maraknya kasus penipuan dalam penyelenggaraan ibadah haji dan umrah. Ia bahkan menyebut para pelaku penipuan tersebut sebagai **“bandit agama”**..."
+   "content_chars": 228,
+   "content": "REPUBLIKA.CO.ID, BENGKULU, – Jaksa Penuntut Umum (JPU) Kejaksaan Tinggi (Kejati) Bengkulu resmi menuntut sembilan terdakwa dalam kasus dugaan korupsi pengadaan di salah satu pembangkit listrik di Kabupaten Kepahiang, Provinsi..."
   },
   {
    "source": "antara",
    "getter": "getter2",
-   "title": "Polda DIY bantah isu personel masuk kampus saat pengamanan unjuk rasa",
-   "link": "https://www.antaranews.com/berita/5847143/polda-diy-bantah-isu-personel-masuk-kampus-saat-pengamanan-unjuk-rasa",
-   "pubDate": "Wed, 11 Nov 2026 18:16:54 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/223904_1.jpg\" align=\"left\" border=\"0\" />Kepolisian Daerah Istimewa Yogyakarta membantah isu yang berkembang terkait adanya personel polisi&nbsp;yang memasuki ...",
-   "fetched_at": "2026-11-11T11:23:36+07:00",
+   "title": "Anggota DPR ingatkan pemberantasan narkoba harus dari hulu ke hilir",
+   "link": "https://www.antaranews.com/berita/5847979/anggota-dpr-ingatkan-pemberantasan-narkoba-harus-dari-hulu-ke-hilir",
+   "pubDate": "Wed, 11 Nov 2026 23:48:03 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/1000008035.jpg\" align=\"left\" border=\"0\" />Anggota Komisi III DPR RI Habib Aboe Bakar Al-Habsyi mengingatkan&nbsp;pemberantasan narkotika harus dilakukan dari ...",
+   "fetched_at": "2026-11-11T18:50:21+07:00",
    "categories": [
-    "hukum-kriminal"
+    "hukum-kriminal",
+    "pemerintahan"
    ],
    "content_status": "partial",
    "content_chars": 223,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/223904_1.jpg\" align=\"left\" border=\"0\" />Kepolisian Daerah Istimewa Yogyakarta membantah isu yang berkembang terkait adanya personel polisi&nbsp;yang memasuki ..."
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/1000008035.jpg\" align=\"left\" border=\"0\" />Anggota Komisi III DPR RI Habib Aboe Bakar Al-Habsyi mengingatkan&nbsp;pemberantasan narkotika harus dilakukan dari ..."
   },
   {
    "source": "antara",
    "getter": "getter2",
-   "title": "Polda Metro Jaya tetapkan 19 tersangka kasus TPPO dari tujuh perkara",
-   "link": "https://www.antaranews.com/berita/5847103/polda-metro-jaya-tetapkan-19-tersangka-kasus-tppo-dari-tujuh-perkara",
-   "pubDate": "Wed, 11 Nov 2026 18:04:12 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/68614.jpg\" align=\"left\" border=\"0\" />Direktorat Reserse Perlindungan Perempuan dan Anak serta Pemberantasan Tindak Pidana Perdagangan Orang (PPA-PPO) Polda ...",
-   "fetched_at": "2026-11-11T11:23:36+07:00",
+   "title": "Pelaku usaha harapkan keberlangsungan ekosistem vape legal",
+   "link": "https://www.antaranews.com/berita/5847935/pelaku-usaha-harapkan-keberlangsungan-ekosistem-vape-legal",
+   "pubDate": "Wed, 11 Nov 2026 23:16:26 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/10/mui-nyatakan-rokok-elektrik-haram-2904115.jpg\" align=\"left\" border=\"0\" />Pelaku usaha rokok elektronik berharap keberlangsungan ekosistem vape legal tetap menjadi perhatian pemerintah di ...",
+   "fetched_at": "2026-11-11T18:50:21+07:00",
    "categories": [
     "hukum-kriminal"
    ],
    "content_status": "partial",
-   "content_chars": 221,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/68614.jpg\" align=\"left\" border=\"0\" />Direktorat Reserse Perlindungan Perempuan dan Anak serta Pemberantasan Tindak Pidana Perdagangan Orang (PPA-PPO) Polda ..."
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "OJK catat 99.347 laporan penipuan keuangan digital di Jatim",
-   "link": "https://www.antaranews.com/berita/5847091/ojk-catat-99347-laporan-penipuan-keuangan-digital-di-jatim",
-   "pubDate": "Wed, 11 Nov 2026 18:01:15 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/WhatsApp-Image-2026-11-11-at-17.50.49.jpeg\" align=\"left\" border=\"0\" />Otoritas Jasa Keuangan (OJK) mencatat sebanyak 99.347 laporan penipuan keuangan digital berasal dari Jawa Timur selama ...",
-   "fetched_at": "2026-11-11T11:23:36+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "partial",
-   "content_chars": 254,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/WhatsApp-Image-2026-11-11-at-17.50.49.jpeg\" align=\"left\" border=\"0\" />Otoritas Jasa Keuangan (OJK) mencatat sebanyak 99.347 laporan penipuan keuangan digital berasal dari Jawa Timur selama ..."
+   "content_chars": 252,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/10/mui-nyatakan-rokok-elektrik-haram-2904115.jpg\" align=\"left\" border=\"0\" />Pelaku usaha rokok elektronik berharap keberlangsungan ekosistem vape legal tetap menjadi perhatian pemerintah di ..."
   }
  ]
 }
