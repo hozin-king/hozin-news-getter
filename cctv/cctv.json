@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-11T08:02:54+07:00",
+ "updated_at": "2026-11-11T14:43:52+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -26,6 +26,20 @@
      "stream": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/DrDjunjunanBTCdua.m3u8",
      "lat": -6.892825,
      "lon": 107.585345
+    },
+    {
+     "nama": "CCTV ALUN-ALUN 01 - BANCEUY",
+     "lokasi": "Kota Bandung",
+     "stream": "https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTo.m3u8",
+     "lat": -6.921062009055424,
+     "lon": 107.60639444644745
+    },
+    {
+     "nama": "CCTV ALUN-ALUN 02 - ASIA AFRIKA",
+     "lokasi": "Kota Bandung",
+     "stream": "https://pelindung.bandung.go.id:3443/video/DAHUA/DepanTop.m3u8",
+     "lat": -6.92109329535628,
+     "lon": 107.60658220109161
     },
     {
      "nama": "CCTV BATAS KOTA 01",
