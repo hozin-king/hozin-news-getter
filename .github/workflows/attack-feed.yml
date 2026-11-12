@@ -1,0 +1,41 @@
+name: Attack Feed
+
+on:
+  schedule:
+    # Every hour, minute 7 (avoid the :00 rush)
+    - cron: '7 * * * *'
+  workflow_dispatch:
+
+# Same group as the news chain so pushes to main never collide.
+concurrency:
+  group: news-getter-chain
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  attack-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate attack feed (SANS DShield)
+        run: python3 attack_feed.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "hozin-news-getter"
+          git config user.email "news-getter@hozinking.my.id"
+          git add data/attacks.json
+          if git diff --cached --quiet; then
+            echo "No change in attack feed, nothing to commit"
+          else
+            git commit -m "attack-feed: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
