@@ -1,6 +1,39 @@
 {
- "updated_at": "2026-11-13T19:51:53+07:00",
+ "updated_at": "2026-11-14T03:15:49+07:00",
  "category": "korupsi",
- "count": 0,
- "articles": []
+ "count": 2,
+ "articles": [
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Periksa ASN BNPB, KPK Dalami Pengadaan yang Bersumber dari Dana Siap Pakai",
+   "link": "https://nasional.sindonews.com/read/1771935/13/periksa-asn-bnpb-kpk-dalami-pengadaan-yang-bersumber-dari-dana-siap-pakai-1794586265",
+   "pubDate": "Fri, 13 Nov 2026 23:16:40 +0700",
+   "description": "Komisi Pemberantasan Korupsi (KPK) memeriksa sejumlah saksi dalam perkara dugaan korupsi di lingkungan Badan Nasional Penanggulangan Bencana (BNPB).",
+   "fetched_at": "2026-11-13T18:13:09+07:00",
+   "categories": [
+    "bencana",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 148,
+   "content": "Komisi Pemberantasan Korupsi (KPK) memeriksa sejumlah saksi dalam perkara dugaan korupsi di lingkungan Badan Nasional Penanggulangan Bencana (BNPB)."
+  },
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "KPK Periksa ASN BNPB, Dalami Pengadaan Bersumber dari Dana Siap Pakai",
+   "link": "https://www.inews.id/news/nasional/kpk-periksa-asn-bnpb-dalami-pengadaan-bersumber-dari-dana-siap-pakai",
+   "pubDate": "Fri, 13 Nov 2026 22:43:00 +0700",
+   "description": "KPK memeriksa dua ASN BNPB sebagai saksi dalam perkara dugaan korupsi di lingkungan BNPB, Jumat (13/11/2026).",
+   "fetched_at": "2026-11-13T18:13:09+07:00",
+   "categories": [
+    "bencana",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 109,
+   "content": "KPK memeriksa dua ASN BNPB sebagai saksi dalam perkara dugaan korupsi di lingkungan BNPB, Jumat (13/11/2026)."
+  }
+ ]
 }

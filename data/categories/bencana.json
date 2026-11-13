@@ -1,54 +1,39 @@
 {
- "updated_at": "2026-11-13T19:51:53+07:00",
+ "updated_at": "2026-11-14T03:15:49+07:00",
  "category": "bencana",
- "count": 3,
+ "count": 2,
  "articles": [
   {
-   "source": "mediaindonesia",
+   "source": "sindonews",
    "getter": "auto",
-   "title": "BPBD Riau Siagakan Peralatan dan Personel Hadapi Bencana Hidrometeorologi",
-   "link": "https://mediaindonesia.com/nusantara/955885/bpbd-riau-siagakan-peralatan-dan-personel-hadapi-bencana-hidrometeorologi",
-   "pubDate": "Fri, 13 Nov 2026 17:36:00 +0700",
-   "description": "Peralatan berupa tenda, perahu karet dan alat evakuasi lainnya saat ini sudah ada di gudang milik BPBD Damkar Riau. Peralatan tersebut sewaktu-waktu bisa digunakan.",
-   "fetched_at": "2026-11-13T10:49:40+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 164,
-   "content": "Peralatan berupa tenda, perahu karet dan alat evakuasi lainnya saat ini sudah ada di gudang milik BPBD Damkar Riau. Peralatan tersebut sewaktu-waktu bisa digunakan."
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "BNPB: Misi pesawat pemadam karhutla dari Australia di Kaltim berakhir",
-   "link": "https://www.antaranews.com/berita/5851963/bnpb-misi-pesawat-pemadam-karhutla-dari-australia-di-kaltim-berakhir",
-   "pubDate": "Fri, 13 Nov 2026 17:47:29 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/06/FotoGrid_20261028_165937378.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) mengumumkan misi penerbangan pesawat Large Tanker Hercules C-130 milik ...",
-   "fetched_at": "2026-11-13T10:49:18+07:00",
+   "title": "Periksa ASN BNPB, KPK Dalami Pengadaan yang Bersumber dari Dana Siap Pakai",
+   "link": "https://nasional.sindonews.com/read/1771935/13/periksa-asn-bnpb-kpk-dalami-pengadaan-yang-bersumber-dari-dana-siap-pakai-1794586265",
+   "pubDate": "Fri, 13 Nov 2026 23:16:40 +0700",
+   "description": "Komisi Pemberantasan Korupsi (KPK) memeriksa sejumlah saksi dalam perkara dugaan korupsi di lingkungan Badan Nasional Penanggulangan Bencana (BNPB).",
+   "fetched_at": "2026-11-13T18:13:09+07:00",
    "categories": [
     "bencana",
-    "kebakaran"
+    "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 240,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/06/FotoGrid_20261028_165937378.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) mengumumkan misi penerbangan pesawat Large Tanker Hercules C-130 milik ..."
+   "content_chars": 148,
+   "content": "Komisi Pemberantasan Korupsi (KPK) memeriksa sejumlah saksi dalam perkara dugaan korupsi di lingkungan Badan Nasional Penanggulangan Bencana (BNPB)."
   },
   {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "BNPB: Karhutla mulai turun di sebagian besar wilayah, Kaltim-NTT jadi atensi",
-   "link": "https://www.antaranews.com/berita/5851883/bnpb-karhutla-mulai-turun-di-sebagian-besar-wilayah-kaltim-ntt-jadi-atensi",
-   "pubDate": "Fri, 13 Nov 2026 17:20:06 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/Bantuan-pesawat-Australia-untuk-padamkan-karhutla-111126-AP-5.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) menyatakan tren penurunan kebakaran hutan dan lahan (karhutla) di sebagian ...",
-   "fetched_at": "2026-11-13T10:49:18+07:00",
+   "source": "inews",
+   "getter": "auto",
+   "title": "KPK Periksa ASN BNPB, Dalami Pengadaan Bersumber dari Dana Siap Pakai",
+   "link": "https://www.inews.id/news/nasional/kpk-periksa-asn-bnpb-dalami-pengadaan-bersumber-dari-dana-siap-pakai",
+   "pubDate": "Fri, 13 Nov 2026 22:43:00 +0700",
+   "description": "KPK memeriksa dua ASN BNPB sebagai saksi dalam perkara dugaan korupsi di lingkungan BNPB, Jumat (13/11/2026).",
+   "fetched_at": "2026-11-13T18:13:09+07:00",
    "categories": [
     "bencana",
-    "kebakaran"
+    "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 278,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/11/Bantuan-pesawat-Australia-untuk-padamkan-karhutla-111126-AP-5.jpg\" align=\"left\" border=\"0\" />Badan Nasional Penanggulangan Bencana (BNPB) menyatakan tren penurunan kebakaran hutan dan lahan (karhutla) di sebagian ..."
+   "content_chars": 109,
+   "content": "KPK memeriksa dua ASN BNPB sebagai saksi dalam perkara dugaan korupsi di lingkungan BNPB, Jumat (13/11/2026)."
   }
  ]
 }
