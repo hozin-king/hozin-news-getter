@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-14T03:03:42Z",
+  "generated_at": "2026-11-14T10:06:23Z",
   "source": "SANS Internet Storm Center (DShield)",
   "source_url": "https://isc.sans.edu/",
   "window": "100 sumber penyerang teratas + 10 IP teratas 24 jam (SANS DShield)",
-  "total_reports_today": 3710,
-  "total_sources_today": 1575,
+  "total_reports_today": 3424325,
+  "total_sources_today": 73322,
   "countries": [
     {
       "c": "US",
-      "n": 667109,
-      "ips": 6
+      "n": 742006,
+      "ips": 50
     },
     {
       "c": "ES",
@@ -18,8 +18,8 @@
     },
     {
       "c": "HK",
-      "n": 165277,
-      "ips": 4
+      "n": 166637,
+      "ips": 7
     },
     {
       "c": "SC",
@@ -28,18 +28,58 @@
     },
     {
       "c": "BG",
-      "n": 26641,
-      "ips": 74
+      "n": 3210,
+      "ips": 7
+    },
+    {
+      "c": "NL",
+      "n": 2313,
+      "ips": 5
+    },
+    {
+      "c": "FR",
+      "n": 1880,
+      "ips": 4
+    },
+    {
+      "c": "GB",
+      "n": 1803,
+      "ips": 4
+    },
+    {
+      "c": "TR",
+      "n": 1345,
+      "ips": 3
+    },
+    {
+      "c": "CN",
+      "n": 1292,
+      "ips": 3
+    },
+    {
+      "c": "SG",
+      "n": 1274,
+      "ips": 3
     },
     {
       "c": "KN",
-      "n": 1819,
-      "ips": 6
+      "n": 888,
+      "ips": 2
     },
     {
-      "c": "DE",
-      "n": 1560,
-      "ips": 5
+      "c": "PA",
+      "n": 450,
+      "ips": 1
+    },
+    {
+      "c": "NO",
+      "n": 439,
+      "ips": 1
+    },
+    {
+      "c": "VN",
+      "n": 428,
+      "ips": 1
     },
     {
       "c": "UA",
@@ -47,33 +87,8 @@
       "ips": 1
     },
     {
-      "c": "GB",
-      "n": 421,
-      "ips": 1
-    },
-    {
-      "c": "NL",
-      "n": 378,
-      "ips": 1
-    },
-    {
-      "c": "KZ",
-      "n": 376,
-      "ips": 1
-    },
-    {
-      "c": "LT",
-      "n": 348,
-      "ips": 1
-    },
-    {
       "c": "IR",
-      "n": 339,
-      "ips": 1
-    },
-    {
-      "c": "PA",
-      "n": 332,
+      "n": 418,
       "ips": 1
     }
   ]
