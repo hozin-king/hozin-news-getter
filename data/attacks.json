@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-13T22:29:55Z",
+  "generated_at": "2026-11-14T03:03:42Z",
   "source": "SANS Internet Storm Center (DShield)",
   "source_url": "https://isc.sans.edu/",
   "window": "100 sumber penyerang teratas + 10 IP teratas 24 jam (SANS DShield)",
-  "total_reports_today": 10647214,
-  "total_sources_today": 155855,
+  "total_reports_today": 3710,
+  "total_sources_today": 1575,
   "countries": [
     {
       "c": "US",
-      "n": 666907,
-      "ips": 12
+      "n": 667109,
+      "ips": 6
     },
     {
       "c": "ES",
@@ -23,23 +23,23 @@
     },
     {
       "c": "SC",
-      "n": 96318,
-      "ips": 2
+      "n": 96279,
+      "ips": 1
     },
     {
       "c": "BG",
-      "n": 17489,
-      "ips": 54
+      "n": 26641,
+      "ips": 74
+    },
+    {
+      "c": "KN",
+      "n": 1819,
+      "ips": 6
     },
     {
       "c": "DE",
-      "n": 478,
-      "ips": 4
-    },
-    {
-      "c": "KZ",
-      "n": 457,
-      "ips": 2
+      "n": 1560,
+      "ips": 5
     },
     {
       "c": "UA",
@@ -47,8 +47,23 @@
       "ips": 1
     },
     {
+      "c": "GB",
+      "n": 421,
+      "ips": 1
+    },
+    {
       "c": "NL",
-      "n": 358,
+      "n": 378,
+      "ips": 1
+    },
+    {
+      "c": "KZ",
+      "n": 376,
+      "ips": 1
+    },
+    {
+      "c": "LT",
+      "n": 348,
       "ips": 1
     },
     {
@@ -57,53 +72,8 @@
       "ips": 1
     },
     {
-      "c": "KN",
-      "n": 322,
-      "ips": 1
-    },
-    {
-      "c": "GB",
-      "n": 141,
-      "ips": 2
-    },
-    {
-      "c": "BR",
-      "n": 121,
-      "ips": 1
-    },
-    {
-      "c": "VN",
-      "n": 104,
-      "ips": 1
-    },
-    {
-      "c": "TR",
-      "n": 84,
-      "ips": 2
-    },
-    {
-      "c": "NG",
-      "n": 78,
-      "ips": 1
-    },
-    {
-      "c": "RU",
-      "n": 72,
-      "ips": 1
-    },
-    {
-      "c": "SG",
-      "n": 70,
-      "ips": 2
-    },
-    {
-      "c": "CN",
-      "n": 44,
-      "ips": 1
-    },
-    {
-      "c": "AT",
-      "n": 44,
+      "c": "PA",
+      "n": 332,
       "ips": 1
     }
   ]
