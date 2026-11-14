@@ -1,39 +1,23 @@
 {
- "updated_at": "2026-11-14T08:18:57+07:00",
+ "updated_at": "2026-11-14T15:35:47+07:00",
  "category": "korupsi",
- "count": 2,
+ "count": 1,
  "articles": [
   {
    "source": "sindonews",
    "getter": "auto",
-   "title": "Periksa ASN BNPB, KPK Dalami Pengadaan yang Bersumber dari Dana Siap Pakai",
-   "link": "https://nasional.sindonews.com/read/1771935/13/periksa-asn-bnpb-kpk-dalami-pengadaan-yang-bersumber-dari-dana-siap-pakai-1794586265",
-   "pubDate": "Fri, 13 Nov 2026 23:16:40 +0700",
-   "description": "Komisi Pemberantasan Korupsi (KPK) memeriksa sejumlah saksi dalam perkara dugaan korupsi di lingkungan Badan Nasional Penanggulangan Bencana (BNPB).",
-   "fetched_at": "2026-11-13T23:41:33+07:00",
-   "categories": [
-    "bencana",
-    "korupsi"
-   ],
-   "content_status": "partial",
-   "content_chars": 148,
-   "content": "Komisi Pemberantasan Korupsi (KPK) memeriksa sejumlah saksi dalam perkara dugaan korupsi di lingkungan Badan Nasional Penanggulangan Bencana (BNPB)."
-  },
-  {
-   "source": "mediaindonesia",
-   "getter": "auto",
-   "title": "Penyidikan Korupsi Kebun Binatang Surabaya Berlanjut, Kejati Jatim Bidik Tersangka Baru",
-   "link": "https://mediaindonesia.com/nusantara/956073/penyidikan-korupsi-kebun-binatang-surabaya-berlanjut-kejati-jatim-bidik-tersangka-baru",
-   "pubDate": "Sat, 14 Nov 2026 06:20:00 +0700",
-   "description": "Kasus korupsi di Kebun Binatang Surabaya (KBS) makin memanas setelah Kejaksaan Tinggi Jawa Timur bakal menetapkan tersangka baru dalam kasus dugaan korupsi.",
-   "fetched_at": "2026-11-13T23:41:31+07:00",
+   "title": "Eks Pejabat Bea Cukai Divonis 6 Tahun Penjara, KPK Soroti Uang Pengganti Rp5,56 Miliar",
+   "link": "https://nasional.sindonews.com/read/1771987/13/eks-pejabat-bea-cukai-divonis-6-tahun-penjara-kpk-soroti-uang-pengganti-rp556-miliar-1794625900",
+   "pubDate": "Sat, 14 Nov 2026 10:03:15 +0700",
+   "description": "KPK mengapresiasi putusan Majelis Hakim yang menyatakan mantan Kepala Seksi Intelijen Kepabeanan I Direktorat Penindakan dan Penyidikan Direktorat Jenderal Bea dan Cukai Orlando Hamonangan terbukti bersalah melakukan tindak pidana korupsi.",
+   "fetched_at": "2026-11-14T03:39:12+07:00",
    "categories": [
     "hukum-kriminal",
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 156,
-   "content": "Kasus korupsi di Kebun Binatang Surabaya (KBS) makin memanas setelah Kejaksaan Tinggi Jawa Timur bakal menetapkan tersangka baru dalam kasus dugaan korupsi."
+   "content_chars": 239,
+   "content": "KPK mengapresiasi putusan Majelis Hakim yang menyatakan mantan Kepala Seksi Intelijen Kepabeanan I Direktorat Penindakan dan Penyidikan Direktorat Jenderal Bea dan Cukai Orlando Hamonangan terbukti bersalah melakukan tindak pidana korupsi."
   }
  ]
 }
