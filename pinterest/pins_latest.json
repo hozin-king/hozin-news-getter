@@ -1,7 +1,20 @@
 {
- "updated_at": "2026-11-15T05:07:17+07:00",
+ "updated_at": "2026-11-15T12:33:55+07:00",
  "count": 100,
  "pins": [
+  {
+   "id": "e1_AfqPShzYfS3J_lerm__sb5x4DqGJAlxtLlHlwI9nZIdEGCCF3Tuk",
+   "topic": "interior rumah minimalis",
+   "title": "Inspirasi Ruang Keluarga Hangat & Menyenangkan",
+   "description": "",
+   "image_url": "https://i.pinimg.com/originals/06/85/1e/06851ededd14a0c65c2cc1a3bf75f0d1.png",
+   "width": 1600,
+   "height": 2724,
+   "pin_url": "https://www.pinterest.com/pin/e1_AfqPShzYfS3J_lerm__sb5x4DqGJAlxtLlHlwI9nZIdEGCCF3Tuk/",
+   "board": "Rumah Impian",
+   "pinner": "hendrakdoank",
+   "fetched_at": "2026-11-15T12:33:55+07:00"
+  },
   {
    "id": "e1_AfqPShzH1GdwJTmW3WSNoyvSyIGhi1wRz0ZigdAyFlQEvPuyeka1Gg",
    "topic": "desain kaos distro",
@@ -1287,19 +1300,6 @@
    "pin_url": "https://www.pinterest.com/pin/e1_AfqPShyTFZta8WgW2bJjp6FErJxrZQh7_ruMHrZSb_2LFbccqp0WLw/",
    "board": "Pins criados por você",
    "pinner": "afiliadomercadolivre004",
-   "fetched_at": "2026-11-07T12:15:08+07:00"
-  },
-  {
-   "id": "e1_AfqPShwFfo1syXQi_hysQfWq1yAWccbq_Q2Uo-fRy0WkcK53UUg2",
-   "topic": "resep masakan rumahan",
-   "title": "Resep Rumahan  Ayam Balado merah",
-   "description": "",
-   "image_url": "https://i.pinimg.com/originals/a4/2c/25/a42c25c39d67fe1a5b6fed67b23b09a3.png",
-   "width": 1024,
-   "height": 1536,
-   "pin_url": "https://www.pinterest.com/pin/e1_AfqPShwFfo1syXQi_hysQfWq1yAWccbq_Q2Uo-fRy0WkcK53UUg2/",
-   "board": "Zukünftige Projekte",
-   "pinner": "ayix_cute",
    "fetched_at": "2026-11-07T12:15:08+07:00"
   }
  ]
