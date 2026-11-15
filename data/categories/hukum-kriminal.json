@@ -1,7 +1,7 @@
 {
- "updated_at": "2026-11-15T07:40:02+07:00",
+ "updated_at": "2026-11-15T14:28:27+07:00",
  "category": "hukum-kriminal",
- "count": 14,
+ "count": 16,
  "articles": [
   {
    "source": "unas",
@@ -10,7 +10,7 @@
    "link": "https://www.unas.ac.id/berita/ketika-bank-jatuh-presiden-pun-jatuh-belajar-dari-paraguay/",
    "pubDate": "Tue, 10 Nov 2026 06:15:00 +0000",
    "description": "**Robi Nurhadi, PhDDosen Hubungan Internasional FISIP Universitas Nasional** Dalam empat hari, Paraguay kehilangan presidennya. Bukan karena kudeta, bukan karena pemilu,",
-   "fetched_at": "2026-11-14T21:19:22+07:00",
+   "fetched_at": "2026-11-15T01:08:50+07:00",
    "categories": [
     "hukum-kriminal",
     "pemerintahan"
@@ -20,13 +20,28 @@
    "content": "KETIKA BANK JATUH, PRESIDEN PUN JATUH: Belajar dari Paraguay\n\nDalam empat hari, Paraguay kehilangan presidennya. Bukan karena kudeta, bukan karena pemilu, tapi karena satu bank digital runtuh.\n\nPada 3 November 2026, Bank Sentral Paraguay mengambil alih Ueno Bank. Pada 6 November 2026, Presiden Santiago Peña dimakzulkan Senat dengan suara 44-0, lalu ditempatkan dalam tahanan rumah.\n\nUeno bukan bank kecil. Ia melayani 3 juta nasabah, sekitar 60% orang dewasa Paraguay, di negara berpenduduk 6,5 juta jiwa. Di dalamnya terjebak sekitar 850 juta dolar AS dana publik, termasuk 380 juta dolar AS dana pensiun negara (Associated Press, 2026).\n\nAudit Bank Sentral menemukan solvabilitas Ueno jatuh di bawah setengah batas minimum, setelah pinjaman besar diberikan ke perusahaan-perusahaan yang terafiliasi dengan pemilik bank itu sendiri.\n\nDakwaan impeachment Peña pun bukan sekadar “bank bangkrut”, melainkan konflik kepentingan, manipulasi pengawasan regulator, pengalihan dana pensiun, dan cover-up institusional. Peña pernah memegang saham di induk Ueno hingga Maret 2025, dan menunjuk mantan pimpinan Ueno sebagai Gubernur Bank Sentral (Reuters, 2026).\n\nBagaimana mungkin sebuah bank menjatuhkan presiden? Stigler (1971) menjelaskan bahwa regulator seharusnya mengawasi industri, namun justru industri-lah yang mengendalikan regulator. Di Paraguay, penangkapan itu terjadi di level tertinggi: presiden, gubernur bank sentral, dan pemilik bank berada dalam satu lingkaran kepentingan yang sama.\n\nDalam konteks Paraguay, Jensen & Meckling (1976) menempatkan rakyat sebagai principal yang menitipkan uang dan kekuasaan kepada agent nya yaitu presiden dan bank. Ketika agent menggunakan titipan itu untuk kepentingan sendiri, yang rusak bukan hanya neraca keuangan, melainkan kontrak sosial itu sendiri.\n\nDalam model analisis Bardach (2024), Paraguay memilih jalan yang paling pahit tetapi paling jujur: selamatkan deposan kecil, korbankan bank dan presidennya. Pemerintah membayar simpanan hingga sekitar 38.000 dolar AS per deposan, yang mencakup 97% nasabah, dan membiarkan pemegang saham menanggung kerugian. Hasilnya sesuai logika trade-off kebijakan: 1,2 juta nasabah mulai dibayar pada 7 November, tetapi presiden jatuh dan serikat guru mengumumkan mogok nasional.\n\nNarasi yang menang bukan soal “rasio solvabilitas”, melainkan narasi moral yang sederhana: presiden melindungi bank-nya sendiri, bukan rakyatnya.\n\nParaguay bukan kasus pertama. Silicon Valley Bank runtuh dalam 48 jam pada 2023 setelah nasabah menarik 42 miliar dolar AS dalam sehari (Federal Deposit Insurance Corporation, 2023). Credit Suisse, bank berusia 167 tahun, kolaps dan dipaksa merger dengan UBS. Lebanon lebih tragis: bank membekukan simpanan rakyat bertahun-tahun, mata uang jatuh 95%, negara hancur. Sri Lanka bangkrut pada 2022 dan presidennya melarikan diri. Polanya sama: krisis keuangan berubah menjadi krisis politik ketika kepercayaan hilang.\n\nFukuyama (1995) menyebut kepercayaan sebagai modal sosial terpenting sebuah negara. Ketika kepercayaan institusional runtuh, biaya untuk memulihkannya jauh lebih mahal daripada biaya menyelamatkan bank mana pun.\n\nPelajaran itu relevan bagi Indonesia, yang pada minggu yang sama menghadapi dua krisis kepercayaan.\n\nPertama, catatan MSCI. Sejak Januari 2026, MSCI menempatkan Indonesia dalam peninjauan. Pada Oktober 2026, MSCI membuka konsultasi untuk menurunkan Indonesia bukan satu tingkat, tetapi dua tingkat langsung ke standalone market. Alasannya: tidak transparannya struktur kepemilikan saham, dugaan perdagangan terkoordinasi, dan free float yang tidak riil (MSCI, 2026).\n\nDampaknya nyata: IHSG turun lebih dari 30% tahun ini, dengan outflow asing sekitar 5 miliar dolar AS. Pemerintah merespons dengan menaikkan free float minimum dari 7,5% menjadi 15% dan OJK menjatuhkan denda Rp 2,1 triliun. Namun MSCI menunggu bukti implementasi, bukan janji. Ini adalah bentuk lain dari moral hazard: jika saham yang diklaim publik masih dikendalikan pihak terafiliasi, angka free float yang lebih tinggi tidak ada gunanya.\n\nKedua, kasus dugaan penyadapan Presiden. Pada 3 November 2026, Bareskrim menetapkan tiga perwira tinggi Polri sebagai tersangka, termasuk mantan Kapolri Listyo Sigit Prabowo. Pada 6 November, tersangka keempat ditetapkan. Dugaan penyadapan terhadap Presiden Prabowo Subianto, menteri, jurnalis, pengusaha, dan aktivis, dilakukan sejak 2025 hingga Oktober 2026 melalui sistem Lawful Interception Management System (LIMS), tanpa permintaan penyidik, dan log-nya diduga dihapus (Reuters, 2026).\n\nDi Paraguay, alat negara yang disalahgunakan adalah bank sentral dan dana pensiun. Di Indonesia, alat negara yang diduga disalahgunakan adalah sistem penyadap. Akarnya sama: ketika institusi yang seharusnya melindungi rakyat bisa dipakai tanpa kontrol yang transparan, kepercayaan publik runtuh lebih cepat daripada angka ekonomi.\n\nTiga pelajaran untuk Indonesia: Pertama, transparansi adalah infrastruktur, bukan sekadar laporan. Kedua, dana publik harus dipisahkan dari kepentingan pribadi, dan siapa pemilik manfaat akhir harus jelas. Ketiga, kecepatan mengakui masalah menentukan apakah krisis menjadi bencana. Paraguay bertindak dalam 4 hari. Lebanon tidak bertindak bertahun-tahun dan negaranya hancur.\n\nBank bisa diselamatkan dengan uang. Kepercayaan hanya bisa diselamatkan dengan akuntabilitas.\n\nIndonesia sedang diuji di tiga panggung sekaligus: pasar modal, penegakan hukum, dan kepercayaan publik. Cara kita menjawabnya — bukan dengan narasi, tetapi dengan bukti — yang akan menentukan apakah kita belajar dari Paraguay, atau mengulanginya.\n\nAssociated Press. (2026, November 6). Paraguay president removed after bank collapse threatens savings. AP News.\n\nBardach, E., & Patashnik, E. M. (2024). A practical guide for policy analysis: The eightfold path to more effective problem solving (7th ed.). SAGE Publications.\n\nFederal Deposit Insurance Corporation. (2023). FDIC’s supervision of Silicon Valley Bank. FDIC.\n\nFukuyama, F. (1995). Trust: The social virtues and the creation of prosperity. Free Press.\n\nJensen, M. C., & Meckling, W. H. (1976). Theory of the firm: Managerial behavior, agency costs and ownership structure. Journal of Financial Economics, 3(4), 305–360. https://doi.org/10.1016/0304-405X(76)90026-X\n\nMSCI. (2026). MSCI global market accessibility review: Consultation on Indonesia. MSCI Inc.\n\nReuters. (2026, November 6). Paraguay’s Peña resigns as bank collapse triggers political crisis. Reuters.\n\nReuters. (2026, November 6). Indonesia names fourth senior police officer as wiretapping suspect. Reuters.\n\nStigler, G. J. (1971). The theory of economic regulation. The Bell Journal of Economics and Management Science, 2(1), 3–21. https://doi.org/10.2307/3003160\n\n**Robi Nurhadi, PhDDosen Hubungan Internasional FISIP Universitas Nasional** Bagikan :\n\nFEB Universitas Nasional menggelar ICEBUS 2026 untuk membahas transformasi digital, inovasi bisnis, dan kolaborasi internasional bagi pertumbuhan ekonomi berkelanjutan.\n\n**Robi Nurhadi, PhDDosen Hubungan Internasional, FISIP Universitas Nasional** (9-10/11/2026) Ada sebuah pola yang hampir tidak pernah gagal dalam politik Amerika.\n\n**Robi Nurhadi, PhDDosen Hubungan Internasional FISIP Universitas Nasional** Dalam empat hari, Paraguay kehilangan presidennya. Bukan karena kudeta, bukan karena pemilu,\n\nTelp: (021) 7806700Faks: (021) 7802718Email: info@unas.ac.id"
   },
   {
+   "source": "cnbcindonesia",
+   "getter": "auto",
+   "title": "Nyamar Jadi Tukang Bakso, Kapolsek Cileungsi Bekuk 4 Pengedar Narkoba",
+   "link": "https://www.cnbcindonesia.com/news/20261114224527-4-785301/nyamar-jadi-tukang-bakso-kapolsek-cileungsi-bekuk-4-pengedar-narkoba",
+   "pubDate": "Sun, 15 Nov 2026 07:45:00 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/15/kapolsek-cileungsi-menyamar-jadi-tukang-bakso-saat-pimpin-penangkapa-empat-orang-pengedar-obat-terlarang-dan-narkoba-intsagram-1794697793454_169.png?w=1200&amp;q=90\"/> Polsek Cileungsi menyamar sebagai pedagang bakso untuk membongkar peredaran narkoba. Simak selengkapnya!",
+   "fetched_at": "2026-11-15T01:08:43+07:00",
+   "categories": [
+    "hukum-kriminal"
+   ],
+   "content_status": "full",
+   "content_chars": 1802,
+   "content": "Nyamar Jadi Tukang Bakso, Kapolsek Cileungsi Bekuk 4 Pengedar Narkoba\n\nJakarta, CNBC Indonesia - Jajaran Polsek Cileungsi, Polres Bogor, melakukan aksi penyamaran tak biasa untuk membongkar praktik peredaran obat-obatan terlarang dan narkotika di wilayah hukumnya. Dalam operasi ini, aparat kepolisian menyamar sebagai pedagang bakso keliling guna mengelabui target.\n\nOperasi penyamaran (undercover) tersebut dipimpin langsung oleh Kapolsek Cileungsi, Kompol Edison, dikutip dari Instagram resmi Polsek Cileungsi.\n\nLangkah taktis ini diambil untuk merespons keresahan masyarakat terkait maraknya dugaan peredaran barang haram di Kampung Cibeureum, Desa Cileungsi Kidul, Kecamatan Cileungsi, Kabupaten Bogor.\n\nStrategi penyamaran membuahkan hasil. Petugas berhasil meringkus empat orang terduga pelaku yang terlibat dalam jaringan peredaran obat terlarang dan narkotika di lokasi tersebut.\n\nDari hasil penggeledahan di tempat kejadian, aparat menemukan sejumlah barang bukti yang disembunyikan pelaku, mulai dari obat-obatan terlarang di dalam kantong plastik hingga narkotika yang disimpan di dalam tas.\n\nUsai penangkapan, keempat terduga pelaku beserta seluruh barang bukti langsung digelandang ke Mapolsek Cileungsi untuk menjalani pemeriksaan awal.\n\n\"Polisi menegaskan bahwa pemberantasan peredaran obat-obatan terlarang dan narkoba menjadi perhatian serius, mengingat dampaknya yang dapat merusak kesehatan serta mengancam masa depan generasi muda,\" tulis akun Instagram resmi @polsek_cileungsi.\n\nSaat ini, keempat pelaku berikut barang bukti telah resmi dilimpahkan ke Satuan Reserse Narkoba Polres Bogor untuk proses penyidikan dan hukum lebih lanjut.\n\nSekitar 2.800 butir obat-obatan terlarang Dua paket narkotika jenis ganja siap edar Satu paket narkotika sintetis (fab/fab) [Gambas:Video CNBC]"
+  },
+  {
    "source": "partainasdem",
    "getter": "auto",
    "title": "Sahroni Berharap Program Poliran Berikan Manfaat Nyata bagi Masyarakat",
    "link": "https://partainasdem.id/2026/11/13/sahroni-berharap-program-poliran-berikan-manfaat-nyata-bagi-masyarakat/",
    "pubDate": "Fri, 13 Nov 2026 00:32:00 +0000",
    "description": "JAKARTA (13 November): Wakil Ketua Komisi III DPR RI Ahmad Sahroni mengapresiasi inisiatif Kapolri Jenderal Polisi Suyudi Ario Seto yang meresmikan program Polisi Peduli Pengangguran (Poliran) dan uji kompetensi satpam. Menurutnya, persoalan pengangguran juga berkaitan dengan upaya menjaga keamanan dan ketertiban masyarakat. “Komisi III mengapresiasi dan mendukung Pak Kapolri dengan program Poliran ini. Karena seperti [&#8230;]",
-   "fetched_at": "2026-11-14T21:19:10+07:00",
+   "fetched_at": "2026-11-15T01:08:38+07:00",
    "categories": [
     "hukum-kriminal"
    ],
@@ -37,17 +52,82 @@
   {
    "source": "fajar",
    "getter": "auto",
-   "title": "Ironi Persidangan, Abdul Gafur Sangadji Heran yang Dibahas Gestur, Bukan Keterangan di Bawah Sumpah",
-   "link": "https://fajar.co.id/2026/11/14/ironi-persidangan-abdul-gafur-sangadji-heran-yang-dibahas-gestur-bukan-keterangan-di-bawah-sumpah/",
-   "pubDate": "Sat, 14 Nov 2026 11:27:37 +0000",
-   "description": "FAJAR.CO.ID, JAKARTA &#8212; Advokat Abdul Gafur Sangadji menyoroti fenomena hadirnya mantan Presiden Joko Widodo (Jokowi)...",
-   "fetched_at": "2026-11-14T21:18:58+07:00",
+   "title": "Presiden Prabowo Puji Kapolri Sosok yang Membanggakan, Melegakan, dan Menyejukkan: Alhamdulillah Negara Terselamatkan",
+   "link": "https://fajar.co.id/2026/11/15/presiden-prabowo-puji-kapolri-sosok-yang-membanggakan-melegakan-dan-menyejukkan-alhamdulillah-negara-terselamatkan/",
+   "pubDate": "Sun, 15 Nov 2026 00:46:26 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA &#8212; Presiden Prabowo Subianto memberikan pujian terhadap Kapolri, Jenderal Suyudi Ario Seto. Pujian...",
+   "fetched_at": "2026-11-15T01:08:27+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2717,
+   "content": "Beranda Nasional Presiden Prabowo Puji Kapolri Sosok yang Membanggakan, Melegakan, dan Menyejukkan: Alhamdulillah Negara Terselamatkan\n\nFAJAR.CO.ID, JAKARTA -- Presiden Prabowo Subianto memberikan pujian terhadap Kapolri, Jenderal Suyudi Ario Seto. Pujian tersebut disampaikan saat membuka Milad ke-114 Muhammadiyah di Universitas Muhammadiyah (Unismuh) Palu, Sulawesi Tengah.\n\nSaat membuka milad tersebut, Prabowo tidak hanya menyapa Kapolri tetapi juga melontarkan pujiannya.\n\n\"Kapolri yang baru, ya kalau belum dua bulan masih baru. Kapolri yang baru dan membanggakan, dan melegakan, serta menyejukkan,\" kata Prabowo disambut tepuk tangan meriah peserta Milad Muhammadiyah.\n\nPujian Presiden Prabowo terhadap Kapolri diduga terkait dengan keberhasilannya melakukan pengungkapan terhadap praktik kejahatan di negeri ini. Salah satunya dugaan makar yang dilakukan mantan Kapolri yang digantinya.\n\nSejak menjabat sebagai Kapolri, Jenderal Suyudi Ario Seto di awal-awal kepemimpinannya berhasil membongkar penyadapan yang dilakukan mantan Kapolri Listyo Sigit Prabowo bersama tiga jenderal anak buahnya yang kini sudah ditetapkan tersangka dan ditahan.\n\nPenyadapan yang dilakukan Listyo itu tidak main-main. Selain tidak berkaitan dengan upaya penegakan hukum, aksi penyadapan itu menargetkan langsung Presiden Prabowo Subianto, para menteri, tokoh politik, pengusaha, tokoh masyarakat, tokoh agama, gubernur, Kapolri, aktivis, tokoh pers, hingga mahasiswa.\n\nPada kesempatan itu, Prabowo juga menceritakan bagaimana proses penunjukan Jenderal Suyudi sebagai Kapolri tersebut. Prabowo menegaskan, dirinya sama sekali tidak mengenal sosok tersebut meski akhirnya pimpinan Polri dipercayakan kepadanya.\n\n\"Serius, saudara-saudara, saya orang bingung dari mana. Ya, saya kadang-kadang saya hanya dengar ada suara, nggak tahu dari mana,\" kata Prabowo.\n\nKarena itu, ketika ditanya dari mana dirinya mengenal Suyudi, Prabowo menegaskan dirinya tidak mengenalnya.\n\n\"Saya nggak kenal. Saya ketemu sekali dalam sekian belas tahun, ya kan. Saya lihat dulu ada Polres, Kapolres, ya kan, dia Kapolres aku sudah Jenderal,\" kata Prabowo.\n\nPrabowo mengungkap saat akan melakukan pergantian pimpinan Polri, nama Suyudi termasuk yang disodorkan. Begitu melihat nama tersebut, Prabowo lantas mempertanyakan siapa sosok tersebut.\n\n\"Siapa itu? Ini Kepala BNN siapa itu? Ini Pak Suyudi, Pak. Dari mana dia? Pandeglang, Banten. Itu aja, habis itu kau Kapolri. Jadi suara dari atas itu,\" kata Prabowo.\n\nPrabowo lantas menyampaikan rasa syukurnya atas keputusan memilih Jenderal Suyudi sebagai Kapolri. \"Jadi, alhamdulillah negara terselamatkan. Saya bukan muji-muji orang, ya. Saya ini orang yang sangat, apa itu, sulit muji, ya,\" kata Prabowo."
+  },
+  {
+   "source": "fajar",
+   "getter": "auto",
+   "title": "Gibran Mundur Tak Hentikan Kasus Suket, Ahmad Khozinudin Pastikan Anak Jokowi Diproses Hukum",
+   "link": "https://fajar.co.id/2026/11/15/gibran-mundur-tak-hentikan-kasus-suket-ahmad-khozinudin-pastikan-anak-jokowi-diproses-hukum/",
+   "pubDate": "Sun, 15 Nov 2026 00:36:34 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA &#8212; Keputusan Gibran Rakabuming Raka mundur dari jabatan Wakil Presiden menuai kritik dari...",
+   "fetched_at": "2026-11-15T01:08:27+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2675,
+   "content": "Beranda Hukum Gibran Mundur Tak Hentikan Kasus Suket, Ahmad Khozinudin Pastikan Anak Jokowi Diproses Hukum\n\nFAJAR.CO.ID, JAKARTA -- Keputusan Gibran Rakabuming Raka mundur dari jabatan Wakil Presiden menuai kritik dari Ahmad Khozinudin. Kuasa hukum pengadu kasus surat keterangan (suket) penyetaraan pendidikan Gibran ke Bareskrim Polri itu menilai Gibran seharusnya tidak meninggalkan jabatannya dan tetap menghadapi proses politik maupun hukum yang tengah berjalan.\n\nKhozinudin berpendapat, jika Gibran memiliki dokumen pendidikan yang dapat dipertanggungjawabkan, semestinya ia berani membuktikannya melalui proses hukum dan forum lain yang tersedia.\n\nMenurut dia, pengunduran diri bukan langkah yang tepat untuk menjawab polemik keabsahan dokumen pendidikan tersebut.\n\n\"Kalau dia memang memiliki dokumen yang bisa dipertanggungjawabkan dia tidak mengundurkan diri, dia bisa fight seperti yang sudah dilakukan. Kendati ketika dia mau fight di PTUN dan di Mahkamah Agung itu sudah ditutup, dia masih punya ring pertarungan berikutnya untuk menunjukkan dia punya dokumen yang dia miliki, bukan hanya statement,\" kata Khozinudin, dikutip dari YouTube KompasTV, Minggu (15/11/2026).\n\nIa bahkan menilai keputusan Gibran tersebut tidak mencerminkan sikap kesatria. Khozinudin mengaitkannya dengan nilai-nilai kesatria dalam budaya Jawa yang menurutnya semestinya menjadi pegangan seseorang ketika menghadapi persoalan.\n\n\"Sebagai seorang yang punya keturunan Jawa, suku Jawa yang punya sikap kesatria semestinya tidak menempuh lungo playu, colong playu lungo gelanggang. Jadi apa yang dilakukan Gibran itu seperti lari dari tanggung jawab, tidak kesatria,\" ujarnya.\n\nKhozinudin menegaskan, pengunduran diri Gibran tidak serta-merta menghentikan proses pidana terkait dugaan pemalsuan dokumen surat keterangan penyetaraan pendidikan.\n\nMenurut dia, perkara pidana memiliki jalur dan konsekuensi hukum tersendiri sehingga tidak bergantung pada status Gibran sebagai Wakil Presiden.\n\nBahkan, ia menyebut proses tersebut tetap dapat berjalan apabila Gibran nantinya diberhentikan melalui mekanisme pemakzulan.\n\nKhozinudin membedakan persoalan pidana dengan proses pemakzulan. Jika pemakzulan berkaitan dengan kapasitas seseorang dalam jabatan kenegaraan, perkara pidana menyangkut pertanggungjawaban pribadi.\n\n\"Kasus pidananya adalah kasus yang berdiri sendiri,\" kata dia.\n\nIa juga memastikan pihaknya tidak akan membuka ruang penyelesaian melalui mekanisme restorative justice.\n\n\"Dan kami tegaskan, tidak akan ada proses restorative justice yang akan kami tempuh, baik inisiatif itu datang dari kami atau pasti kami tolak kalau inisiatif itu datang dari pihak kubu Gibran,\" tuturnya."
+  },
+  {
+   "source": "fajar",
+   "getter": "auto",
+   "title": "Said Didu soal Listyo Sadap Presiden Prabowo: Geng Solo Tidak Ada yang Disadap Itu Artinya Apa?",
+   "link": "https://fajar.co.id/2026/11/15/said-didu-soal-listyo-sadap-presiden-prabowo-geng-solo-tidak-ada-yang-disadap-itu-artinya-apa/",
+   "pubDate": "Sat, 14 Nov 2026 23:52:06 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA &#8212; Kasus dugaan penyadapan yang dilakukan mantan Kapolri Listyo Sigit Prabowo bersama sejumlah...",
+   "fetched_at": "2026-11-15T01:08:27+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2579,
+   "content": "Beranda Nasional Said Didu soal Listyo Sadap Presiden Prabowo: Geng Solo Tidak Ada yang Disadap Itu Artinya Apa?\n\nFAJAR.CO.ID, JAKARTA -- Kasus dugaan penyadapan yang dilakukan mantan Kapolri Listyo Sigit Prabowo bersama sejumlah jenderal Polri terhadap Presiden Prabowo Subianto masih terus menyisakan pertanyaan publik.\n\nSalah satu pertanyaan paling mencolok adalah siapa aktor intelektual di balik penyadapan yang diduga berpotensi sebagai tindakan makar tersebut. Hingga saat ini, Bareskrim Polri belum mengungkap tersangka lain selain empat jenderal yang telah ditetapkan sebagai tersangka.\n\nSeperti diketahui, penyadapan yang berlangsung pada 2025–2026 itu dilakukan Listyo dengan menargetkan Presiden Prabowo Subianto, lingkar Istana, kementerian dan lembaga, pejabat pemerintah, anggota DPR RI dan partai politik, tokoh politik, gubernur, kapolda, Komisi Pemberantasan Korupsi (KPK), Kejaksaan, internal Polri, organisasi kemasyarakatan (ormas), aktivis, hingga mahasiswa.\n\nDi antara tokoh politik yang disadap, disebutkan bahwa mantan presiden seperti Megawati Soekarnoputri dan Susilo Bambang Yudhoyono turut menjadi target.\n\nMantan Sekretaris BUMN, Muhammad Said Didu, turut mempertanyakan alasan tokoh-tokoh tersebut ikut disadap, sementara pada saat yang sama ada pihak yang justru tidak disadap.\n\nSaid Didu lantas menilai bahwa pihak-pihak yang disadap adalah sosok yang dipandang sebagai lawan, sehingga pergerakannya perlu terus dipantau.\n\n\"Mari gunakan akal sehat. Biasanya yang disadap itu adalah musuh. Kawan tidak akan disadap. Atasan tidak mungkin disadap,\" kata Said Didu.\n\nSaid Didu kemudian membandingkan Kapolri yang lebih memilih menyadap presiden yang tidak lain adalah atasannya sendiri, sementara tidak melakukan penyadapan terhadap Geng Solo termasuk mantan Presiden Jokowi.\n\n\"Kalau Kapolri menyadap Presiden itu artinya apa? Geng Solo tidak ada yang disadap itu artinya apa?\" kata Said Didu.\n\nSejauh ini, Bareskrim Polri telah menetapkan empat jenderal Polri sebagai tersangka dalam kasus penyadapan tersebut. Tiga tersangka yang telah diumumkan telah ditahan, sementara satu tersangka terakhir yang diumumkan belum ditahan.\n\nPara tersangka itu yakni Jenderal Listyo Sigit Prabowo (LSP) selaku mantan Kapolri sekaligus mantan Kepala Staf Kepresidenan (KSP). Dia berperan sebagai pemberi perintah kepada anak buahnya untuk melakukan penyadapan.\n\nKemudian ada Irjen Ahrie Sonta Nasution (ASN) yang menduduki jabatan sebagai Kepala Divisi Hukum Polri. Dia berperan sebagai pengendali IT sekaligus tersangka yang memerintahkan penghapusan file sadapan."
+  },
+  {
+   "source": "wartaekonomi",
+   "getter": "auto",
+   "title": "Kata Siapa Jalan Politik Jokowi Sudah Berakhir? Pakar: Kalau Tentara Jatah Matinya Cuma Sekali, Politisi Bisa Berkali-kali'",
+   "link": "https://wartaekonomi.co.id/read647947/kata-siapa-jalan-politik-jokowi-sudah-berakhir-pakar-kalau-tentara-jatah-matinya-cuma-sekali-politisi-bisa-berkali-kali",
+   "pubDate": "Sun, 15 Nov 2026 08:00:00 +0700",
+   "description": "Burhanuddin Muhtadi menilai pernyataan Gibran menyiratkan kekecewaan atas minimnya proteksi politik dan menyoroti posisi Jokowi setelah Gibran mundur.",
+   "fetched_at": "2026-11-15T01:08:25+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 3822,
+   "content": "Home / News / Nasional Kata Siapa Jalan Politik Jokowi Sudah Berakhir? Pakar: Kalau Tentara Jatah Matinya Cuma Sekali, Politisi Bisa Berkali-kali' Minggu, 15 November 2026, 08:00 WIB\n\nDirektur Eksekutif Indikator Politik Indonesia sekaligus Guru Besar Ilmu Politik UIN Syarif Hidayatullah, Prof. Burhanuddin Muhtadi, menilai pernyataan Gibran Rakabuming Raka dalam pidato pengunduran dirinya sebagai Wakil Presiden menyiratkan kekecewaan terhadap minimnya perlindungan politik saat menghadapi tekanan hukum dan politik.\n\nBurhanuddin menyoroti pernyataan Gibran yang menyinggung pengorbanan politiknya ketika menerima pinangan menjadi calon wakil presiden pada 2023.\n\nMenurutnya, ada pesan tersirat mengenai tidak adanya proteksi politik yang cukup dari pihak Presiden Prabowo Subianto dan partai koalisinya.\n\n\"Bagi Pak Jokowi, apalagi ini untuk anaknya, kok tidak ada proteksi politik yang memagari,\" kata Burhanuddin dalam siniar Tutur.\n\nPengunduran diri Gibran dari jabatan Wakil Presiden pada 12 November 2026 menjadi babak baru dalam dinamika politik nasional.\n\nKeputusan tersebut berlangsung di tengah tekanan politik berupa pengajuan hak menyatakan pendapat oleh 120 anggota DPR dari delapan fraksi, serta polemik hukum terkait surat keterangan ijazah di Mahkamah Agung dan Pengadilan Tata Usaha Negara (PTUN).\n\nDalam pidato perpisahannya, Gibran menegaskan bahwa jabatan merupakan titipan sementara. Ia juga membantah pengunduran dirinya berkaitan dengan persoalan ijazah dan sempat menyinggung pengorbanan yang dilakukannya ketika memutuskan menjadi cawapres pada Pilpres 2024.\n\nSelain menyoroti pernyataan Gibran, Burhanuddin turut mengulas sikap politik Presiden ke-7 RI Joko Widodo (Jokowi) yang menyatakan tetap mendukung pemerintahan Presiden Prabowo Subianto, terutama terhadap program-program yang berpihak kepada rakyat.\n\nMenurut Burhanuddin, pernyataan tersebut mengandung catatan penting karena dukungan Jokowi terhadap pemerintahan Prabowo disertai penekanan pada program yang pro rakyat.\n\n\"Tapi kan tidak berhenti 'mendukung Program Pak Prabowo', ada koma 'yang pro rakyat',\" jelasnya.\n\nBurhanuddin menilai sikap politik Jokowi sangat dipengaruhi oleh sentimen dan penilaian masyarakat terhadap kinerja pemerintah.\n\nKarena itu, pemerintahan Prabowo dinilai tidak bisa sepenuhnya merasa aman apabila tingkat kepuasan publik terhadap program-program pemerintah mengalami penurunan.\n\nMenurut analisisnya, kondisi tersebut berpotensi dimanfaatkan 'Geng Solo' untuk kembali mendapatkan relevansi dalam peta politik nasional, terutama menjelang kontestasi elektoral mendatang.\n\n\"Bisa jadi Pak Jokowi akan melakukan 'riding the wave' terhadap ketidakpuasan terhadap program Pak Prabowo,\" jelasnya.\n\nBurhanuddin juga menyoroti perubahan posisi politik Prabowo setelah Gibran tidak lagi berada di pemerintahan. Menurutnya, selama ini keberadaan Gibran dapat menjadi semacam bemper politik ketika pemerintahan menghadapi kritik terkait kinerja dan kebijakan.\n\nIa mengingatkan, sebelumnya kritik terhadap pemerintahan Prabowo masih dapat dikaitkan dengan pengaruh rezim sebelumnya. Namun, setelah Gibran tidak lagi berada dalam pemerintahan, alasan tersebut dinilai tidak lagi memiliki relevansi yang sama.\n\n\"Kalau sebelumnya, Rocky Gerung saja bilang ini karena pengaruh rezim sebelumnya makanya diperlukan radical break, kalau sekarang kan orangnya (Gibran-red) sudah tidak ada,\" tutup Burhanuddin.\n\nTerakhir, peraih PhD di Australian National University itu menjelaskan kalau Jokowi tidak serta merta 'habis' dalam kancah politik nasional, mengingat Jokowi adalah tipe politikus yang punya 'nafas panjang' untuk tarung secara marathon.\n\n\"Pak Jokowi itu politisi, kalau tentara itu hanya punya kesempatan mati sekali, kalau politisi itu bisa berkali-kali dan Pak Jokowi itu pelari marathon, dia bisa,\" jelasnya."
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Libur Akhir Pekan, Polres Magetan Intensifkan Patroli di Kawasan Wisata Sarangan",
+   "link": "https://beritajatim.com/libur-akhir-pekan-polres-magetan-intensifkan-patroli-di-kawasan-wisata-sarangan",
+   "pubDate": "Sat, 14 Nov 2026 17:01:52 +0000",
+   "description": "<a href=\"https://beritajatim.com/libur-akhir-pekan-polres-magetan-intensifkan-patroli-di-kawasan-wisata-sarangan\" title=\"Libur Akhir Pekan, Polres Magetan Intensifkan Patroli di Kawasan Wisata Sarangan\" rel=\"nofollow\"><img width=\"851\" height=\"638\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/IMG-20261114-WA0150_11zon.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decod",
+   "fetched_at": "2026-11-15T01:08:24+07:00",
    "categories": [
     "hukum-kriminal"
    ],
    "content_status": "full",
-   "content_chars": 2701,
-   "content": "Beranda Nasional Ironi Persidangan, Abdul Gafur Sangadji Heran yang Dibahas Gestur, Bukan Keterangan di Bawah Sumpah\n\nFAJAR.CO.ID, JAKARTA -- Advokat Abdul Gafur Sangadji menyoroti fenomena hadirnya mantan Presiden Joko Widodo (Jokowi) di ruang pengadilan untuk diperiksa sebagai saksi atas laporan yang dibuatnya sendiri.\n\nMenurut Abdul Gafur, ini menjadi momen pertama kalinya seorang mantan Presiden hadir di ruang pengadilan untuk diperiksa, bukan sebagai terdakwa, melainkan sebagai saksi pelapor.\n\n\"Untuk pertama kalinya, seorang mantan Presiden hadir di ruang pengadilan untuk diperiksa. Bukan sebagai terdakwa atau pesakitan, melainkan sebagai saksi atas laporan yang dibuatnya sendiri,\" ujar Abdul Gafur dikutip fajar.co.id dari unggahannya, Sabtu, 14 November 2026.\n\nDari laporan tersebut, kata dia, ada warga negara yang kini duduk sebagai terdakwa, bahkan pernah merasakan penahanan dan menghadapi ancaman hukuman penjara.\n\nNamun, Abdul Gafur menilai ada ironi dalam persidangan tersebut. Perhatian publik justru lebih banyak tertuju pada bahasa tubuh dan gestur Jokowi saat mengambil map berisi ijazah, bukan pada substansi keterangannya sebagai saksi.\n\n\"Apakah keterangannya konsisten? Apakah meyakinkan? Apakah mampu menjawab pertanyaan-pertanyaan yang diajukan di persidangan? Menangis negeriku,\" ungkapnya.\n\nIa menilai persoalan yang seharusnya bisa diselesaikan dengan cara sederhana, cukup dengan menunjukkan ijazah dan menjawab keraguan secara terbuka, justru berujung pada proses pidana.\n\n\"Dan ijazah itu baru diperlihatkan ketika orang-orang yang mempersoalkannya telah duduk sebagai terdakwa di ruang pengadilan, dengan risiko kehilangan kemerdekaan karena ancaman hukuman penjara,\" kata Abdul Gafur.\n\nLebih menyedihkan lagi, menurut dia, gestur mengangkat sebuah map mendapat pujian, simpati, bahkan air mata, padahal ruang pengadilan seharusnya tidak mengenal pangkat, jabatan, ataupun status sosial.\n\n\"Di ruang itu, semua orang memiliki kedudukan hukum yang setara. Kursi saksi dan terdakwa bukanlah panggung kehormatan bagi siapa pun. Itu adalah tempat untuk menggali fakta, menguji keterangan, dan mencari kebenaran,\" tegasnya.\n\nAbdul Gafur mengingatkan bahwa yang seharusnya didengarkan publik bukanlah bagaimana seseorang mengambil sebuah map, tetapi apa yang diterangkan di bawah sumpah.\n\n\"Bukan bagaimana penampilannya, tetapi apakah keterangannya dapat dipertanggungjawabkan secara hukum,\" ujarnya.\n\nIa menyebut fenomena tersebut sebagai ironi penegakan hukum yang patut direnungkan, ketika pihak pelapor yang membawa orang lain ke dalam proses pidana mendapat pujian dan simpati, sementara terdakwa yang memperjuangkan haknya untuk memperoleh keadilan justru dihujat."
+   "content_chars": 4634,
+   "content": "Libur Akhir Pekan, Polres Magetan Intensifkan Patroli di Kawasan Wisata Sarangan\n\nMagetan (beritajatim.com) – Polres Magetan meningkatkan patroli dan pengamanan di sejumlah destinasi wisata unggulan di kawasan Plaosan, Kabupaten Magetan, untuk mengantisipasi lonjakan kunjungan wisatawan selama libur akhir pekan, Sabtu (14/11/2026). Langkah ini dilakukan guna menjaga keamanan pengunjung sekaligus memastikan arus lalu lintas di jalur wisata tetap lancar.\n\nPengamanan dilakukan oleh personel Pengamanan Objek Vital (Pamobvit) Satuan Samapta Polres Magetan melalui patroli dialogis di sejumlah titik wisata. Lokasi yang menjadi sasaran pemantauan meliputi Kebun Bunga Refugia Plaosan, kawasan Telaga Sarangan, Lawu Green Forest (LGF), hingga Mojosemi Park.\n\nPatroli tersebut difokuskan untuk menjaga situasi keamanan dan ketertiban masyarakat (harkamtibmas), sekaligus mengantisipasi potensi gangguan keamanan yang dapat mengganggu aktivitas wisatawan. Selain itu, pemantauan arus kendaraan juga dilakukan untuk mencegah kepadatan di jalur menuju kawasan wisata.\n\nDalam kegiatan tersebut, personel kepolisian tidak hanya memantau kondisi lingkungan, tetapi juga berinteraksi langsung dengan pengelola tempat wisata, masyarakat, dan pengunjung. Melalui komunikasi tersebut, polisi berupaya memastikan situasi di lapangan tetap terkendali serta mengetahui kondisi keamanan di sekitar lokasi wisata.\n\nPeningkatan pengamanan ini menjadi perhatian mengingat kawasan Telaga Sarangan dan sejumlah destinasi wisata di lereng Gunung Lawu merupakan tujuan kunjungan masyarakat saat akhir pekan. Bertambahnya jumlah kendaraan dan wisatawan berpotensi meningkatkan aktivitas di kawasan wisata, termasuk pada akses jalan menuju lokasi.\n\nIPTU Sulanjar mengatakan, peningkatan kunjungan wisatawan ke Kabupaten Magetan memang kerap terjadi saat akhir pekan. Namun, berdasarkan pemantauan petugas di sejumlah lokasi, kondisi keamanan maupun lalu lintas pada Sabtu masih terpantau kondusif.\n\n“Pada libur akhir pekan ini memang biasanya terjadi peningkatan kunjungan wisatawan ke Magetan, terutama di kawasan Telaga Sarangan dan objek wisata sekitarnya. Namun, berdasarkan hasil pemantauan personel di lapangan, hingga saat ini situasi masih terpantau tertib, aman, dan kondusif. Arus lalu lintas juga masih berjalan lancar dan belum ditemukan kepadatan yang mengganggu perjalanan wisatawan,” ungkap IPTU Sulanjar.\n\nSelain melakukan pengamanan, Polres Magetan juga mengingatkan wisatawan agar memperhatikan keselamatan selama perjalanan. Pengendara diminta memastikan kendaraan dalam kondisi laik jalan sebelum berangkat, mematuhi aturan lalu lintas, serta menghindari berkendara ketika kondisi tubuh tidak memungkinkan.\n\nImbauan tersebut penting diperhatikan, terutama bagi wisatawan yang menempuh perjalanan menuju kawasan Sarangan. Kondisi jalur wisata di wilayah pegunungan membutuhkan konsentrasi dan kesiapan kendaraan yang baik agar perjalanan tetap aman.\n\n“Kami mengimbau masyarakat agar selalu memastikan kondisi kendaraan dalam keadaan baik sebelum melakukan perjalanan. Apabila merasa lelah, silakan beristirahat di tempat yang aman dan jangan memaksakan diri. Jika membutuhkan bantuan, masyarakat dapat menghubungi petugas kepolisian yang sedang bertugas di lapangan atau melalui layanan Call Center Polri 110,” tambahnya.\n\nPolres Magetan juga mengajak pengelola wisata dan masyarakat untuk berperan aktif menjaga keamanan serta ketertiban lingkungan. Upaya pengamanan tidak hanya bergantung pada kehadiran petugas, tetapi juga membutuhkan kesadaran bersama, terutama dalam menjaga keselamatan dan kenyamanan selama beraktivitas di kawasan wisata.\n\nMelalui semangat Polisi Bersama Masyarakat dan program Jogo Omah, Polres Magetan menyatakan komitmennya untuk terus memberikan perlindungan, pengayoman, dan pelayanan kepada masyarakat, termasuk di lokasi-lokasi yang menjadi pusat kunjungan wisatawan.\n\nPatroli dan pemantauan di kawasan wisata akan menjadi bagian dari upaya kepolisian dalam mengantisipasi dinamika kunjungan masyarakat, baik selama libur akhir pekan maupun musim liburan. Dengan pengamanan yang berkelanjutan dan dukungan pengelola serta wisatawan, aktivitas pariwisata di Magetan diharapkan berlangsung aman tanpa mengganggu kelancaran lalu lintas. [fiq/kun]\n\nBaca berita lainnya di Google News atau langsung di halaman Indeks Berita\n\nBeritajatim.com adalah media online berbasis di Surabaya, dan fokus pada pemberitaan di wilayah Jawa Timur. Sejak awal, beritajatim.com memegang teguh kaidah jurnalistik dalam pemberitaan, sehingga aspek akurasi, disiplin verifikasi, independen, melekat kuat di setiap berita Selengkapnya"
   },
   {
    "source": "akurat",
@@ -56,7 +136,7 @@
    "link": "https://www.akurat.co/opini/906856/wapres-gibran-mundur-administrasi-negara-yang-bermasalah-jangan-ikut-dikubur",
    "pubDate": "Sat, 14 Nov 2026 23:31:06 +0700",
    "description": "",
-   "fetched_at": "2026-11-14T21:18:55+07:00",
+   "fetched_at": "2026-11-15T01:08:24+07:00",
    "categories": [
     "hukum-kriminal",
     "pemerintahan"
@@ -66,35 +146,34 @@
    "content": "Wapres Gibran Mundur: Administrasi Negara yang Bermasalah Jangan Ikut Dikubur\n\nPENGUNDURAN diri Wakil Presiden Gibran Rakabuming Raka setelah polemik persyaratan pendidikan memasuki babak baru merupakan peristiwa yang tidak dapat dipandang hanya sebagai persoalan pribadi seorang pejabat negara. Peristiwa ini justru membuka pertanyaan mendasar mengenai kualitas tata kelola administrasi pemerintahan dan konsistensi sistem hukum Indonesia.\n\nPersoalan utamanya bukan sekadar apakah seseorang memiliki ijazah SMA atau dokumen pendidikan yang setara. Pertanyaan yang jauh lebih mendasar adalah: bagaimana mungkin dokumen administrasi pendidikan yang digunakan untuk memenuhi persyaratan pencalonan seorang Wakil Presiden kemudian dinyatakan tidak sah oleh Mahkamah Agung?\n\nJika dokumen tersebut sejak awal menjadi bagian dari proses verifikasi persyaratan pencalonan, maka persoalan ini tidak berhenti pada pemegang dokumen. Ada tanggung jawab administratif yang perlu diperiksa, mulai dari proses penerbitan surat keterangan, kewenangan pejabat, validitas dokumen sumber, prosedur verifikasi, hingga keputusan Komisi Pemilihan Umum dalam menetapkan kelayakan calon.\n\nDengan demikian, polemik ini sesungguhnya merupakan ujian terhadap prinsip dasar negara hukum: bahwa setiap keputusan pemerintahan harus mempunyai dasar hukum, prosedur yang benar, bukti yang dapat dipertanggungjawabkan, serta mekanisme pengawasan yang efektif.\n\nSalah satu aspek paling serius dalam persoalan ini adalah penerbitan Surat Keterangan Nomor 9149/D.D1/KS/2019 tanggal 6 Agustus 2019 yang berkaitan dengan penyetaraan pendidikan Gibran. Surat tersebut menjadi penting karena digunakan sebagai dokumen pendukung pemenuhan persyaratan pendidikan dalam pencalonan Wakil Presiden pada Pemilu 2024.\n\nDalam administrasi pemerintahan, penerbitan suatu surat keterangan yang mempunyai konsekuensi hukum tidak boleh dilakukan hanya berdasarkan asumsi, interpretasi longgar, atau dokumen yang tidak secara jelas membuktikan fakta yang hendak diterangkan.\n\nAda sejumlah prinsip administrasi yang semestinya menjadi standar:\n\n· Asas kecermatan: pejabat wajib memastikan kebenaran dan kelengkapan dokumen sumber.\n\n· Asas kepastian hukum: status pendidikan yang diterangkan harus mempunyai dasar hukum dan bukti yang jelas.\n\n· Asas keterbukaan: proses penerbitan dokumen harus dapat ditelusuri dan dipertanggungjawabkan.\n\n· Asas profesionalitas: pejabat penerbit harus bertindak sesuai kewenangan dan ketentuan teknis yang berlaku.\n\n· Asas akuntabilitas: keputusan administrasi harus dapat diuji apabila menimbulkan akibat hukum bagi pihak lain.\n\nMasalah menjadi semakin serius ketika Mahkamah Konstitusi dalam Putusan Nomor 01/PHPU.PRES-XXIV/2026 menyatakan tidak menemukan bukti meyakinkan bahwa dokumen pendidikan luar negeri yang dimiliki Gibran menunjukkan keberhasilan menamatkan jenjang pendidikan setara SMA.\n\nMK menjelaskan bahwa certificate of attendance yang digunakan sebagai dasar penerbitan surat keterangan tersebut hanya menerangkan kehadiran dalam perkuliahan, bukan keberhasilan menyelesaikan jenjang pendidikan tertentu.\n\nDi sinilah muncul persoalan administrasi yang tidak boleh disepelekan. Kehadiran dalam suatu lembaga pendidikan tidak identik dengan kelulusan. Mengikuti perkuliahan tidak otomatis berarti menyelesaikan jenjang pendidikan. Apabila dokumen sumber hanya membuktikan kehadiran, sementara surat yang diterbitkan memberikan konsekuensi penyetaraan pendidikan, maka terdapat persoalan serius mengenai kesesuaian antara fakta administratif dan substansi keputusan yang diterbitkan.\n\nHal ini seharusnya menjadi bahan evaluasi terhadap standar kerja birokrasi, bukan sekadar diperdebatkan sebagai persoalan politik.\n\nDilarang mengambil dan/atau menayangkan ulang sebagian atau keseluruhan artikel di atas untuk konten akun media sosial komersil tanpa seizin redaksi."
   },
   {
-   "source": "beritajatim",
+   "source": "harianjogja",
    "getter": "auto",
-   "title": "Libur Akhir Pekan, Polres Magetan Intensifkan Patroli di Kawasan Wisata Sarangan",
-   "link": "https://beritajatim.com/libur-akhir-pekan-polres-magetan-intensifkan-patroli-di-kawasan-wisata-sarangan",
-   "pubDate": "Sat, 14 Nov 2026 17:01:52 +0000",
-   "description": "<a href=\"https://beritajatim.com/libur-akhir-pekan-polres-magetan-intensifkan-patroli-di-kawasan-wisata-sarangan\" title=\"Libur Akhir Pekan, Polres Magetan Intensifkan Patroli di Kawasan Wisata Sarangan\" rel=\"nofollow\"><img width=\"851\" height=\"638\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/IMG-20261114-WA0150_11zon.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decod",
-   "fetched_at": "2026-11-14T21:18:54+07:00",
+   "title": "Polda Jateng Ungkap 7 Tambang Ilegal, Kekayaan Rp30,9 Miliar Diselamatkan",
+   "link": "https://jateng.harianjogja.com/r-1278945/polda-jateng-ungkap-7-tambang-ilegal-kekayaan-rp309-miliar-diselamatkan",
+   "pubDate": "Sun, 15 Nov 2026 07:17:26 +0700",
+   "description": "Polda Jateng mengungkap tujuh kasus tambang ilegal di tujuh daerah. Delapan orang tersangka dan kekayaan Rp30,9 miliar berhasil diselamatkan.",
+   "fetched_at": "2026-11-15T01:08:22+07:00",
    "categories": [
     "hukum-kriminal"
    ],
    "content_status": "full",
-   "content_chars": 4634,
-   "content": "Libur Akhir Pekan, Polres Magetan Intensifkan Patroli di Kawasan Wisata Sarangan\n\nMagetan (beritajatim.com) – Polres Magetan meningkatkan patroli dan pengamanan di sejumlah destinasi wisata unggulan di kawasan Plaosan, Kabupaten Magetan, untuk mengantisipasi lonjakan kunjungan wisatawan selama libur akhir pekan, Sabtu (14/11/2026). Langkah ini dilakukan guna menjaga keamanan pengunjung sekaligus memastikan arus lalu lintas di jalur wisata tetap lancar.\n\nPengamanan dilakukan oleh personel Pengamanan Objek Vital (Pamobvit) Satuan Samapta Polres Magetan melalui patroli dialogis di sejumlah titik wisata. Lokasi yang menjadi sasaran pemantauan meliputi Kebun Bunga Refugia Plaosan, kawasan Telaga Sarangan, Lawu Green Forest (LGF), hingga Mojosemi Park.\n\nPatroli tersebut difokuskan untuk menjaga situasi keamanan dan ketertiban masyarakat (harkamtibmas), sekaligus mengantisipasi potensi gangguan keamanan yang dapat mengganggu aktivitas wisatawan. Selain itu, pemantauan arus kendaraan juga dilakukan untuk mencegah kepadatan di jalur menuju kawasan wisata.\n\nDalam kegiatan tersebut, personel kepolisian tidak hanya memantau kondisi lingkungan, tetapi juga berinteraksi langsung dengan pengelola tempat wisata, masyarakat, dan pengunjung. Melalui komunikasi tersebut, polisi berupaya memastikan situasi di lapangan tetap terkendali serta mengetahui kondisi keamanan di sekitar lokasi wisata.\n\nPeningkatan pengamanan ini menjadi perhatian mengingat kawasan Telaga Sarangan dan sejumlah destinasi wisata di lereng Gunung Lawu merupakan tujuan kunjungan masyarakat saat akhir pekan. Bertambahnya jumlah kendaraan dan wisatawan berpotensi meningkatkan aktivitas di kawasan wisata, termasuk pada akses jalan menuju lokasi.\n\nIPTU Sulanjar mengatakan, peningkatan kunjungan wisatawan ke Kabupaten Magetan memang kerap terjadi saat akhir pekan. Namun, berdasarkan pemantauan petugas di sejumlah lokasi, kondisi keamanan maupun lalu lintas pada Sabtu masih terpantau kondusif.\n\n“Pada libur akhir pekan ini memang biasanya terjadi peningkatan kunjungan wisatawan ke Magetan, terutama di kawasan Telaga Sarangan dan objek wisata sekitarnya. Namun, berdasarkan hasil pemantauan personel di lapangan, hingga saat ini situasi masih terpantau tertib, aman, dan kondusif. Arus lalu lintas juga masih berjalan lancar dan belum ditemukan kepadatan yang mengganggu perjalanan wisatawan,” ungkap IPTU Sulanjar.\n\nSelain melakukan pengamanan, Polres Magetan juga mengingatkan wisatawan agar memperhatikan keselamatan selama perjalanan. Pengendara diminta memastikan kendaraan dalam kondisi laik jalan sebelum berangkat, mematuhi aturan lalu lintas, serta menghindari berkendara ketika kondisi tubuh tidak memungkinkan.\n\nImbauan tersebut penting diperhatikan, terutama bagi wisatawan yang menempuh perjalanan menuju kawasan Sarangan. Kondisi jalur wisata di wilayah pegunungan membutuhkan konsentrasi dan kesiapan kendaraan yang baik agar perjalanan tetap aman.\n\n“Kami mengimbau masyarakat agar selalu memastikan kondisi kendaraan dalam keadaan baik sebelum melakukan perjalanan. Apabila merasa lelah, silakan beristirahat di tempat yang aman dan jangan memaksakan diri. Jika membutuhkan bantuan, masyarakat dapat menghubungi petugas kepolisian yang sedang bertugas di lapangan atau melalui layanan Call Center Polri 110,” tambahnya.\n\nPolres Magetan juga mengajak pengelola wisata dan masyarakat untuk berperan aktif menjaga keamanan serta ketertiban lingkungan. Upaya pengamanan tidak hanya bergantung pada kehadiran petugas, tetapi juga membutuhkan kesadaran bersama, terutama dalam menjaga keselamatan dan kenyamanan selama beraktivitas di kawasan wisata.\n\nMelalui semangat Polisi Bersama Masyarakat dan program Jogo Omah, Polres Magetan menyatakan komitmennya untuk terus memberikan perlindungan, pengayoman, dan pelayanan kepada masyarakat, termasuk di lokasi-lokasi yang menjadi pusat kunjungan wisatawan.\n\nPatroli dan pemantauan di kawasan wisata akan menjadi bagian dari upaya kepolisian dalam mengantisipasi dinamika kunjungan masyarakat, baik selama libur akhir pekan maupun musim liburan. Dengan pengamanan yang berkelanjutan dan dukungan pengelola serta wisatawan, aktivitas pariwisata di Magetan diharapkan berlangsung aman tanpa mengganggu kelancaran lalu lintas. [fiq/kun]\n\nBaca berita lainnya di Google News atau langsung di halaman Indeks Berita\n\nBeritajatim.com adalah media online berbasis di Surabaya, dan fokus pada pemberitaan di wilayah Jawa Timur. Sejak awal, beritajatim.com memegang teguh kaidah jurnalistik dalam pemberitaan, sehingga aspek akurasi, disiplin verifikasi, independen, melekat kuat di setiap berita Selengkapnya"
+   "content_chars": 4315,
+   "content": "Polda Jateng Ungkap 7 Tambang Ilegal, Kekayaan Rp30,9 Miliar Diselamatkan\n\nHarianjogja.com, SEMARANG—Praktik penambangan ilegal di tujuh kabupaten/kota di Jawa Tengah (Jateng) terbongkar dalam kurun waktu 14 Oktober hingga 13 November 2026. Polisi menetapkan delapan orang sebagai tersangka dan menyelamatkan kekayaan alam senilai Rp30.975.642.600.\n\nDalam pengungkapan tujuh kasus tersebut, aparat kepolisian mengamankan 14 unit truk dump dan 10 unit ekskavator atau alat berat. Penanganan perkara dilakukan Direktorat Reserse Kriminal Khusus (Ditreskrimsus) Polda Jateng bersama lima polres.\n\nKapolda Jateng, Irjen Pol. Roy Hardi Siahaan, menjelaskan lima kasus ditangani masing-masing oleh Polres Sukoharjo, Polres Semarang, Polres Jepara, Polres Cilacap, dan Polres Kendal. Setiap polres menangani satu kasus.\n\nSementara itu, dua perkara lainnya ditangani langsung Ditreskrimsus Polda Jateng. Lokasi pengungkapan berada di Kabupaten Boyolali dan Kabupaten Banyumas.\n\nKasubdit IV Tindak Pidana Tertentu (Tipidter) Ditreskrimsus Polda Jateng, AKBP Maradona Armin Mappaseng, mengatakan pihaknya menangani dua dari total tujuh laporan polisi (LP). Meski belum membeberkan seluruh detail perkara, penyidik masih mengembangkan hasil pemeriksaan.\n\n\"Untuk TKP yang diungkap Polda Jateng, itu di Boyolali yang dibeli oleh perorangan untuk pengurugan kawasan kebun. Kemudian Banyumas dijual secara retail dan belum diketahui setelah itu dijual ke mana, karena ini baru selesai pemeriksaan awal kemarin, masih dikembangkan,\" kata AKBP Maradona kepada Espos, Sabtu (14/11/2026).\n\nRoy mengungkapkan, para tersangka menjalankan aktivitas penambangan tanah urug, pasir, batu, dan batu belah tanpa mengantongi izin pertambangan yang sah.\n\nBahkan, sebagian pelaku tetap melakukan penambangan meskipun masa berlaku Izin Usaha Pertambangan (IUP) telah berakhir. Mereka memanfaatkan ekskavator untuk menggali sekaligus mengangkut material tambang sebelum menjualnya menggunakan truk dump.\n\n\"Modus operandi para tersangka, melakukan penambangan tanah urug, pasir, batu dan batu belah tanpa izin pertambangan yang sah,\" terang Irjen Pol. Roy saat mengungkap kasus di Ditreskrimsus Polda Jateng, Jumat (13/11/2026) malam.\n\nMenurut Roy, kegiatan penambangan dilakukan dengan pola berbeda berdasarkan waktu. Para tersangka menggunakan alat berat pada malam hari, sedangkan aktivitas secara manual dilakukan pada siang hari.\n\n\"Melakukan penambangan menggunakan alat berat pada malam hari dan secara manual pada siang hari dan memperjualbelikan material hasil penambangan tanpa izin berdasarkan ritase dump truck untuk memperoleh keuntungan,\" sambungnya.\n\nSalah satu perkara yang diungkap dalam operasi tersebut berada di Kecamatan Getasan, Kabupaten Semarang. Kapolres Semarang, AKBP Heru Dwi Purnomo, mengatakan petugas menangkap seorang pria berinisial MDF, 24, yang diduga terlibat dalam aktivitas penambangan tanpa izin.\n\nDalam pengungkapan kasus itu, polisi turut mengamankan lima unit truk dump dan satu unit ekskavator yang diduga digunakan untuk kegiatan penambangan.\n\nPenanganan perkara bermula dari informasi masyarakat yang diterima Satreskrim Polres Semarang pada Senin (19/10/2026) sekitar pukul 10.00 WIB. Menindaklanjuti laporan tersebut, petugas melakukan penyelidikan dengan mendatangi lokasi yang diinformasikan warga.\n\nDari pemeriksaan di lapangan, polisi menemukan dugaan aktivitas penambangan yang tidak dilengkapi dokumen perizinan sebagaimana dipersyaratkan.\n\n“Kami menindaklanjuti informasi dari masyarakat dengan melakukan penyelidikan hingga akhirnya ditemukan dugaan aktivitas penambangan tanpa izin di wilayah Getasan,” jelas AKBP Heru dalam keterangannya.\n\nAtas perbuatannya, delapan tersangka dalam tujuh kasus tersebut disangkakan melanggar Pasal 158 Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara.\n\nKetentuan tersebut telah beberapa kali mengalami perubahan, terakhir melalui Undang-Undang Nomor 2 Tahun 2025.\n\nPara tersangka terancam hukuman pidana penjara paling lama lima tahun. Selain itu, mereka juga menghadapi ancaman denda maksimal Rp100 miliar.\n\nCek Berita dan Artikel yang lain di Harian Jogja, dan edisi cetak versi elektronik kami hadir di Epaper Harian Jogja.\n\nSunartono Jurnalis Harian Jogja, bagian dari Bisnis Indonesia Group menulis untuk media cetak dan online"
   },
   {
-   "source": "jpnn",
+   "source": "inews",
    "getter": "auto",
-   "title": "Jika Terbukti Lakukan Pemerkosaan, Bupati Kupang Bakal Dipecat Gerindra",
-   "link": "https://www.jpnn.com/news/jika-terbukti-lakukan-pemerkosaan-bupati-kupang-bakal-dipecat-gerindra",
-   "pubDate": "Sun, 15 Nov 2026 02:50:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/galeri/watermark/2020/06/29/0D2A0287.JPG\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong> - Wakil Ketua Umum Partai Gerindra Habiburokhman menegaskan partainya bakal menjatuhkan sanksi tegas kepada kadernya, Bupati Kupang Yosef Lede (YL) jika kepala daerah itu terbukti melakukan kekerasan seksual berupa pemerkosaan terhadap seorang wanita.",
-   "fetched_at": "2026-11-14T21:18:51+07:00",
+   "title": "Polri dan BNN Razia Lapas Tarakan, 6 Napi Ketahuan Atur Peredaran Narkoba",
+   "link": "https://www.inews.id/news/nasional/polri-dan-bnn-razia-lapas-tarakan-6-napi-ketahuan-atur-peredaran-narkoba",
+   "pubDate": "Sun, 15 Nov 2026 07:07:00 +0700",
+   "description": "Aparat gabungan merazia Lembaga Pemasyarakatan (Lapas) Kelas IIA Tarakan, Kalimantan Utara",
+   "fetched_at": "2026-11-15T01:08:20+07:00",
    "categories": [
-    "hukum-kriminal",
-    "pemerintahan"
+    "hukum-kriminal"
    ],
-   "content_status": "full",
-   "content_chars": 1610,
-   "content": "Ketua Komisi III DPR Habiburokhman. Foto: arsip JPNN.com/Ricardo\n\njpnn.com - Wakil Ketua Umum Partai Gerindra Habiburokhman menegaskan partainya bakal menjatuhkan sanksi tegas kepada kadernya, Bupati Kupang Yosef Lede (YL) jika kepala daerah itu terbukti melakukan kekerasan seksual berupa pemerkosaan terhadap seorang wanita.\n\n\"Kami akan memberikan sanksi tegas berupa pemecatan dan mendorong yang bersangkutan dipecat juga sebagai bupati,\" kata Habiburokhman dalam keterangan tertulis yang diterima di Jakarta, Sabtu (14/11/2026).\n\nKetua Komisi III DPR itu mendorong Polda NTT mengusut kasus dugaan kekerasan seksual itu secara objektif.\n\nDia juga mengingatkan tidak boleh ada pengistimewaan terhadap siapa pun, termasuk Bupati Yosef Lede.\n\nMenurut legislator bidang penegakan hukum itu, laporan polisi yang telah disampaikan korban kekerasan seksual harus ditindaklanjuti dengan cepat.\n\nHabiburokhman juga meminta terduga YL ditangkap dan ditahan apabila sudah ada bukti permulaan yang cukup.\n\n\"Kelak kalau terbukti tuduhan pemerkosaan tersebut, harus dijatuhi hukuman seberat-beratnya berdasarkan undang-undang yang berlaku,\" ujarnya.\n\nSebelumnya, Polda NTT menyatakan sedang menyelidiki laporan dugaan kekerasan seksual yang menyeret Bupati Kupang YL setelah korban yang berusia 21 tahun melaporkan peristiwa tersebut ke polisi.\n\nHabiburokhman menegaskan Gerindra bakal pecat Bupati Kupang Yosef Lede (YL) jika terbukti melakukan pemerkosaan terhadap seorang wanita.\n\nSilakan baca konten menarik lainnya dari JPNN.com di Google News\n\nJika Terbukti Lakukan Pemerkosaan, Bupati Kupang Bakal Dipecat Gerindra"
+   "content_status": "partial",
+   "content_chars": 90,
+   "content": "Aparat gabungan merazia Lembaga Pemasyarakatan (Lapas) Kelas IIA Tarakan, Kalimantan Utara"
   },
   {
    "source": "inews",
@@ -103,7 +182,7 @@
    "link": "https://www.inews.id/news/megapolitan/crane-jatuh-tewaskan-pekerja-di-kuningan-pemprov-dki-usut-standar-k3-proyek",
    "pubDate": "Sun, 15 Nov 2026 04:09:00 +0700",
    "description": "Pemprov DKI akan memeriksa penerapan standar K3 di proyek Mega Kuningan setelah crane jatuh dan menewaskan seorang pekerja.",
-   "fetched_at": "2026-11-14T21:18:49+07:00",
+   "fetched_at": "2026-11-15T01:08:20+07:00",
    "categories": [
     "hukum-kriminal",
     "pemerintahan"
@@ -113,80 +192,34 @@
    "content": "Bantu kami untuk merekomendasikan konten dengan melengkapi data diri Anda di sini\n\nJAKARTA, iNews.id - Pemerintah Provinsi (Pemprov) DKI Jakarta akan memeriksa pemenuhan standar keselamatan dan kesehatan kerja (K3) di lokasi proyek yang menjadi tempat kejadian perkara (TKP) crane jatuh dan menewaskan seorang pekerja di kawasan Kuningan, Jakarta Selatan. Pemeriksaan dilakukan untuk memastikan seluruh prosedur keselamatan telah dijalankan oleh pihak terkait.\n\n\"Namun, kalau kita melihat persyaratan, ada standar prosedur K3. Nanti kita akan cek apakah seluruh prosedur tersebut telah dipenuhi oleh yang bersangkutan atau tidak,\" kata Asisten Pembangunan dan Lingkungan Hidup Sekretaris Daerah (Sekda) DKI Jakarta, Afan Adriansyah Idris, Sabtu (14/11/2026).\n\n\"Kami akan pastikan bahwa jenazah yang menjadi korban itu akan tertangani dengan baik,\" ujar Afan.\n\nSebelumnya, crane di lokasi proyek pembangunan di Jalan Lingkar Mega Kuningan, Setiabudi, Jakarta Selatan, patah dan jatuh pada Jumat (13/11/2026) sekitar pukul 11.25 WIB. Para korban telah dievakuasi ke rumah sakit untuk mendapatkan penanganan lebih lanjut.\n\nKabid Humas Polda Metro Jaya, Kombes Budi Hermanto, mengatakan aparat Polsek Metro Setiabudi bersama Polres Metro Jakarta Selatan tengah menyelidiki penyebab kecelakaan tersebut.\n\nPenyelidikan dilakukan melalui olah tempat kejadian perkara (TKP), pemeriksaan saksi, serta pengumpulan barang bukti.\n\nFollow WhatsApp Channel iNews untuk update berita terbaru setiap hari! Follow\n\nKami membuka kesempatan bagi Anda yang ingin menjadi pebisnis media melalui program iNews.id Network. Klik lebih lanjut\n\nSumatra Jawa Kalimantan Sulawesi Papua Kepulauan Nusa Tenggara Kepulauan Maluku"
   },
   {
-   "source": "inews",
-   "getter": "auto",
-   "title": "2 Perampok Sekap Bocah SD hingga Tewas di Malang Ditangkap, Ini Kronologinya",
-   "link": "https://www.inews.id/regional/jatim/2-perampok-sekap-bocah-sd-hingga-tewas-di-malang-ditangkap-ini-kronologinya",
-   "pubDate": "Sat, 14 Nov 2026 22:31:00 +0700",
-   "description": "Polisi mengungkap kronologi bocah 10 tahun tewas dibekap saat pencurian di Malang. Dua tersangka ditangkap kurang dari 24 jam.",
-   "fetched_at": "2026-11-14T21:18:49+07:00",
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Hukum sepekan, Polri usut makar hingga kasus eks Kapolres Bima Kota",
+   "link": "https://www.antaranews.com/berita/5854919/hukum-sepekan-polri-usut-makar-hingga-kasus-eks-kapolres-bima-kota",
+   "pubDate": "Sun, 15 Nov 2026 07:15:00 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/12/rapat-kerja-polri-dengan-komisi-iii-dpr-2905143.jpg\" align=\"left\" border=\"0\" />Sejumlah peristiwa hukum diwartakan pewarta Kantor Berita ANTARA selama sepekan ini. Berikut beberapa berita pilihan ...",
+   "fetched_at": "2026-11-15T01:07:57+07:00",
    "categories": [
     "hukum-kriminal"
    ],
    "content_status": "partial",
-   "content_chars": 126,
-   "content": "Polisi mengungkap kronologi bocah 10 tahun tewas dibekap saat pencurian di Malang. Dua tersangka ditangkap kurang dari 24 jam."
+   "content_chars": 261,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/12/rapat-kerja-polri-dengan-komisi-iii-dpr-2905143.jpg\" align=\"left\" border=\"0\" />Sejumlah peristiwa hukum diwartakan pewarta Kantor Berita ANTARA selama sepekan ini. Berikut beberapa berita pilihan ..."
   },
   {
-   "source": "inews",
-   "getter": "auto",
-   "title": "Kurang dari 24 Jam, 2 Perampok Sekap Bocah 10 Tahun hingga Tewas di Malang Ditangkap",
-   "link": "https://www.inews.id/news/nasional/kurang-dari-24-jam-2-perampok-sekap-bocah-10-tahun-hingga-tewas-di-malang-ditangkap",
-   "pubDate": "Sat, 14 Nov 2026 22:14:00 +0700",
-   "description": "Polres Malang menangkap dua tersangka perampokan yang menewaskan bocah 10 tahun di Wagir. Keduanya ditangkap kurang dari 24 jam.",
-   "fetched_at": "2026-11-14T21:18:49+07:00",
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Kriminal sepekan, ungkap kasus TPPO hingga info Firli Bahuri ditangkap",
+   "link": "https://www.antaranews.com/berita/5854899/kriminal-sepekan-ungkap-kasus-tppo-hingga-info-firli-bahuri-ditangkap",
+   "pubDate": "Sun, 15 Nov 2026 05:45:51 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/12/Polri-ungkap-kasus-TPPO-121126-MRH-1_1.jpg\" align=\"left\" border=\"0\" />Sejumlah peristiwa kriminal yang terjadi selama sepekan terakhir masih menarik untuk dibaca hari ini antara lain Polda ...",
+   "fetched_at": "2026-11-15T01:07:57+07:00",
    "categories": [
     "hukum-kriminal"
    ],
    "content_status": "partial",
-   "content_chars": 128,
-   "content": "Polres Malang menangkap dua tersangka perampokan yang menewaskan bocah 10 tahun di Wagir. Keduanya ditangkap kurang dari 24 jam."
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "Komisi III Desak Polda NTT Usut Kasus Dugaan Kasus Pemerkosaan Mahasiswi di Kupang",
-   "link": "https://daerah.sindonews.com/read/1772223/174/komisi-iii-desak-polda-ntt-usut-kasus-dugaan-kasus-pemerkosaan-mahasiswi-di-kupang-1794672704",
-   "pubDate": "Sat, 14 Nov 2026 23:40:15 +0700",
-   "description": "Ketua Komisi III DPR Habiburokhman mendesak Polda NTT proaktif dalam mengusut kasus dugaan pemerkosaan mahasiswi yang menyeret nama Bupati Kupang, Yosef Lede.",
-   "fetched_at": "2026-11-14T21:18:48+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 158,
-   "content": "Ketua Komisi III DPR Habiburokhman mendesak Polda NTT proaktif dalam mengusut kasus dugaan pemerkosaan mahasiswi yang menyeret nama Bupati Kupang, Yosef Lede."
-  },
-  {
-   "source": "republika",
-   "getter": "auto",
-   "title": "57 Kasus Penipuan Daring Terjadi di Tulungagung Selama Oktober",
-   "link": "https://news.republika.co.id/berita/toiblk3930000/57-kasus-penipuan-daring-terjadi-di-tulungagung-selama-oktober",
-   "pubDate": "Sun, 15 Nov 2026 02:32:08 +0700",
-   "description": "REPUBLIKA.CO.ID, TULUNGAGUNG, – Kepolisian Resort (Polres) Tulungagung mengidentifikasi sedikitnya 57 laporan kasus penipuan daring dan penggelapan yang terjadi selama bulan Oktober 2026. Mayoritas dari laporan tersebut berlatar belakang kejahatan...",
-   "fetched_at": "2026-11-14T21:18:47+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "partial",
-   "content_chars": 250,
-   "content": "REPUBLIKA.CO.ID, TULUNGAGUNG, – Kepolisian Resort (Polres) Tulungagung mengidentifikasi sedikitnya 57 laporan kasus penipuan daring dan penggelapan yang terjadi selama bulan Oktober 2026. Mayoritas dari laporan tersebut berlatar belakang kejahatan..."
-  },
-  {
-   "source": "republika",
-   "getter": "auto",
-   "title": "Polres Metro Bekasi Ringkus Dua Pelaku Curas Bersenjata Celurit",
-   "link": "https://news.republika.co.id/berita/toiaw42230000/polres-metro-bekasi-ringkus-dua-pelaku-curas-bersenjata-celurit",
-   "pubDate": "Sun, 15 Nov 2026 02:16:52 +0700",
-   "description": "REPUBLIKA.CO.ID, KABUPATEN BEKASI, – Kepolisian Resor (Polres) Metro Bekasi berhasil meringkus dua pelaku tindak pidana pencurian dengan kekerasan (curas) yang menggunakan senjata tajam. Kedua pelaku beraksi di Jalan Raya...",
-   "fetched_at": "2026-11-14T21:18:47+07:00",
-   "categories": [
-    "hukum-kriminal"
-   ],
-   "content_status": "partial",
-   "content_chars": 224,
-   "content": "REPUBLIKA.CO.ID, KABUPATEN BEKASI, – Kepolisian Resor (Polres) Metro Bekasi berhasil meringkus dua pelaku tindak pidana pencurian dengan kekerasan (curas) yang menggunakan senjata tajam. Kedua pelaku beraksi di Jalan Raya..."
+   "content_chars": 254,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/12/Polri-ungkap-kasus-TPPO-121126-MRH-1_1.jpg\" align=\"left\" border=\"0\" />Sejumlah peristiwa kriminal yang terjadi selama sepekan terakhir masih menarik untuk dibaca hari ini antara lain Polda ..."
   },
   {
    "source": "antara",
@@ -195,7 +228,7 @@
    "link": "https://www.antaranews.com/berita/5854851/polres-bekasi-ringkus-dua-pelaku-curas-bersenjata-tajam",
    "pubDate": "Sun, 15 Nov 2026 00:40:43 +0700",
    "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/14/IMG-20261114-010.jpg\" align=\"left\" border=\"0\" />Kepolisian Resor (Polres) Metro Bekasi meringkus dua pelaku tindak pidana pencurian dengan kekerasan atau curas ...",
-   "fetched_at": "2026-11-14T21:18:26+07:00",
+   "fetched_at": "2026-11-15T01:07:57+07:00",
    "categories": [
     "hukum-kriminal"
    ],
@@ -210,7 +243,7 @@
    "link": "https://www.antaranews.com/berita/5854847/polres-tulungagung-identifikasi-56-laporan-kasus-penipuan",
    "pubDate": "Sun, 15 Nov 2026 00:35:41 +0700",
    "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/14/846162.jpg\" align=\"left\" border=\"0\" />Kepolisian Resort Tulungagung mengidentifikasi sedikitnya 57 laporan kasus penipuan dan penggelapan, mayoritas berlatar ...",
-   "fetched_at": "2026-11-14T21:18:26+07:00",
+   "fetched_at": "2026-11-15T01:07:57+07:00",
    "categories": [
     "hukum-kriminal"
    ],

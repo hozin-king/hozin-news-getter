@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-11-15T07:40:02+07:00",
+ "updated_at": "2026-11-15T14:28:27+07:00",
  "category": "bencana",
- "count": 2,
+ "count": 3,
  "articles": [
+  {
+   "source": "vidio",
+   "getter": "auto",
+   "title": "Puting Beliung Rusak Puluhan Bangunan | Fokus",
+   "link": "https://www.vidio.com/watch/9752945-puting-beliung-rusak-puluhan-bangunan-fokus",
+   "pubDate": "Sun, 15 Nov 2026 06:58:51 +0700",
+   "description": "Hujan deras disertai angin kencang melanda Kecamatan Batujajar, Kabupaten Bandung Barat, Jawa Barat. Lebih dari 80 bangunan dan rumah warga rusak.\nBahkan, puting beliung terjadi di Pasar Cibeureum, Ciwidey, Kabupaten Bandung. Walau hanya sebentar, lebih dari 50 kios pedagang rusak.",
+   "fetched_at": "2026-11-15T01:08:51+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 282,
+   "content": "Hujan deras disertai angin kencang melanda Kecamatan Batujajar, Kabupaten Bandung Barat, Jawa Barat. Lebih dari 80 bangunan dan rumah warga rusak.\nBahkan, puting beliung terjadi di Pasar Cibeureum, Ciwidey, Kabupaten Bandung. Walau hanya sebentar, lebih dari 50 kios pedagang rusak."
+  },
   {
    "source": "darilaut",
    "getter": "auto",
@@ -10,7 +25,7 @@
    "link": "https://darilaut.id/berita/monsun-asia-berperan-membawa-uap-air-di-sejumlah-wilayah-indonesia",
    "pubDate": "Fri, 13 Nov 2026 18:55:16 +0000",
    "description": "<p>Darilaut &#8211; Sejalan dengan perkembangan musim hujan, pengaruh Monsun Asia diprakirakan semakin menguat dalam sepekan mendatang, menggantikan dominasi Monsun Australia. Perubahan sirkulasi angin musiman ini berperan dalam memengaruhi pola distribusi kelembaban dan transportasi uap air ke sejumlah wilayah Indonesia. Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengatakan dengan dukungan kondisi atmosfer yang cukup lembab, perkembangan tersebut [&#8230;]</p>\n<p>The post <a href=\"htt",
-   "fetched_at": "2026-11-14T21:19:15+07:00",
+   "fetched_at": "2026-11-15T01:08:43+07:00",
    "categories": [
     "bencana"
    ],
@@ -19,19 +34,19 @@
    "content": "Monsun Asia Berperan membawa Uap Air di Sejumlah Wilayah Indonesia\n\nDarilaut – Sejalan dengan perkembangan musim hujan, pengaruh Monsun Asia diprakirakan semakin menguat dalam sepekan mendatang, menggantikan dominasi Monsun Australia.\n\nPerubahan sirkulasi angin musiman ini berperan dalam memengaruhi pola distribusi kelembaban dan transportasi uap air ke sejumlah wilayah Indonesia.\n\nBadan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengatakan dengan dukungan kondisi atmosfer yang cukup lembab, perkembangan tersebut berpotensi meningkatkan peluang terbentuknya awan hujan di berbagai wilayah.\n\nInteraksi antara penguatan Monsun Asia, aktivitas gelombang atmosfer, dan pola sirkulasi angin regional diprakirakan masih mendukung kondisi cuaca yang relatif basah di sejumlah wilayah Indonesia. Terutama sebagian besar Sumatra serta sebagian wilayah Jawa, Kalimantan, Sulawesi, Maluku, dan Papua.\n\nDalam kondisi tersebut, kata BMKG, hujan dengan intensitas sedang hingga lebat, bahkan sangat lebat secara lokal, masih berpotensi terjadi.\n\nBMKG mengimbau untuk terus meningkatkan kewaspadaan , terutama di daerah yang telah mengalami hujan signifikan dalam beberapa hari terakhir, mengingat kondisi tanah yang semakin jenuh air dapat meningkatkan risiko banjir dan tanah longsor apabila hujan kembali terjadi.\n\nBeberapa hari terakhir, curah hujan di sejumlah wilayah Indonesia menunjukkan intensitas yang cukup signifikan.\n\nMenginformasikan berbagai perihal tentang laut, pesisir, ikan, kapal, berita terkini dan lain sebagainya."
   },
   {
-   "source": "jpnn",
+   "source": "republika",
    "getter": "auto",
-   "title": "Tampil di JBL Sound Fest 2026, Float Dedikasikan Lagu Pulang Untuk Korban Bencana",
-   "link": "https://www.jpnn.com/news/tampil-di-jbl-sound-fest-2026-float-dedikasikan-lagu-pulang-untuk-korban-bencana",
-   "pubDate": "Sun, 15 Nov 2026 00:11:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/watermark/2026/11/14/float-tampil-di-jbl-sound-fest-2026-taman-peruri-blok-m-jaka-oceq.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - Grup band Float tampil di JBL Sound Fest 2026, Taman Peruri, Blok M, Jakarta Selatan, Sabtu (14/11) malam.",
-   "fetched_at": "2026-11-14T21:18:51+07:00",
+   "title": "Tenda Pengungsi Diterjang Banjir dan Musim Dingin, UE Desak Israel Buka Akses Bantuan ke Gaza",
+   "link": "https://news.republika.co.id/berita/toipn9328/tenda-pengungsi-diterjang-banjir-dan-musim-dingin-ue-desak-israel-buka-akses-bantuan-ke-gaza",
+   "pubDate": "Sun, 15 Nov 2026 08:08:00 +0700",
+   "description": "BRUSSELS &mdash; Uni Eropa menyatakan keprihatinan mendalam atas krisis kemanusiaan di Jalur Gaza, terutama dengan datangnya musim dingin dan terjadinya banjir yang menggenangi tenda-tenda para pengungsi. Mereka mendesak Israel...",
+   "fetched_at": "2026-11-15T01:08:17+07:00",
    "categories": [
     "bencana"
    ],
-   "content_status": "full",
-   "content_chars": 1463,
-   "content": "Float tampil di JBL Sound Fest 2026, Taman Peruri, Blok M, Jakarta Selatan, Sabtu (14/11) malam. Foto: Firda/JPNN.com\n\njpnn.com, JAKARTA - Grup band Float tampil di JBL Sound Fest 2026, Taman Peruri, Blok M, Jakarta Selatan, Sabtu (14/11) malam.\n\nLagu 'I.H.I' dan 'Stupido Ritmo' mengawali penampilan Float malam tadi.\n\nSang vokalis, Hotma Roni menyapa para penonton sebelum melanjutkan penampilannya. Dia mengajak para penonton untuk mendoakan korban bencana yang terjadi di Indonesia.\n\nFloat bahkan mendedikasikan lagu hits mereka berjudul Pulang untuk para korban yang terkena musibah.\n\n\"Lagu ini kami dedikasikan untuk saudara-saudara kita yang masih di tempat bencana, terutama mereka yang di tempat, di lokasi yang kondisi kehidupannya enggak menyenangkan, belum berkurang sampai sekarang,\" ujar Hotma Roni.\n\n\"Semoga dengan lagu ini, kita bisa sama-sama mendoakan mereka supaya mereka bisa balik lagi, hidup dengan kondisi yang layak seperti semula,\" sambungnya.\n\nMereka kemudian membawakan 'Pulang' yang diikuti oleh para penonton menyanyikan lagu tersebut.\n\nHotma Roni kembali menyinggung soal kondisi Indonesia saat ini. Dia juga meminta agar para penonton tak mudah terprovokasi oleh pemberitaan.\n\nGrup band Float tampil di JBL Sound Fest 2026, Taman Peruri, Blok M, Jakarta Selatan, Sabtu (14/11) malam.\n\nSilakan baca konten menarik lainnya dari JPNN.com di Google News\n\nTampil di JBL Sound Fest 2026, Float Dedikasikan Lagu Pulang Untuk Korban Bencana"
+   "content_status": "partial",
+   "content_chars": 230,
+   "content": "BRUSSELS &mdash; Uni Eropa menyatakan keprihatinan mendalam atas krisis kemanusiaan di Jalur Gaza, terutama dengan datangnya musim dingin dan terjadinya banjir yang menggenangi tenda-tenda para pengungsi. Mereka mendesak Israel..."
   }
  ]
 }
