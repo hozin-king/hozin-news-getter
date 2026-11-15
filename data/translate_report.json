@@ -1,17 +1,10 @@
 {
- "updated_at": "2026-11-15T03:21:16+07:00",
+ "updated_at": "2026-11-15T07:40:02+07:00",
  "mode": "google",
  "translated": [
-  "b1caae7ff53a66e0",
-  "474225941434ea97",
-  "c82a75a715cf07c8",
-  "d0fa9e81d1699b8c",
-  "184477c8d5188177",
-  "c65ccd0f75e90818",
-  "646dcdd9d40121d6",
-  "646dcdd9d40121d6"
+  "e438f73a88e00227"
  ],
  "failed": [],
- "held_partial": 1373,
- "candidates": 8
+ "held_partial": 1379,
+ "candidates": 1
 }
