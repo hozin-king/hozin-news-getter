@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-16T08:37:26+07:00",
+ "updated_at": "2026-11-16T16:10:31+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -360,13 +360,6 @@
      "nama": "CCTV DAGO 1-CIKAPAYANG 01",
      "lokasi": "Kota Bandung",
      "stream": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagcik.m3u8",
-     "lat": -6.899000105,
-     "lon": 107.6126426
-    },
-    {
-     "nama": "CCTV DAGO 1-CIKAPAYANG 02",
-     "lokasi": "Kota Bandung",
-     "stream": "https://pelindung.bandung.go.id:3443/video/HIKSVISION/Dagcika.m3u8",
      "lat": -6.899000105,
      "lon": 107.6126426
     },
