@@ -1,6 +1,23 @@
 {
- "updated_at": "2026-11-16T07:39:34+07:00",
+ "updated_at": "2026-11-16T14:37:23+07:00",
  "category": "korupsi",
- "count": 0,
- "articles": []
+ "count": 1,
+ "articles": [
+  {
+   "source": "fajar",
+   "getter": "auto",
+   "title": "Eks Wakil Ketua KPK Bocorkan Dua Pentolan Gerindra Pengganti Gibran",
+   "link": "https://fajar.co.id/2026/11/16/eks-wakil-ketua-kpk-bocorkan-dua-pentolan-gerindra-pengganti-gibran/",
+   "pubDate": "Mon, 16 Nov 2026 05:13:48 +0000",
+   "description": "FAJAR.CO.ID, JAKARTA &#8212; Bursa calon Wakil Presiden pengganti Gibran Rakabuming Raka mulai menghangat. Mantan Wakil...",
+   "fetched_at": "2026-11-16T06:48:05+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 122,
+   "content": "FAJAR.CO.ID, JAKARTA &#8212; Bursa calon Wakil Presiden pengganti Gibran Rakabuming Raka mulai menghangat. Mantan Wakil..."
+  }
+ ]
 }
