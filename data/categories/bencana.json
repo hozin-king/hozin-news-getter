@@ -1,52 +1,38 @@
 {
- "updated_at": "2026-11-16T14:37:23+07:00",
+ "updated_at": "2026-11-17T00:51:40+07:00",
  "category": "bencana",
- "count": 8,
+ "count": 5,
  "articles": [
   {
    "source": "vidio",
    "getter": "auto",
-   "title": "Banjir dan Longsor Terjang Wilayah Aceh, Begini Kondisi Warga Terdampak | KOMPAS SIANG",
-   "link": "https://www.vidio.com/watch/9755026-banjir-dan-longsor-terjang-wilayah-aceh-begini-kondisi-warga-terdampak-kompas-siang",
-   "pubDate": "Mon, 16 Nov 2026 13:11:05 +0700",
-   "description": "KOMPAS.TV - Banjir dan longsor melanda sejumlah wilayah di Aceh. Bencana ini berdampak terhadap aktivitas masyarakat dan menyebabkan sejumlah warga terdampak.\n\nLantas, bagaimana kondisi terkini wilayah yang dilanda banjir dan longsor? Bagaimana pula kondisi warga yang terdampak bencana?\n\n \n\n#banjir #longsor #aceh\n\nBaca Juga Hujan Lebat Picu Longsor di Banyumas, Warga Lansia Ditemukan Meninggal di Sungai | KOMPAS SIANG di https://www.kompas.tv/regional/701851/hujan-lebat-picu-longsor-di-banyumas-",
-   "fetched_at": "2026-11-16T06:48:31+07:00",
+   "title": "Banjir Kembali Terjang Pidie Jaya Aceh, Akses Jalan Tertutup | SAPA MALAM",
+   "link": "https://www.vidio.com/watch/9755677-banjir-kembali-terjang-pidie-jaya-aceh-akses-jalan-tertutup-sapa-malam",
+   "pubDate": "Mon, 16 Nov 2026 22:42:55 +0700",
+   "description": "PIDIE JAYA, KOMPAS.TV - Banjir susulan kembali merendam Gampong Dayah Usen, Kecamatan Meurah Dua, Kabupaten Pidie Jaya, Aceh pada Minggu (15/11/2026) malam.\n\nBanjir yang berangsur surut pada Senin (16/11/2026) siang menyisakan lumpur yang menutup akses jalan.\n\nBanjir kembali menerjang Gampong Dayah Husen pada Minggu (15/11/2026) malam.\n\nBanjir dipicu hujan deras yang mengguyur wilayah Kabupaten Pidie Jaya, hingga Sungai Krueng Merdu yang berada di sepanjang permukiman warga Desa Dayah Usen melua",
+   "fetched_at": "2026-11-16T16:31:36+07:00",
    "categories": [
     "bencana"
    ],
    "content_status": "partial",
    "content_chars": 500,
-   "content": "KOMPAS.TV - Banjir dan longsor melanda sejumlah wilayah di Aceh. Bencana ini berdampak terhadap aktivitas masyarakat dan menyebabkan sejumlah warga terdampak.\n\nLantas, bagaimana kondisi terkini wilayah yang dilanda banjir dan longsor? Bagaimana pula kondisi warga yang terdampak bencana?\n\n \n\n#banjir #longsor #aceh\n\nBaca Juga Hujan Lebat Picu Longsor di Banyumas, Warga Lansia Ditemukan Meninggal di Sungai | KOMPAS SIANG di https://www.kompas.tv/regional/701851/hujan-lebat-picu-longsor-di-banyumas-"
+   "content": "PIDIE JAYA, KOMPAS.TV - Banjir susulan kembali merendam Gampong Dayah Usen, Kecamatan Meurah Dua, Kabupaten Pidie Jaya, Aceh pada Minggu (15/11/2026) malam.\n\nBanjir yang berangsur surut pada Senin (16/11/2026) siang menyisakan lumpur yang menutup akses jalan.\n\nBanjir kembali menerjang Gampong Dayah Husen pada Minggu (15/11/2026) malam.\n\nBanjir dipicu hujan deras yang mengguyur wilayah Kabupaten Pidie Jaya, hingga Sungai Krueng Merdu yang berada di sepanjang permukiman warga Desa Dayah Usen melua"
   },
   {
-   "source": "vidio",
+   "source": "timesindonesia",
    "getter": "auto",
-   "title": "Hujan Lebat Picu Longsor di Banyumas, Warga Lansia Ditemukan Meninggal di Sungai | KOMPAS SIANG",
-   "link": "https://www.vidio.com/watch/9755025-hujan-lebat-picu-longsor-di-banyumas-warga-lansia-ditemukan-meninggal-di-sungai-kompas-siang",
-   "pubDate": "Mon, 16 Nov 2026 13:09:07 +0700",
-   "description": "KOMPAS.TV - Tanah longsor terjadi di Desa Limpakuwus, Kecamatan Sumbang, Kabupaten Banyumas, Jawa Tengah, saat hujan lebat mengguyur kawasan tersebut.\n\nPeristiwa ini menyebabkan seorang warga lanjut usia berusia 80 tahun meninggal dunia setelah tertimbun longsor.\n\nSaat kejadian, korban sedang memperbaiki pipa saluran air yang tersumbat di sekitar Sungai Pelus.\n\nTanah di sekitar lokasi yang labil tiba-tiba longsor dan menyeret korban hingga ke dalam sungai.\n\nPetugas SAR gabungan mencari dan menyi",
-   "fetched_at": "2026-11-16T06:48:31+07:00",
+   "title": "BMKG Prediksi Musim Hujan di Jawa Timur Baru Dimulai Desember 2026",
+   "link": "https://timesindonesia.co.id/peristiwa-daerah/618011/bmkg-prediksi-musim-hujan-di-jawa-timur-baru-dimulai-desember-2026",
+   "pubDate": "Mon, 16 Nov 2026 22:36:00 +0000",
+   "description": "BMKG memprediksi musim hujan di sebagian besar Jawa Timur baru dimulai Desember 2026 dengan puncak pada Januari-Februari 2027. BPBD meminta warga meningkatkan mitigasi bencana.",
+   "fetched_at": "2026-11-16T16:31:29+07:00",
    "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "KOMPAS.TV - Tanah longsor terjadi di Desa Limpakuwus, Kecamatan Sumbang, Kabupaten Banyumas, Jawa Tengah, saat hujan lebat mengguyur kawasan tersebut.\n\nPeristiwa ini menyebabkan seorang warga lanjut usia berusia 80 tahun meninggal dunia setelah tertimbun longsor.\n\nSaat kejadian, korban sedang memperbaiki pipa saluran air yang tersumbat di sekitar Sungai Pelus.\n\nTanah di sekitar lokasi yang labil tiba-tiba longsor dan menyeret korban hingga ke dalam sungai.\n\nPetugas SAR gabungan mencari dan menyi"
-  },
-  {
-   "source": "cnbcindonesia2",
-   "getter": "auto",
-   "title": "RI Siaga 1! BMKG Ingatkan Wilayah Ini Zona Merah, Awas Petaka Datang",
-   "link": "https://www.cnbcindonesia.com/news/20261116123448-4-785553/ri-siaga-1-bmkg-ingatkan-wilayah-ini-zona-merah-awas-petaka-datang",
-   "pubDate": "Mon, 16 Nov 2026 12:55:00 +0700",
-   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/16/bibit-siklon-tropis-senin-16112026-bmkg-1794807060100_169.png?w=1200&amp;q=90\"/> BMKG mengeluarkan peringatan terkait dua bibit siklon tropis, 92B dan 96S, yang berpotensi memicu hujan lebat dan gelombang tinggi di wilayah Indonesia.",
-   "fetched_at": "2026-11-16T06:48:24+07:00",
-   "categories": [
-    "bencana"
+    "bencana",
+    "kebakaran"
    ],
    "content_status": "full",
-   "content_chars": 2146,
-   "content": "RI Siaga 1! BMKG Ingatkan Wilayah Ini Zona Merah, Awas Petaka Datang\n\nJakarta, CNBC Indonesia - Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengeluarkan peringatan terbaru menyusul kemunculan dua bibit siklon tropis di wilayah monitoring TCWC Jakarta.\n\nHasil pemantauan terbaru BMKG hari ini, Senin (16/11/2026, pukul 07.00 WIB), Bibit Siklon Tropis 92B dan Bibit Siklon Tropis 96S akan berdampak terhadap kondisi cuaca di sejumlah wilayah di Indonesia. Prakiraan ini berlaku hingga besok, Selasa (17/11/2026, pukul 07.00 WIB).\n\nDalam unggahan akun Instagram resminya, BMKG mengungkapkan, Bibit Siklon Tropis 92B berada di Teluk Benggala setelah terbentuk pada 12 November 2026 pukul 13.00 WIB.\n\n\"Dalam 24 jam ke depan, bibit siklon ini memiliki peluang tinggi untuk berkembang menjadi siklon tropis dan diprakirakan bergerak ke arah barat laut,\" tulis BMKG, Senin (16/11/2026).\n\nSementara, Bibit Siklon Tropis 96S berada di Samudra Hindia barat Sumatra setelah terbentuk pada 13 November 2026 pukul 13.00 WIB.\n\n\"Dalam 24 jam ke depan, bibit siklon ini memiliki peluang rendah untuk berkembang menjadi siklon tropis dan diprakirakan bergerak ke arah barat daya,\" tambah BMKG.\n\nDampak tidak langsung terhdap cuaca dan perairan di wilayah Indonesia, Senin (16/11/2026). (BMKG) Foto: Dampak tidak langsung terhdap cuaca dan perairan di wilayah Indonesia, Senin (16/11/2026). (BMKG)\n\nMenurut BMKG, Bibit Siklon Tropis 92B berpotensi memicu terjadinya hujan lebah hingga sangat lebat di Aceh.\n\nSedangkan Bibit Siklon Tropis 96S berpotensi memicu terjadinya hujan lebat hingga sangat lebat di Aceh, Sumatra Utara, Sumatra Barat, Bengkulu, dan Lampung.\n\nBibit Siklon Tropis 96S juga diperingatkan berpotensi menyebabkan tingginya gelombang laut hingga 1,25-2,5 meter di Perairan Sabang dan Selat Malaka bagian utara. Dan, gelombang laut tinggi 2,5-4,0 meter di Samudra Hindia barat Aceh hingga Kepulauan Mentawai.\n\n\"Masyarakat di wilayah terdampak diimbau meningkatkan kewaspadaan terhadap potensi banjir dan tanah longsor. Masyarakat pesisir serta pengguna transportasi laut juga diimbau mewaspadai gelombang tinggi,\" demikian peringatan BMKG."
+   "content_chars": 2331,
+   "content": "Badan Meteorologi, Klimatologi, dan Geofisika ( BMKG ) memprediksi awal musim hujan di sebagian besar wilayah Jawa Timur baru dimulai pada Desember 2026. Sementara itu, puncak musim hujan diperkirakan terjadi pada Januari hingga Februari 2027.\n\nPergeseran kalender musim tersebut tergolong signifikan dibandingkan pola iklim normal. Dalam kondisi reguler, hujan umumnya mulai turun secara bertahap di sejumlah wilayah Jawa Timur sejak Oktober. Namun, penguatan musim kemarau yang dipengaruhi fenomena El Nino membuat peralihan menuju musim hujan tertunda hingga akhir tahun.\n\nKepala Stasiun Meteorologi Kelas I Juanda BMKG Jawa Timur, Taufiq Hermawan, mengatakan keterlambatan awal musim hujan tersebut berpotensi membuat durasi musim hujan menjadi lebih singkat. Meski demikian, masyarakat tetap perlu mewaspadai potensi curah hujan tinggi ketika memasuki periode puncak musim hujan.\n\n\"Antisipasinya ketika kita masyarakat Jawa Timur itu masuk musim, awal musim penghujungnya pada fase Desember, Januari, dan Februari, itu yang paling penting kewaspadaannya harus ditingkatkan,\" kata Taufiq, Minggu (15/11/2026).\n\nBerdasarkan pemetaan BMKG Juanda, sebanyak 22 hingga 26 kabupaten/kota di Jawa Timur masuk kategori wilayah yang perlu meningkatkan kewaspadaan selama periode puncak musim hujan. Curah hujan tinggi dalam durasi singkat berisiko memicu bencana hidrometeorologi, mulai dari banjir, banjir bandang, tanah longsor, gelombang ekstrem, hingga angin puting beliung.\n\nMerespons proyeksi tersebut, Badan Penanggulangan Bencana Daerah (BPBD) Jawa Timur meminta pemerintah kabupaten/kota bersama masyarakat segera melakukan mitigasi dini. Salah satu langkah yang perlu dilakukan adalah membersihkan sampah dan material sisa kebakaran hutan dan lahan (karhutla) yang berpotensi menyumbat aliran sungai.\n\nKepala Pelaksana BPBD Jawa Timur, Gatot Soebroto, mengungkapkan bahwa potensi bencana hidrometeorologi mulai terpantau di sejumlah wilayah seiring dinamika cuaca pada masa peralihan musim.\n\n\"Saat ini sudah ada beberapa wilayah yang terdampak terjadinya bencana tersebut,\" ungkap Gatot.\n\nUntuk meminimalkan risiko kerusakan infrastruktur maupun terputusnya akses jalan saat puncak musim hujan tiba, BPBD Jatim telah berkoordinasi dengan sejumlah organisasi perangkat daerah (OPD), termasuk Dinas PU Bina Marga Jawa Timur. (*)"
   },
   {
    "source": "darilaut",
@@ -55,7 +41,7 @@
    "link": "https://darilaut.id/berita/cop31-melindungi-kota-dan-komunitas-rentan",
    "pubDate": "Mon, 16 Nov 2026 05:52:28 +0000",
    "description": "<p>Darilaut &#8211; Kota-kota menjadi sorotan utama dalam agenda iklim di tengah tuntutan tindakan nyata dari para pemimpin dunia. Mulai dari rumah yang terendam banjir hingga mencairnya gletser di Himalaya, dampak perubahan iklim terhadap manusia menjadi pusat perhatian dalam Konferensi Tingkat Tinggi Para Pemimpin di Konferensi Perubahan Iklim Perserikatan Bangsa-Bangsa (COP31) yang berlangsung di Kota Antalya [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/berita/cop31-melindungi-kota-",
-   "fetched_at": "2026-11-16T06:48:23+07:00",
+   "fetched_at": "2026-11-16T16:31:26+07:00",
    "categories": [
     "bencana",
     "pemerintahan"
@@ -71,7 +57,7 @@
    "link": "https://darilaut.id/berita/gempa-laut-sulawesi-mekanisme-pergerakan-geser-mengguncang-gorontalo-utara-dan-buol",
    "pubDate": "Sun, 15 Nov 2026 16:33:30 +0000",
    "description": "<p>Darilaut – Gempa bumi di Laut Sulawesi mengguncang Gorontalo Utara dan Buol Sulawesi Tengah, pada Minggu (15/11) malam. Gempa bumi ini memiliki mekanisme pergerakan geser. Gempa yang tidak berpotensi tsunami terjadi pada pukul pukul 22:41:15 WIB atau 23:41:15 Wita. Hasil analisis Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) menunjukkan gempa bumi ini memiliki parameter update dengan [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/berita/gempa-laut-sulawesi-mekanisme-pergerakan-",
-   "fetched_at": "2026-11-16T06:48:23+07:00",
+   "fetched_at": "2026-11-16T16:31:26+07:00",
    "categories": [
     "bencana"
    ],
@@ -80,49 +66,19 @@
    "content": "Gempa Laut Sulawesi Mekanisme Pergerakan Geser Mengguncang Gorontalo Utara dan Buol\n\nDarilaut – Gempa bumi di Laut Sulawesi mengguncang Gorontalo Utara dan Buol Sulawesi Tengah, pada Minggu (15/11) malam. Gempa bumi ini memiliki mekanisme pergerakan geser.\n\nGempa yang tidak berpotensi tsunami terjadi pada pukul pukul 22:41:15 WIB atau 23:41:15 Wita.\n\nHasil analisis Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) menunjukkan gempa bumi ini memiliki parameter update dengan magnitudo magnitude (M)5,4 pada kedalaman 477 km.\n\nDirektur Gempabumi dan Tsunami BMKG Dr. Wijayanto mengatakan episenter gempa bumi terletak pada koordinat 1,81° LU; 122,20° BT, atau tepatnya berlokasi di laut 135 km Barat Laut Gorontalo Utara.\n\nHasil pemodelan tsunami menunjukkan bahwa gempa bumi ini tidak berpotensi tsunami.\n\nDengan memperhatikan lokasi episenter dan kedalaman hiposenternya, gempa bumi yang terjadi merupakan jenis gempa bumi dalam akibat aktivitas deformasi batuan intraplate di laut Sulawesi, kata Wijayanto.\n\nMenurut Wijayanto hasil analisis mekanisme sumber menunjukkan bahwa gempa bumi memiliki mekanisme pergerakan geser (strike slip).\n\nBerdasarkan estimasi peta tingkat guncangan (shakemap), gempa bumi ini dirasakan dengan skala intensitas III MMI (Getaran dirasakan nyata dalam rumah. Terasa getaran seakan akan truk berlalu) di Paleleh dan Buol Sulawesi tengah serta Sumalata dan Tolinggula Gorontalo Utara.\n\nMenginformasikan berbagai perihal tentang laut, pesisir, ikan, kapal, berita terkini dan lain sebagainya."
   },
   {
-   "source": "inews",
+   "source": "mediaindonesia",
    "getter": "auto",
-   "title": "Beri Donasi Rp15 Miliar untuk Korban Bencana, Raffi Ahmad: Dana Pribadi!",
-   "link": "https://www.inews.id/lifestyle/seleb/beri-donasi-rp15-miliar-untuk-korban-bencana-raffi-ahmad-dana-pribadi",
-   "pubDate": "Mon, 16 Nov 2026 13:12:00 +0700",
-   "description": "Raffi Ahmad bersama Ariel, Desta, dan Gading menyiapkan Rp15 miliar untuk korban bencana. Raffi menegaskan dana tersebut berasal dari uang pribadinya.",
-   "fetched_at": "2026-11-16T06:47:58+07:00",
+   "title": "Dampak Angin Kencang di Ciwidey dan Pasirjambu, Ratusan Rumah Rusak",
+   "link": "https://mediaindonesia.com/jabar/berita/956802/dampak-angin-kencang-di-ciwidey-dan-pasirjambu-ratusan-rumah-rusak",
+   "pubDate": "Mon, 16 Nov 2026 22:55:00 +0700",
+   "description": "Rumah dan bangunan yang rusak berada di lima desa/ kelurahan, yaitu Desa/ Kelurahan Ciwidey, Desa/ Kelurahan Tenjolaya, Desa/ Kelurahan Mekarmaju, Desa/ Kelurahan Pasirjambu",
+   "fetched_at": "2026-11-16T16:30:54+07:00",
    "categories": [
     "bencana"
    ],
    "content_status": "partial",
-   "content_chars": 150,
-   "content": "Raffi Ahmad bersama Ariel, Desta, dan Gading menyiapkan Rp15 miliar untuk korban bencana. Raffi menegaskan dana tersebut berasal dari uang pribadinya."
-  },
-  {
-   "source": "liputan6",
-   "getter": "getter2",
-   "title": "Penjelasan Ilmiah soal Dahsyatnya Kekuatan Puting Beliung Saat Awal Musim Hujan",
-   "link": "https://www.liputan6.com/news/read/8335987/penjelasan-ilmiah-soal-dahsyatnya-kekuatan-puting-beliung-saat-awal-musim-hujan",
-   "pubDate": "Mon, 16 Nov 2026 10:46:58 +0700",
-   "description": "Masyarakat harus paham tanda-tanda puting beliung akan muncul.",
-   "fetched_at": "2026-11-16T06:47:31+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 62,
-   "content": "Masyarakat harus paham tanda-tanda puting beliung akan muncul."
-  },
-  {
-   "source": "liputan6",
-   "getter": "getter2",
-   "title": "Gempa Magnitudo 5,4 Guncang Gorontalo Utara",
-   "link": "https://www.liputan6.com/news/read/8335831/gempa-magnitudo-54-guncang-gorontalo-utara",
-   "pubDate": "Sun, 15 Nov 2026 22:51:13 +0700",
-   "description": "Pusat gempa berada pada koordinat 1,79 Lintang Utara dan 122,3 Bujur Timur, dengan kedalaman 465 kilometer.",
-   "fetched_at": "2026-11-16T06:47:31+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 107,
-   "content": "Pusat gempa berada pada koordinat 1,79 Lintang Utara dan 122,3 Bujur Timur, dengan kedalaman 465 kilometer."
+   "content_chars": 173,
+   "content": "Rumah dan bangunan yang rusak berada di lima desa/ kelurahan, yaitu Desa/ Kelurahan Ciwidey, Desa/ Kelurahan Tenjolaya, Desa/ Kelurahan Mekarmaju, Desa/ Kelurahan Pasirjambu"
   }
  ]
 }
