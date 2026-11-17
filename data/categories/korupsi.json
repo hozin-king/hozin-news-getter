@@ -1,102 +1,53 @@
 {
- "updated_at": "2026-11-17T08:36:18+07:00",
+ "updated_at": "2026-11-17T17:03:09+07:00",
  "category": "korupsi",
- "count": 6,
+ "count": 3,
  "articles": [
   {
-   "source": "cnbcindonesia2",
+   "source": "inews",
    "getter": "auto",
-   "title": "Skandal Korupsi Eks Menteri, Ketahuan Kubur Uang Rp 360 M di Hutan",
-   "link": "https://www.cnbcindonesia.com/news/20261116183450-4-785745/skandal-korupsi-eks-menteri-ketahuan-kubur-uang-rp-360-m-di-hutan",
-   "pubDate": "Mon, 16 Nov 2026 22:00:00 +0700",
-   "description": "<img src=\"https://awsimages.detik.net.id/visual/2021/07/02/penggemar-hungaria-mengibarkan-bendera-saat-mereka-menunggu-dimulainya-pertandingan-grup-f-kejuaraan-sepak-bola-euro-2020-anta_169.jpeg?w=1200&amp;q=90\"/> Otoritas Hungaria menemukan hampir US$ 20 juta dalam penyelidikan korupsi mantan Menteri Miklos Sesztak.",
-   "fetched_at": "2026-11-17T00:29:21+07:00",
-   "categories": [
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 3277,
-   "content": "Skandal Korupsi Eks Menteri, Ketahuan Kubur Uang Rp 360 M di Hutan\n\nJakarta, CNBC Indonesia - Otoritas Hungaria menemukan uang tunai senilai nyaris US$ 20 juta (Rp 360 miliar) atau setara 14,8 juta pound sterling (Rp 340 miliar). Uang tersebut disembunyikan di berbagai bangunan pertanian dan dikubur secara diam-diam di kawasan hutan.\n\nMengutip BBC, Senin (16/11/2026), penemuan ini merupakan bagian dari penyelidikan terhadap mantan Menteri Pembangunan Nasional Miklos Sesztak. Ia dituduh menerima suap dalam skema perusahaan transportasi negara, meski ia secara keras telah membantah tuduhan tersebut.\n\nSesztak tercatat menjabat selama empat tahun di bawah masa kekuasaan mantan perdana menteri Viktor Orban yang memimpin selama 16 tahun. Perdana Menteri baru Peter Magyar sukses menggulingkan Orban dalam pemilu pada bulan April lalu lewat kampanye antikorupsi yang masif.\n\nSetelah pencarian selama dua hari berturut-turut, uang tunai fantastis itu ditemukan di berbagai lokasi terpencil. Pada hari Jumat lalu, Magyar langsung merespons penemuan barang bukti tersebut.\n\nKantor Pemulihan dan Perlindungan Aset Nasional (NVVH) merilis detail penemuan dari penyelidikan terhadap Sesztak ini. Penyelidik menemukan tumpukan uang kertas di dalam brankas, terkubur di daerah berhutan, serta tersembunyi di bangunan pertanian, perumahan, hingga gudang.\n\nTotal uang tunai tersebut terdiri dari 5.071.632.000 forint Hungaria (Rp 238 miliar) dan 2.658.350 euro (Rp 50,5 miliar). Ada pula temuan uang tunai senilai US$ 1.257.100 (Rp 22,6 miliar) di dalam penggeledahan tersebut.\n\nTotal nilai gabungan harta haram tersebut mencapai angka US$ 19,5 juta (Rp 351 miliar). Seluruh uang tersebut kini telah disita dan disetorkan secara resmi ke Perbendaharaan Negara Hungaria.\n\nNVVH secara khusus didirikan untuk menyelidiki berbagai tuduhan korupsi selama pemerintahan Orban berkuasa. Perdana Menteri Magyar bahkan menjuluki penyelidikan berskala besar ini sebagai \"Operasi Purgatory\".\n\nMagyar telah berjanji kepada rakyat Hungaria untuk membawa pergantian rezim saat pemilu awal tahun ini. Ia mulai membatalkan banyak kebijakan era Orban secara bertahap sejak resmi memasuki kantor pemerintahan.\n\nTuduhan korupsi dan kronisme memang telah lama membayangi reputasi Orban. Selama masa jabatannya, Orban dituduh telah mengubah Hungaria menjadi negara yang dikategorikan sebagai autokrasi elektoral oleh Uni Eropa.\n\nPemerintahannya menghadapi berbagai tuduhan pemberian proyek pemerintah yang sangat menguntungkan kepada para sekutunya. Namun, Orban secara konsisten membantah keras seluruh klaim negatif tersebut.\n\nDua mantan menterinya, termasuk Sesztak, dan mantan kepala bank sentral Gyorgy Matolcsy telah ditahan sejak September lalu. Mereka ditangkap atas berbagai tuduhan korupsi dalam penyelidikan terpisah, meski semuanya masih menyangkal.\n\nPada hari Senin, pihak berwenang Hungaria kembali melakukan penangkapan di lingkaran Orban. Mereka resmi menahan saudara laki-laki Orban dan tiga orang lainnya sebagai bagian dari kasus penyelundupan manusia.\n\nMantan perdana menteri itu menepis keras seluruh tuduhan dan menyebutnya sebagai bentuk balas dendam politik.\n\n\"Dalam permainan kotor ini, tujuannya adalah melenyapkan lawan politik dan pembentukan sistem satu partai,\" pungkas Orban."
-  },
-  {
-   "source": "timesindonesia",
-   "getter": "auto",
-   "title": "KPK Tahan Staf Anggota DPR RI dalam Kasus Korupsi Dana Hibah Jatim, Terima Rp1,26 Miliar",
-   "link": "https://timesindonesia.co.id/hukum-kriminal/618024/kpk-tahan-staf-anggota-dpr-ri-dalam-kasus-korupsi-dana-hibah-jatim-terima-rp126-miliar",
-   "pubDate": "Tue, 17 Nov 2026 07:07:00 +0000",
-   "description": "KPK menahan BW, staf anggota DPR RI dalam kasus korupsi dana hibah Jatim 2019–2022. BW diduga menerima bagian Rp1,26 miliar dari biaya komitmen.",
-   "fetched_at": "2026-11-17T00:29:21+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 5549,
-   "content": "Kasus dugaan korupsi pengelolaan dana hibah kelompok masyarakat (pokmas) di Pemerintah Provinsi Jawa Timur (Jatim) periode 2019–2022 kembali berkembang. Komisi Pemberantasan Korupsi ( KPK ) menahan BW, staf anggota DPR RI berinisial AS, yang diduga berperan mengoordinasikan aliran dana komitmen dari para koordinator lapangan (korlap).\n\nBW ditahan untuk 20 hari pertama, terhitung sejak 16 November hingga 5 Desember 2026. Penahanan dilakukan di Rumah Tahanan Negara (Rutan) Cabang Gedung Merah Putih KPK, Jakarta.\n\n\"Selanjutnya, terhadap BW dilakukan penahanan untuk 20 hari pertama, yakni terhitung 16 November–5 Desember 2026,\" kata Direktur Penyidikan KPK Achmad Taufik Husein di Gedung Merah Putih KPK, Jakarta, Senin (16/11/2026) malam.\n\nBW merupakan salah satu tersangka dalam pengembangan penyidikan kasus dugaan korupsi dana hibah Jatim.\n\nDiduga Terima Bagian Rp1,26 Miliar dari Dana Komitmen\n\nTaufik menjelaskan, perkara tersebut bermula ketika AS, yang menjabat Wakil Ketua DPRD Jatim periode 2019–2024, diduga memperoleh alokasi dana hibah selama empat tahun berturut-turut.\n\nBerdasarkan hasil penyidikan KPK, AS diduga mendapatkan alokasi dana hibah sebesar Rp48,9 miliar pada 2019, Rp27,6 miliar pada 2020, Rp121,3 miliar pada 2021, dan Rp83,7 miliar pada 2022.\n\nDengan demikian, total alokasi dana hibah yang diduga diterima AS selama periode tersebut mencapai Rp291,5 miliar.\n\nDalam pelaksanaannya, AS diduga meminta biaya komitmen sebesar 15–20 persen kepada anggota DPRD Jatim yang mengajukan pergeseran alokasi dana hibah antaranggota dewan.\n\nSelain itu, AS juga diduga memungut biaya komitmen sebesar 20–25 persen dari para koordinator lapangan (korlap) yang bertugas membentuk pokmas dan menyusun proposal permohonan dana hibah.\n\nUntuk menjalankan mekanisme tersebut, AS diduga menugaskan BW mengoordinasikan usulan pekerjaan yang bersumber dari dana hibah.\n\nBW juga bertugas menjadi penghubung sekaligus koordinator para korlap, memverifikasi kelengkapan usulan, serta menyampaikan dan mengoordinasikan penyerahan biaya komitmen dari para korlap.\n\nSelain itu, BW diduga mengelola uang yang diserahkan para korlap hingga merekapitulasi setiap pengeluaran AS.\n\nTaufik mengungkapkan, dari penyerahan biaya komitmen selama periode 2019–2022, AS diduga menerima total Rp41,7 miliar. Dari jumlah tersebut, sekitar Rp40,5 miliar diperuntukkan bagi AS, sedangkan BW diduga memperoleh bagian sekitar Rp1,26 miliar.\n\n\"Dari penyerahan permintaan atas commitment fee (biaya komitmen) dalam periode 2019–2022, AS menerima total sejumlah Rp41,7 miliar, yang mana sebesar Rp40,5 miliar untuk AS, sementara BW mendapatkan jatah lebih kurang senilai Rp1,26 miliar,\" ujar Taufik.\n\nKPK Jerat BW dan AS dengan Pasal Tindak Pidana Korupsi\n\nAtas perbuatannya, KPK menduga BW bersama AS melanggar Pasal 12 huruf a atau huruf b atau Pasal 11 Undang-Undang Nomor 31 Tahun 1999 tentang Pemberantasan Tindak Pidana Korupsi sebagaimana telah diubah dengan Undang-Undang Nomor 20 Tahun 2001 juncto Pasal 55 ayat (1) ke-1 Kitab Undang-Undang Hukum Pidana (KUHP).\n\nPenahanan BW merupakan bagian dari pengembangan penyidikan perkara dugaan korupsi dana hibah Jatim yang telah menetapkan puluhan orang sebagai tersangka.\n\nSebelumnya, KPK mengumumkan penetapan 21 tersangka pada 2 Oktober 2025. Perkara ini merupakan pengembangan dari operasi tangkap tangan (OTT) terhadap Wakil Ketua DPRD Jatim periode 2019–2024, Sahat Tua Simanjuntak, pada Desember 2022.\n\nNamun, pada 16 Desember 2025, KPK menghentikan penyidikan terhadap salah satu tersangka, yakni Ketua DPRD Jatim periode 2019–2024 Kusnadi, karena yang bersangkutan meninggal dunia.\n\nDengan demikian, terdapat 20 tersangka lainnya yang masih diproses dalam perkara tersebut.\n\nDaftar 20 Tersangka Kasus Dana Hibah Jatim\n\nDari 20 tersangka tersebut, KPK mengelompokkan tiga orang sebagai tersangka penerima suap dan 17 orang sebagai tersangka pemberi suap.\n\nA. Tiga tersangka penerima suap:\n\nAS, Wakil Ketua DPRD Jatim periode 2019–2024.\n\nAI, Wakil Ketua DPRD Jatim periode 2019–2024.\n\nBW, staf AS.\n\nB. Sebanyak 17 tersangka pemberi suap:\n\nM, anggota DPRD Jatim periode 2019–2024.\n\nFA, Wakil Ketua DPRD Sampang periode 2019–2024.\n\nJJ, Wakil Ketua DPRD Probolinggo periode 2019–2024.\n\nAH, pihak swasta dari Sampang.\n\nAA, pihak swasta dari Sampang.\n\nAM, pihak swasta dari Sampang.\n\nMoch. Mahrus, pihak swasta dari Probolinggo sekaligus anggota DPRD Jatim periode 2024–2029.\n\nAR, pihak swasta dari Tulungagung.\n\nWawan Kristiawan, pihak swasta dari Tulungagung.\n\nSukar, mantan kepala desa dari Tulungagung.\n\nRa Wahid Ruslan, pihak swasta dari Bangkalan.\n\nM, pihak swasta dari Bangkalan.\n\nM. Fathullah, pihak swasta dari Pasuruan.\n\nAchmad Yahya, pihak swasta dari Pasuruan.\n\nAJ, pihak swasta dari Sumenep.\n\nHasanuddin, pihak swasta dari Gresik sekaligus anggota DPRD Jatim periode 2024–2029.\n\nJodi Pradana Putra, pihak swasta dari Blitar.\n\nDelapan Tersangka Telah Ditahan hingga Juli 2026\n\nDalam perkembangan sebelumnya, hingga 28 Juli 2026, KPK telah menahan delapan dari 20 tersangka dalam perkara korupsi dana hibah Jatim tersebut.\n\nEmpat tersangka, yakni Wawan Kristiawan, Sukar, Hasanuddin, dan Jodi Pradana Putra, masuk dalam klaster dugaan suap terhadap Kusnadi.\n\nSementara itu, empat tersangka lainnya, yakni Achmad Yahya, M. Fathullah, Ra Wahid Ruslan, dan Moch. Mahrus, masuk dalam klaster dugaan suap terhadap AS dan BW.\n\nDari delapan tersangka yang telah ditahan tersebut, empat orang telah divonis bersalah oleh majelis hakim. Adapun empat tersangka lainnya masih menjalani proses persidangan. (*)"
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Kejati Jatim Tetapkan Mantan Kadis ESDM Nurkholis sebagai Tersangka Baru Kasus Dugaan Pungli Perizinan",
-   "link": "https://beritajatim.com/kejati-jatim-tetapkan-mantan-kadis-esdm-nurkholis-sebagai-tersangka-baru-kasus-dugaan-pungli-perizinan",
-   "pubDate": "Mon, 16 Nov 2026 22:18:20 +0000",
-   "description": "<a href=\"https://beritajatim.com/kejati-jatim-tetapkan-mantan-kadis-esdm-nurkholis-sebagai-tersangka-baru-kasus-dugaan-pungli-perizinan\" title=\"Kejati Jatim Tetapkan Mantan Kadis ESDM Nurkholis sebagai Tersangka Baru Kasus Dugaan Pungli Perizinan\" rel=\"nofollow\"><img width=\"576\" height=\"324\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/1002043200_11zon.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-w",
-   "fetched_at": "2026-11-17T00:28:59+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "korupsi"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "<a href=\"https://beritajatim.com/kejati-jatim-tetapkan-mantan-kadis-esdm-nurkholis-sebagai-tersangka-baru-kasus-dugaan-pungli-perizinan\" title=\"Kejati Jatim Tetapkan Mantan Kadis ESDM Nurkholis sebagai Tersangka Baru Kasus Dugaan Pungli Perizinan\" rel=\"nofollow\"><img width=\"576\" height=\"324\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/1002043200_11zon.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-w"
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Operasi Zebra Semeru 2026, Wakapolres Pamekasan Tegaskan Tiga Prioritas dan Larang Pungli",
-   "link": "https://beritajatim.com/operasi-zebra-semeru-2026-wakapolres-pamekasan-tegaskan-tiga-prioritas-dan-larang-pungli",
-   "pubDate": "Mon, 16 Nov 2026 15:56:53 +0000",
-   "description": "<a href=\"https://beritajatim.com/operasi-zebra-semeru-2026-wakapolres-pamekasan-tegaskan-tiga-prioritas-dan-larang-pungli\" title=\"Operasi Zebra Semeru 2026, Wakapolres Pamekasan Tegaskan Tiga Prioritas dan Larang Pungli\" rel=\"nofollow\"><img width=\"720\" height=\"504\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/IMG_20261116_211124.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbn",
-   "fetched_at": "2026-11-17T00:28:59+07:00",
-   "categories": [
-    "korupsi"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "<a href=\"https://beritajatim.com/operasi-zebra-semeru-2026-wakapolres-pamekasan-tegaskan-tiga-prioritas-dan-larang-pungli\" title=\"Operasi Zebra Semeru 2026, Wakapolres Pamekasan Tegaskan Tiga Prioritas dan Larang Pungli\" rel=\"nofollow\"><img width=\"720\" height=\"504\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/IMG_20261116_211124.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbn"
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "Kejagung Periksa Wali Kota Bekasi terkait Kasus Dugaan Korupsi Tata Kelola KSO Pertamina",
-   "link": "https://nasional.sindonews.com/read/1772903/13/kejagung-periksa-wali-kota-bekasi-terkait-kasus-dugaan-korupsi-tata-kelola-kso-pertamina-1794874272",
-   "pubDate": "Tue, 17 Nov 2026 07:18:05 +0700",
-   "description": "Penyidik Kejaksaan Agung (Kejagung) menjadwalkan pemeriksaan Wali Kota Bekasi Tri Adhianto dalam kasus dugaan tindak pidana korupsi Kerja Sama Operasi (KSO) antara PT Minyak dan Gas Bumi (Perseroda) Kota Bekasi dengan PT Pertamina EP periode 2009-2024. Pemeriksaan dilakukan hari ini, Selasa (17/11/2026).",
-   "fetched_at": "2026-11-17T00:28:54+07:00",
+   "title": "KPK Periksa Camat hingga Belasan Kepala Dinas, Usut Kasus Bupati Klaten Hamenang",
+   "link": "https://www.inews.id/news/nasional/kpk-periksa-camat-hingga-belasan-kepala-dinas-usut-kasus-bupati-klaten-hamenang",
+   "pubDate": "Tue, 17 Nov 2026 15:08:00 +0700",
+   "description": "KPK memanggil 18 saksi terkait kasus dugaan korupsi yang menjerat Bupati Klaten nonaktif, Hamenang Wajar Ismoyo, Selasa (17/11/2026)",
+   "fetched_at": "2026-11-17T08:24:52+07:00",
    "categories": [
     "korupsi",
     "pemerintahan"
    ],
    "content_status": "partial",
-   "content_chars": 305,
-   "content": "Penyidik Kejaksaan Agung (Kejagung) menjadwalkan pemeriksaan Wali Kota Bekasi Tri Adhianto dalam kasus dugaan tindak pidana korupsi Kerja Sama Operasi (KSO) antara PT Minyak dan Gas Bumi (Perseroda) Kota Bekasi dengan PT Pertamina EP periode 2009-2024. Pemeriksaan dilakukan hari ini, Selasa (17/11/2026)."
+   "content_chars": 132,
+   "content": "KPK memanggil 18 saksi terkait kasus dugaan korupsi yang menjerat Bupati Klaten nonaktif, Hamenang Wajar Ismoyo, Selasa (17/11/2026)"
   },
   {
-   "source": "sindonews",
+   "source": "inews",
    "getter": "auto",
-   "title": "Jadi Target Penyadapan Ilegal Listyo Sigit Cs, KPK Yakin Tidak terkait Isu Kebocoran Info OTT",
-   "link": "https://nasional.sindonews.com/read/1772891/13/jadi-target-penyadapan-ilegal-listyo-sigit-cs-kpk-yakin-tidak-terkait-isu-kebocoran-info-ott-1794870696",
-   "pubDate": "Tue, 17 Nov 2026 06:33:07 +0700",
-   "description": "Komisi Pemberantasan Korupsi (KPK) menjadi salah satu target penyadapan ilegal yang dilakukan Mantan Kapolri Jenderal Listyo Sigit Prabowo Cs.",
-   "fetched_at": "2026-11-17T00:28:54+07:00",
+   "title": "KPK Panggil 10 Saksi terkait Kasus Korupsi di ATR/BPN, Kakantah hingga Kakanwil",
+   "link": "https://www.inews.id/news/nasional/kpk-panggil-10-saksi-terkait-kasus-korupsi-di-atrbpn-kakantah-hingga-kakanwil",
+   "pubDate": "Tue, 17 Nov 2026 15:02:00 +0700",
+   "description": "KPK menjadwalkan pemeriksaan terhadap 10 saksi terkait kasus dugaan suap di lingkungan Kementerian ATR/BPN, Selasa (17/11/2026).",
+   "fetched_at": "2026-11-17T08:24:52+07:00",
    "categories": [
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 142,
-   "content": "Komisi Pemberantasan Korupsi (KPK) menjadi salah satu target penyadapan ilegal yang dilakukan Mantan Kapolri Jenderal Listyo Sigit Prabowo Cs."
+   "content_chars": 128,
+   "content": "KPK menjadwalkan pemeriksaan terhadap 10 saksi terkait kasus dugaan suap di lingkungan Kementerian ATR/BPN, Selasa (17/11/2026)."
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "Jadi Sasaran Penyadapan, KPK Sebut Ada Satu Perkara yang Terkonfirmasi Bocor",
+   "link": "https://news.republika.co.id/berita/tomzsi487/jadi-sasaran-penyadapan-kpk-sebut-ada-satu-perkara-yang-terkonfirmasi-bocor",
+   "pubDate": "Tue, 17 Nov 2026 15:05:06 +0700",
+   "description": "JAKARTA -- Komisi Pemberantasan Korupsi (KPK) menjamin dugaan penyadapan ilegal yang diduga dilakukan eks kapolri Jenderal Listyo Sigit Prabowo (LSP) terhadap lembaga antirasuah tak menyangkut isu kebocoran informasi operasi...",
+   "fetched_at": "2026-11-17T08:24:49+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 227,
+   "content": "JAKARTA -- Komisi Pemberantasan Korupsi (KPK) menjamin dugaan penyadapan ilegal yang diduga dilakukan eks kapolri Jenderal Listyo Sigit Prabowo (LSP) terhadap lembaga antirasuah tak menyangkut isu kebocoran informasi operasi..."
   }
  ]
 }
