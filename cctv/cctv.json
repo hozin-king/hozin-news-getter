@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-18T09:46:39+07:00",
+ "updated_at": "2026-11-18T18:11:30+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3561,13 +3561,6 @@
      "stream": "https://pptrlive.co.id/memfs/f291992a-5818-478f-a9ff-ee35bace1a36.m3u8",
      "lat": 1.09386326,
      "lon": -6.9340581
-    },
-    {
-     "nama": "TI 252 JALUR A",
-     "lokasi": "TI 252 JALUR A",
-     "stream": "https://pptrlive.co.id/memfs/4ead0cd9-1f7b-4020-a8b5-02e9357cf7cf.m3u8",
-     "lat": -6.906086,
-     "lon": 108.915
     },
     {
      "nama": "TI 275 JALUR A",
