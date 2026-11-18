@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-18T03:37:26Z",
+  "generated_at": "2026-11-18T12:56:19Z",
   "source": "SANS Internet Storm Center (DShield)",
   "source_url": "https://isc.sans.edu/",
   "window": "100 sumber penyerang teratas + 10 IP teratas 24 jam (SANS DShield)",
-  "total_reports_today": 132166,
-  "total_sources_today": 18320,
+  "total_reports_today": 5152148,
+  "total_sources_today": 96342,
   "countries": [
     {
       "c": "US",
-      "n": 879291,
+      "n": 886099,
       "ips": 93
     },
     {
@@ -28,12 +28,17 @@
     },
     {
       "c": "SG",
-      "n": 9484,
-      "ips": 6
+      "n": 8037,
+      "ips": 5
     },
     {
       "c": "RU",
       "n": 7310,
+      "ips": 1
+    },
+    {
+      "c": "CN",
+      "n": 1482,
       "ips": 1
     }
   ]
