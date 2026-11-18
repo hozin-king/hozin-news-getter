@@ -1,37 +1,153 @@
 {
- "updated_at": "2026-11-18T09:08:08+07:00",
+ "updated_at": "2026-11-18T17:01:43+07:00",
  "category": "korupsi",
- "count": 2,
+ "count": 9,
  "articles": [
   {
-   "source": "wartaekonomi",
+   "source": "antarafoto",
    "getter": "auto",
-   "title": "Setelah Listyo Sigit Tertangkap dan Mundurnya Gibran, Mahfud MD: Masalah Hukum Terkait Jokowi Sangat Mungkin Muncul Lagi",
-   "link": "https://wartaekonomi.co.id/read648588/setelah-listyo-sigit-tertangkap-dan-mundurnya-gibran-mahfud-md-masalah-hukum-terkait-jokowi-sangat-mungkin-muncul-lagi",
-   "pubDate": "Wed, 18 Nov 2026 05:30:00 +0700",
-   "description": "Sebagai contoh, ia menyebut laporan dari Ubedilah Badrun (soal KKN) yang menurutnya telah lama diterima secara resmi oleh Komisi Pemberantasan Korupsi (KPK).",
-   "fetched_at": "2026-11-18T00:02:41+07:00",
+   "title": "Sidang lanjutan korupsi mantan Gubernur Lampung",
+   "link": "https://www.antarafoto.com/id/view/2909243/sidang-lanjutan-korupsi-mantan-gubernur-lampung",
+   "pubDate": "Wed, 18 Nov 2026 14:15:02 +0700",
+   "description": "Terdakwa kasus dugaan korupsi pengelolaan dana participating interest (PI) 10 persen pada PT Lampung Energi Berjaya (LEB) Arinal Djunaidi (kanan) berjalan menuju ruang sidang sebelum menjalani sidang di Pangadilan Tipikor Tanjungkarang, Bandar Lampung, Lampung, Rabu (18/11/2026). Sidang mantan Gubernur Lampung Arinal Djunaidi tersebut beragenda mendengarkan keterangan saksi-saksi terkait kasus korupsi yang merugikan negara Rp271 miliar. ANTARA FOTO/Ardiansyah/agr",
+   "fetched_at": "2026-11-18T07:19:49+07:00",
    "categories": [
-    "korupsi"
+    "hukum-kriminal",
+    "korupsi",
+    "pemerintahan"
    ],
    "content_status": "partial",
-   "content_chars": 157,
-   "content": "Sebagai contoh, ia menyebut laporan dari Ubedilah Badrun (soal KKN) yang menurutnya telah lama diterima secara resmi oleh Komisi Pemberantasan Korupsi (KPK)."
+   "content_chars": 467,
+   "content": "Terdakwa kasus dugaan korupsi pengelolaan dana participating interest (PI) 10 persen pada PT Lampung Energi Berjaya (LEB) Arinal Djunaidi (kanan) berjalan menuju ruang sidang sebelum menjalani sidang di Pangadilan Tipikor Tanjungkarang, Bandar Lampung, Lampung, Rabu (18/11/2026). Sidang mantan Gubernur Lampung Arinal Djunaidi tersebut beragenda mendengarkan keterangan saksi-saksi terkait kasus korupsi yang merugikan negara Rp271 miliar. ANTARA FOTO/Ardiansyah/agr"
   },
   {
-   "source": "sindonews",
+   "source": "antarafoto",
    "getter": "auto",
-   "title": "KPK Telusuri Dugaan Penyimpangan Keuangan Pemkab Klaten Lewat Pemeriksaan Inspektur",
-   "link": "https://nasional.sindonews.com/read/1773299/13/kpk-telusuri-dugaan-penyimpangan-keuangan-pemkab-klaten-lewat-pemeriksaan-inspektur-1794957087",
-   "pubDate": "Wed, 18 Nov 2026 06:54:14 +0700",
-   "description": "Komisi Pemberantasan Korupsi (KPK) memeriksa Inspektur Daerah Klaten Agus Suprapto di Kantor KPPN Surakarta pada Senin (16/11/2026).",
-   "fetched_at": "2026-11-18T00:02:35+07:00",
+   "title": "Sidang lanjutan korupsi mantan Gubernur Lampung",
+   "link": "https://www.antarafoto.com/id/view/2909239/sidang-lanjutan-korupsi-mantan-gubernur-lampung",
+   "pubDate": "Wed, 18 Nov 2026 14:15:02 +0700",
+   "description": "Terdakwa kasus dugaan korupsi pengelolaan dana participating interest (PI) 10 persen pada PT Lampung Energi Berjaya (LEB) Arinal Djunaidi turun dari mobil tahanan sebelum menjalani sidang di Pangadilan Tipikor Tanjungkarang, Bandar Lampung, Lampung, Rabu (18/11/2026). Sidang mantan Gubernur Lampung Arinal Djunaidi tersebut beragenda mendengarkan keterangan saksi-saksi terkait kasus korupsi yang merugikan negara Rp271 miliar. ANTARA FOTO/Ardiansyah/agr",
+   "fetched_at": "2026-11-18T07:19:49+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 455,
+   "content": "Terdakwa kasus dugaan korupsi pengelolaan dana participating interest (PI) 10 persen pada PT Lampung Energi Berjaya (LEB) Arinal Djunaidi turun dari mobil tahanan sebelum menjalani sidang di Pangadilan Tipikor Tanjungkarang, Bandar Lampung, Lampung, Rabu (18/11/2026). Sidang mantan Gubernur Lampung Arinal Djunaidi tersebut beragenda mendengarkan keterangan saksi-saksi terkait kasus korupsi yang merugikan negara Rp271 miliar. ANTARA FOTO/Ardiansyah/agr"
+  },
+  {
+   "source": "cnbcindonesia2",
+   "getter": "auto",
+   "title": "Tok! RUU Perampasan Aset Disetujui DPR, Ini Poin Penting Pengaturannya",
+   "link": "https://www.cnbcindonesia.com/news/20261118133154-4-786284/tok-ruu-perampasan-aset-disetujui-dpr-ini-poin-penting-pengaturannya",
+   "pubDate": "Wed, 18 Nov 2026 13:38:00 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/06/26/gedung-nusantara-di-kompleks-mpr-dpr-dpr-parlemen-ri-jakarta-cnbc-indonesiafaisal-rahman-1782439538432_169.jpeg?w=1200&amp;q=90\"/> Komisi III DPR telah menyetujui laporan panja RUU Perampasan Aset Terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya",
+   "fetched_at": "2026-11-18T07:19:44+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 3793,
+   "content": "Tok! RUU Perampasan Aset Disetujui DPR, Ini Poin Penting Pengaturannya\n\nJakarta, CNBC Indonesia - Komisi III DPR telah menyetujui laporan panitia kerja atau panja RUU Perampasan Aset Terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya untuk disepakati di tingkat I dan dibawa ke pembahasan tingkat II dalam Rapat Paripurna DPR mendatang.\n\nPersetujuan terhadap hasil pembahasan panja ini dipimpin langsung oleh Wakil Ketua DPR dari Fraksi Gerindra Sufmi Dasco Ahmad di ruang rapat Komisi III DPR, Rabu (18/11/2026).\n\n\"Kami minta pendapat dari pihak anggota dan pemerintah apakah laporan dari panja dapat disetujui?\" tanya Dasco dan dijawab setuju oleh para anggota DPR dan perwakilan pemerintah.\n\nDalam laporannya, Ketua Panja RUU Perampasan Aset yang juga merupakan Ketua Komisi III DPR dari Fraksi Gerindra Habiburokhman mengatakan, ada 10 poin penting pengaturan yang termuat dalam RUU Perampasan Aset.\n\nPoin-poin penting ini kata dia hasil pembahasan panja terhadap naskah RUU melalui pembahasan daftar inventarisasi masalah (DIM) yang jumlahnya 397. Terdiri dari DIM tetap 160, DIM redaksional 135, DIM substansi 40, DIM dihapus 44, dan DIM substansi baru 18.\n\n\"Di sela-sela pembahasan, panja terus menggali berbagai saran, aspriasi, dan masukan masyarakat, para ahli, semata dilakuan untuk memberi pencarahan dan pengayaan dalam pembahasan mewujudkan RUU Perampasan Aset terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya,\" tegas Habiburrokhman.\n\nAdapun poin-poin penting yang menjadi pokok pembahasan panja dan telah disepakati para anggota Komisi III DPR sebagai berikut:\n\nDalam pembahasan ini yang dikedepankan dalam perampasan aset guna menjamin efektitivitas, proporsionalitas, akuntabiltias, dan perlindungan HAM.\n\n2. Ruang lingkup tindak pidana, jenis, nilai dan kriteria dalam perampasan aset terkait tindak pindana korupsi dan lainnya\n\nTermasuk penipuan dan penggelapan yang menggunakan sarana teknologi informasi dan komunikasi, serta berdampak kepada masyarakat banyak seperti investasi bodong, perdagangan saham bodong, yang menurut Habiburrokhman jumlah korbannya sangat banyak dan menanti keadilan.\n\n3. Penegasan pada tetap berlakunya ancaman pidana pada tindak pidana korupsi dan lainnya\n\nDalam pengaturannya ini termasuk ancaman pidana mati sesuai ketentuan perundang-undangan.\n\n4. Pengaturan prosedur, pembagian kewenangan yang jelas dalam hukum acara perampasan aset tanpa putusan pidana\n\nPengaturan prosedur ini dimulai dari penelusuran, penghentian transaksi, pemblokiran, penyitaan, pengajuan permohonan, pemeriksaan di sidang pengadilan, putusan pengadilan, hingga pelaksanaan putusan.\n\n5. Jaminan perlindungan kepada pihak ketiga yang beritikad baik dengan beban pembuktian dan kesempatan yang berimbang.\n\n6. Jaminan upaya yang optimal dalam pengembalian aset kepada para korban tindak pidana dan pemanfaatan untuk kepentingan masyarakat banyak.\n\n7. Tugas dan kewenangan pengelolaan aset terkait tindak pidana\n\nDilakukan oleh badan yang kompeten dalam melakukan pengelolaan aset secara profesional dan akuntabel mulai dari penyimpanan, pengamanan, pemeliharaan, pemanfaatan, penjualan, hingga pengembalian, serta pelepasannya.\n\n8. Pengawasan terhadap pelaksanaan mekanisme perampasan aset dan pengelolaan aset oleh badan yang independen.\n\nTerkait ini, pengaturan dilakukan agar perampasan aset tidak semata-mata digunakan sebagai sarana untuk menyalahgunakan kewenangan oleh aparat penegak hukum\n\n10. Pemanfaatan teknologi dan sistem informasi melalui sistem pengelolaan aset yang mengedepankan transparansi dan akuntabiltias.\n\n\"Demikian laporan panja Komisi III DPR tentang RUU perampasan aset terkait tindak pidana korupsi agar menjadi pertimbangan komisi III DPR untuk dilanjutkan pembahasan tingkat selanjutnya bersama pemerintah,\" ucap Habiburrokhman."
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "KPK Dalami Proyek di Satpol PP, Damkar, dan 16 Dinas Pemkab Klaten",
+   "link": "https://www.akurat.co/hukum/907663/kpk-dalami-proyek-di-satpol-pp-damkar-dan-16-dinas-pemkab-klaten",
+   "pubDate": "Wed, 18 Nov 2026 08:24:50 +0700",
+   "description": "",
+   "fetched_at": "2026-11-18T07:19:23+07:00",
+   "categories": [
+    "kebakaran",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 0,
+   "content": ""
+  },
+  {
+   "source": "akurat",
+   "getter": "auto",
+   "title": "KPK Periksa Tiga Pejabat ATR/BPN Terkait Dugaan Suap",
+   "link": "https://www.akurat.co/hukum/907751/kpk-periksa-tiga-pejabat-atr-bpn-terkait-dugaan-suap",
+   "pubDate": "Wed, 18 Nov 2026 14:11:03 +0700",
+   "description": "",
+   "fetched_at": "2026-11-18T07:19:23+07:00",
    "categories": [
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 132,
-   "content": "Komisi Pemberantasan Korupsi (KPK) memeriksa Inspektur Daerah Klaten Agus Suprapto di Kantor KPPN Surakarta pada Senin (16/11/2026)."
+   "content_chars": 0,
+   "content": ""
+  },
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "KPK Periksa Lagi Eks Dirut BJB Yuddy Renaldi Tersangka Korupsi Pengadaan Iklan",
+   "link": "https://www.inews.id/news/nasional/kpk-periksa-lagi-eks-dirut-bjb-yuddy-renaldi-tersangka-korupsi-pengadaan-iklan",
+   "pubDate": "Wed, 18 Nov 2026 14:15:00 +0700",
+   "description": "KPK kembali memeriksa mantan Dirut BJB Yuddy Renaldi sebagai tersangka kasus dugaan korupsi pengadaan iklan. Empat tersangka lainnya telah ditahan.",
+   "fetched_at": "2026-11-18T07:19:18+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 147,
+   "content": "KPK kembali memeriksa mantan Dirut BJB Yuddy Renaldi sebagai tersangka kasus dugaan korupsi pengadaan iklan. Empat tersangka lainnya telah ditahan."
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "KPK Bocorkan Modus Berbagi Proyek Dana Bencana BNPB",
+   "link": "https://news.republika.co.id/berita/tooq6h487/kpk-bocorkan-modus-berbagi-proyek-dana-bencana-bnpb",
+   "pubDate": "Wed, 18 Nov 2026 13:32:41 +0700",
+   "description": "JAKARTA -- Komisi Pemberantasan Korupsi (KPK) membocorkan sejumlah modus pengerjaan proyek pengadaan di BNPB yang memakai dana siap pakai (DSP) kebencanaan. Modus-modus itu digunakan agar perusahaan tertentu mendapat penunjukan...",
+   "fetched_at": "2026-11-18T07:19:16+07:00",
+   "categories": [
+    "bencana",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 230,
+   "content": "JAKARTA -- Komisi Pemberantasan Korupsi (KPK) membocorkan sejumlah modus pengerjaan proyek pengadaan di BNPB yang memakai dana siap pakai (DSP) kebencanaan. Modus-modus itu digunakan agar perusahaan tertentu mendapat penunjukan..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "KPK periksa dua Direktur Jenderal Kementerian ATR/BPN sebagai saksi",
+   "link": "https://www.antaranews.com/berita/5861951/kpk-periksa-dua-direktur-jenderal-kementerian-atr-bpn-sebagai-saksi",
+   "pubDate": "Wed, 18 Nov 2026 14:09:43 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/03/pemeriksaan-lanjutan-arif-sugiyanto-2898427.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) memeriksa dua Direktur Jenderal Kementerian Agraria dan Tata Ruang/Badan Pertanahan ...",
+   "fetched_at": "2026-11-18T07:18:51+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 259,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/03/pemeriksaan-lanjutan-arif-sugiyanto-2898427.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) memeriksa dua Direktur Jenderal Kementerian Agraria dan Tata Ruang/Badan Pertanahan ..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "KPK panggil 18 camat sebagai saksi kasus Bupati Klaten nonaktif",
+   "link": "https://www.antaranews.com/berita/5861891/kpk-panggil-18-camat-sebagai-saksi-kasus-bupati-klaten-nonaktif",
+   "pubDate": "Wed, 18 Nov 2026 13:50:51 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/16/ott-kasus-dugaan-korupsi-di-pemkab-klaten-2886189.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) memanggil 18 camat untuk diperiksa sebagai saksi kasus dugaan korupsi yang menjerat ...",
+   "fetched_at": "2026-11-18T07:18:51+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 265,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/10/16/ott-kasus-dugaan-korupsi-di-pemkab-klaten-2886189.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) memanggil 18 camat untuk diperiksa sebagai saksi kasus dugaan korupsi yang menjerat ..."
   }
  ]
 }
