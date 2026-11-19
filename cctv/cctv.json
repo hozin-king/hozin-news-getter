@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-19T03:01:37+07:00",
+ "updated_at": "2026-11-19T08:53:01+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3365,13 +3365,6 @@
      "stream": "https://cctv.ctptollways.com:2254/streams/cam_17/index.m3u8",
      "lat": -6.235446,
      "lon": 107.099435
-    },
-    {
-     "nama": "MR STA 8",
-     "lokasi": "MR STA 8",
-     "stream": "https://cctv.ctptollways.com:2254/streams/cam_19/index.m3u8",
-     "lat": -6.223123,
-     "lon": 107.086387
     }
    ]
   },
@@ -3568,27 +3561,6 @@
      "stream": "https://pptrlive.co.id/memfs/0ddf763e-ec6d-42f9-b0d8-eee6c0706d23.m3u8",
      "lat": -6.932491,
      "lon": 109.1092
-    }
-   ]
-  },
-  {
-   "nama": "Tol Pemalang-Batang",
-   "sumber": "BPJT",
-   "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
-   "kamera": [
-    {
-     "nama": "SS Pekalongan",
-     "lokasi": "SS Pekalongan",
-     "stream": "https://live.pbtr.co.id:5443/LiveApp/streams/sspkl.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "SS Pemalang",
-     "lokasi": "SS Pemalang",
-     "stream": "https://live.pbtr.co.id:5443/LiveApp/streams/sspmlb.m3u8",
-     "lat": null,
-     "lon": null
     }
    ]
   },
