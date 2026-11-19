@@ -1,37 +1,22 @@
 {
- "updated_at": "2026-11-19T15:27:51+07:00",
+ "updated_at": "2026-11-20T01:02:17+07:00",
  "category": "bencana",
- "count": 10,
+ "count": 7,
  "articles": [
   {
    "source": "pesisirselatankab",
    "getter": "auto",
-   "title": "Sumatera Barat Bersiap Menghadapi Ancaman Bencana Hidrometeorologi, Status Siaga Darurat Ditetapkan 60 Hari",
-   "link": "https://pesisirselatankab.go.id/berita/sumatera-barat-bersiap-menghadapi-ancaman-bencana-hidrometeorologi-status-siaga-darurat-ditetapkan-6",
-   "pubDate": "Thu, 19 Nov 2026 08:25:23 +0700",
-   "description": "Hujan yang turun berjam-jam bukan selalu sekadar perubahan cuaca. Di balik rintiknya, ada ancaman yang bisa datang tanpa banyak aba-aba: sungai meluap, banjir bandang menerjang, tanah longsor menimbun permukiman, hingga cuaca ekstrem yang mengganggu aktivitas masyarakat. Dalam situasi seperti ini…",
-   "fetched_at": "2026-11-19T04:14:01+07:00",
+   "title": "Perkuat Kesiapsiagaan Bencana, BNPB Survei Kelayakan Pemasangan EWS di 13 Nagari Pessel",
+   "link": "https://pesisirselatankab.go.id/berita/perkuat-kesiapsiagaan-bencana-bnpb-survei-kelayakan-pemasangan-ews-di-13-nagari-pessel",
+   "pubDate": "Thu, 19 Nov 2026 15:28:11 +0700",
+   "description": "Upaya memperkuat kesiapsiagaan menghadapi bencana di Kabupaten Pesisir Selatan mulai diarahkan pada pengembangan sistem peringatan dini. Hal tersebut terlihat dari pelaksanaan Focus Group Discussion (FGD) serta survei lapangan untuk mengkaji kelayakan pemasangan peralatan peringatan dini bencana di…",
+   "fetched_at": "2026-11-19T13:30:43+07:00",
    "categories": [
     "bencana"
    ],
    "content_status": "partial",
-   "content_chars": 298,
-   "content": "Hujan yang turun berjam-jam bukan selalu sekadar perubahan cuaca. Di balik rintiknya, ada ancaman yang bisa datang tanpa banyak aba-aba: sungai meluap, banjir bandang menerjang, tanah longsor menimbun permukiman, hingga cuaca ekstrem yang mengganggu aktivitas masyarakat. Dalam situasi seperti ini…"
-  },
-  {
-   "source": "pesisirselatankab",
-   "getter": "auto",
-   "title": "Banjir Rendam 15 Rumah di Kampung Tengah Tapan, BPBD Pessel Minta Warga Siaga",
-   "link": "https://pesisirselatankab.go.id/berita/banjir-rendam-15-rumah-di-kampung-tengah-tapan-bpbd-pessel-minta-warga-siaga",
-   "pubDate": "Wed, 18 Nov 2026 23:43:01 +0700",
-   "description": "Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Pesisir Selatan mengimbau masyarakat, khususnya yang bermukim di sekitar aliran Sungai Batang Tapan dan kawasan rawan banjir, agar meningkatkan kewaspadaan menyusul banjir yang merendam 15 rumah di Nagari Kampung Tengah, Kecamatan Ranah Ampek…",
-   "fetched_at": "2026-11-19T04:14:01+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 296,
-   "content": "Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Pesisir Selatan mengimbau masyarakat, khususnya yang bermukim di sekitar aliran Sungai Batang Tapan dan kawasan rawan banjir, agar meningkatkan kewaspadaan menyusul banjir yang merendam 15 rumah di Nagari Kampung Tengah, Kecamatan Ranah Ampek…"
+   "content_chars": 300,
+   "content": "Upaya memperkuat kesiapsiagaan menghadapi bencana di Kabupaten Pesisir Selatan mulai diarahkan pada pengembangan sistem peringatan dini. Hal tersebut terlihat dari pelaksanaan Focus Group Discussion (FGD) serta survei lapangan untuk mengkaji kelayakan pemasangan peralatan peringatan dini bencana di…"
   },
   {
    "source": "kemhan",
@@ -40,7 +25,7 @@
    "link": "https://www.kemhan.go.id/2026/11/19/kemhan-ri-dan-australia-perkuat-kesiapsiagaan-evakuasi-wni-melalui-the-9th-kresna-ausindo-ttx-2026.html",
    "pubDate": "Thu, 19 Nov 2026 03:30:19 +0000",
    "description": "Jakarta – Kementerian Pertahanan Republik Indonesia (Kemhan RI) bersama Australia menggelar The 9th Kresna Ausindo Table Top Exercise (TTX) 2026...",
-   "fetched_at": "2026-11-19T04:13:57+07:00",
+   "fetched_at": "2026-11-19T13:30:38+07:00",
    "categories": [
     "bencana",
     "pemerintahan"
@@ -56,7 +41,7 @@
    "link": "https://kemenkopmk.go.id/menko-pmk-pimpin-rakor-di-medan-kesiapsiagaan-bencana-kunci-kurangi-dampak-bencana-di-aceh-dan",
    "pubDate": "Tue, 17 Nov 2026 08:11:44 +0000",
    "description": "<span property=\"schema:name\">Menko PMK Pimpin Rakor di Medan: Kesiapsiagaan Bencana Kunci Kurangi Dampak Bencana di Aceh dan Sumatra Utara</span>\n<span rel=\"schema:author\"><a title=\"View user profile.\" href=\"https://kemenkopmk.go.id/user/42\" lang=\"\" about=\"https://kemenkopmk.go.id/user/42\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">humas</a></span>\n<span property=\"schema:dateCreated\" content=\"2026-11-17T08:11:44+00:00\">Tue, 11/17/2026 - 15:11</span>",
-   "fetched_at": "2026-11-19T04:13:53+07:00",
+   "fetched_at": "2026-11-19T13:30:34+07:00",
    "categories": [
     "bencana",
     "pemerintahan"
@@ -66,19 +51,20 @@
    "content": "Menko PMK Pimpin Rakor di Medan: Kesiapsiagaan Bencana Kunci Kurangi Dampak Bencana di Aceh dan Sumatra Utara\n\nKEMENKO PMK – Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan (Menko PMK) Sugiono memimpin Rapat Koordinasi Kesiapsiagaan Bencana Hidrometeorologi di Wilayah Provinsi Aceh dan Sumatra Utara Tahun 2026, di Pangkalan Udara Soewondo, Medan, Sumatra Utara, Senin (16/11/2026). Rapat koordinasi ini bertujuan memastikan kesiapan pemerintah pusat dan daerah dalam mengantisipasi potensi bencana hidrometeorologi menjelang akhir tahun.\n\nDalam rakor tersebut, para kepala daerah menyampaikan perkembangan kondisi dan situasi wilayah masing-masing, khususnya daerah yang sebelumnya terdampak bencana. Paparan tersebut menjadi bahan evaluasi untuk mengidentifikasi kebutuhan penanganan sekaligus merumuskan langkah mitigasi dalam menghadapi potensi bencana pada musim hujan.\n\nMenanggapi laporan tersebut, Menko PMK menegaskan pentingnya kesiapan lintas sektor, terutama di wilayah yang sebelumnya terdampak banjir bandang besar akibat Siklon Senyar pada akhir 2025.\n\n\"Kehadiran kami di sini adalah untuk memastikan kesiapan dan mengantisipasi kemungkinan terjadinya bencana hidrometeorologi di ujung tahun ini,\" ujar Sugiono.\n\nIa menyampaikan bahwa dampak bencana sebelumnya masih menyisakan sejumlah pekerjaan rumah yang perlu diselesaikan, termasuk mengevaluasi kondisi infrastruktur yang telah dibangun melalui proses rehabilitasi dan rekonstruksi. Sejumlah laporan menunjukkan bahwa beberapa infrastruktur, termasuk jembatan yang sebelumnya telah diperbaiki, kembali mengalami kerusakan akibat tingginya intensitas hujan dan perubahan kondisi iklim.\n\nMenurut Sugiono, normalisasi sungai perlu menjadi salah satu prioritas penanganan. Banjir bandang sebelumnya telah meninggalkan endapan sedimen dalam jumlah besar yang memengaruhi kapasitas dan kelancaran aliran sungai. Sementara itu, proses normalisasi membutuhkan waktu serta penanganan yang berkelanjutan.\n\n\"Yang perlu mendapatkan prioritas adalah normalisasi aliran sungai. Hasil atau endapan akibat banjir bandang tahun lalu itu membuat sedimen begitu besar jumlahnya, sementara proses normalisasi membutuhkan waktu yang cukup lama,\" jelasnya.\n\nSelain penanganan infrastruktur, perubahan cuaca juga menjadi faktor penting yang harus diperhitungkan dalam penyusunan langkah mitigasi. Perubahan pola dan karakteristik curah hujan menuntut pemerintah pusat dan daerah untuk menyesuaikan langkah antisipasi berdasarkan potensi ancaman dan karakteristik risiko di masing-masing wilayah.\n\nSugiono juga menyampaikan bahwa Presiden Prabowo Subianto memberikan perhatian khusus terhadap kesiapsiagaan menghadapi bencana hidrometeorologi. Dalam kurun waktu sekitar dua minggu terakhir, Presiden telah menggelar dua kali rapat terbatas untuk membahas perkembangan situasi di Aceh, Sumatra Utara, dan Sumatra Barat.\n\n\"Presiden memberikan perhatian yang sangat besar terhadap perkembangan situasi ini. Dalam kurun waktu kurang lebih dua minggu terakhir, beliau telah dua kali menggelar rapat terbatas yang membahas perkembangan situasi di Aceh, Sumatra Utara, dan Sumatra Barat. Oleh karena itu, kita hadir di sini untuk memastikan berbagai kesiapan yang diperlukan,\" ungkap Sugiono.\n\nMenko PMK menegaskan bahwa keselamatan masyarakat harus menjadi prioritas utama dalam seluruh upaya kesiapsiagaan dan mitigasi bencana. Untuk itu, pemerintah perlu memastikan seluruh langkah antisipasi dipersiapkan secara matang, termasuk kesiapan menghadapi berbagai kemungkinan terburuk selama musim hujan.\n\nSebagai bagian dari upaya tersebut, pemerintah terus memperkuat koordinasi dalam pengembangan dan implementasi sistem peringatan dini bencana yang terintegrasi dan dapat menjangkau masyarakat secara luas. Menko PMK menekankan bahwa peringatan dini tidak hanya berkaitan dengan penyampaian informasi potensi ancaman, tetapi juga harus diikuti dengan kesiapan masyarakat untuk melakukan tindakan antisipatif dan penyelamatan secara cepat dan tepat.\n\nRakor dihadiri Kepala Badan Nasional Penanggulangan Bencana (BNPB) Letjen TNI Kristomei Sianturi, Kepala Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) Teuku Faisal Fathani, Gubernur Sumatra Utara Muhammad Bobby Nasution, serta Wali Kota Medan Rico Tri Putra Bayu. Turut bergabung secara daring jajaran pemerintah daerah, TNI, Polri, dan BPBD dari Provinsi Aceh dan Sumatra Utara, dengan jumlah peserta diperkirakan mencapai 199 orang."
   },
   {
-   "source": "cnbcindonesia",
+   "source": "cnbcindonesia2",
    "getter": "auto",
-   "title": "Siaga Hujan Ekstrem 19 November di Wilayah RI, Cek Peringatan BMKG",
-   "link": "https://www.cnbcindonesia.com/tech/20261119102838-37-786538/siaga-hujan-ekstrem-19-november-di-wilayah-ri-cek-peringatan-bmkg",
-   "pubDate": "Thu, 19 Nov 2026 10:45:00 +0700",
-   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/09/30/pengendara-sepeda-motor-berteduh-saat-hujan-di-bawa-jalan-tol-pondok-pinang-taman-mini-di-kawasan-fatmawati-jakarta-rabu-30920-1790757930740_169.jpeg?w=1200&amp;q=90\"/> BMKG mengingatkan potensi hujan lebat hingga ekstrem di berbagai wilayah Indonesia hari ini. Simak!",
-   "fetched_at": "2026-11-19T04:13:44+07:00",
+   "title": "Dunia Dihantam Petaka Akhir 2026, Indonesia Harus Waspada",
+   "link": "https://www.cnbcindonesia.com/tech/20261119143717-37-786642/dunia-dihantam-petaka-akhir-2026-indonesia-harus-waspada",
+   "pubDate": "Thu, 19 Nov 2026 19:20:00 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/10/28/tampilan-dari-drone-memperlihatkan-sisa-sisa-rumah-dan-masjid-al-mujahidin-di-desa-somang-yang-muncul-kembali-setelah-permukaa-1793176573451_169.jpeg?w=1200&amp;q=90\"/> Indonesia bersiap menghadapi fenomena El Nino ekstrem yang diprediksi puncaknya pada Desember 2026. Simak!",
+   "fetched_at": "2026-11-19T13:30:24+07:00",
    "categories": [
-    "bencana"
+    "bencana",
+    "kebakaran"
    ],
    "content_status": "full",
-   "content_chars": 1407,
-   "content": "Siaga Hujan Ekstrem 19 November di Wilayah RI, Cek Peringatan BMKG\n\nJakarta, CNBC Indonesia - Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) merilis daftar wilayah di Indonesia yang berpotensi mengalami hujan lebat hingga ekstrem hari ini, Kamis (19/11/2026).\n\nBMKG menyebut hujan berintensitas tinggi masih mengguyur sejumlah wilayah Indonesia dalam beberapa hari terakhir. Kondisi ini berpotensi memicu bencana hidrometeorologi, seperti banjir dan tanah longsor, sehingga masyarakat diminta meningkatkan kewaspadaan.\n\nPeningkatan curah hujan dipicu oleh sejumlah fenomena atmosfer, antara lain aktivitas Madden-Julian Oscillation (MJO) Fase 3 di Samudra Hindia, Bibit Siklon Tropis 96S dan 92B, serta gelombang Equatorial Rossby yang melintasi sebagian besar Pulau Jawa.\n\nKondisi ini diperkuat oleh pertemuan dan perlambatan angin (konvergensi), kelembapan udara yang tinggi, serta kondisi atmosfer yang labil. Kombinasi faktor tersebut meningkatkan potensi hujan dengan intensitas sedang hingga lebat, bahkan sangat lebat, di sejumlah wilayah.\n\nLalu, wilayah mana saja yang berpotensi dilanda hujan lebat hari ini?\n\nDilansir dari laporan \"Peringatan Dini Curah Hujan Harian\" BMKG, berikut adalah daftar wilayah yang berpotensi mengalami hujan pada Kamis, 19 November 2026:\n\n2. Wilayah yang berpotensi hujan intensitas lebat-sangat lebat\n\n3. Wilayah yang berpotensi hujan sangat lebat hingga ekstrem"
+   "content_chars": 1997,
+   "content": "Jakarta, CNBC Indonesia - Indonesia akan menyambut akhir tahun dengan fenomena El Nino yang kian menguat. Fenomena iklim ini diprediksi mencapai puncaknya pada Desember 2026 mendatang.\n\nIlmuwan iklim dari Universitas California, Daniel Swain, mengatakan bahwa fenomena El Nino ekstrem kali ini bakal berdampak luas secara global, termasuk Indonesia, dan menjadi peristiwa yang sangat masif.\n\n\"Kita belum pernah melihat peristiwa sebesar ini sebelumnya, apalagi di tengah kondisi iklim dunia yang terus memanas,\" ujarnya.\n\nEl Nino akan memicu kenaikan suhu permukaan laut tertinggi di Samudra Pasifik. Saat ini, anomali suhu harian tercatat telah berada di atas tingkat normal, yakni mencapai 3,3 derajat Celsius.\n\nSenada dengan hal tersebut, Badan Kelautan dan Atmosfer Nasional AS (NOAA) menyatakan bahwa El Nino tahun ini berpotensi menjadi yang terkuat sejak 1950. Sejumlah ilmuwan pun meyakini dampaknya akan jauh lebih parah dibandingkan kejadian-kejadian sebelumnya.\n\nOrganisasi Meteorologi Dunia (WMO) juga mengingatkan bahwa puncak El Nino tahun ini akan terjadi pada Desember 2026, dengan rata-rata anomali suhu permukaan laut diproyeksikan mencapai 4,8 derajat Celsius di atas normal-sekaligus mencetak rekor tertinggi.\n\nDari sisi dampak kemanusiaan, UNICEF memperkirakan lebih dari 347 juta anak di seluruh dunia akan terdampak cuaca ekstrem akibat El Nino, mulai dari kekeringan, banjir, hingga gelombang panas.\n\nSementara itu, Laboratorium Dampak Iklim Universitas Chicago mencatat adanya potensi 451 ribu kematian tambahan yang dipicu oleh paparan suhu panas ekstrem.\n\nKhusus untuk Indonesia, fenomena ini membawa curah hujan di bawah rata-rata yang berpotensi memperpanjang durasi musim kemarau.\n\nKondisi tersebut akan memicu kekeringan yang dapat mengganggu sektor pertanian, menipiskan persediaan air bersih, serta meningkatkan risiko kebakaran hutan dan lahan (karhutla).\n\nMeski demikian, sejumlah wilayah lain juga berpotensi mengalami hujan ekstrem yang turun secara tiba-tiba."
   },
   {
    "source": "darilaut",
@@ -87,7 +73,7 @@
    "link": "https://darilaut.id/berita/potensi-hujan-sangat-lebat-di-sejumlah-wilayah-di-indonesia",
    "pubDate": "Wed, 18 Nov 2026 10:29:30 +0000",
    "description": "<p>Darilaut &#8211; Berdasarkan prakiraan cuaca terkini, sebagian besar wilayah Indonesia berpotensi mengalami hujan dengan intensitas ringan hingga lebat. Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengatakan potensi hujan lebat hingga sangat lebat perlu diwaspadai di Aceh, Sumatera Utara, Sumatera Barat, Riau, Jambi, Sumatera Selatan, Kepulauan Bangka Belitung, Bengkulu, Lampung, Banten, DKI Jakarta, Jawa Barat, Jawa Tengah, [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/beri",
-   "fetched_at": "2026-11-19T04:13:43+07:00",
+   "fetched_at": "2026-11-19T13:30:23+07:00",
    "categories": [
     "bencana"
    ],
@@ -102,7 +88,7 @@
    "link": "https://darilaut.id/berita/risiko-bencana-karakteristik-hujan-dan-potensi-dampak-berbeda-tiap-wilayah",
    "pubDate": "Wed, 18 Nov 2026 10:19:44 +0000",
    "description": "<p>Darilaut &#8211; Menjelang dan selama musim hujan kesiapsiagaan perlu dilakukan sejak dini dan secara berkelanjutan, mengingat karakteristik hujan serta potensi dampaknya dapat berbeda di setiap wilayah, sementara fenomena El Niño masih aktif. Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengimbau masyarakat untuk meningkatkan kesiapsiagaan terhadap potensi bencana hidrometeorologi, seperti banjir, banjir bandang, tanah longsor, dan angin [&#8230;]</p>\n<p>The post <a href=\"https://dar",
-   "fetched_at": "2026-11-19T04:13:43+07:00",
+   "fetched_at": "2026-11-19T13:30:23+07:00",
    "categories": [
     "bencana"
    ],
@@ -111,49 +97,19 @@
    "content": "Risiko Bencana: Karakteristik Hujan dan Potensi Dampak Berbeda Tiap Wilayah\n\nDarilaut – Menjelang dan selama musim hujan kesiapsiagaan perlu dilakukan sejak dini dan secara berkelanjutan, mengingat karakteristik hujan serta potensi dampaknya dapat berbeda di setiap wilayah, sementara fenomena El Niño masih aktif.\n\nBadan Meteorologi, Klimatologi, dan Geofisika (BMKG) mengimbau masyarakat untuk meningkatkan kesiapsiagaan terhadap potensi bencana hidrometeorologi, seperti banjir, banjir bandang, tanah longsor, dan angin kencang seiring masuknya periode musim hujan di berbagai wilayah Indonesia.\n\nKepala BMKG, Teuku Faisal Fathani, menekankan bahwa kesiapsiagaan menghadapi musim hujan tidak hanya dilakukan ketika hujan lebat terjadi, tetapi perlu dibangun melalui pemahaman terhadap potensi bahaya dan risiko bencana di lingkungan masing-masing.\n\nMasyarakat diharapkan dapat mengenali kondisi wilayahnya, mengetahui jalur evakuasi, serta memahami langkah-langkah yang perlu dilakukan ketika terjadi cuaca ekstrem.\n\n“Musim hujan perlu disikapi dengan kesiapsiagaan bersama. Masyarakat tidak perlu panik, tetapi harus memahami potensi risiko di lingkungannya dan melakukan langkah-langkah antisipasi sejak dini,” kata Faisal, Rabu (18/11).\n\nDalam siaran pers, BMKG terus berupaya menyediakan informasi cuaca dan peringatan dini sebagai dasar bagi masyarakat dan pemerintah daerah dalam mengambil langkah mitigasi yang tepat.\n\nMenginformasikan berbagai perihal tentang laut, pesisir, ikan, kapal, berita terkini dan lain sebagainya."
   },
   {
-   "source": "wartaekonomi",
+   "source": "inews",
    "getter": "auto",
-   "title": "Raffi Ahmad dan The Dudas Minus One Turun ke Lokasi Banjir Aceh, Warga Sambut Antusias",
-   "link": "https://wartaekonomi.co.id/read648938/raffi-ahmad-dan-the-dudas-minus-one-turun-ke-lokasi-banjir-aceh-warga-sambut-antusias",
-   "pubDate": "Thu, 19 Nov 2026 10:19:00 +0700",
-   "description": "Raffi Ahmad bersama Ariel, Desta, dan Gading mengunjungi korban banjir di Pidie Jaya. Mereka membawa bantuan kemanusiaan senilai Rp15 miliar.",
-   "fetched_at": "2026-11-19T04:13:17+07:00",
+   "title": "Gunung Karangetang di Sitaro Erupsi, Semburkan Abu Vulkanik 1.000 Meter",
+   "link": "https://www.inews.id/regional/sulut/gunung-karangetang-di-sitaro-erupsi-semburkan-abu-vulkanik-1000-meter",
+   "pubDate": "Thu, 19 Nov 2026 20:11:00 +0700",
+   "description": "Aktivitas vulkanik Gunung Karangetang di Kabupaten Kepulauan Siau-Tagulandang-Biaro (Sitaro), Sulawesi Utara, kembali meningkat, Kamis (19/11/2026) malam WIB.",
+   "fetched_at": "2026-11-19T13:29:55+07:00",
    "categories": [
     "bencana"
    ],
    "content_status": "partial",
-   "content_chars": 141,
-   "content": "Raffi Ahmad bersama Ariel, Desta, dan Gading mengunjungi korban banjir di Pidie Jaya. Mereka membawa bantuan kemanusiaan senilai Rp15 miliar."
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Perempuan di Situbondo Terjatuh ke Sumur 20 Meter, Proses Evakuasi Butuh Hampir 4 Jam",
-   "link": "https://beritajatim.com/perempuan-di-situbondo-terjatuh-ke-sumur-20-meter-proses-evakuasi-butuh-hampir-4-jam",
-   "pubDate": "Thu, 19 Nov 2026 03:51:33 +0000",
-   "description": "<a href=\"https://beritajatim.com/perempuan-di-situbondo-terjatuh-ke-sumur-20-meter-proses-evakuasi-butuh-hampir-4-jam\" title=\"Perempuan di Situbondo Terjatuh ke Sumur 20 Meter, Proses Evakuasi Butuh Hampir 4 Jam\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/nyemplung-sumur.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" deco",
-   "fetched_at": "2026-11-19T04:13:16+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "<a href=\"https://beritajatim.com/perempuan-di-situbondo-terjatuh-ke-sumur-20-meter-proses-evakuasi-butuh-hampir-4-jam\" title=\"Perempuan di Situbondo Terjatuh ke Sumur 20 Meter, Proses Evakuasi Butuh Hampir 4 Jam\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/nyemplung-sumur.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" deco"
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Dramatis, Evakuasi Sopir Truk Pakan Ternak di Timur Mapolsek Sooko Mojokerto Berlangsung 2 Jam",
-   "link": "https://beritajatim.com/dramatis-evakuasi-sopir-truk-pakan-ternak-di-timur-mapolsek-sooko-mojokerto-berlangsung-2-jam",
-   "pubDate": "Thu, 19 Nov 2026 03:43:53 +0000",
-   "description": "<a href=\"https://beritajatim.com/dramatis-evakuasi-sopir-truk-pakan-ternak-di-timur-mapolsek-sooko-mojokerto-berlangsung-2-jam\" title=\"Dramatis, Evakuasi Sopir Truk Pakan Ternak di Timur Mapolsek Sooko Mojokerto Berlangsung 2 Jam\" rel=\"nofollow\"><img width=\"400\" height=\"225\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/thumbnail-25.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thu",
-   "fetched_at": "2026-11-19T04:13:16+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "<a href=\"https://beritajatim.com/dramatis-evakuasi-sopir-truk-pakan-ternak-di-timur-mapolsek-sooko-mojokerto-berlangsung-2-jam\" title=\"Dramatis, Evakuasi Sopir Truk Pakan Ternak di Timur Mapolsek Sooko Mojokerto Berlangsung 2 Jam\" rel=\"nofollow\"><img width=\"400\" height=\"225\" src=\"https://cdnmedia.beritajatim.com/images/2026/11/thumbnail-25.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thu"
+   "content_chars": 158,
+   "content": "Aktivitas vulkanik Gunung Karangetang di Kabupaten Kepulauan Siau-Tagulandang-Biaro (Sitaro), Sulawesi Utara, kembali meningkat, Kamis (19/11/2026) malam WIB."
   }
  ]
 }

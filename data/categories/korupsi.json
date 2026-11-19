@@ -1,89 +1,149 @@
 {
- "updated_at": "2026-11-19T15:27:51+07:00",
+ "updated_at": "2026-11-20T01:02:17+07:00",
  "category": "korupsi",
- "count": 5,
+ "count": 9,
  "articles": [
   {
-   "source": "timesindonesia",
+   "source": "vidio",
    "getter": "auto",
-   "title": "KPK Beri Nilai 92,9 Predikat Istimewa untuk Palangka Raya",
-   "link": "https://timesindonesia.co.id/pemerintahan/618372/kpk-beri-nilai-929-predikat-istimewa-untuk-palangka-raya",
-   "pubDate": "Thu, 19 Nov 2026 08:39:00 +0000",
-   "description": "Kota Palangka Raya meraih nilai 92,9 dengan predikat istimewa dari KPK sebagai calon Kota Percontohan Antikorupsi 2026, sekaligus masuk dalam tujuh daerah program Kabupaten/Kota Ber-AKSI.",
-   "fetched_at": "2026-11-19T04:13:45+07:00",
-   "categories": [
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 3414,
-   "content": "Kota Palangka Raya meraih nilai 92,9 dengan predikat istimewa dalam penilaian calon Kota Percontohan Antikorupsi 2026 oleh Komisi Pemberantasan Korupsi (KPK). Kota ini menjadi satu dari tujuh daerah yang disiapkan menjadi Kabupaten/ Kota Ber-AKSI tahun ini.\n\nPenilaian itu disampaikan Direktur Pembinaan Peran Serta Masyarakat (Ditpermas) KPK sekaligus Ketua Tim Penilai, Ariz Dedy Arham, di Palangka Raya, Rabu (18/11/2026).\n\nSelain Palangka Raya, daerah yang masuk program ini adalah Kabupaten Maros, Asahan, Hulu Sungai Selatan, Bangka Tengah, Garut, dan Kota Tangerang. Untuk pelaksanaan sejumlah kegiatan, KPK mencantumkan Asahan, Hulu Sungai Selatan, dan Palangka Raya sebagai lokus.\n\nMenurut Ariz, pembentukan Kabupaten/Kota Ber-AKSI berlangsung bertahap sepanjang 2026, mulai dari observasi hingga peluncuran.\n\n“Tahapannya dimulai Januari hingga Maret untuk observasi, dilanjutkan bimbingan teknis pada April sampai Mei. Kemudian monitoring dan evaluasi (monev) pada Juni hingga Oktober, penilaian pada November, dan launching pada Desember,” kata Ariz.\n\nPeluncuran dan pemberian penghargaan dijadwalkan bertepatan dengan Hari Antikorupsi Sedunia (Hakordia) 2026.\n\nDalam pelaksanaannya, KPK menggandeng sejumlah kementerian dan lembaga. Kementerian PAN-RB memberikan materi Whistleblowing System (WBS) dan pembangunan Zona Integritas. Kementerian Dalam Negeri menyoroti tata kelola pengaduan masyarakat, sedangkan Kementerian Keuangan menguatkan aspek penganggaran. Ombudsman RI membahas kepatuhan pelayanan publik, sementara BPKP mendampingi penerapan aturan pengadaan barang dan jasa serta pengelolaan keuangan daerah. KPK sendiri memberikan penguatan soal indikator penilaian dan pemberdayaan masyarakat. Pemerintah provinsi juga dilibatkan.\n\nAriz menjelaskan, penilaian tidak hanya melihat komitmen kepala daerah, tetapi juga kualitas tata kelola, sistem pengawasan, dan integritas penyelenggara negara. Ada delapan kriteria utama:\n\n1. Skor Monitoring Center for Prevention (MCP) KPK tahun sebelumnya minimal 75. Palangka Raya mencatat 89,11.\n\n2. Skor Survei Penilaian Integritas (SPI) KPK minimal kategori rentan. Angka yang ditampilkan Palangka Raya 75,04.\n\n3. Nilai SAKIP dari Kementerian PAN-RB minimal BB.\n\n4. Penilaian maladministrasi Ombudsman minimal kategori B. Palangka Raya menampilkan kategori A.\n\n5. Maturitas Sistem Pengendalian Intern Pemerintah (SPIP) dari BPKP minimal level 2. Palangka Raya level 3.\n\n6. Indeks Sistem Pemerintahan Berbasis Elektronik (SPBE) minimal 2,5. Palangka Raya 3,75.\n\n7. Opini BPK Wajar Tanpa Pengecualian (WTP) selama dua tahun terakhir.\n\n8. Tidak ada kepala daerah atau pejabat eselon II yang sedang diselidiki atau disidik dalam kasus korupsi maupun tindak pidana lainnya.\n\nBagi Palangka Raya, kata Ariz, program ini menjadi kesempatan memperkuat tata kelola pemerintahan, meningkatkan kualitas pelayanan publik, dan melibatkan masyarakat dalam pencegahan korupsi. Nilai 92,9 diharapkan menjadi landasan untuk menjaga integritas dan memastikan pemerintahan bersih berjalan konsisten.\n\nNamun, ia mengingatkan bahwa tim penilai masih memberikan sejumlah catatan evaluasi yang harus ditindaklanjuti.\n\n“Sejumlah catatan evaluasi dari tim penilai tetap harus ditindaklanjuti agar predikat tersebut tidak hanya menjadi pencapaian administratif, tetapi benar-benar diwujudkan melalui pemerintahan yang bersih dan pelayanan publik yang berkualitas,” pungkasnya. (*)"
-  },
-  {
-   "source": "cnbcindonesia",
-   "getter": "auto",
-   "title": "Tok! Rapat Paripurna DPR Resmi Sahkan RUU Perampasan Aset Menjadi UU",
-   "link": "https://www.cnbcindonesia.com/news/20261119103526-4-786543/tok-rapat-paripurna-dpr-resmi-sahkan-ruu-perampasan-aset-menjadi-uu",
-   "pubDate": "Thu, 19 Nov 2026 10:43:30 +0700",
-   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/19/rapat-paripurna-sidang-tahunan-2026-2027-1795059469194_169.png?w=1200&amp;q=90\"/> DPR menyetujui RUU Perampasan Aset terkait Tindak Pidana Korupsi. Rapat Paripurna menandai langkah menuju pengambilan keputusan untuk pengesahan UU.",
-   "fetched_at": "2026-11-19T04:13:44+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 5963,
-   "content": "Tok! Rapat Paripurna DPR Resmi Sahkan RUU Perampasan Aset Menjadi UU\n\nJakarta, CNBC Indonesia - Rapat Paripurna Dewan Perwakilan Rakyat menyetujui Rancangan Undang-Undang tentang Perampasan Aset terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya menjadi UU. Persetujuan itu diputuskan dalam rapat paripurna dengan agenda pembicaraan tingkat II/pengambilan keputusan atas RUU tersebut di Ruang Rapat Paripurna DPR, Gedung Nusantara III, Kompleks Parlemen Senayan, Jakarta, Kamis (19/11/2026).\n\nRapat dipimpin oleh Ketua DPR dari Fraksi Partai Demokrasi Indonesia Perjuangan Puan Maharani.\"Jadi sekarang saya akan menanyakan kepada setiap fraksi, apakah RUU tentang Perampasan Aset terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya dapat disetujui dan disahkan menjadi UU. Setuju ya?,\" tanya Puan.\"Setuju,\" jawab peserta Rapat Paripurna DPR.\"Terima kasih. Alhamdulillah,\" kata Puan.Kemarin, Komisi III DPR bersama pemerintah menyepakati RUU tentang Perampasan Aset terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya untuk dilanjutkan ke Pembicaraan Tingkat II dalam Rapat Paripurna DPR. Persetujuan tersebut menjadi hasil pembahasan tingkat I setelah Panitia Kerja seluruh fraksi, dan pemerintah menyelesaikan pembahasan serta menyampaikan pendapat akhir masing-masing.Wakil Ketua DPR Sufmi Dasco Ahmad yang memimpin rapat meminta persetujuan anggota Komisi III DPR RI dan pemerintah untuk membawa RUU tersebut ke pembahasan tingkat selanjutnya. Setelah mendengarkan laporan Panja serta pandangan mini fraksi dan pemerintah, seluruh peserta rapat menyatakan setuju.\"Hadirin yang kami hormati, kami meminta persetujuan dari anggota Komisi III dan pemerintah, apakah naskah RUU Perampasan Aset Tindak Pidana Korupsi dan Tindak Pidana Lainnya dapat dilanjutkan pada Pembicaraan Tingkat II, yaitu pengambilan keputusan atas RUU Perampasan Aset Tindak Pidana Korupsi dan Tindak Pidana Lainnya yang akan dijadwalkan pada Rapat Paripurna DPR terdekat? Setuju?\" ujar Dasco dalam rapat di Ruang Rapat Komisi III, Kompleks Parlemen, Senayan, Jakarta, Rabu (18/11/2026).Seluruh fraksi di Komisi III DPR menyatakan setuju agar RUU tersebut dilanjutkan ke Pembicaraan Tingkat II. Dalam pendapat mini masing-masing, fraksi turut menekankan pentingnya pengawasan pengadilan, perlindungan terhadap pihak ketiga yang beritikad baik, serta pembentukan badan pengelola dan badan pengawas aset. Sejumlah catatan tersebut diarahkan untuk memastikan kewenangan perampasan aset berjalan secara akuntabel dan tidak disalahgunakan.Sebelumnya, Ketua Panja RUU Perampasan Aset Habiburokhman menyampaikan laporan hasil pembahasan. Ia menjelaskan, Panja telah membahas 397 Daftar Inventarisasi Masalah (DIM), terdiri atas 160 DIM tetap, 135 DIM redaksional, 40 DIM substansi, 44 DIM dihapus, dan 18 DIM substansi baru.Dalam proses pembahasan, Panja juga menggali saran, aspirasi, dan masukan dari masyarakat serta para ahli. Masukan tersebut menjadi bahan pengayaan agar RUU yang disusun tidak hanya mendukung efektivitas penegakan hukum, tetapi juga menjamin prinsip partisipasi dan keadilan.Habiburokhman memaparkan sepuluh pokok pengaturan yang menjadi perhatian Panja. Pertama, penegasan judul, prinsip, dan asas hukum perampasan aset dengan mengedepankan efektivitas, proporsionalitas, akuntabilitas, serta perlindungan hak asasi manusia. Kedua, pengaturan ruang lingkup tindak pidana, jenis, nilai, dan kriteria aset yang dapat dirampas, termasuk tindak pidana penipuan atau penggelapan melalui teknologi informasi yang berdampak luas terhadap masyarakat, seperti investasi bodong dan perdagangan saham bodong.Ketiga, penegasan bahwa perampasan aset tidak menghapus ancaman pidana terhadap pelaku tindak pidana korupsi maupun tindak pidana lainnya, termasuk ancaman pidana mati sesuai ketentuan peraturan perundang-undangan. Keempat, pengaturan prosedur dan pembagian kewenangan dalam mekanisme perampasan aset tanpa putusan pidana, mulai dari penelusuran, penghentian transaksi, pemblokiran, penyitaan, pengajuan permohonan, pemeriksaan di sidang pengadilan, putusan pengadilan, hingga pelaksanaan putusan.Kelima, jaminan perlindungan terhadap pihak ketiga yang beritikad baik melalui beban pembuktian dan kesempatan yang berimbang. Keenam, optimalisasi pengembalian aset kepada korban tindak pidana serta pemanfaatannya untuk kepentingan masyarakat luas.Selanjutnya, RUU mengatur tugas dan kewenangan badan yang berkompeten dalam pengelolaan aset secara profesional dan akuntabel, termasuk penyimpanan, pengamanan, pemeliharaan, pemanfaatan, penjualan, hingga pengembalian atau pelepasan aset. Pengaturan lainnya mencakup pengawasan terhadap mekanisme perampasan dan pengelolaan aset oleh badan independen, pencegahan penyalahgunaan kewenangan oleh aparat penegak hukum, serta pemanfaatan teknologi dan sistem informasi untuk menjamin transparansi dan akuntabilitas.\"Hal ini semata dilakukan untuk memberikan pencerahan dan pengayaan dalam pembahasan dan untuk mewujudkan RUU Perampasan Aset Tindak Pidana Korupsi dan Tindak Pidana Lainnya yang partisipatif dan berkeadilan,\" ujar Habiburokhman.Sementara itu, Wakil Menteri Hukum Edward Omar Sharif Hiariej yang mewakili pemerintah menyampaikan persetujuan agar RUU tersebut dilanjutkan ke Pembicaraan Tingkat II. Pemerintah menilai mekanisme perampasan aset, termasuk tanpa putusan pidana, penting untuk mendukung pemberantasan korupsi dan tindak pidana lainnya yang merugikan perekonomian serta kesejahteraan masyarakat.Setelah persetujuan bersama tersebut, Dasco meminta perwakilan fraksi dan pemerintah menandatangani naskah RUU. Penandatanganan tersebut menandai penyelesaian Pembicaraan Tingkat I dan menjadi bagian dari proses sebelum RUU dibawa ke Pembicaraan Tingkat II dalam Rapat Paripurna DPR RI.Dengan kesepakatan tersebut, RUU Perampasan Aset memasuki tahap pengambilan keputusan tingkat II. Selanjutnya, Rapat Paripurna DPR RI akan menentukan persetujuan RUU tersebut untuk disahkan menjadi undang-undang."
-  },
-  {
-   "source": "fajar",
-   "getter": "auto",
-   "title": "Guntur Romli Ingatkan Bahaya UU Perampasan Aset Jadi Pentungan Politik, Singgung MBG",
-   "link": "https://fajar.co.id/2026/11/19/guntur-romli-ingatkan-bahaya-uu-perampasan-aset-jadi-pentungan-politik-singgung-mbg/",
-   "pubDate": "Thu, 19 Nov 2026 03:38:11 +0000",
-   "description": "FAJAR.CO.ID, JAKARTA – Aktivis sekaligus politikus, Muhammad Guntur Romli, menyambut rencana pengesahan Undang-Undang (UU) Perampasan...",
-   "fetched_at": "2026-11-19T04:13:20+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "korupsi"
-   ],
-   "content_status": "full",
-   "content_chars": 4203,
-   "content": "FAJAR.CO.ID, JAKARTA – Aktivis sekaligus politikus, Muhammad Guntur Romli, menyambut rencana pengesahan Undang-Undang (UU) Perampasan Aset setelah regulasi tersebut diperjuangkan selama 18 tahun sejak pertama kali diusulkan Pusat Pelaporan dan Analisis Transaksi Keuangan (PPATK) pada 2008.\n\nNamun, ia mengingatkan bahwa pengesahan regulasi tersebut tidak boleh sekadar menjadi pencapaian politik.\n\nMenurutnya, tantangan sesungguhnya justru terletak pada keberanian aparat penegak hukum dalam menerapkannya tanpa tebang pilih.\n\nGuntur Romli mengatakan, selama ini banyak koruptor yang tetap bisa menikmati kekayaan hasil kejahatannya meskipun telah menjalani hukuman penjara.\n\n“Selama ini pula koruptor di penjara beberapa tahun keluar lalu hidup nyaman dari harta yang tak tersentuh. Penjara cuma jadi ongkos, bukan hukuman. Undang-Undang Perampasan Aset mengubah hitungan itu,” ungkapnya dikutip dari X, Kamis (19/11/2026).\n\nIa menilai, keberadaan UU Perampasan Aset dapat menjadi instrumen penting untuk mengejar dan mengambil kembali kekayaan yang berasal dari tindak pidana korupsi.\n\nDengan demikian, aset hasil kejahatan tidak hanya dirampas untuk dikembalikan kepada negara, tetapi juga dapat digunakan untuk memulihkan kerugian yang dialami korban.\n\nMeski begitu, Guntur mengingatkan bahwa besarnya kewenangan yang diberikan melalui regulasi tersebut juga menyimpan potensi penyalahgunaan.\n\nIa menyoroti ketentuan perampasan aset yang memungkinkan penyitaan tanpa harus menunggu putusan pidana. Menurutnya, kewenangan tersebut harus dijalankan dengan integritas dan pengawasan yang ketat.\n\n“Di tangan penegak hukum yang jujur, Undang-Undang ini pedang keadilan. Tapi di tangan kekuasaan yang tebang pilih dan pilih kasih, ini bisa menjadi pentungan politik. Lawan dibidik, kawan dilindungi. Pola ini sudah terlalu sering kita lihat,” lanjutnya.\n\nGuntur kemudian menantang aparat penegak hukum untuk membuktikan keberanian mereka dalam menggunakan instrumen hukum tersebut.\n\nIa mempertanyakan apakah UU Perampasan Aset nantinya benar-benar digunakan untuk membongkar kasus-kasus besar yang melibatkan lingkaran kekuasaan, termasuk dugaan persoalan dalam program Makan Bergizi Gratis (MBG) dan Badan Gizi Nasional (BGN).\n\n“Jadi ujiannya bukan di pasal-pasal, tapi di keberanian. Beranikah Undang-Undang ini dipakai pertama kali untuk membongkar skandal besar di lingkaran kekuasaan, termasuk kasus MBG dan BGN? Atau hanya tajam ke bawah dan yang keseberang?” jelasnya.\n\nSelain persoalan penegakan hukum, ia juga menyoroti mekanisme pengelolaan aset yang nantinya berhasil dirampas.\n\nMenurutnya, pemerintah harus memastikan lembaga atau pihak yang bertanggung jawab mengelola aset tersebut memiliki sistem pengawasan yang jelas.\n\nIa tidak ingin kekayaan hasil rampasan justru menjadi sumber korupsi baru, mengalami penyusutan nilai, atau berpindah tangan tanpa diketahui publik.\n\n“Siapa yang mengelola aset rampasan dan siapa yang mengawasinya? Jangan sampai harta yang dirampas dari koruptor malah dikorupsi lagi, menyusut nilainya atau berpindah tangan diam-diam,” tegasnya.\n\nGuntur menambahkan, masyarakat berhak memperoleh informasi secara terbuka mengenai jumlah aset yang dirampas, lokasi penyimpanannya, hingga pemanfaatannya.\n\nIa juga meminta agar setiap proses perampasan aset tetap dapat diuji melalui mekanisme peradilan dan tidak dilakukan secara tertutup.\n\n“Setiap rampasan harus transparan. Bisa diuji di pengadilan dan diumumkan ke publik. Tidak boleh terjadi di ruang remang-remang, apalagi gelap,” ujarnya.\n\nMeski menyampaikan sejumlah catatan kritis, Guntur menegaskan dukungannya terhadap kehadiran UU Perampasan Aset.\n\nBaginya, dukungan tersebut harus dibarengi dengan pengawasan publik agar regulasi yang bertujuan memberantas korupsi tidak justru disalahgunakan untuk kepentingan politik.\n\n“Kita mendukung Undang-Undang ini. Justru karena mendukung, kita akan jadi yang pertama menagih,” katanya.\n\nIa pun berharap pengesahan UU Perampasan Aset menjadi momentum untuk membongkar praktik korupsi secara menyeluruh tanpa memandang kedekatan pelaku dengan kekuasaan.\n\n“Selamat datang Undang-Undang rampasan aset. Sekarang buktikan, bongkar total, jangan tebang pilih,” pungkasnya."
-  },
-  {
-   "source": "fajar",
-   "getter": "auto",
-   "title": "Foto Gus Yaqut Cium Tangan Ustaz Bachtiar Nasir Viral, Raden Subardiyo: Yang Dulu Dicap Radikal Justru Paling Setia Menemani",
-   "link": "https://fajar.co.id/2026/11/19/foto-gus-yaqut-cium-tangan-ustaz-bachtiar-nasir-viral-raden-subardiyo-yang-dulu-dicap-radikal-justru-paling-setia-menemani/",
-   "pubDate": "Thu, 19 Nov 2026 02:59:18 +0000",
-   "description": "FAJAR.CO.ID, JAKARTA &#8212; Sebuah foto yang memperlihatkan mantan Menteri Agama, Gus Yaqut Cholil Qoumas, membungkukkan...",
-   "fetched_at": "2026-11-19T04:13:20+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 4588,
-   "content": "FAJAR.CO.ID, JAKARTA — Sebuah foto yang memperlihatkan mantan Menteri Agama, Gus Yaqut Cholil Qoumas, membungkukkan badan dan mencium tangan Ustaz Bachtiar Nasir (UBN) viral dan menuai perhatian luas.\n\nMomen tersebut disorot penulis dan konten kreator, Raden Subardiyo Kamali. Menurutnya, foto itu menjelaskan sejuta kata tentang perjalanan hubungan kedua tokoh yang dulu berseberangan.\n\n“Lihat foto ini dalam-dalam. Fokuskan mata kalian pada dua sosok itu. Seorang pria berpeci hitam, membungkukkan badan, mencium tangan seorang Ustadz yang berdiri tegak di depannya. Yang mencium tangan itu adalah Gus Yaqut Cholil Qoumas. Yang dicium tangannya adalah Ustadz Bachtiar Nasir,” kata Raden dikutip fajar.co.id, Kamis (19/11/2026).\n\nRaden mengingatkan, 6-7 tahun lalu kedua tokoh itu disebutnya bagaikan air dan minyak. Di mana UBN tampil ceramah, di situ disebut ada Banser yang siap mengusir. Di mana UBN mengisi pengajian, di situ ada barisan yang siap membubarkan.\n\n“Situasi yang sangat tidak nyaman. Sesama anak bangsa. Satu akidah Islam. Satu kiblat. Tapi harus berdiri berhadapan, hanya karena politik,” ujarnya.\n\nIa menyebut, Gus Yaqut dulu berada di garis depan dalam memberikan cap kepada pihak yang berseberangan. Raden menyebut cap-cap seperti radikal, intoleran, anti NKRI, dan anti Pancasila dilekatkan kepada siapa pun yang kritis pada pemerintah, termasuk kepada UBN dan para sahabatnya.\n\n“Mereka tidak diberi ruang untuk menjelaskan. Mereka tidak diberi kesempatan untuk membela diri. Mereka langsung dihakimi di depan publik,” ucap Subardiyo.\n\nMenurutnya, Ustadz yang ceramahnya selalu tentang persatuan umat, tiba-tiba dituduh memecah belah bangsa. Ulama yang mengajar tentang cinta tanah air, tiba-tiba dituduh anti NKRI.\n\n“Bayangkan sakitnya. Dicap radikal di negerinya sendiri. Diusir dari masjid ke masjid. Dan luka itu, sampai hari ini masih membekas,” tuturnya.\n\nRaden Subardiyo kemudian menyinggung kondisi Gus Yaqut saat ini yang terjerat kasus hukum terkait Visa Haji dan harus menjalani proses di Pengadilan Tipikor. Ia menilai, Gus Yaqut yang dulu dijadikan panglima untuk memukul lawan-lawan politik, hari ini justru ditinggalkan sendirian.\n\n“Saat dia terjerat sengkarut hukum kasus Visa Haji, saat dia harus duduk di kursi pesakitan di Pengadilan Tipikor, sahabat-sahabat lamanya yang dulu berteriak ‘Gus! Gus! Gus!’ itu, ke mana? Hilang. Semua hilang. Tidak ada satu pun yang datang menemani,” katanya.\n\nDi saat itulah, kata Raden Subardiyo, justru UBN yang hadir memberikan dukungan moral.\n\n“Dan di saat semua orang meninggalkannya, siapa yang justru datang? Ustadz Bachtiar Nasir. Orang yang dulu paling sering dicap radikal oleh kubu Gus Yaqut,” ujarnya.\n\nSubardiyo menilai, kehadiran UBN bukan untuk balas dendam, bukan untuk menertawakan, tapi untuk memberikan dukungan moral sebagai guru dan sesama umat Islam.\n\n“Gus Yaqut menyambutnya dengan hangat. Dia membungkuk. Dia mencium tangan itu dengan penuh hormat. Seolah ada kerinduan yang begitu lama tertahan,” ucapnya.\n\nIa memaknai ciuman tangan itu bukan sekadar sopan santun, melainkan bentuk penyesalan dan pengakuan.\n\n“Lihat ekspresi itu. Lihat ciuman tangan itu. Itu bukan sekedar sopan santun. Itu adalah penyesalan. Itu adalah pengakuan. Itu adalah air mata yang tidak bisa jatuh di depan kamera,” kata Raden Subardiyo.\n\n“Kata guru saya dulu, satu foto cukup menjelaskan sejuta kata. Dan foto ini menjelaskan satu hal yang paling penting: Bahwa yang dulu kau cap radikal, justru hari ini yang paling setia menemanimu. Dan yang dulu kau bela mati-matian, justru hari ini yang paling dulu meninggalkanmu,” pungkasnya.\n\n“Itulah politik. Kejam. Tapi itulah juga Islam. Selalu membuka pintu maaf, bahkan untuk orang yang pernah menyakitinya paling dalam,” tutup Raden Subardiyo Kamali.\n\nSebagai informasi, Ustaz Bachtiar Nasir hadir di Pengadilan Tindak Pidana Korupsi (Tipikor) Jakarta Pusat pada Rabu, 18 November 2026, bukan sebagai saksi resmi di bawah sumpah. Akan tetapi, dia hadir untuk memberikan dukungan moral serta menjalin ukhuwah (persaudaraan) kepada mantan Menteri Agama Yaqut Cholil Qoumas (Gus Yaqut).\n\nBachtiar menyaksikan secara langsung mana fakta yang benar dan salah yang terungkap di persidangan.Bachtiar juga mengatakan kehadirannya di sidang eks Menteri Agama (Menag) Yaqut Cholil Qoumas untuk kepentingan keadilan. Dia menilai jangan sampai tidak adil karena kebencian.\n\n“Dan semoga apa yang diputuskan oleh persidangan adalah betul-betul keadilan yang sesungguhnya,” kata Ustaz Bachtiar Nasir kepada wartawan di Pengadilan Tipikor Jakarta Pusat, Rabu (18/11/2026) kemarin."
-  },
-  {
-   "source": "wartaekonomi",
-   "getter": "auto",
-   "title": "KPK Desak Kementerian Cek Potensi Penyimpangan di Kontrak Rp14 M Raffi Ahmad",
-   "link": "https://wartaekonomi.co.id/read648946/kpk-desak-kementerian-cek-potensi-penyimpangan-di-kontrak-rp14-m-raffi-ahmad",
-   "pubDate": "Thu, 19 Nov 2026 10:25:00 +0700",
-   "description": "KPK meminta Kemenbud dan KKP melakukan evaluasi menyeluruh untuk mengecek potensi penyimpangan dalam kontrak endorse Raffi Ahmad senilai Rp14 miliar.",
-   "fetched_at": "2026-11-19T04:13:17+07:00",
+   "title": "SIKAP POLITIK PDIP! Megawati Tegaskan Pilih di Luar Pemerintahan, Singgung Pancasila Hingga Korupsi",
+   "link": "https://www.vidio.com/watch/9760976-sikap-politik-pdip-megawati-tegaskan-pilih-di-luar-pemerintahan-singgung-pancasila-hingga-korupsi",
+   "pubDate": "Thu, 19 Nov 2026 19:17:04 +0700",
+   "description": "JAKARTA, KOMPAS.TV - Megawati Soekarnoputri menegaskan pilihannya untuk tetap berada di luar pemerintahan.\n\nDalam pidatonya, Presiden ke-5 RI sekaligus Ketua Umum PDI Perjuangan itu menyampaikan bahwa dirinya tidak mempermasalahkan jika tidak diberi kesempatan masuk ke dalam pemerintahan. \n\nBahkan, ia menyebut akan berterima kasih dan memilih tetap berada di luar.\n\nMegawati Soekarnoputri menyampaikan dalam orasi ilmiah dalam Sidang Terbuka Senat Wisuda Sekolah Tinggi Ilmu Pemerintahan Abdi Negar",
+   "fetched_at": "2026-11-19T13:30:33+07:00",
    "categories": [
     "korupsi",
     "pemerintahan"
    ],
    "content_status": "partial",
-   "content_chars": 149,
-   "content": "KPK meminta Kemenbud dan KKP melakukan evaluasi menyeluruh untuk mengecek potensi penyimpangan dalam kontrak endorse Raffi Ahmad senilai Rp14 miliar."
+   "content_chars": 500,
+   "content": "JAKARTA, KOMPAS.TV - Megawati Soekarnoputri menegaskan pilihannya untuk tetap berada di luar pemerintahan.\n\nDalam pidatonya, Presiden ke-5 RI sekaligus Ketua Umum PDI Perjuangan itu menyampaikan bahwa dirinya tidak mempermasalahkan jika tidak diberi kesempatan masuk ke dalam pemerintahan. \n\nBahkan, ia menyebut akan berterima kasih dan memilih tetap berada di luar.\n\nMegawati Soekarnoputri menyampaikan dalam orasi ilmiah dalam Sidang Terbuka Senat Wisuda Sekolah Tinggi Ilmu Pemerintahan Abdi Negar"
+  },
+  {
+   "source": "antarafoto",
+   "getter": "auto",
+   "title": "Pemeriksaan tersangka Suhendrik",
+   "link": "https://www.antarafoto.com/id/view/2910223/pemeriksaan-tersangka-suhendrik",
+   "pubDate": "Thu, 19 Nov 2026 20:30:01 +0700",
+   "description": "Tersangka kasus dugaan korupsi pengadaan iklan di Bank BJB, Suhendrik berjalan menuju ruang pemeriksaan di Gedung Merah Putih KPK, Jakarta, Kamis (19/11/2026). Penyidik KPK memeriksa Direktur PT Wahana Semesta Bandung Ekspres tersebut sebagai tersangka dalam perkara dugaan korupsi pengadaan barang dan jasa berupa iklan di PT Bank Pembangunan Daerah Jawa Barat dan Banten (Bank BJB) tahun anggaran 2021-2023 yang menyebabkan kerugian negara sebesar Rp223,6 miliar. ANTARA FOTO/Reno Esnir/sgd/wsj.",
+   "fetched_at": "2026-11-19T13:30:28+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 497,
+   "content": "Tersangka kasus dugaan korupsi pengadaan iklan di Bank BJB, Suhendrik berjalan menuju ruang pemeriksaan di Gedung Merah Putih KPK, Jakarta, Kamis (19/11/2026). Penyidik KPK memeriksa Direktur PT Wahana Semesta Bandung Ekspres tersebut sebagai tersangka dalam perkara dugaan korupsi pengadaan barang dan jasa berupa iklan di PT Bank Pembangunan Daerah Jawa Barat dan Banten (Bank BJB) tahun anggaran 2021-2023 yang menyebabkan kerugian negara sebesar Rp223,6 miliar. ANTARA FOTO/Reno Esnir/sgd/wsj."
+  },
+  {
+   "source": "antarafoto",
+   "getter": "auto",
+   "title": "Pemeriksaan tersangka Suhendrik",
+   "link": "https://www.antarafoto.com/id/view/2910219/pemeriksaan-tersangka-suhendrik",
+   "pubDate": "Thu, 19 Nov 2026 20:30:01 +0700",
+   "description": "Tersangka kasus dugaan korupsi pengadaan iklan di Bank BJB, Suhendrik (tengah) berjalan menuju ruang pemeriksaan di Gedung Merah Putih KPK, Jakarta, Kamis (19/11/2026). Penyidik KPK memeriksa Direktur PT Wahana Semesta Bandung Ekspres tersebut sebagai tersangka dalam perkara dugaan korupsi pengadaan barang dan jasa berupa iklan di PT Bank Pembangunan Daerah Jawa Barat dan Banten (Bank BJB) tahun anggaran 2021-2023 yang menyebabkan kerugian negara sebesar Rp223,6 miliar. ANTARA FOTO/Reno Esnir/sg",
+   "fetched_at": "2026-11-19T13:30:28+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 506,
+   "content": "Tersangka kasus dugaan korupsi pengadaan iklan di Bank BJB, Suhendrik (tengah) berjalan menuju ruang pemeriksaan di Gedung Merah Putih KPK, Jakarta, Kamis (19/11/2026). Penyidik KPK memeriksa Direktur PT Wahana Semesta Bandung Ekspres tersebut sebagai tersangka dalam perkara dugaan korupsi pengadaan barang dan jasa berupa iklan di PT Bank Pembangunan Daerah Jawa Barat dan Banten (Bank BJB) tahun anggaran 2021-2023 yang menyebabkan kerugian negara sebesar Rp223,6 miliar. ANTARA FOTO/Reno Esnir/sgd/wsj."
+  },
+  {
+   "source": "cnbcindonesia2",
+   "getter": "auto",
+   "title": "Apa Kabar Udpate Kasus Dugaan Suap Seret Summarecon dan Kantor ATR/BPN?",
+   "link": "https://www.cnbcindonesia.com/news/20261119191111-4-786765/apa-kabar-udpate-kasus-dugaan-suap-seret-summarecon-kantor-atr-bpn",
+   "pubDate": "Thu, 19 Nov 2026 19:35:00 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/09/16/komisi-pemberantasan-korupsi-kpk-menetapkan-delapan-orang-sebagai-tersangka-dalam-kasus-dugaan-suap-terkait-pengurusan-hak-gun-1789547458764_169.jpeg?w=1200&amp;q=90\"/> KPK terus menyelidiki dugaan suap pengurusan HGB di Kabupaten Bogor, menetapkan delapan tersangka, dan menemukan uang Rp106,3 miliar dalam OTT.",
+   "fetched_at": "2026-11-19T13:30:24+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2515,
+   "content": "Apa Kabar Udpate Kasus Dugaan Suap Seret Summarecon & Kantor ATR/BPN?\n\nJakarta, CNBC Indonesia - Komisi Pemberantasan Korupsi (KPK) masih terus melakukan penyidikan terkait dugaan kasus suap pengurusan hak guna bangunan (HGB) di lingkungan Kantor Pertanahan (Kantah) Kabupaten Bogor yang berkaitan dengan dugaan kasus di lingkungan Kementerian ATR/BPN.\n\nJuru Bicara KPK Budi Prasetyo mengatakan KPK masih akan fokus terhadap substansi di pokok perkara berkaitan dengan adanya dugaan suap pada pengurusan HGB di Kantah Kabupaten Bogor.\n\n\"Tentu masih akan fokus terhadap substansi di pokok perkara berkaitan dengan adanya dugaan suap pada pengurusan HGB di Kantah Bogor, di mana dari peristiwa tertangkap tangan, tim menemukan adanya sejumlah uang dalam nominal yang cukup besar, yang diduga didapatkan oleh para oknum di Kementerian ATR/BPN,\" kata Budi di Gedung Merah Putih KPK, Kamis (19/11/2026).\n\nDari operasi tangkap tangan (OTT) tersebut, KPK kembali menemukan dugaan praktik setoran-setoran rutin dari para Kantah ataupun kantor wilayah (Kanwil) Kabupaten Bogor.\n\n\"Sehingga penyidikan yang dilakukan oleh KPK difokuskan di 2 klaster itu dulu, yakni soal dugaan suap yang dilakukan oleh pihak swasta kepada oknum di lingkungan Kementerian ATR/BPN dan juga gratifikasi atau penerimaan lainnya yang dilakukan oleh para pihak tersangka,\" terang Budi.\n\nKPK mengapresiasi kepada pihak-pihak, elemen masyarakat, sehingga kasus ini dapat naik ke tahap penyidikan.\n\n\"Kami mengapresiasi kepada sejumlah pihak yang kemudian menyampaikan laporan kepada KPK melalui saluran pengaduan masyarakat. Tentunya setiap laporan itu akan dipelajari, ditelaah dan dianalisis, serta bisa menjadi pengayaan dalam proses penanganan perkara di KPK,\" jelas Budi.\n\nSebelumnya, KPK telah menetapkan delapan tersangka dalam kasus dugaan suap pembukaan blokir lahan Summarecon di Kabupaten Bogor. Selain itu, KPK mengusut dugaan jual-beli jabatan di lingkungan Kementerian ATR/BPN.\n\n1. Lampri (LMP) selaku Dirjen Pengendalian dan Penertiban Tanah dan Ruang ATR/BPN2. Sontang Coin Manurung (SON) selaku Kepala Kantor Pertanahan Kabupaten Bogor I3. Adrianto Pitojo Adi (ADR) selaku Direktur Utama (Dirut) Summarecon4. Arif Sugiyanto (ARF)5. Fahd El Fouz atau Fahd A Rafiq (FEZ)6. Rizal Pahlevi (LEV) selaku pihak swasta7. Erwin (ERW)8. Muhammad Fakhry (MF).\n\nDalam operasi senyap yang dilakukan di wilayah Jabodetabek pada Senin (14/9/2026) lalu, KPK menangkap tangan 19 orang dengan menemukan barang bukti berupa uang sejumlah Rp106,3 miliar."
+  },
+  {
+   "source": "cnbcindonesia2",
+   "getter": "auto",
+   "title": "RUU Perampasan Aset Sah Jadi Undang-Undang, Jubir KPK Bilang Begini",
+   "link": "https://www.cnbcindonesia.com/news/20261119185852-4-786763/ruu-perampasan-aset-sah-jadi-undang-undang-jubir-kpk-bilang-begini",
+   "pubDate": "Thu, 19 Nov 2026 19:25:00 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/19/ketua-komisi-iii-dpr-ri-habiburokhman-saat-menyerahkan-draft-kepada-ketua-dpr-ri-puan-maharani-dalam-rapat-paripurna-ke-13-dpr-1795090282020_169.png?w=1200&amp;q=90\"/> KPK dukung pengesahan RUU Perampasan Aset Tindak Pidana Korupsi oleh DPR. RUU ini diharapkan memperkuat pemberantasan korupsi dan pemulihan keuangan negara.",
+   "fetched_at": "2026-11-19T13:30:24+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 2739,
+   "content": "RUU Perampasan Aset Sah Jadi Undang-Undang, Jubir KPK Bilang Begini\n\nJakarta, CNBC Indonesia - Komisi Pemberantasan Korupsi (KPK) buka suara terkait pengesahan Rancangan Undang-Undang (RUU) Perampasan Aset Tindak Pidana Korupsi dan Tindak Pidana Lainnya oleh Dewan Perwakilan Rakyat (DPR), Kamis (19/11/2026) hari ini.\n\nJuru Bicara (Jubir) KPK Budi Prasetyo mengatakan KPK mendukung langkah DPR mengesahkan RUU tersebut, di mana RUU tersebut selaras dengan semangat pemberantasan korupsi yang dilakukan oleh KPK.\n\n\"KPK sebagai lembaga penegak hukum tentunya juga patuh dan taat terhadap ketentuan perundangan yang berlaku. Artinya KPK sebagai pelaksana undang-undang dan tentunya perampasan aset ini selaras dengan semangat pemberantasan korupsi yang dilakukan oleh KPK,\" kata Budi saat ditemui awak media di Gedung Merah Putih KPK, Kamis (19/11/2025).\n\nBudi menegaskan proses penegakan hukum suatu tindak pidana korupsi tidak hanya memberikan efek jera kepada para pelaku, tetapi juga bagaimana secara optimal bisa memulihkan kembali keuangan negara.\n\n\"Bahkan lebih dari itu, pemberantasan korupsi yang dilakukan oleh KPK khususnya pada aspek penindakan Ini ujungnya juga mendorong upaya-upaya korektif. Dengan itulah kemudian kita bisa menutup adanya celah-celah yang bisa menciptakan para pelaku-pelaku baru untuk melakukan modus serupa, termasuk juga setiap penindakan yang dilakukan oleh KPK,\" terang Budi.\n\nBerkaitan dengan penguatan pemberantasan korupsi, menurutnya tidak hanya soal penguatan asset recovery atau perampasan aset, tetapi juga dibutuhkan terobosan-terobosan lain.\n\n\"RUU ini tidak hanya soal penguatan asset recovery, tapi juga dibutuhkan terobosan-terobosan lain, termasuk soal kriminalisasi terhadap delik-delik yang sudah diatur dalam konvensi UNCSC seperti illicit enrichment, trading influence, suap di sektor swasta, dan juga suap kepada pejabat asing,\" jelas Budi.\n\nAdapun empat delik yang belum dikriminalisasi dalam sistem hukum di Indonesia menjadi diskursus yang menarik untuk kemudian ke depan menjadi poin-poin penguatan dalam pemberantasan korupsi di Indonesia.\n\nSelain itu, KPK juga akan tetap mempelajari dan menganalisis pasal-pasal yang dinilai beririsan dengan pelaksanaan tugas dan fungsi pemberantasan korupsi yang dilakukan KPK.\n\n\"Memang pada prinsipnya dalam penanganan tindak pidana korupsi KPK juga concern soal soal optimalisasi asset recovery, sehingga proses penyidikan di KPK seringkali sudah melakukan banyak sekali penyitaan, yang kemudian nanti menjadi salah satu alat bukti yang dihadirkan dalam persidangan,\" ujar Budi.\n\nKPK juga terbuka untuk saling berkoordinasi dan berkolaborasi dengan kementerian/lembaga lainnya agar penegakan hukum terkait korupsi bisa berjalan makin efektif."
+  },
+  {
+   "source": "partainasdem",
+   "getter": "auto",
+   "title": "UU Perampasan Aset Jadi Harapan Baru Pemberantasan Korupsi",
+   "link": "https://partainasdem.id/2026/11/19/uu-perampasan-aset-jadi-harapan-baru-pemberantasan-korupsi/",
+   "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000",
+   "description": "JAKARTA (19 November): Anggota Komisi III DPR RI Fraksi Partai NasDem, Rudianto Lallo, menilai RUU tentang Perampasan Aset Terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya (RUU Perampasan Aset) yang telah sisetujui DPR untuk disahkan menjadi undang-undang, merupakan jawaban atas penantian panjang masyarakat sekaligus harapan baru dalam upaya pemberantasan tindak pidana korupsi dan kejahatan lainnya. [&#8230;]",
+   "fetched_at": "2026-11-19T13:30:17+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 419,
+   "content": "JAKARTA (19 November): Anggota Komisi III DPR RI Fraksi Partai NasDem, Rudianto Lallo, menilai RUU tentang Perampasan Aset Terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya (RUU Perampasan Aset) yang telah sisetujui DPR untuk disahkan menjadi undang-undang, merupakan jawaban atas penantian panjang masyarakat sekaligus harapan baru dalam upaya pemberantasan tindak pidana korupsi dan kejahatan lainnya. [&#8230;]"
+  },
+  {
+   "source": "wartaekonomi",
+   "getter": "auto",
+   "title": "Disadap Saat Gencar Tindak Korupsi? Eks Jampidsus Febrie Adriansyah Bongkar Kejadian Lama di Cipete",
+   "link": "https://wartaekonomi.co.id/read649119/disadap-saat-gencar-tindak-korupsi-eks-jampidsus-febrie-adriansyah-bongkar-kejadian-lama-di-cipete",
+   "pubDate": "Thu, 19 Nov 2026 20:00:00 +0700",
+   "description": "Saat penindakan korupsi tengah gencar dilakukan, Febrie Adriansyah mengungkap dugaan dirinya diikuti sejak 2024. Ia juga menyinggung peristiwa di Cipete.",
+   "fetched_at": "2026-11-19T13:30:02+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 153,
+   "content": "Saat penindakan korupsi tengah gencar dilakukan, Febrie Adriansyah mengungkap dugaan dirinya diikuti sejak 2024. Ia juga menyinggung peristiwa di Cipete."
+  },
+  {
+   "source": "jpnn",
+   "getter": "auto",
+   "title": "Megawati di Wisuda STIPAN: Turun ke Akar Rumput, Jangan Jadi Koruptor",
+   "link": "https://www.jpnn.com/news/megawati-di-wisuda-stipan-turun-ke-akar-rumput-jangan-jadi-koruptor",
+   "pubDate": "Thu, 19 Nov 2026 20:08:08 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/11/19/ketua-umum-pdi-perjuangan-megawati-soekarnoputri-orasi-ilmia-8xbj.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - Sekolah Tinggi Ilmu Pemerintahan Abdi Negara (<a href=\"https://www.jpnn.com/tag/stipan\" title=\"Semua artikel tentang STIPAN\">STIPAN</a>) mengukuhkan 150 wisudawan dan wisudawati dalam Sidang Terbuka Senat, Kamis (19/11). Wisuda itu menjadi istimewa karena dihadiri Presiden ke-5 R",
+   "fetched_at": "2026-11-19T13:29:57+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 500,
+   "content": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/11/19/ketua-umum-pdi-perjuangan-megawati-soekarnoputri-orasi-ilmia-8xbj.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong>, JAKARTA - Sekolah Tinggi Ilmu Pemerintahan Abdi Negara (<a href=\"https://www.jpnn.com/tag/stipan\" title=\"Semua artikel tentang STIPAN\">STIPAN</a>) mengukuhkan 150 wisudawan dan wisudawati dalam Sidang Terbuka Senat, Kamis (19/11). Wisuda itu menjadi istimewa karena dihadiri Presiden ke-5 R"
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Periksa Kepala Bea Cukai Tanjung Emas, KPK Konfirmasi terkait Penyitaan Kontainer",
+   "link": "https://nasional.sindonews.com/read/1774019/13/periksa-kepala-bea-cukai-tanjung-emas-kpk-konfirmasi-terkait-penyitaan-kontainer-1795090270",
+   "pubDate": "Thu, 19 Nov 2026 19:41:07 +0700",
+   "description": "Komisi Pemberantasan Korupsi (KPK) telah memeriksa Kepala Kantor Bea Cukai Tanjung Emas, Khoirul Hadziq sebagai saksi pengembangan kasus dugaan korupsi di Ditjen Bea Cukai pada Kamis (19/11/2026).",
+   "fetched_at": "2026-11-19T13:29:54+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 196,
+   "content": "Komisi Pemberantasan Korupsi (KPK) telah memeriksa Kepala Kantor Bea Cukai Tanjung Emas, Khoirul Hadziq sebagai saksi pengembangan kasus dugaan korupsi di Ditjen Bea Cukai pada Kamis (19/11/2026)."
   }
  ]
 }
