@@ -1,71 +1,38 @@
 {
- "updated_at": "2026-11-20T23:54:52+07:00",
+ "updated_at": "2026-11-21T05:57:04+07:00",
  "category": "korupsi",
- "count": 4,
+ "count": 2,
  "articles": [
   {
-   "source": "partainasdem",
+   "source": "wartaekonomi",
    "getter": "auto",
-   "title": "UU Perampasan Aset Jadi Harapan Baru Pemberantasan Korupsi",
-   "link": "https://partainasdem.id/2026/11/19/uu-perampasan-aset-jadi-harapan-baru-pemberantasan-korupsi/",
-   "pubDate": "Thu, 19 Nov 2026 06:00:00 +0000",
-   "description": "JAKARTA (19 November): Anggota Komisi III DPR RI Fraksi Partai NasDem, Rudianto Lallo, menilai RUU tentang Perampasan Aset Terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya (RUU Perampasan Aset) yang telah sisetujui DPR untuk disahkan menjadi undang-undang, merupakan jawaban atas penantian panjang masyarakat sekaligus harapan baru dalam upaya pemberantasan tindak pidana korupsi dan kejahatan lainnya. [&#8230;]",
-   "fetched_at": "2026-11-20T10:37:16+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 2684,
-   "content": "JAKARTA (19 November): Anggota Komisi III DPR RI Fraksi Partai NasDem, Rudianto Lallo, menilai RUU tentang Perampasan Aset Terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya (RUU Perampasan Aset) yang telah sisetujui DPR untuk disahkan menjadi undang-undang, merupakan jawaban atas penantian panjang masyarakat sekaligus harapan baru dalam upaya pemberantasan tindak pidana korupsi dan kejahatan lainnya.\n\nSeluruh Fraksi DPR RI secara aklamasi menyetujui RUU tersebut dalam pembicaraan tingkat II di rapat paripurna yang dipimpin Ketua DPR RI Puan Maharani, sekaligus menjadi langkah penting dalam memperkuat instrumen hukum bagi aparat penegak hukum (APH) untuk menindak kejahatan yang menghasilkan keuntungan ekonomi secara ilegal.\n\n“Alhamdulillah, hari ini dalam pembicaraan tingkat II di rapat paripurna, pengambilan keputusan terhadap RUU Perampasan Aset yang sudah lama menjadi ekspektasi masyarakat akhirnya disahkan,” ujar Rudianto di Kompleks Parlemen, Senayan, Jakarta, Kamis (19/11/2026).\n\nIa berharap proses pengundangan regulasi tersebut dapat segera diselesaikan sehingga UU Perampasan Aset dapat berlaku dan menjadi pedoman baru bagi aparat penegak hukum dalam melakukan perampasan aset hasil tindak pidana.\n\nMenurutnya, cakupan pengaturan perampasan aset tidak hanya berkaitan dengan tindak pidana korupsi, tetapi juga berbagai kejahatan lain yang menimbulkan kerugian bagi masyarakat.\n\nDi antaranya tindak pidana perdagangan orang, narkotika, perjudian daring, penipuan daring, penggelapan, hingga praktik penipuan berkedok perjalanan ibadah umrah.\n\nRudianto menjelaskan, melalui regulasi tersebut, aset yang berkaitan dengan tindak pidana diharapkan dapat dirampas dan dikembalikan kepada korban atau diserahkan kepada negara sesuai dengan ketentuan hukum yang berlaku.\n\n“Ini menjadi harapan baru agar undang-undang ini betul-betul bisa memberikan efek jera kepada para pelaku kejahatan. Mereka tidak boleh bermain-main, khususnya dalam tindak pidana korupsi dan tindak pidana lainnya,” tegasnya.\n\nLegislator NasDem itu juga menekankan pentingnya konsistensi aparat penegak hukum dalam mengimplementasikan UU Perampasan Aset. Menurutnya, efektivitas regulasi tidak hanya ditentukan oleh pengesahannya, tetapi juga oleh kesungguhan dan profesionalitas aparat dalam menegakkan ketentuan hukum.\n\nIa berharap kehadiran UU Perampasan Aset mampu memperkuat upaya pemberantasan korupsi yang hingga kini masih menjadi salah satu persoalan serius bangsa Indonesia.\n\n“Harapannya, undang-undang ini benar-benar ditegakkan oleh aparat penegak hukum kita dan menjadi jawaban terhadap persoalan korupsi yang sampai hari ini masih menjadi problem bangsa,” pungkasnya. (safa/*)"
-  },
-  {
-   "source": "fajar",
-   "getter": "auto",
-   "title": "DPR Sahkan UU Perampasan Aset, Ferdinand Hutahaean: Jangan Bayangkan Semua Koruptor Langsung Dimiskinkan",
-   "link": "https://fajar.co.id/2026/11/20/dpr-sahkan-uu-perampasan-aset-ferdinand-hutahaean-jangan-bayangkan-semua-koruptor-langsung-dimiskinkan/",
-   "pubDate": "Fri, 20 Nov 2026 08:52:09 +0000",
-   "description": "FAJAR.CO.ID, JAKARTA &#8212; Rancangan Undang-Undang (RUU) Perampasan Aset resmi disahkan oleh Rapat Paripurna DPR RI...",
-   "fetched_at": "2026-11-20T10:37:07+07:00",
-   "categories": [
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 120,
-   "content": "FAJAR.CO.ID, JAKARTA &#8212; Rancangan Undang-Undang (RUU) Perampasan Aset resmi disahkan oleh Rapat Paripurna DPR RI..."
-  },
-  {
-   "source": "akurat",
-   "getter": "auto",
-   "title": "KPK Dalami Aliran Uang Korupsi Kuota Haji ke Pimpinan Komisi VIII DPR, Termasuk Yandri Susanto",
-   "link": "https://www.akurat.co/hukum/908416/kpk-dalami-aliran-uang-korupsi-kuota-haji-ke-pimpinan-komisi-viii-dpr-termasuk-yandri-susanto",
-   "pubDate": "Fri, 20 Nov 2026 17:31:02 +0700",
-   "description": "",
-   "fetched_at": "2026-11-20T10:37:03+07:00",
-   "categories": [
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 0,
-   "content": ""
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "Kardiyono Ditunjuk Jadi Pejabat Lurah Bohol Gunungkidul",
-   "link": "https://jogjapolitan.harianjogja.com/r-1279618/kardiyono-ditunjuk-jadi-pejabat-lurah-bohol-gunungkidul",
-   "pubDate": "Fri, 20 Nov 2026 16:27:01 +0700",
-   "description": "Kardiyono ditunjuk menjadi Pejabat Lurah Bohol, Gunungkidul, menggantikan Margana yang dipecat setelah terjerat kasus korupsi.",
-   "fetched_at": "2026-11-20T10:37:02+07:00",
+   "title": "Perusahaan Raffi Ahmad Raup Rp30,3 Miliar dari Anak Usaha Telkom, KPK Diminta Turun Tangan",
+   "link": "https://wartaekonomi.co.id/read649401/perusahaan-raffi-ahmad-raup-rp303-miliar-dari-anak-usaha-telkom-kpk-diminta-turun-tangan",
+   "pubDate": "Sat, 21 Nov 2026 00:30:00 +0700",
+   "description": "Kerja sama bisnis perusahaan Raffi Ahmad dengan anak usaha Telkom menjadi sorotan. Lita Gading melontarkan kritik keras dan mendesak langkah KPK.",
+   "fetched_at": "2026-11-20T18:50:42+07:00",
    "categories": [
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 126,
-   "content": "Kardiyono ditunjuk menjadi Pejabat Lurah Bohol, Gunungkidul, menggantikan Margana yang dipecat setelah terjerat kasus korupsi."
+   "content_chars": 145,
+   "content": "Kerja sama bisnis perusahaan Raffi Ahmad dengan anak usaha Telkom menjadi sorotan. Lita Gading melontarkan kritik keras dan mendesak langkah KPK."
+  },
+  {
+   "source": "inews",
+   "getter": "auto",
+   "title": "Mengaku Plong usai Sidang Korupsi Kuota Haji, Gus Alex: Saya Inginkan Keadilan",
+   "link": "https://www.inews.id/news/nasional/mengaku-plong-usai-sidang-korupsi-kuota-haji-gus-alex-saya-inginkan-keadilan",
+   "pubDate": "Sat, 21 Nov 2026 01:35:00 +0700",
+   "description": "Gus Alex mengaku lega usai diperiksa sebagai terdakwa kasus korupsi kuota haji. Dia meminta keadilan dan berharap pihak yang bersalah ditindak.",
+   "fetched_at": "2026-11-20T18:50:35+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 143,
+   "content": "Gus Alex mengaku lega usai diperiksa sebagai terdakwa kasus korupsi kuota haji. Dia meminta keadilan dan berharap pihak yang bersalah ditindak."
   }
  ]
 }
