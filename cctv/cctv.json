@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-20T08:05:22+07:00",
+ "updated_at": "2026-11-20T16:44:17+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3073,55 +3073,6 @@
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/kemenhub.png",
    "kamera": [
     {
-     "nama": "12+750 A",
-     "lokasi": "Serpong - Balaraja Seksi 1",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10019.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "12+900 A",
-     "lokasi": "Serpong - Balaraja Seksi 1",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10002.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "12+900 B",
-     "lokasi": "Serpong - Balaraja Seksi 1",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10001.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "13+200 A",
-     "lokasi": "Serpong - Balaraja Seksi 1",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10003.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "13+200 B",
-     "lokasi": "Serpong - Balaraja Seksi 1",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10004.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "13+700 A",
-     "lokasi": "Serpong - Balaraja Seksi 1",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10005.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
-     "nama": "13+700 B",
-     "lokasi": "Serpong - Balaraja Seksi 1",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10006.m3u8",
-     "lat": null,
-     "lon": null
-    },
-    {
      "nama": "14+200 A",
      "lokasi": "Serpong - Balaraja Seksi 1",
      "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10007.m3u8",
@@ -3309,27 +3260,6 @@
      "stream": "https://cctv.ctptollways.com:2254/streams/cam_34/index.m3u8",
      "lat": -6.112215,
      "lon": 107.028939
-    },
-    {
-     "nama": "MR STA 25",
-     "lokasi": "MR STA 25",
-     "stream": "https://cctv.ctptollways.com:2254/streams/cam_36/index.m3u8",
-     "lat": -6.110527,
-     "lon": 107.011154
-    },
-    {
-     "nama": "MR STA 26",
-     "lokasi": "MR STA 26",
-     "stream": "https://cctv.ctptollways.com:2254/streams/cam_37/index.m3u8",
-     "lat": -6.109999,
-     "lon": 107.002418
-    },
-    {
-     "nama": "MR STA 27",
-     "lokasi": "MR STA 27",
-     "stream": "https://cctv.ctptollways.com:2254/streams/cam_38/index.m3u8",
-     "lat": -6.11174,
-     "lon": 106.9900279
     },
     {
      "nama": "MR STA 5",
@@ -3548,55 +3478,6 @@
    "sumber": "BPJT",
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
    "kamera": [
-    {
-     "nama": "12+750 A",
-     "lokasi": "12+750 A",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10019.m3u8",
-     "lat": -6.18427,
-     "lon": 106.40242
-    },
-    {
-     "nama": "12+900 A",
-     "lokasi": "12+900 A",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10002.m3u8",
-     "lat": -6.18401,
-     "lon": 106.40208
-    },
-    {
-     "nama": "12+900 B",
-     "lokasi": "12+900 B",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10001.m3u8",
-     "lat": -6.18401,
-     "lon": 106.40208
-    },
-    {
-     "nama": "13+200 A",
-     "lokasi": "13+200 A",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10003.m3u8",
-     "lat": -6.30861,
-     "lon": 106.67083
-    },
-    {
-     "nama": "13+200 B",
-     "lokasi": "13+200 B",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10004.m3u8",
-     "lat": -6.30861,
-     "lon": 106.67083
-    },
-    {
-     "nama": "13+700 A",
-     "lokasi": "13+700 A",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10005.m3u8",
-     "lat": -6.30556,
-     "lon": 106.66806
-    },
-    {
-     "nama": "13+700 B",
-     "lokasi": "13+700 B",
-     "stream": "https://info.serbaraja-tollroad.co.id:20443/LiveApp/streams/10006.m3u8",
-     "lat": -6.30556,
-     "lon": 106.66806
-    },
     {
      "nama": "14+200 A",
      "lokasi": "14+200 A",
