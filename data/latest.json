@@ -1,32 +1,66 @@
 {
- "updated_at": "2026-11-21T05:57:04+07:00",
+ "updated_at": "2026-11-21T10:51:29+07:00",
  "count": 100,
  "articles": [
   {
    "source": "kemenag",
    "getter": "auto",
-   "title": "Kemenag Bersama Lintas Kementerian Teguhkan Komitmen Melindungi Anak dari Kekerasan",
-   "link": "https://kemenag.go.id/feature/kemenag-bersama-lintas-kementerian-teguhkan-komitmen-melindungi-anak-dari-kekerasan-YQkHj",
-   "pubDate": "Fri, 20 Nov 2026 12:56:00 GMT",
-   "description": "Kehadiran para orang tua korban perundungan membawa kisah kehilangan, trauma, dan harapan akan keadilan. Di hadapan para pejabat negara, suara mereka menjadi pengingat bahwa kekerasan terhadap anak bukan sekadar persoalan kenakalan, melainkan ancaman nyata terhadap masa depan generasi bangsa.",
-   "fetched_at": "2026-11-20T18:51:33+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
+   "title": "Tiga PTKIN Tembus Peringkat Nasional THE Interdisciplinary Science Rankings 2027",
+   "link": "https://kemenag.go.id/nasional/tiga-ptkin-tembus-peringkat-nasional-the-interdisciplinary-science-rankings-2027-5Tk4I",
+   "pubDate": "Fri, 20 Nov 2026 17:41:00 GMT",
+   "description": "Tiga Perguruan Tinggi Keagamaan Islam Negeri (PTKIN) berhasil mencatatkan capaian dalam Times Higher Education (THE) Interdisciplinary Science Rankings 2027 untuk wilayah Indonesia. Ketiganya adalah UIN Sunan Gunung Djati Bandung pada peringkat ke-29, UIN Syarif Hidayatullah Jakarta pada peringkat ke-31, dan UIN Maulana Malik Ibrahim Malang pada peringkat ke-32.",
+   "fetched_at": "2026-11-21T00:29:38+07:00",
+   "categories": [],
    "content_status": "partial",
-   "content_chars": 293
+   "content_chars": 364
   },
   {
    "source": "kemenag",
    "getter": "auto",
-   "title": "Kemenag Akan Bangun 173 Madrasah melalui SBSN 2027",
-   "link": "https://kemenag.go.id/nasional/kemenag-akan-bangun-173-madrasah-melalui-sbsn-2027-SkoXl",
-   "pubDate": "Fri, 20 Nov 2026 11:11:00 GMT",
-   "description": "“Syukur alhamdulillah, pembiayaan SBSN sudah dirasakan manfaatnya oleh civitas akademika di madrasah. Banyak wali murid yang mempertimbangkan kualitas sarana dan prasarana sebelum menyerahkan anaknya ke lembaga pendidikan,” ungkap Suyitno.",
-   "fetched_at": "2026-11-20T18:51:33+07:00",
+   "title": "Pesparani Nasional Jadi Liturgi Keberagaman dan Diplomasi Perdamaian",
+   "link": "https://kemenag.go.id/nasional/pesparani-nasional-jadi-liturgi-keberagaman-dan-diplomasi-perdamaian-PPT9g",
+   "pubDate": "Fri, 20 Nov 2026 15:12:00 GMT",
+   "description": "Menteri Agama Nasaruddin Umar menegaskan bahwa Pesta Paduan Suara Gerejani (Pesparani) Katolik Nasional bukan hanya perayaan seni dan musik gerejawi. Lebih dari itu, Pesparani merupakan momen untuk merawat keberagaman, memperkuat persaudaraan, sekaligus membangun diplomasi perdamaian Indonesia di mata dunia.",
+   "fetched_at": "2026-11-21T00:29:38+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 239
+   "content_chars": 309
+  },
+  {
+   "source": "kemenag",
+   "getter": "auto",
+   "title": "Menag Ingatkan Urgensi Nilai Agama Kawal Perkembangan Teknologi",
+   "link": "https://kemenag.go.id/nasional/menag-ingatkan-urgensi-nilai-agama-kawal-perkembangan-teknologi-ZkJZs",
+   "pubDate": "Fri, 20 Nov 2026 14:46:00 GMT",
+   "description": "Pesatnya perkembangan teknologi dan kecerdasan buatan saat ini turut menghadirkan tantangan besar bagi masa depan peradaban manusia.\nFenomena ini tentunya harus diimbangi dengan penguatan moral serta nilai-nilai keagamaan.",
+   "fetched_at": "2026-11-21T00:29:38+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 222
+  },
+  {
+   "source": "kemenag",
+   "getter": "auto",
+   "title": "Perkuat Tata Kelola Akademik, Kemenag Sinkronisasi Data Ma’had Aly dengan PDDikti",
+   "link": "https://kemenag.go.id/nasional/perkuat-tata-kelola-akademik-kemenag-sinkronisasi-data-mahad-aly-dengan-pddikti-lY6Df",
+   "pubDate": "Fri, 20 Nov 2026 14:31:00 GMT",
+   "description": "Direktorat Jenderal Pesantren Kemenag memperkuat tata kelola pendidikan tinggi pesantren melalui rekonstruksi struktur kurikulum dan pemetaan mata kuliah takhassus Ma’had Aly. Langkah ini menjadi bagian dari upaya harmonisasi sistem pendidikan tinggi sekaligus persiapan sinkronisasi data akademik Ma’had Aly dengan Pangkalan Data Pendidikan Tinggi (PDDikti).",
+   "fetched_at": "2026-11-21T00:29:38+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 359
+  },
+  {
+   "source": "kemenag",
+   "getter": "auto",
+   "title": "Munas ke-20 MATAKIN, Menag Apresiasi Kiprah Seabad Khonghucu Rawat Harmoni Bangsa",
+   "link": "https://kemenag.go.id/nasional/munas-ke-20-matakin-menag-apresiasi-kiprah-seabad-khonghucu-rawat-harmoni-bangsa-qxssY",
+   "pubDate": "Fri, 20 Nov 2026 14:06:00 GMT",
+   "description": "Menteri Agama menyampaikan apresiasi atas kontribusi Majelis Tinggi Agama Khonghucu Indonesia (MATAKIN) yang telah hadir lebih dari 100 tahun di Tanah Air. Selama lebih dari satu abad, MATAKIN dinilai konsisten menjadi pilar penting dalam membina kehidupan keagamaan sekaligus merawat kerukunan nasional.",
+   "fetched_at": "2026-11-21T00:29:38+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 304
   },
   {
    "source": "kemenag",
@@ -35,7 +69,7 @@
    "link": "https://kemenag.go.id/nasional/kemenag-siapkan-regulasi-pendidikan-keagamaan-nonformal-hApYj",
    "pubDate": "Fri, 20 Nov 2026 11:08:00 GMT",
    "description": "\"Penguatan pendidikan Al-Qur'an tidak cukup hanya melalui penyempurnaan materi pembelajaran. Perlu ada penataan kelembagaan, penguatan standar penyelenggaraan, peningkatan kualitas pendidik, serta kejelasan pengakuan terhadap satuan pendidikan,\" ujarnya.",
-   "fetched_at": "2026-11-20T18:51:33+07:00",
+   "fetched_at": "2026-11-21T00:29:38+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 254
@@ -47,7 +81,7 @@
    "link": "https://kemenag.go.id/daerah/kisah-penyuluh-agama-bogor-rangkul-warga-binaan-perempuan-lewat-al-quran-iHqlT",
    "pubDate": "Fri, 20 Nov 2026 09:15:00 GMT",
    "description": "Di balik tembok Lembaga Pemasyarakatan (Lapas) Bogor, lembaran-lembaran Al-Qur’an menjadi ruang jeda sekaligus titik tumbuh bagi sekitar 30 warga binaan perempuan. Setiap Kamis pukul 13.50–15.30 WIB, suasana pembinaan terasa hangat lewat kehadiran Penyuluh Agama Islam Kota Bogor melalui program Ikatan Penyuluh Agama Republik Indonesia (IPARI) Kota Bogor.",
-   "fetched_at": "2026-11-20T18:51:33+07:00",
+   "fetched_at": "2026-11-21T00:29:38+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 356
@@ -59,7 +93,7 @@
    "link": "https://kemenag.go.id/nasional/ditjen-pesantren-finalisasi-renstra-fokus-jawab-kebutuhan-pesantren-YCIXh",
    "pubDate": "Fri, 20 Nov 2026 09:01:00 GMT",
    "description": "Penyusunan Rencana Strategis (Renstra) Direktorat Jenderal Pesantren tidak cukup hanya merumuskan target dan indikator kinerja. Lebih dari itu, setiap program harus mencerminkan kebutuhan riil pesantren serta karakteristik pendidikan yang berada dalam pembinaan masing-masing direktorat.",
-   "fetched_at": "2026-11-20T18:51:33+07:00",
+   "fetched_at": "2026-11-21T00:29:38+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 287
@@ -71,7 +105,7 @@
    "link": "https://kemenag.go.id/nasional/itjen-kemenag-pantau-progres-rehabilitasi-pascabanjir-di-sumbar-dan-aceh-ymLTm",
    "pubDate": "Fri, 20 Nov 2026 08:35:00 GMT",
    "description": "Inspektorat Jenderal Kementerian Agama memantau progres pembangunan rehabilitasi pascabanjir di Sumatera Barat dan Aceh. Monitoring ini bertujuan memastikan pekerjaan berjalan sesuai jadwal, memenuhi spesifikasi teknis, serta didukung pengelolaan anggaran yang akuntabel.",
-   "fetched_at": "2026-11-20T18:51:33+07:00",
+   "fetched_at": "2026-11-21T00:29:38+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 271
@@ -83,49 +117,10 @@
    "link": "https://kemenag.go.id/nasional/itjen-kemenag-uji-kualitas-perencanaan-dua-gedung-uin-siber-syekh-nurjati-cirebon-G85uI",
    "pubDate": "Fri, 20 Nov 2026 08:01:00 GMT",
    "description": "Kualitas perencanaan menjadi salah satu faktor penting dalam menentukan keberhasilan pembangunan gedung. Untuk mengidentifikasi potensi permasalahan sejak tahap awal, Inspektorat Jenderal Kementerian Agama melakukan reviu perencanaan pembangunan Gedung FASTIH dan Gedung Ma’had 3 di UIN Siber Syekh Nurjati Cirebon.",
-   "fetched_at": "2026-11-20T18:51:33+07:00",
+   "fetched_at": "2026-11-21T00:29:38+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 315
-  },
-  {
-   "source": "kemenag",
-   "getter": "auto",
-   "title": "Kemenag Susun Regulasi, Atur Ratusan Ribu Madrasah Diniyah Takmiliyah dan Lembaga Pendidikan Al-Qur’an",
-   "link": "https://kemenag.go.id/nasional/kemenag-susun-regulasi-atur-ratusan-ribu-madrasah-diniyah-takmiliyah-dan-lembaga-pendidikan-al-quran-iOhe3",
-   "pubDate": "Fri, 20 Nov 2026 04:36:00 GMT",
-   "description": "Direktorat Jenderal Pesantren membahas Rancangan Keputusan Menteri Agama (RKMA) tentang Penyelenggaraan Pendidikan Pesantren pada Jalur Nonformal, sekaligus penguatan kurikulum Madrasah Diniyah Takmiliyah (MDT). Pembahasan rancangan KMA ini berlangsung di Jakarta, 18–19 November 2026.",
-   "fetched_at": "2026-11-20T18:51:33+07:00",
-   "categories": [],
-   "content_status": "partial",
-   "content_chars": 285
-  },
-  {
-   "source": "kemenag",
-   "getter": "auto",
-   "title": "Itjen Kemenag Kawal Akuntabilitas Bantuan Pemulihan Rumah Ibadah Hindu Terdampak Banjir Sumut",
-   "link": "https://kemenag.go.id/nasional/itjen-kemenag-kawal-akuntabilitas-bantuan-pemulihan-rumah-ibadah-hindu-terdampak-banjir-sumut-YXgzl",
-   "pubDate": "Fri, 20 Nov 2026 04:01:00 GMT",
-   "description": "Inspektorat Jenderal Kementerian Agama berkolaborasi dengan Direktorat Jenderal Bimbingan Masyarakat Hindu melaksanakan monitoring dan evaluasi akhir bantuan pemerintah untuk rehabilitasi rumah ibadah Hindu terdampak banjir di Sumatra Utara. Proses monitoring berlangsung dari 18–20 November 2026.",
-   "fetched_at": "2026-11-20T18:51:33+07:00",
-   "categories": [
-    "bencana",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 297
-  },
-  {
-   "source": "kemenag",
-   "getter": "auto",
-   "title": "Kala MAN 2 Kota Malang Berbagi Praktik Baik Inovasi Pendidikan di SMA Negeri",
-   "link": "https://kemenag.go.id/daerah/kala-man-2-kota-malang-berbagi-praktik-baik-inovasi-pendidikan-di-sma-negeri-jQnON",
-   "pubDate": "Fri, 20 Nov 2026 03:45:00 GMT",
-   "description": "Pengalaman Madrasah Aliyah Negeri (MAN) 2 Kota Malang dalam mengembangkan inovasi pendidikan dan kolaborasi internasional mendapat kesempatan untuk dibagikan kepada keluarga besar Sekolah Menengah Atas (SMA) Negeri 1 Kota Bekasi. Momen itu terjadi dalam Sharing Session Inovasi Sekolah di SMA Negeri 1 Kota Bekasi.",
-   "fetched_at": "2026-11-20T18:51:33+07:00",
-   "categories": [],
-   "content_status": "partial",
-   "content_chars": 314
   },
   {
    "source": "undip",
@@ -134,7 +129,7 @@
    "link": "https://undip.ac.id/post/60575/dinas-transmigrasi-ogan-ilir-siapkan-pengelola-dan-rancang-sop-pengaduan-simantra.html",
    "pubDate": "Fri, 20 Nov 2026 05:50:12 +0000",
    "description": "<p>UNDIP, Ogan Ilir (20/11) &#8211; Dinas Tenaga Kerja dan Transmigrasi Kabupaten Ogan Ilir akan menyiapkan operator dan admin untuk mengelola SIMANTRA, prototipe peta digital lahan transmigrasi yang diserahkan Tim Ekspedisi [&#8230;]</p>\n<p>The post <a href=\"https://undip.ac.id/post/60575/dinas-transmigrasi-ogan-ilir-siapkan-pengelola-dan-rancang-sop-pengaduan-simantra.html\">Dinas Transmigrasi Ogan Ilir Siapkan Pengelola dan Rancang SOP Pengaduan SIMANTRA</a> appeared first on <a href=\"https://",
-   "fetched_at": "2026-11-20T18:51:32+07:00",
+   "fetched_at": "2026-11-21T00:29:37+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 3475
@@ -146,7 +141,7 @@
    "link": "https://undip.ac.id/post/60568/tep-undip-tuntaskan-pendataan-spasial-di-sp-1-dan-sp-2-senggi.html",
    "pubDate": "Fri, 20 Nov 2026 00:30:00 +0000",
    "description": "<p>UNDIP, Senggi Kabupaten Keerom (20/11) – Selama Agustus hingga September 2026, Tim Ekspedisi Patriot Universitas Diponegoro (TEP UNDIP) Tim 9 melakukan pendataan penduduk dan pemetaan kondisi lingkungan di Satuan Permukiman [&#8230;]</p>\n<p>The post <a href=\"https://undip.ac.id/post/60568/tep-undip-tuntaskan-pendataan-spasial-di-sp-1-dan-sp-2-senggi.html\">Datangi Langsung Rumah Warga di Papua, TEP UNDIP Tuntaskan Pendataan Spasial di SP 1 dan SP 2 Senggi</a> appeared first on <a href=\"https:/",
-   "fetched_at": "2026-11-20T18:51:32+07:00",
+   "fetched_at": "2026-11-21T00:29:37+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 5501
@@ -158,7 +153,7 @@
    "link": "https://undip.ac.id/post/60556/pelatihan-pendamping-mahasiswa-disabilitas-undip-kampus-inklusif.html",
    "pubDate": "Wed, 18 Nov 2026 08:19:57 +0000",
    "description": "<p>UNDIP, Semarang (18/11) – Universitas Diponegoro (UNDIP) melalui Unit Pelaksana Teknis Layanan Konsultasi Disabilitas, Penegakan Disiplin, dan Etika Mahasiswa (UPT LKDPDEM), Direktorat Kemahasiswaan dan Alumni, menyelenggarakan Pelatihan Pendamping Mahasiswa Disabilitas [&#8230;]</p>\n<p>The post <a href=\"https://undip.ac.id/post/60556/pelatihan-pendamping-mahasiswa-disabilitas-undip-kampus-inklusif.html\">Wujudkan Kampus Inklusif, UNDIP Bekali Mahasiswa Keterampilan Pendampingan Disabilitas</a",
-   "fetched_at": "2026-11-20T18:51:32+07:00",
+   "fetched_at": "2026-11-21T00:29:37+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 4843
@@ -170,7 +165,7 @@
    "link": "https://undip.ac.id/post/60534/sdgs-action-awards-2026-undip-peringkat-kedua.html",
    "pubDate": "Wed, 18 Nov 2026 08:13:59 +0000",
    "description": "<p>UNDIP, Semarang (18/11) – Universitas Diponegoro (UNDIP) kembali mencatatkan prestasi membanggakan di tingkat nasional. Dalam ajang Indonesia’s SDGs Action Awards 2026 yang diselenggarakan oleh Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan [&#8230;]</p>\n<p>The post <a href=\"https://undip.ac.id/post/60534/sdgs-action-awards-2026-undip-peringkat-kedua.html\">UNDIP Berkibar di SDGs Action Awards (SAA) Bappenas 2026, Naik dari Peringkat 8 ke Peringkat ke-2 Terbaik</a> ",
-   "fetched_at": "2026-11-20T18:51:32+07:00",
+   "fetched_at": "2026-11-21T00:29:37+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -184,7 +179,7 @@
    "link": "https://undip.ac.id/post/60544/undip-dan-pln-indonesia-power-bahas-ketahanan-energi-di-inpower-talks.html",
    "pubDate": "Wed, 18 Nov 2026 08:00:00 +0000",
    "description": "<p>UNDIP, Semarang (18/11) &#8211; Universitas Diponegoro (UNDIP) bersama PLN Indonesia Power (PLN IP) menghadirkan INPOWER Talks, sebuah forum diskusi yang mengusung tema “Powering Ideas, Empowering Future Leaders”. Kegiatan yang diselenggarakan [&#8230;]</p>\n<p>The post <a href=\"https://undip.ac.id/post/60544/undip-dan-pln-indonesia-power-bahas-ketahanan-energi-di-inpower-talks.html\">UNDIP dan PLN Indonesia Power Diskusikan Pemimpin Masa Depan yang Visioner dan Peduli Ketahanan Energi</a> appe",
-   "fetched_at": "2026-11-20T18:51:32+07:00",
+   "fetched_at": "2026-11-21T00:29:37+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 4361
@@ -196,7 +191,7 @@
    "link": "https://undip.ac.id/post/60525/inovasi-desalinasi-air-undip-raih-apresiasi-mendiktisaintek-di-kppti-2026.html",
    "pubDate": "Wed, 18 Nov 2026 01:52:46 +0000",
    "description": "<p>UNDIP, Surabaya (18/11) &#8211; Inovasi teknologi desalinasi air karya Universitas Diponegoro (UNDIP) mendapat apresiasi Menteri Pendidikan Tinggi, Sains, dan Teknologi (Mendiktisaintek), Prof. Brian Yuliarto, Ph.D., dalam Konferensi Puncak Pendidikan Tinggi [&#8230;]</p>\n<p>The post <a href=\"https://undip.ac.id/post/60525/inovasi-desalinasi-air-undip-raih-apresiasi-mendiktisaintek-di-kppti-2026.html\">Menteri Brian Yuliarto Puji Inovasi Desalinasi UNDIP sebagai Contoh Nyata Kampus Berdampak!<",
-   "fetched_at": "2026-11-20T18:51:32+07:00",
+   "fetched_at": "2026-11-21T00:29:37+07:00",
    "categories": [
     "bencana",
     "pemerintahan"
@@ -214,7 +209,7 @@
    "link": "https://pesisirselatankab.go.id/berita/dinas-kesehatan-ppkb-pessel-bersama-puskesmas-pasar-kuok-lakukan-pe-dan-klb-rabies",
    "pubDate": "Fri, 20 Nov 2026 19:07:47 +0700",
    "description": "Dalam rangka penanggulangan Kejadian Luar Biasa (KLB) Rabies, Dinas Kesehatan, PPKB Kabupaten Pesisir Selatan bersama Puskesmas Pasar Kuok, petugas kehewanan Kecamatan Batang Kapas, serta unsur pemerintahan nagari dan kampung melaksanakan kegiatan Penyelidikan Epidemiologi (PE) dan penanggulangan…",
-   "fetched_at": "2026-11-20T18:51:29+07:00",
+   "fetched_at": "2026-11-21T00:29:35+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 298
@@ -226,7 +221,7 @@
    "link": "https://pesisirselatankab.go.id/berita/mtq-ke-42-pesisir-selatan-libatkan-605-peserta-66-hakim-dan-24-panitera-di-12-venue",
    "pubDate": "Fri, 20 Nov 2026 17:37:21 +0700",
    "description": "Musabaqah Tilawatil Quran (MTQ) ke-42 tingkat Kabupaten Pesisir Selatan Tahun 2026 dipastikan berlangsung semarak. Sebanyak 605 peserta akan berkompetisi pada 26 cabang perlombaan yang digelar di 12 venue atau lokasi berbeda. Besarnya jumlah peserta dan ragam cabang yang diperlombakan membuat…",
-   "fetched_at": "2026-11-20T18:51:29+07:00",
+   "fetched_at": "2026-11-21T00:29:35+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 294
@@ -238,7 +233,7 @@
    "link": "https://pesisirselatankab.go.id/berita/wabup-risnaldi-turun-langsung-cek-venue-mtq-ke-42-pastikan-persiapan-tak-ada-yang-terlewat",
    "pubDate": "Fri, 20 Nov 2026 17:21:59 +0700",
    "description": "Pelaksanaan Musabaqah Tilawatil Qur’an (MTQ) Nasional ke-42 tingkat Kabupaten Pesisir Selatan terus dimatangkan. Wakil Bupati Pesisir Selatan, Risnaldi Ibrahim, yang juga Ketua Lembaga Pengembangan Tilawatil Qur’an (LPTQ) Kabupaten Pesisir Selatan, turun langsung meninjau sejumlah venue yang akan…",
-   "fetched_at": "2026-11-20T18:51:29+07:00",
+   "fetched_at": "2026-11-21T00:29:35+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 298
@@ -250,7 +245,7 @@
    "link": "https://pesisirselatankab.go.id/berita/tingkatkan-kualitas-perajin-lokal-pessel-gelar-pelatihan-kompetensi-teknis-batik",
    "pubDate": "Fri, 20 Nov 2026 13:20:55 +0700",
    "description": "Kualitas sebuah karya batik tidak hanya ditentukan oleh motif dan keindahan warna, tetapi juga oleh keterampilan tangan yang mengerjakannya. Di balik setiap lembar kain batik, terdapat proses panjang yang menuntut ketelitian, penguasaan teknik, dan kreativitas agar menghasilkan karya yang memiliki…",
-   "fetched_at": "2026-11-20T18:51:29+07:00",
+   "fetched_at": "2026-11-21T00:29:35+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 299
@@ -262,7 +257,7 @@
    "link": "https://pesisirselatankab.go.id/berita/menanamkan-kecakapan-finansial-sejak-bangku-sekolah-bpr-samudera-hadirkan-edukasi-keuangan-bagi-sisw",
    "pubDate": "Fri, 20 Nov 2026 11:23:28 +0700",
    "description": "Kebiasaan mengelola keuangan tidak terbentuk secara tiba-tiba ketika seseorang mulai bekerja atau memiliki penghasilan sendiri. Pemahaman tentang nilai uang, kemampuan menentukan prioritas, hingga kebiasaan menyisihkan sebagian untuk ditabung merupakan kecakapan hidup yang perlu ditanamkan sejak…",
-   "fetched_at": "2026-11-20T18:51:29+07:00",
+   "fetched_at": "2026-11-21T00:29:35+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 297
@@ -274,7 +269,7 @@
    "link": "https://pesisirselatankab.go.id/berita/mahasiswa-pkl-poltekkes-kemenkes-padang-lakukan-penyuluha-mata-di-rsud-m-zein-painan",
    "pubDate": "Fri, 20 Nov 2026 11:11:21 +0700",
    "description": "Mahasiswa PKL Poltekkes Kemenkes RI Padang melaksanakan penyuluhan kesehatan di Ruang Tunggu Pendaftaran Poliklinik RSUD Dr. Muhammad Zein Painan dengan tema “Obat Tetes Mata: Mata Sehat, Aktivitas Pun Semangat\" pada Rabu 11 November 2026. Pada penyuluhan tersebut disampaikan bahwa penggunaan obat…",
-   "fetched_at": "2026-11-20T18:51:29+07:00",
+   "fetched_at": "2026-11-21T00:29:35+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 299
@@ -286,7 +281,7 @@
    "link": "https://pesisirselatankab.go.id/berita/camat-sutera-pimpin-serah-terima-jabatan-tiga-wali-nagari-definitif-di-kecamatan-sutera",
    "pubDate": "Fri, 20 Nov 2026 09:58:34 +0700",
    "description": "Pemerintahan tingkat nagari di Kecamatan Sutera, Kabupaten Pesisir Selatan, memasuki babak baru setelah dilaksanakannya Serah Terima Jabatan (Sertijab) dari Penjabat (Pj) Wali Nagari kepada Wali Nagari Definitif pada Jumat (20/11/2026). Prosesi serah terima jabatan tersebut dipusatkan di Kantor…",
-   "fetched_at": "2026-11-20T18:51:29+07:00",
+   "fetched_at": "2026-11-21T00:29:35+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 296
@@ -298,7 +293,7 @@
    "link": "https://pesisirselatankab.go.id/berita/bpkpad-pessel-optimalkan-pad-melalui-peningkatan-kepatuhan-pajak-kendaraan",
    "pubDate": "Fri, 20 Nov 2026 09:31:52 +0700",
    "description": "Pembangunan daerah membutuhkan dukungan pendapatan yang berkelanjutan. Salah satu sumbernya berasal dari Pendapatan Asli Daerah (PAD), termasuk penerimaan Pajak Kendaraan Bermotor (PKB) yang menjadi bagian penting dalam memperkuat kapasitas keuangan pemerintah daerah. Untuk mendorong optimalisasi…",
-   "fetched_at": "2026-11-20T18:51:29+07:00",
+   "fetched_at": "2026-11-21T00:29:35+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 298
@@ -310,7 +305,7 @@
    "link": "https://pesisirselatankab.go.id/berita/sekda-pessel-apresiasi-kerja-keras-opd-optimistis-kabupaten-sehat-dapat-terwujud",
    "pubDate": "Fri, 20 Nov 2026 04:27:18 +0700",
    "description": "Mewujudkan kabupaten yang sehat bukan pekerjaan satu instansi, melainkan ikhtiar bersama yang membutuhkan keterlibatan banyak pihak. Mulai dari penataan lingkungan, peningkatan kualitas pelayanan publik, hingga tumbuhnya kesadaran masyarakat untuk menjaga kesehatan dan kenyamanan lingkungan tempat…",
-   "fetched_at": "2026-11-20T18:51:29+07:00",
+   "fetched_at": "2026-11-21T00:29:35+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 299
@@ -322,7 +317,7 @@
    "link": "https://pesisirselatankab.go.id/berita/pesisir-selatan-masuk-6-besar-kabupaten-kota-sehat-sumatera-barat-2026-tim-propinsi-turun-lakukan-ve",
    "pubDate": "Thu, 19 Nov 2026 19:24:35 +0700",
    "description": "Kabupaten Pesisir Selatan menjalani tahapan verifikasi dan klarifikasi lapangan sebagai salah satu dari enam besar nominasi Kabupaten/Kota Sehat (KKS) Tingkat Provinsi Sumatera Barat Tahun 2026. Kegiatan ini dilaksanakan selama dua hari, yakni Kamis dan Jumat tanggal 19-20 November 2026 oleh Tim…",
-   "fetched_at": "2026-11-20T18:51:29+07:00",
+   "fetched_at": "2026-11-21T00:29:35+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 297
@@ -334,7 +329,7 @@
    "link": "https://bawaslu.go.id/id/berita/sekjen-dorong-pejabat-fungsional-tingkatkan-kompetensi-dan-wawasan",
    "pubDate": "Mon, 16 Nov 2026 07:38:50 +0000",
    "description": "<span>Sekjen Dorong Pejabat Fungsional Tingkatkan Kompetensi dan Wawasan</span>\n            <div class=\"field field--name-field-foto-berita field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://bawaslu.go.id/sites/default/files/styles/thumbnail_berita/public/foto_berita/WhatsApp%20Image%202026-11-16%20at%2013.49.48.jpeg?itok=MNo3F_iI\" width=\"187\" height=\"125\" alt>\n\n\n</div>\n      \n<span><span>Hendi Purnawan</span></span>\n\n<span><time datetime=\"2026-11-16T14:38:50+0",
-   "fetched_at": "2026-11-20T18:51:27+07:00",
+   "fetched_at": "2026-11-21T00:29:33+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 1753
@@ -346,7 +341,7 @@
    "link": "https://bawaslu.go.id/id/berita/bawaslu-tekankan-akurasi-data-asn-untuk-dukung-pemetaan-manajemen-talenta",
    "pubDate": "Thu, 12 Nov 2026 14:48:48 +0000",
    "description": "<span>Bawaslu Tekankan Akurasi Data ASN untuk Dukung Pemetaan Manajemen Talenta</span>\n            <div class=\"field field--name-field-foto-berita field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://bawaslu.go.id/sites/default/files/styles/thumbnail_berita/public/foto_berita/692048.jpg?itok=OAjzwiA-\" width=\"187\" height=\"125\" alt>\n\n\n</div>\n      \n<span><span>Bintang Ayudia</span></span>\n\n<span><time datetime=\"2026-11-12T21:48:48+07:00\" title=\"Kamis, November 12, ",
-   "fetched_at": "2026-11-20T18:51:27+07:00",
+   "fetched_at": "2026-11-21T00:29:33+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -360,7 +355,7 @@
    "link": "https://bawaslu.go.id/id/berita/bagja-dorong-percepatan-transformasi-digital-untuk-perkuat-tata-kelola-kelembagaan-bawaslu",
    "pubDate": "Wed, 04 Nov 2026 06:11:14 +0000",
    "description": "<span>Bagja Dorong Percepatan Transformasi Digital untuk Perkuat Tata Kelola Kelembagaan Bawaslu</span>\n            <div class=\"field field--name-field-foto-berita field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://bawaslu.go.id/sites/default/files/styles/thumbnail_berita/public/foto_berita/WhatsApp%20Image%202026-11-03%20at%2014.16.26.jpeg?itok=ECwYBrpK\" width=\"187\" height=\"125\" alt>\n\n\n</div>\n      \n<span><span>Bintang Ayudia</span></span>\n\n<span><time datetim",
-   "fetched_at": "2026-11-20T18:51:27+07:00",
+   "fetched_at": "2026-11-21T00:29:33+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -370,11 +365,25 @@
   {
    "source": "bawaslu",
    "getter": "auto",
+   "title": "Bawaslu Perkuat Penerapan Manajemen Talenta untuk Pengisian Jabatan",
+   "link": "https://bawaslu.go.id/id/berita/bawaslu-perkuat-penerapan-manajemen-talenta-untuk-pengisian-jabatan",
+   "pubDate": "Thu, 29 Oct 2026 12:43:32 +0000",
+   "description": "<span>Bawaslu Perkuat Penerapan Manajemen Talenta untuk Pengisian Jabatan</span>\n            <div class=\"field field--name-field-foto-berita field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://bawaslu.go.id/sites/default/files/styles/thumbnail_berita/public/foto_berita/679276.jpg?itok=zP0xkAwE\" width=\"187\" height=\"125\" alt>\n\n\n</div>\n      \n<span><span>Bintang Ayudia</span></span>\n\n<span><time datetime=\"2026-10-29T19:43:32+07:00\" title=\"Kamis, Oktober 29, 2026 - ",
+   "fetched_at": "2026-11-21T00:29:33+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 3061
+  },
+  {
+   "source": "bawaslu",
+   "getter": "auto",
    "title": "Puadi: Kualitas Demokrasi Ditentukan Pengawasan dan Penegakan Hukum Pemilu",
    "link": "https://bawaslu.go.id/id/berita/puadi-kualitas-demokrasi-ditentukan-pengawasan-dan-penegakan-hukum-pemilu",
    "pubDate": "Mon, 19 Oct 2026 11:14:47 +0000",
    "description": "<span>Puadi: Kualitas Demokrasi Ditentukan Pengawasan dan Penegakan Hukum Pemilu</span>\n            <div class=\"field field--name-field-foto-berita field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://bawaslu.go.id/sites/default/files/styles/thumbnail_berita/public/foto_berita/WhatsApp%20Image%202026-10-19%20at%2018.02.03%281%29.jpeg?itok=yWY7mKf5\" width=\"187\" height=\"125\" alt>\n\n\n</div>\n      \n<span><span>Nofiar</span></span>\n\n<span><time datetime=\"2026-10-19T18:",
-   "fetched_at": "2026-11-20T18:51:27+07:00",
+   "fetched_at": "2026-11-21T00:29:33+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -388,7 +397,7 @@
    "link": "https://bawaslu.go.id/id/berita/bawaslu-berkolaborasi-dengan-ui-tingkatkan-sdm-jajaran-di-bidang-pendidikan",
    "pubDate": "Mon, 19 Oct 2026 10:57:32 +0000",
    "description": "<span>Bawaslu Berkolaborasi dengan UI Tingkatkan SDM Jajaran di Bidang Pendidikan</span>\n            <div class=\"field field--name-field-foto-berita field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://bawaslu.go.id/sites/default/files/styles/thumbnail_berita/public/foto_berita/WhatsApp%20Image%202026-10-19%20at%2015.06.48.jpeg?itok=Eo__gjFs\" width=\"187\" height=\"125\" alt>\n\n\n</div>\n      \n<span><span>Hendi Purnawan</span></span>\n\n<span><time datetime=\"2026-10-19T1",
-   "fetched_at": "2026-11-20T18:51:27+07:00",
+   "fetched_at": "2026-11-21T00:29:33+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -402,7 +411,7 @@
    "link": "https://bawaslu.go.id/id/berita/jadi-anggota-executive-board-web-bawaslu-perkuat-peran-indonesia-dalam-demokrasi-global",
    "pubDate": "Thu, 15 Oct 2026 02:26:32 +0000",
    "description": "<span>Jadi Anggota Executive Board A-WEB, Bawaslu Perkuat Peran Indonesia dalam Demokrasi Global</span>\n            <div class=\"field field--name-field-foto-berita field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://bawaslu.go.id/sites/default/files/styles/thumbnail_berita/public/foto_berita/WhatsApp%20Image%202026-10-15%20at%2007.53.37.jpeg?itok=npH8L-iM\" width=\"187\" height=\"125\" alt>\n\n\n</div>\n      \n<span><span>Bhakti Satrio</span></span>\n\n<span><time datetime",
-   "fetched_at": "2026-11-20T18:51:27+07:00",
+   "fetched_at": "2026-11-21T00:29:33+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -416,7 +425,7 @@
    "link": "https://bawaslu.go.id/id/berita/bawaslu-tegaskan-pentingnya-mitigasi-risiko-dan-dokumentasi-pengawasan-pdpb",
    "pubDate": "Wed, 14 Oct 2026 08:40:47 +0000",
    "description": "<span>Bawaslu Tegaskan Pentingnya Mitigasi Risiko dan Dokumentasi Pengawasan PDPB</span>\n            <div class=\"field field--name-field-foto-berita field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://bawaslu.go.id/sites/default/files/styles/thumbnail_berita/public/foto_berita/WhatsApp%20Image%202026-10-14%20at%2015.01.08.jpeg?itok=n3P0yU0Q\" width=\"187\" height=\"125\" alt>\n\n\n</div>\n      \n<span><span>Jaka Fajar</span></span>\n\n<span><time datetime=\"2026-10-14T15:40",
-   "fetched_at": "2026-11-20T18:51:27+07:00",
+   "fetched_at": "2026-11-21T00:29:33+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -430,7 +439,7 @@
    "link": "https://bawaslu.go.id/id/berita/bawaslu-sarankan-kpu-masukkan-catatan-konstitusional-dalam-modul-pendidikan-pemilih",
    "pubDate": "Thu, 08 Oct 2026 15:41:01 +0000",
    "description": "<span>Bawaslu Sarankan KPU Masukkan Catatan Konstitusional dalam Modul Pendidikan Pemilih</span>\n            <div class=\"field field--name-field-foto-berita field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://bawaslu.go.id/sites/default/files/styles/thumbnail_berita/public/foto_berita/WhatsApp%20Image%202026-10-08%20at%2020.52.33.jpeg?itok=Vn8Zg5oC\" width=\"187\" height=\"125\" alt>\n\n\n</div>\n      \n<span><span>Robi Ardianto</span></span>\n\n<span><time datetime=\"2026-",
-   "fetched_at": "2026-11-20T18:51:27+07:00",
+   "fetched_at": "2026-11-21T00:29:33+07:00",
    "categories": [
     "hukum-kriminal",
     "pemerintahan"
@@ -445,7 +454,7 @@
    "link": "https://bawaslu.go.id/id/berita/bawaslu-tata-pengisian-jabatan-melalui-manajemen-talenta",
    "pubDate": "Thu, 08 Oct 2026 15:38:24 +0000",
    "description": "<span>Bawaslu Tata Pengisian Jabatan Melalui Manajemen Talenta</span>\n            <div class=\"field field--name-field-foto-berita field--type-image field--label-hidden field__item\">  <img loading=\"lazy\" src=\"https://bawaslu.go.id/sites/default/files/styles/thumbnail_berita/public/foto_berita/WhatsApp%20Image%202026-10-08%20at%2019.27.25.jpeg?itok=pGVeoxZm\" width=\"187\" height=\"125\" alt>\n\n\n</div>\n      \n<span><span>Nofiar</span></span>\n\n<span><time datetime=\"2026-10-08T22:38:24+07:00\" title=\"Kamis",
-   "fetched_at": "2026-11-20T18:51:27+07:00",
+   "fetched_at": "2026-11-21T00:29:33+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -459,7 +468,7 @@
    "link": "https://www.kemhan.go.id/2026/11/20/misa-hari-pahlawan-2026-umat-katolik-kemhan-tni-dan-polri-teguhkan-integritas-dan-semangat-pengabdian.html",
    "pubDate": "Fri, 20 Nov 2026 11:31:11 +0000",
    "description": "Jakarta – Umat Katolik di Kemhan, TNI, dan Polri menggelar Misa Peringatan Hari Pahlawan 2026 di Gereja Ratu Rosari, Jagakarsa,...",
-   "fetched_at": "2026-11-20T18:51:25+07:00",
+   "fetched_at": "2026-11-21T00:29:31+07:00",
    "categories": [
     "hukum-kriminal"
    ],
@@ -473,7 +482,7 @@
    "link": "https://www.kemhan.go.id/2026/11/20/buka-diklat-sppi-kdkmp-batch-2-ta-2026-kemhan-siapkan-sdm-unggul-untuk-perkuat-ekonomi-kerakyatan.html",
    "pubDate": "Fri, 20 Nov 2026 11:24:36 +0000",
    "description": "Jakarta – Kementerian Pertahanan Republik Indonesia (Kemhan RI) menggelar Upacara Pembukaan Pendidikan dan Pelatihan Sarjana Penggerak Pembangunan Indonesia (SPPI) Koperasi...",
-   "fetched_at": "2026-11-20T18:51:25+07:00",
+   "fetched_at": "2026-11-21T00:29:31+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -487,7 +496,7 @@
    "link": "https://www.kemhan.go.id/2026/11/20/menhan-sjafrie-apresiasi-semangat-juang-prajurit-muda-btp-29-mekongga-dan-yonif-tp-869-taawu.html",
    "pubDate": "Fri, 20 Nov 2026 04:50:03 +0000",
    "description": "Kolaka, Sulteng &#8211; Menteri Pertahanan RI Sjafrie Sjamsoeddin melaksanakan kunjungan kerja ke Brigif TP 29/Mekongga dan Yonif TP 869/Taawu sekaligus...",
-   "fetched_at": "2026-11-20T18:51:25+07:00",
+   "fetched_at": "2026-11-21T00:29:31+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 1096
@@ -499,7 +508,7 @@
    "link": "https://www.kemhan.go.id/2026/11/19/kemhan-susun-instrumen-adaptasi-karier-prajurit-untuk-perkuat-manajemen-talenta-kemhan.html",
    "pubDate": "Thu, 19 Nov 2026 12:07:26 +0000",
    "description": "Jakarta &#8211; Kementerian Pertahanan melalui Badan Pengembangan Sumber Daya Manusia Pertahanan (BPSDM Han) Kemhan menyelenggarakan Sarasehan Penyusunan Instrumen Awal Adaptasi...",
-   "fetched_at": "2026-11-20T18:51:25+07:00",
+   "fetched_at": "2026-11-21T00:29:31+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 2037
@@ -511,7 +520,7 @@
    "link": "https://www.kemhan.go.id/2026/11/19/penasihat-dwp-kemhan-dorong-wanita-tni-tangguh-beretika-dan-terampil.html",
    "pubDate": "Thu, 19 Nov 2026 12:00:39 +0000",
    "description": "Jakarta – Penasihat Dharma Wanita Persatuan Kementerian Pertahanan (DWP Kemhan), Ibu Etty Sjafrie Sjamsoeddin memberikan pengarahan kepada Wanita TNI Kemhan...",
-   "fetched_at": "2026-11-20T18:51:25+07:00",
+   "fetched_at": "2026-11-21T00:29:31+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 2002
@@ -523,7 +532,7 @@
    "link": "https://www.kemhan.go.id/2026/11/19/tinjau-yonif-tp-919-sangia-dowo-menhan-tugas-prajurit-mengamankan-wilayah-dan-menjaga-kedaulatan.html",
    "pubDate": "Thu, 19 Nov 2026 05:07:29 +0000",
    "description": "Bombana, Sulawesi Tenggara – Menteri Pertahanan Republik Indonesia (Menhan RI) Sjafrie Sjamsoeddin meninjau ke Marshalling Area Batalyon Infanteri Teritorial Pembangunan...",
-   "fetched_at": "2026-11-20T18:51:25+07:00",
+   "fetched_at": "2026-11-21T00:29:31+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -537,7 +546,7 @@
    "link": "https://www.kemhan.go.id/2026/11/19/kemhan-ri-dan-australia-perkuat-kesiapsiagaan-evakuasi-wni-melalui-the-9th-kresna-ausindo-ttx-2026.html",
    "pubDate": "Thu, 19 Nov 2026 03:30:19 +0000",
    "description": "Jakarta – Kementerian Pertahanan Republik Indonesia (Kemhan RI) bersama Australia menggelar The 9th Kresna Ausindo Table Top Exercise (TTX) 2026...",
-   "fetched_at": "2026-11-20T18:51:25+07:00",
+   "fetched_at": "2026-11-21T00:29:31+07:00",
    "categories": [
     "bencana",
     "pemerintahan"
@@ -552,7 +561,7 @@
    "link": "https://www.kemhan.go.id/2026/11/19/wamenhan-richard-hadiri-diklatnassus-bpp-hipmi-bahas-ketahanan-ekonomi-sebagai-pilar-ketahanan-nasional.html",
    "pubDate": "Thu, 19 Nov 2026 02:06:01 +0000",
    "description": "Jakarta – Wakil Menteri Pertahanan Republik Indonesia (Wamenhan RI) Bidang Strategi, Doktrin, dan Pembangunan Kekuatan, Jenderal TNI Richard T.H. Tampubolon...",
-   "fetched_at": "2026-11-20T18:51:25+07:00",
+   "fetched_at": "2026-11-21T00:29:31+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -566,7 +575,7 @@
    "link": "https://www.kemhan.go.id/2026/11/19/wamenhan-richard-buka-kegiatan-administrative-governance-alignment-meeting-dewan-pertahanan-nasional.html",
    "pubDate": "Thu, 19 Nov 2026 02:00:43 +0000",
    "description": "Jakarta – Wakil Menteri Pertahanan Republik Indonesia (Wamenhan RI) Bidang Strategi, Doktrin, dan Pembangunan Kekuatan, Jenderal TNI Richard T.H. Tampubolon,...",
-   "fetched_at": "2026-11-20T18:51:25+07:00",
+   "fetched_at": "2026-11-21T00:29:31+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -580,7 +589,7 @@
    "link": "https://www.kemhan.go.id/2026/11/18/korpri-kemhan-gelar-seminar-neuro-parenting-dalam-rangka-memperingati-hut-ke-55-korpri-tahun-2026.html",
    "pubDate": "Wed, 18 Nov 2026 07:36:23 +0000",
    "description": "Jakarta – Korps Pegawai Republik Indonesia Kementerian Pertahanan (KORPRI Kemhan) melalui KORPRI Pusat Kesehatan Pertahanan (Puskeshan) Kemhan menyelenggarakan Seminar Neuroparenting...",
-   "fetched_at": "2026-11-20T18:51:25+07:00",
+   "fetched_at": "2026-11-21T00:29:31+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 2716
@@ -592,7 +601,7 @@
    "link": "https://kemenkopmk.go.id/kemenko-pmk-terima-naskah-rekomendasi-kebijakan-urgensi-kelembagaan-kelanjutusiaan",
    "pubDate": "Fri, 20 Nov 2026 06:41:09 +0000",
    "description": "<span property=\"schema:name\">Kemenko PMK Terima Naskah Rekomendasi Kebijakan Urgensi Kelembagaan Kelanjutusiaan</span>\n<span rel=\"schema:author\"><a title=\"View user profile.\" href=\"https://kemenkopmk.go.id/user/42\" lang=\"\" about=\"https://kemenkopmk.go.id/user/42\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">humas</a></span>\n<span property=\"schema:dateCreated\" content=\"2026-11-20T06:41:09+00:00\">Fri, 11/20/2026 - 13:41</span>",
-   "fetched_at": "2026-11-20T18:51:21+07:00",
+   "fetched_at": "2026-11-21T00:29:28+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -606,7 +615,7 @@
    "link": "https://kemenkopmk.go.id/kemenko-pmk-bawa-pengalaman-indonesia-perkuat-aksi-antisipatif-bencana-di-forum-asia-pasifik",
    "pubDate": "Fri, 20 Nov 2026 06:39:30 +0000",
    "description": "<span property=\"schema:name\">Kemenko PMK Bawa Pengalaman Indonesia Perkuat Aksi Antisipatif Bencana di Forum Asia Pasifik</span>\n<span rel=\"schema:author\"><a title=\"View user profile.\" href=\"https://kemenkopmk.go.id/user/42\" lang=\"\" about=\"https://kemenkopmk.go.id/user/42\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">humas</a></span>\n<span property=\"schema:dateCreated\" content=\"2026-11-20T06:39:30+00:00\">Fri, 11/20/2026 - 13:39</span>",
-   "fetched_at": "2026-11-20T18:51:21+07:00",
+   "fetched_at": "2026-11-21T00:29:28+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -620,7 +629,7 @@
    "link": "https://kemenkopmk.go.id/kolaborasi-kemenko-pmk-dan-pemprov-diy-perkuat-surveilans-berbasis-masyarakat-untuk-antisipasi",
    "pubDate": "Fri, 20 Nov 2026 06:36:21 +0000",
    "description": "<span property=\"schema:name\">Kolaborasi Kemenko PMK dan Pemprov DIY Perkuat Surveilans Berbasis Masyarakat untuk Antisipasi Penyakit Zoonosis</span>\n<span rel=\"schema:author\"><a title=\"View user profile.\" href=\"https://kemenkopmk.go.id/user/42\" lang=\"\" about=\"https://kemenkopmk.go.id/user/42\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">humas</a></span>\n<span property=\"schema:dateCreated\" content=\"2026-11-20T06:36:21+00:00\">Fri, 11/20/2026 - 13:36</span>",
-   "fetched_at": "2026-11-20T18:51:21+07:00",
+   "fetched_at": "2026-11-21T00:29:28+07:00",
    "categories": [
     "bencana",
     "pemerintahan"
@@ -635,7 +644,7 @@
    "link": "https://kemenkopmk.go.id/e-pedoman-kandaga-pmk-kanal-data-dan-analisis-gatra-budaya-tata-kelola-kebudayaan-berbasis-data",
    "pubDate": "Fri, 20 Nov 2026 02:46:19 +0000",
    "description": "<span property=\"schema:name\">e-Pedoman Kandaga PMK : Kanal Data dan Analisis Gatra Budaya Tata Kelola Kebudayaan Berbasis Data</span>\n<span rel=\"schema:author\"><a title=\"View user profile.\" href=\"https://kemenkopmk.go.id/user/42\" lang=\"\" about=\"https://kemenkopmk.go.id/user/42\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">humas</a></span>\n<span property=\"schema:dateCreated\" content=\"2026-11-20T02:46:19+00:00\">Fri, 11/20/2026 - 09:46</span>",
-   "fetched_at": "2026-11-20T18:51:21+07:00",
+   "fetched_at": "2026-11-21T00:29:28+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 595
@@ -647,7 +656,7 @@
    "link": "https://kemenkopmk.go.id/buku-saku-keluarga-berkah-bekal-ringkas-keluarga-aman-dan-harmonis",
    "pubDate": "Fri, 20 Nov 2026 02:12:01 +0000",
    "description": "<span property=\"schema:name\">Buku Saku Keluarga Berkah : Bekal Ringkas Keluarga Aman dan Harmonis </span>\n<span rel=\"schema:author\"><a title=\"View user profile.\" href=\"https://kemenkopmk.go.id/user/42\" lang=\"\" about=\"https://kemenkopmk.go.id/user/42\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">humas</a></span>\n<span property=\"schema:dateCreated\" content=\"2026-11-20T02:12:01+00:00\">Fri, 11/20/2026 - 09:12</span>",
-   "fetched_at": "2026-11-20T18:51:21+07:00",
+   "fetched_at": "2026-11-21T00:29:28+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 1309
@@ -659,7 +668,7 @@
    "link": "https://kemenkopmk.go.id/lantik-pejabat-baru-dan-sematkan-satyalancana-karyasatya-menko-pmk-sugiono-tekankan-amanah-dan",
    "pubDate": "Fri, 20 Nov 2026 01:32:29 +0000",
    "description": "<span property=\"schema:name\">Lantik Pejabat Baru dan Sematkan Satyalancana Karyasatya, Menko PMK Sugiono Tekankan Amanah dan Integritas Pengabdian</span>\n<span rel=\"schema:author\"><a title=\"View user profile.\" href=\"https://kemenkopmk.go.id/user/42\" lang=\"\" about=\"https://kemenkopmk.go.id/user/42\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">humas</a></span>\n<span property=\"schema:dateCreated\" content=\"2026-11-20T01:32:29+00:00\">Fri, 11/20/2026 - 08:32</",
-   "fetched_at": "2026-11-20T18:51:21+07:00",
+   "fetched_at": "2026-11-21T00:29:28+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -673,7 +682,7 @@
    "link": "https://kemenkopmk.go.id/kemenko-pmk-berikan-penghargaan-unit-pengolah-kearsipan-terbaik-dan-arsiparis-teladan",
    "pubDate": "Thu, 19 Nov 2026 13:47:03 +0000",
    "description": "<span property=\"schema:name\">Kemenko PMK Berikan Penghargaan Unit Pengolah Kearsipan Terbaik dan Arsiparis Teladan</span>\n<span rel=\"schema:author\"><a title=\"View user profile.\" href=\"https://kemenkopmk.go.id/user/42\" lang=\"\" about=\"https://kemenkopmk.go.id/user/42\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">humas</a></span>\n<span property=\"schema:dateCreated\" content=\"2026-11-19T13:47:03+00:00\">Thu, 11/19/2026 - 20:47</span>",
-   "fetched_at": "2026-11-20T18:51:21+07:00",
+   "fetched_at": "2026-11-21T00:29:28+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 3818
@@ -685,7 +694,7 @@
    "link": "https://kemenkopmk.go.id/kemenko-pmk-pimpin-komite-pengarah-program-jenggala-perkuat-kepemimpinan-perempuan-muda-dalam",
    "pubDate": "Thu, 19 Nov 2026 13:45:26 +0000",
    "description": "<span property=\"schema:name\">Kemenko PMK Pimpin Komite Pengarah Program JENGGALA, Perkuat Kepemimpinan Perempuan Muda dalam Ketahanan Iklim</span>\n<span rel=\"schema:author\"><a title=\"View user profile.\" href=\"https://kemenkopmk.go.id/user/42\" lang=\"\" about=\"https://kemenkopmk.go.id/user/42\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">humas</a></span>\n<span property=\"schema:dateCreated\" content=\"2026-11-19T13:45:26+00:00\">Thu, 11/19/2026 - 20:45</span>",
-   "fetched_at": "2026-11-20T18:51:21+07:00",
+   "fetched_at": "2026-11-21T00:29:28+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -699,7 +708,7 @@
    "link": "https://kemenkopmk.go.id/kemenko-pmk-dorong-penguatan-phbs-dan-kolaborasi-lintas-sektor-untuk-pencegahan-zoonosis-dan",
    "pubDate": "Wed, 18 Nov 2026 08:58:55 +0000",
    "description": "<span property=\"schema:name\">Kemenko PMK Dorong Penguatan PHBS dan Kolaborasi Lintas Sektor untuk Pencegahan Zoonosis dan Penyakit Infeksi Emerging</span>\n<span rel=\"schema:author\"><a title=\"View user profile.\" href=\"https://kemenkopmk.go.id/user/42\" lang=\"\" about=\"https://kemenkopmk.go.id/user/42\" typeof=\"schema:Person\" property=\"schema:name\" datatype=\"\" class=\"username\" xml:lang=\"\">humas</a></span>\n<span property=\"schema:dateCreated\" content=\"2026-11-18T08:58:55+00:00\">Wed, 11/18/2026 - 15:58<",
-   "fetched_at": "2026-11-20T18:51:21+07:00",
+   "fetched_at": "2026-11-21T00:29:28+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -709,122 +718,130 @@
   {
    "source": "vidio",
    "getter": "auto",
-   "title": "PORORO & Fairy Tales Toy Story - 21 November 2026",
-   "link": "https://m.vidio.com/watch/9763717-pororo-fairy-tales-toy-story-21-november-2026",
-   "pubDate": "Sat, 21 Nov 2026 01:02:06 +0700",
-   "description": "Selamat telah membandingkan Dongeng Pororo dengan dongeng yang sudah Anda ketahui! Anda bisa bertemu dengan dongeng Pororo tentang Pinokio, Beauty and the Beast, Jack and the Beanstalk, dan Peter Pan!",
-   "fetched_at": "2026-11-20T18:51:19+07:00",
-   "categories": [],
+   "title": "Terseret Banjir Bandang, Satu Warga Baduy Luar Ditemukan Sejauh 17 Kilometer | Liputan 6",
+   "link": "https://m.vidio.com/watch/9764066-terseret-banjir-bandang-satu-warga-baduy-luar-ditemukan-sejauh-17-kilometer-liputan-6",
+   "pubDate": "Sat, 21 Nov 2026 07:18:41 +0700",
+   "description": "Tim SAR gabungan menemukan satu dari dua kakak beradik warga Baduy Luar yang terseret banjir bandang di Sungai Cisimeut, Desa Cisimeut, Kabupaten Lebak, Banten. Korban ditemukan 17 kilometer dari lokasi awal dilaporkan hilang.",
+   "fetched_at": "2026-11-21T00:29:26+07:00",
+   "categories": [
+    "bencana"
+   ],
    "content_status": "partial",
-   "content_chars": 200
+   "content_chars": 226
   },
   {
    "source": "vidio",
    "getter": "auto",
-   "title": "Plentis Kentus - 21 November 2026",
-   "link": "https://m.vidio.com/watch/9763714-plentis-kentus-21-november-2026",
-   "pubDate": "Sat, 21 Nov 2026 01:02:06 +0700",
-   "description": "Plentis Kentus",
-   "fetched_at": "2026-11-20T18:51:19+07:00",
+   "title": "Garuda Muda Tak Terkalahkan di Kualifikasi | Fokus",
+   "link": "https://m.vidio.com/watch/9764065-garuda-muda-tak-terkalahkan-di-kualifikasi-fokus",
+   "pubDate": "Sat, 21 Nov 2026 07:17:42 +0700",
+   "description": "Dari lanjutan AFC U-17 Asian Cup Uzbekistan 2027 Qualifiers, Timnas U-17 Indonesia mencatatkan rekor tak terkalahkan di babak kualifikasi. Di laga terakhir, Garuda Muda meraih hasil imbang kontra Myanmar.",
+   "fetched_at": "2026-11-21T00:29:26+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 14
+   "content_chars": 204
   },
   {
    "source": "vidio",
    "getter": "auto",
-   "title": "Lagu Prasekolah Tayo - 21 November 2026",
-   "link": "https://m.vidio.com/watch/9763701-lagu-prasekolah-tayo-21-november-2026",
-   "pubDate": "Sat, 21 Nov 2026 00:32:02 +0700",
-   "description": "Berbunyi! Berbunyi! Kami naik bus sekolah untuk bertemu teman-teman kami! Mari belajar permainan, angka, warna, dan kebiasaan sehari-hari dengan lagu dan tarian lucu!",
-   "fetched_at": "2026-11-20T18:51:19+07:00",
-   "categories": [],
+   "title": "Empat Hari Lagi, \"Deadline\" Nama Cawapres ke MPR | Fokus",
+   "link": "https://m.vidio.com/watch/9764063-empat-hari-lagi-deadline-nama-cawapres-ke-mpr-fokus",
+   "pubDate": "Sat, 21 Nov 2026 07:16:33 +0700",
+   "description": "Presiden Prabowo akan mengumpulkan kembali ketua umum parpol koalisi pendukung pemerintah untuk membahas nama calon wakil presiden sebelum diserahkan ke MPR. Sementara itu, Wakil Presiden ke-10 dan ke-12, Jusuf Kalla, memberikan kriteria seorang wapres yang dituntut cerdas dan memiliki kemampuan mumpuni.",
+   "fetched_at": "2026-11-21T00:29:26+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
    "content_status": "partial",
-   "content_chars": 166
+   "content_chars": 305
   },
   {
    "source": "vidio",
    "getter": "auto",
-   "title": "Pororo Baby English - 20 November 2026",
-   "link": "https://m.vidio.com/watch/9763678-pororo-baby-english-20-november-2026",
-   "pubDate": "Sat, 21 Nov 2026 00:02:37 +0700",
-   "description": "Belajar kata-kata bahasa Inggris dengan Pororo! Bahasa Inggris dipelajari dengan cara termudah melalui pengulangan dan nyanyian.",
-   "fetched_at": "2026-11-20T18:51:19+07:00",
+   "title": "Kepala BGN Sidak SPPG | Fokus",
+   "link": "https://m.vidio.com/watch/9764062-kepala-bgn-sidak-sppg-fokus",
+   "pubDate": "Sat, 21 Nov 2026 07:15:39 +0700",
+   "description": "Kepala Badan Gizi Nasional menyidak dapur Makan Bergizi Gratis di Jambi. Ia juga mendatangi salah satu sekolah untuk memantau penyaluran MBG di sekolah.",
+   "fetched_at": "2026-11-21T00:29:26+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 128
+   "content_chars": 152
   },
   {
    "source": "vidio",
    "getter": "auto",
-   "title": "Congrats!! Asmara Gen Z Berhasil Bawa Pulang Piala Sinetron Paling Ngetop | SCTV Awards 2026",
-   "link": "https://m.vidio.com/watch/9763656-congrats-asmara-gen-z-berhasil-bawa-pulang-piala-sinetron-paling-ngetop-sctv-awards-2026",
-   "pubDate": "Sat, 21 Nov 2026 00:00:22 +0700",
-   "description": "Malam penganugerahan bergengsi untuk para insan televisi tanah air kembali hadir! Dimeriahkan oleh penampilan spesial dari Afgan, Mahalini, JKT48, Akbar Chalay, SEEN, serta Top 5 The Icon Indonesia. Dipandu oleh host kesayangan pemirsa: Gilang Dirga, Ben Kasyafani, Aqeela Calista, dan Fanny Ghassani. Serta dimeriahkan oleh Anwar BAB, Musdalifah, dan deretan cast sinetron SCTV kesayangan pemirsa! Siapakah yang akan membawa pulang piala bergengsi tahun ini? Saksikan malam puncak SCTV Awards 2026, ",
-   "fetched_at": "2026-11-20T18:51:19+07:00",
+   "title": "Rumah di Cibinong Diduga Jadi Posko Makar | Fokus",
+   "link": "https://m.vidio.com/watch/9764061-rumah-di-cibinong-diduga-jadi-posko-makar-fokus",
+   "pubDate": "Sat, 21 Nov 2026 07:14:54 +0700",
+   "description": "Dari kelanjutan kasus dugaan tindak pidana makar. Direktorat Tindak Pidana Umum Bareskrim Polri menggeledah rumah di Cibinong, Kabupaten Bogor, Jawa Barat. Rumah yang digeledah diduga menjadi posko permulaan perbuatan makar.",
+   "fetched_at": "2026-11-21T00:29:26+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 499
+   "content_chars": 224
   },
   {
    "source": "vidio",
    "getter": "auto",
-   "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
-   "link": "https://m.vidio.com/watch/9755059-the-hunger-games-the-ballad-of-songbirds-snakes",
-   "pubDate": "Sat, 21 Nov 2026 00:00:00 +0700",
-   "description": "Coriolanus Snow menjadi mentor dan menaruh rasa pada tribut perempuan dari Distrik 12 selama penyelenggaraan Hunger Games ke-10.",
-   "fetched_at": "2026-11-20T18:51:19+07:00",
-   "categories": [],
+   "title": "Hujan Deras Picu Sungai Meluap, Sejumlah Wilayah di Sumatra Terendam Banjir | Liputan 6",
+   "link": "https://m.vidio.com/watch/9764064-hujan-deras-picu-sungai-meluap-sejumlah-wilayah-di-sumatra-terendam-banjir-liputan-6",
+   "pubDate": "Sat, 21 Nov 2026 07:14:21 +0700",
+   "description": "Curah hujan yang tinggi membuat beberapa sungai di Sumatra meluap dan mengakibatkan banjir. Beberapa lokasi seperti Pesisir Selatan, Pasaman Barat, Sumatra Barat, dan Bengkulu terendam banjir.",
+   "fetched_at": "2026-11-21T00:29:26+07:00",
+   "categories": [
+    "bencana"
+   ],
    "content_status": "partial",
-   "content_chars": 128
+   "content_chars": 192
   },
   {
    "source": "vidio",
    "getter": "auto",
-   "title": "NOSTALGIA! Deretan Pemenang Sinetron Paling Ngetop dari Masa ke Masa | SCTV Awards 2026",
-   "link": "https://m.vidio.com/watch/9763653-nostalgia-deretan-pemenang-sinetron-paling-ngetop-dari-masa-ke-masa-sctv-awards-2026",
-   "pubDate": "Fri, 20 Nov 2026 23:49:17 +0700",
-   "description": "Malam penganugerahan bergengsi untuk para insan televisi tanah air kembali hadir! Dimeriahkan oleh penampilan spesial dari Afgan, Mahalini, JKT48, Akbar Chalay, SEEN, serta Top 5 The Icon Indonesia. Dipandu oleh host kesayangan pemirsa: Gilang Dirga, Ben Kasyafani, Aqeela Calista, dan Fanny Ghassani. Serta dimeriahkan oleh Anwar BAB, Musdalifah, dan deretan cast sinetron SCTV kesayangan pemirsa! Siapakah yang akan membawa pulang piala bergengsi tahun ini? Saksikan malam puncak SCTV Awards 2026, ",
-   "fetched_at": "2026-11-20T18:51:19+07:00",
+   "title": "Putrinya Jadi Korban Perundungan di Medsos, Dasco Dorong Percepatan UU Perlindungan Anak | Liputan 6",
+   "link": "https://m.vidio.com/watch/9764059-putrinya-jadi-korban-perundungan-di-medsos-dasco-dorong-percepatan-uu-perlindungan-anak-liputan-6",
+   "pubDate": "Sat, 21 Nov 2026 07:09:04 +0700",
+   "description": "Wakil Ketua DPR RI Sufmi Dasco Ahmad mendorong percepatan pembahasan Undang-Undang Perlindungan Anak. Saat ini, masih marak kasus kekerasan anak dan perundungan (bullying) di lingkungan sekolah maupun media sosial. Dasco bahkan mengungkapkan, putrinya yang berusia 17 tahun turut menjadi korban perundungan di media sosial. Saat ini, dirinya tengah mempertimbangkan langkah hukum.",
+   "fetched_at": "2026-11-21T00:29:26+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 499
+   "content_chars": 380
   },
   {
    "source": "vidio",
    "getter": "auto",
-   "title": "Tayo & The Animal Rescue - 20 November 2026",
-   "link": "https://m.vidio.com/watch/9763652-tayo-the-animal-rescue-20-november-2026",
-   "pubDate": "Fri, 20 Nov 2026 23:47:02 +0700",
-   "description": "Suatu hari, Tayo, Duri, dan Dana menemukan sebuah walkie-talkie aneh di dalam bus. Mereka mendengar sinyal darurat hewan yang terancam bahaya dari walkie-talkie tersebut, tetapi orang dewasa tidak dapat mendengarnya. Tayo, Duri, dan Dana memutuskan untuk menjadi Para Penyelamat Hewan dan pergi menyelamatkan hewan-hewan yang terancam bahaya di seluruh kota!",
-   "fetched_at": "2026-11-20T18:51:19+07:00",
-   "categories": [],
+   "title": "Prabowo Kumpulkan Ketum Parpol Bahas Nama Cawapres Jelang Diserahkan ke MPR | Liputan 6",
+   "link": "https://m.vidio.com/watch/9764029-prabowo-kumpulkan-ketum-parpol-bahas-nama-cawapres-jelang-diserahkan-ke-mpr-liputan-6",
+   "pubDate": "Sat, 21 Nov 2026 07:05:01 +0700",
+   "description": "Presiden Prabowo akan mengumpulkan kembali ketua umum parpol koalisi pendukung pemerintah untuk membahas nama calon wakil presiden sebelum diserahkan ke MPR. Sementara itu, Wakil Presiden ke-10 dan ke-12 Jusuf Kalla memberikan kriteria bahwa seorang wapres dituntut cerdas dan memiliki kemampuan yang mumpuni.",
+   "fetched_at": "2026-11-21T00:29:26+07:00",
+   "categories": [
+    "pemerintahan"
+   ],
    "content_status": "partial",
-   "content_chars": 358
+   "content_chars": 309
   },
   {
    "source": "vidio",
    "getter": "auto",
-   "title": "MENYALA!! Aqeela Calista Bawa Pulang Piala Star Of The Night SCTV Awards 2026! | SCTV Awards 2026",
-   "link": "https://m.vidio.com/watch/9763647-menyala-aqeela-calista-bawa-pulang-piala-star-of-the-night-sctv-awards-2026-sctv-awards-2026",
-   "pubDate": "Fri, 20 Nov 2026 23:40:15 +0700",
-   "description": "Malam penganugerahan bergengsi untuk para insan televisi tanah air kembali hadir! Dimeriahkan oleh penampilan spesial dari Afgan, Mahalini, JKT48, Akbar Chalay, SEEN, serta Top 5 The Icon Indonesia. Dipandu oleh host kesayangan pemirsa: Gilang Dirga, Ben Kasyafani, Aqeela Calista, dan Fanny Ghassani. Serta dimeriahkan oleh Anwar BAB, Musdalifah, dan deretan cast sinetron SCTV kesayangan pemirsa! Siapakah yang akan membawa pulang piala bergengsi tahun ini? Saksikan malam puncak SCTV Awards 2026, ",
-   "fetched_at": "2026-11-20T18:51:19+07:00",
+   "title": "The Fixies - 21 November 2026",
+   "link": "https://m.vidio.com/watch/9764038-the-fixies-21-november-2026",
+   "pubDate": "Sat, 21 Nov 2026 07:02:08 +0700",
+   "description": "The Fixies",
+   "fetched_at": "2026-11-21T00:29:26+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 499
+   "content_chars": 10
   },
   {
    "source": "vidio",
    "getter": "auto",
-   "title": "Pororo's Healthy Habits - 20 November 2026",
-   "link": "https://m.vidio.com/watch/9763629-pororo-s-healthy-habits-20-november-2026",
-   "pubDate": "Fri, 20 Nov 2026 23:32:04 +0700",
-   "description": "Halo teman-teman? Saya Pororo! Bisakah kita belajar bersama tentang bagaimana tumbuh sebagai anak yang sehat?",
-   "fetched_at": "2026-11-20T18:51:19+07:00",
+   "title": "Tayo's Space Adventure - 21 November 2026",
+   "link": "https://m.vidio.com/watch/9764034-tayo-s-space-adventure-21-november-2026",
+   "pubDate": "Sat, 21 Nov 2026 07:02:08 +0700",
+   "description": "",
+   "fetched_at": "2026-11-21T00:29:26+07:00",
    "categories": [],
    "content_status": "partial",
-   "content_chars": 109
+   "content_chars": 0
   },
   {
    "source": "unas",
@@ -833,7 +850,7 @@
    "link": "https://www.unas.ac.id/banner/pengumuman-informasi-pengambilan-foto-prosesi-pelantikan-wisudawan-unas-periode-ii-t-a-2025-2026/",
    "pubDate": "Fri, 20 Nov 2026 07:43:32 +0000",
    "description": "Bagikan :",
-   "fetched_at": "2026-11-20T18:51:18+07:00",
+   "fetched_at": "2026-11-21T00:29:25+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 503
@@ -845,7 +862,7 @@
    "link": "https://www.unas.ac.id/berita/dunia-siaga/",
    "pubDate": "Fri, 20 Nov 2026 02:47:52 +0000",
    "description": "**Robi Nurhadi, PhDDosen Hubungan Internasional FISIP Universitas Nasional** Dunia sedang tidak baik-baik saja. Pada akhir Oktober 2026, Newsweek menghimpun data",
-   "fetched_at": "2026-11-20T18:51:18+07:00",
+   "fetched_at": "2026-11-21T00:29:25+07:00",
    "categories": [
     "bencana"
    ],
@@ -859,7 +876,7 @@
    "link": "https://www.unas.ac.id/berita/fbs-unas-gelar-syukuran-penganugerahan-pahlawan-nasional-sutan-takdir-alisjahbana/",
    "pubDate": "Thu, 19 Nov 2026 08:08:59 +0000",
    "description": "Syukuran menjadi momentum mengenang kontribusi STA dalam bahasa, sastra, pendidikan, dan kebudayaan sekaligus memperkuat komitmen UNAS melanjutkan warisan intelektual pendirinya.",
-   "fetched_at": "2026-11-20T18:51:18+07:00",
+   "fetched_at": "2026-11-21T00:29:25+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 7077
@@ -871,7 +888,7 @@
    "link": "https://www.unas.ac.id/banner/halo-civitas-akademika-unas-selamat-melaksanakan-evaluasi-tengah-semester-untuk-mahasiswa-aktif-semester-ganjil-tahun-akademik-2026-2027/",
    "pubDate": "Thu, 19 Nov 2026 05:16:46 +0000",
    "description": "Bagikan :",
-   "fetched_at": "2026-11-20T18:51:18+07:00",
+   "fetched_at": "2026-11-21T00:29:25+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 380
@@ -883,7 +900,7 @@
    "link": "https://www.unas.ac.id/banner/selamat-sukses-kepada-mahasiswa-mahasiswa-universitas-nasional-atas-prestasi-yang-di-raih-dalam-kejuaraan-pencak-silat/",
    "pubDate": "Thu, 19 Nov 2026 04:23:00 +0000",
    "description": "Bagikan :",
-   "fetched_at": "2026-11-20T18:51:18+07:00",
+   "fetched_at": "2026-11-21T00:29:25+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 347
@@ -895,7 +912,7 @@
    "link": "https://www.unas.ac.id/banner/selamat-sukses-kepada-mahasiswa-mahasiswa-program-studi-sarjana-sosiologi-fakultas-ilmu-sosial-dan-ilmu-politik-atas-prestasi-yang-di-raih/",
    "pubDate": "Thu, 19 Nov 2026 04:17:39 +0000",
    "description": "Rektor &#38; Segenap Civitas Akademika Universitas Nasional mengucapkan Selamat &#38; SuksesKepada: Niko Abdullah DahuriProgram Studi Sarjana Manajemen, Fakultas Ekonomi &#38;",
-   "fetched_at": "2026-11-20T18:51:18+07:00",
+   "fetched_at": "2026-11-21T00:29:25+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 636
@@ -907,7 +924,7 @@
    "link": "https://www.unas.ac.id/banner/selamat-sukses-kepada-niko-abdullah-dahuri-mahasiswa-program-studi-manajemen-fakultas-ekonomi-bisnis-atas-prestasi-yang-di-raih/",
    "pubDate": "Thu, 19 Nov 2026 04:12:10 +0000",
    "description": "Rektor &#38; Segenap Civitas Akademika Universitas Nasional mengucapkan Selamat &#38; SuksesKepada: Niko Abdullah DahuriProgram Studi Sarjana Bisnis Digital, Fakultas Ekonomi",
-   "fetched_at": "2026-11-20T18:51:18+07:00",
+   "fetched_at": "2026-11-21T00:29:25+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 359
@@ -919,7 +936,7 @@
    "link": "https://www.unas.ac.id/berita/ppi-unas-latih-jaringan-ekopesantren-untuk-dukung-aksi-perubahan-iklim/",
    "pubDate": "Thu, 19 Nov 2026 03:20:06 +0000",
    "description": "Universitas Nasional melalui PPI UNAS memperkuat kapasitas jaringan Ekopesantren melalui pelatihan aksi perubahan iklim untuk mendukung FOLU Net Sink 2030.",
-   "fetched_at": "2026-11-20T18:51:18+07:00",
+   "fetched_at": "2026-11-21T00:29:25+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 4179
@@ -931,7 +948,7 @@
    "link": "https://www.unas.ac.id/berita/penelitian-konservasi-unas-dokumentasikan-habitat-bajakah-di-hutan-rawa-gambut-kalimantan-tengah/",
    "pubDate": "Wed, 18 Nov 2026 08:27:44 +0000",
    "description": "Penelitian konservasi tumbuhan bajakah di HKm Tani Sejati, Kalimantan Tengah, mendokumentasikan habitat hutan rawa gambut melalui teknologi drone dan kolaborasi masyarakat.",
-   "fetched_at": "2026-11-20T18:51:18+07:00",
+   "fetched_at": "2026-11-21T00:29:25+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -945,7 +962,7 @@
    "link": "https://www.unas.ac.id/berita/kementerian-keuangan-dorong-penguatan-pengawasan-dprd-terhadap-pengelolaan-keuangan-daerah/",
    "pubDate": "Mon, 16 Nov 2026 09:21:20 +0000",
    "description": "Jakarta (Humas UNAS) &#8211; Kementerian Keuangan menilai Dewan Perwakilan Rakyat Daerah (DPRD) memiliki peran strategis dalam mengawasi dan mengawal pengelolaan",
-   "fetched_at": "2026-11-20T18:51:18+07:00",
+   "fetched_at": "2026-11-21T00:29:25+07:00",
    "categories": [
     "pemerintahan"
    ],
@@ -955,11 +972,83 @@
   {
    "source": "antarafoto",
    "getter": "auto",
+   "title": "Penghargaan Festival Film Indonesia 2026",
+   "link": "https://www.antarafoto.com/id/view/2911103/penghargaan-festival-film-indonesia-2026",
+   "pubDate": "Sat, 21 Nov 2026 07:25:02 +0700",
+   "description": "Aktris film Senin Harga Naik, Meriam Bellina berpose usai meraih penghargaan Pemeran Utama Perempuan Terbaik dalam Anugerah Piala Citra Festival Film Indonesia 2026 di Jiexpo Kemayoran, Jakarta, Jumat (20/11/2026). Kementerian Kebudayaan memberikan 23 kategori penghargaan dan empat penghargaan khusus untuk mengapresiasi karya terbaik anak bangsa sekaligus mendukung perkembangan ekosistem perfilman nasional. ANTARA FOTO/Sulthony Hasanuddin/sgd",
+   "fetched_at": "2026-11-21T00:29:21+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 446
+  },
+  {
+   "source": "antarafoto",
+   "getter": "auto",
+   "title": "Penghargaan Festival Film Indonesia 2026",
+   "link": "https://www.antarafoto.com/id/view/2911099/penghargaan-festival-film-indonesia-2026",
+   "pubDate": "Sat, 21 Nov 2026 07:25:02 +0700",
+   "description": "Aktris film Na Wila, Luisa Adreena berpose usai meraih penghargaan Pemeran Anak-Anak Terbaik dalam Anugerah Piala Citra Festival Film Indonesia 2026 di Jiexpo Kemayoran, Jakarta, Jumat (20/11/2026). Kementerian Kebudayaan memberikan 23 kategori penghargaan dan empat penghargaan khusus untuk mengapresiasi karya terbaik anak bangsa sekaligus mendukung perkembangan ekosistem perfilman nasional. ANTARA FOTO/Sulthony Hasanuddin/sgd",
+   "fetched_at": "2026-11-21T00:29:21+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 430
+  },
+  {
+   "source": "antarafoto",
+   "getter": "auto",
+   "title": "Penghargaan Festival Film Indonesia 2026",
+   "link": "https://www.antarafoto.com/id/view/2911095/penghargaan-festival-film-indonesia-2026",
+   "pubDate": "Sat, 21 Nov 2026 07:25:02 +0700",
+   "description": "Penyunting film Operasi Pesta Copet, Aline Jusria berpose usai meraih penghargaan Penyunting Gambar Terbaik dalam Anugerah Piala Citra Festival Film Indonesia 2026 di Jiexpo Kemayoran, Jakarta, Jumat (20/11/2026). Kementerian Kebudayaan memberikan 23 kategori penghargaan dan empat penghargaan khusus untuk mengapresiasi karya terbaik anak bangsa sekaligus mendukung perkembangan ekosistem perfilman nasional. ANTARA FOTO/Sulthony Hasanuddin/sgd",
+   "fetched_at": "2026-11-21T00:29:21+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 445
+  },
+  {
+   "source": "antarafoto",
+   "getter": "auto",
+   "title": "Penghargaan Festival Film Indonesia 2026",
+   "link": "https://www.antarafoto.com/id/view/2911091/penghargaan-festival-film-indonesia-2026",
+   "pubDate": "Sat, 21 Nov 2026 07:25:02 +0700",
+   "description": "Aktor film Ghost in The Cell, Aming Supriatna Sugandhi berpose usai meraih penghargaan Pemeran Pendukung Pria Terbaik dalam Anugerah Piala Citra Festival Film Indonesia 2026 di Jiexpo Kemayoran, Jakarta, Jumat (20/11/2026). Kementerian Kebudayaan memberikan 23 kategori penghargaan dan empat penghargaan khusus untuk mengapresiasi karya terbaik anak bangsa sekaligus mendukung perkembangan ekosistem perfilman nasional. ANTARA FOTO/Sulthony Hasanuddin/sgd",
+   "fetched_at": "2026-11-21T00:29:21+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 455
+  },
+  {
+   "source": "antarafoto",
+   "getter": "auto",
+   "title": "Penghargaan Festival Film Indonesia 2026",
+   "link": "https://www.antarafoto.com/id/view/2911087/penghargaan-festival-film-indonesia-2026",
+   "pubDate": "Sat, 21 Nov 2026 07:25:02 +0700",
+   "description": "Sutradara film Ghost in The Cell, Joko Anwar berjalan usai meraih penghargaan Sutradara Terbaik dalam Anugerah Piala Citra Festival Film Indonesia 2026 di Jiexpo Kemayoran, Jakarta, Jumat (20/11/2026). Kementerian Kebudayaan memberikan 23 kategori penghargaan dan empat penghargaan khusus untuk mengapresiasi karya terbaik anak bangsa sekaligus mendukung perkembangan ekosistem perfilman nasional. ANTARA FOTO/Sulthony Hasanuddin/sgd",
+   "fetched_at": "2026-11-21T00:29:21+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 433
+  },
+  {
+   "source": "antarafoto",
+   "getter": "auto",
+   "title": "Penghargaan Festival Film Indonesia 2026",
+   "link": "https://www.antarafoto.com/id/view/2911083/penghargaan-festival-film-indonesia-2026",
+   "pubDate": "Sat, 21 Nov 2026 07:25:02 +0700",
+   "description": "Aktris film Operasi Pesta Copet, Kawai Labiba berpose usai meraih penghargaan Pemeran Pendukung Perempuan Terbaik dalam Anugerah Piala Citra Festival Film Indonesia 2026 di Jiexpo Kemayoran, Jakarta, Jumat (20/11/2026). Kementerian Kebudayaan memberikan 23 kategori penghargaan dan empat penghargaan khusus untuk mengapresiasi karya terbaik anak bangsa sekaligus mendukung perkembangan ekosistem perfilman nasional. ANTARA FOTO/Sulthony Hasanuddin/sgd",
+   "fetched_at": "2026-11-21T00:29:21+07:00",
+   "categories": [],
+   "content_status": "partial",
+   "content_chars": 451
+  },
+  {
+   "source": "antarafoto",
+   "getter": "auto",
    "title": "Persita Tangerang menang atas Dewa United Banten",
    "link": "https://www.antarafoto.com/id/view/2911079/persita-tangerang-menang-atas-dewa-united-banten",
-   "pubDate": "Sat, 21 Nov 2026 01:50:02 +0700",
+   "pubDate": "Sat, 21 Nov 2026 07:25:02 +0700",
    "description": "Pesepak bola Dewa United Banten FC Taisei Marukawa (kanan) berusaha melewati adangan pesepak bola Persita Tangerang Javlon Guseynov (kiri) saat pertandingan BRI Super League di Banten International Stadium, Kabupaten Serang, Banten, Jumat (20/11/2026). Persita Tangerang menang atas Dewa United Banten FC dengan skor 1-0. ANTARA FOTO/Pedro Beckham/pma/nym.",
-   "fetched_at": "2026-11-20T18:51:15+07:00",
+   "fetched_at": "2026-11-21T00:29:21+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 356
@@ -969,9 +1058,9 @@
    "getter": "auto",
    "title": "Persita Tangerang menang atas Dewa United Banten",
    "link": "https://www.antarafoto.com/id/view/2911075/persita-tangerang-menang-atas-dewa-united-banten",
-   "pubDate": "Sat, 21 Nov 2026 01:50:02 +0700",
+   "pubDate": "Sat, 21 Nov 2026 07:25:02 +0700",
    "description": "Pesepak bola Persita Tangerang Rayco Rodriguez Medina berselebrasi usai memasukkan bola ke gawang Dewa United Banten FC saat pertandingan BRI Super League di Banten International Stadium, Kabupaten Serang, Banten, Jumat (20/11/2026). Persita Tangerang menang atas Dewa United Banten FC dengan skor 1-0. ANTARA FOTO/Pedro Beckham/pma/nym.",
-   "fetched_at": "2026-11-20T18:51:15+07:00",
+   "fetched_at": "2026-11-21T00:29:21+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 337
@@ -981,9 +1070,9 @@
    "getter": "auto",
    "title": "Benteng Culture Festival di Tangerang",
    "link": "https://www.antarafoto.com/id/view/2911071/benteng-culture-festival-di-tangerang",
-   "pubDate": "Sat, 21 Nov 2026 01:50:02 +0700",
+   "pubDate": "Sat, 21 Nov 2026 07:25:02 +0700",
    "description": "Seniman menampilkan tarian Reog Ponorogo saat parade budaya Benteng Culture Festival di Taman Elektrik, Kota Tangerang, Banten, Jumat (20/11/2026). Kegiatan yang melibatkan berbagai komunitas seni tersebut guna menciptakan ruang interaksi budaya dalam mengekspresikan kreativitas dan mengenalkan keberagaman kesenian. ANTARA FOTO/Putra M. Akbar/nym.",
-   "fetched_at": "2026-11-20T18:51:15+07:00",
+   "fetched_at": "2026-11-21T00:29:21+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 349
@@ -993,92 +1082,86 @@
    "getter": "auto",
    "title": "Benteng Culture Festival di Tangerang",
    "link": "https://www.antarafoto.com/id/view/2911067/benteng-culture-festival-di-tangerang",
-   "pubDate": "Sat, 21 Nov 2026 01:50:02 +0700",
+   "pubDate": "Sat, 21 Nov 2026 07:25:02 +0700",
    "description": "Peserta menampilkan tari kolaborasi dalam Benteng Culture Festival di Taman Elektrik, Kota Tangerang, Banten, Jumat (20/11/2026). Kegiatan yang melibatkan berbagai komunitas seni tersebut guna menciptakan ruang interaksi budaya dalam mengekspresikan kreativitas dan mengenalkan keberagaman kesenian. ANTARA FOTO/Putra M. Akbar/nym.",
-   "fetched_at": "2026-11-20T18:51:15+07:00",
+   "fetched_at": "2026-11-21T00:29:21+07:00",
    "categories": [],
    "content_status": "partial",
    "content_chars": 331
   },
   {
-   "source": "antarafoto",
+   "source": "timesindonesia",
    "getter": "auto",
-   "title": "Benteng Culture Festival di Tangerang",
-   "link": "https://www.antarafoto.com/id/view/2911063/benteng-culture-festival-di-tangerang",
-   "pubDate": "Sat, 21 Nov 2026 01:50:02 +0700",
-   "description": "Peserta menampilkan Tari Piring dalam Benteng Culture Festival di Taman Elektrik, Kota Tangerang, Banten, Jumat (20/11/2026). Kegiatan yang melibatkan berbagai komunitas seni tersebut guna menciptakan ruang interaksi budaya dalam mengekspresikan kreativitas dan mengenalkan keberagaman kesenian. ANTARA FOTO/Putra M. Akbar/nym.",
-   "fetched_at": "2026-11-20T18:51:15+07:00",
+   "title": "EU Urges Myanmar to Compensate Rohingya Genocide Victims Following ICJ Ruling",
+   "link": "https://timesindonesia.co.id/english/618586/eu-urges-myanmar-to-compensate-rohingya-genocide-victims-following-icj-ruling",
+   "pubDate": "Sat, 21 Nov 2026 06:14:00 +0000",
+   "description": "The European Union has urged Myanmar to implement the ICJ ruling on the Rohingya genocide, including providing restitution and compensation to victims.",
+   "fetched_at": "2026-11-21T00:29:19+07:00",
    "categories": [],
-   "content_status": "partial",
-   "content_chars": 327
+   "content_status": "full",
+   "content_chars": 2139
   },
   {
-   "source": "antarafoto",
+   "source": "timesindonesia",
    "getter": "auto",
-   "title": "Benteng Culture Festival di Tangerang",
-   "link": "https://www.antarafoto.com/id/view/2911059/benteng-culture-festival-di-tangerang",
-   "pubDate": "Sat, 21 Nov 2026 01:50:02 +0700",
-   "description": "Peserta memakai kostum kreasi saat parade budaya Benteng Culture Festival di Taman Elektrik, Kota Tangerang, Banten, Jumat (20/11/2026). Kegiatan yang melibatkan berbagai komunitas seni tersebut guna menciptakan ruang interaksi budaya dalam mengekspresikan kreativitas dan mengenalkan keberagaman kesenian. ANTARA FOTO/Putra M. Akbar/nym.",
-   "fetched_at": "2026-11-20T18:51:15+07:00",
+   "title": "Sering Lewatkan Sarapan? Waspadai Dampaknya terhadap Gula Darah",
+   "link": "https://timesindonesia.co.id/kesehatan/618602/sering-lewatkan-sarapan-waspadai-dampaknya-terhadap-gula-darah",
+   "pubDate": "Sat, 21 Nov 2026 05:36:00 +0000",
+   "description": "Melewatkan sarapan dapat memengaruhi respons insulin dan memicu lonjakan gula darah setelah makan siang. Kenali risikonya dan pilihan menu sarapan sehat.",
+   "fetched_at": "2026-11-21T00:29:19+07:00",
    "categories": [],
-   "content_status": "partial",
-   "content_chars": 338
+   "content_status": "full",
+   "content_chars": 3070
   },
   {
-   "source": "antarafoto",
+   "source": "timesindonesia",
    "getter": "auto",
-   "title": "Presiden Prabowo hadiri Indonesia-China Business Forum 2026",
-   "link": "https://www.antarafoto.com/id/view/2911055/presiden-prabowo-hadiri-indonesia-china-business-forum-2026",
-   "pubDate": "Sat, 21 Nov 2026 01:50:02 +0700",
-   "description": "Presiden Prabowo Subianto (tengah) bersama (kiri ke kanan) Ketua Kadin Indonesia Komite Tiongkok (KIKT) Garibaldi Thohir, Menteri Koordinator Bidang Hilirisasi dan Transisi Energi merangkap Menteri Energi dan Sumber Daya Mineral (ESDM) Bahlil Lahadalia, Menteri Investasi dan Hilirisasi/Kepala Badan Koordinasi Penanaman Modal (BKPM) Rosan Perkasa Roeslani dan Ketua Umum Kamar Dagang dan Industri (Kadin) Indonesia Anindya Bakrie menghadiri IndonesiaâChina Business Forum 2026 di Shenzhen, China, ",
-   "fetched_at": "2026-11-20T18:51:15+07:00",
+   "title": "Ketika Data Menyatakan Warga Sejahtera, Kenyataan Berkata Lain",
+   "link": "https://timesindonesia.co.id/ekonomi/618664/ketika-data-menyatakan-warga-sejahtera-kenyataan-berkata-lain",
+   "pubDate": "Sat, 21 Nov 2026 05:25:00 +0000",
+   "description": "Data yang baik membantu negara melihat rakyatnya dengan lebih jernih. Tetapi pemerintahan yang berintegritas harus memiliki kebijaksanaan untuk mendengar ketika kenyataan berbicara lain.",
+   "fetched_at": "2026-11-21T00:29:19+07:00",
    "categories": [
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 780
+   "content_chars": 7284
   },
   {
-   "source": "antarafoto",
+   "source": "timesindonesia",
    "getter": "auto",
-   "title": "Presiden Prabowo hadiri Indonesia-China Business Forum 2026",
-   "link": "https://www.antarafoto.com/id/view/2911051/presiden-prabowo-hadiri-indonesia-china-business-forum-2026",
-   "pubDate": "Sat, 21 Nov 2026 01:50:02 +0700",
-   "description": "Presiden Prabowo Subianto (baris depan, ketiga kiri) berfoto dengan pendiri dan Chairman GEM Co Ltd Xu Kaihua (baris depan keempat kanan) dan para pelajar Indonesia penerima beasiswa program LPDP-GEM yang hadir dalam IndonesiaâChina Business Forum 2026 di Shenzhen, China, Jumat (20/11/2026). Dalam acara tersebut juga dilakukan penandatanganan 35 perjanjian investasi antara pengusaha Indonesia dan China senilai total 15 miliar dolar AS (sekitar Rp280 triliun) dengan potensi penyerapan tenaga ke",
-   "fetched_at": "2026-11-20T18:51:15+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 555
+   "title": "Voyah Kantongi Izin Produksi Mandiri, Tak Lagi Bergantung pada Dongfeng",
+   "link": "https://timesindonesia.co.id/otomotif/618605/voyah-kantongi-izin-produksi-mandiri-tak-lagi-bergantung-pada-dongfeng",
+   "pubDate": "Sat, 21 Nov 2026 04:16:00 +0000",
+   "description": "Voyah resmi memperoleh lisensi produksi mandiri dari MIIT China. Merek kendaraan listrik ini kini dapat memproduksi dan mendaftarkan model atas nama sendiri.",
+   "fetched_at": "2026-11-21T00:29:19+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 2408
   },
   {
-   "source": "antarafoto",
+   "source": "timesindonesia",
    "getter": "auto",
-   "title": "Presiden Prabowo hadiri Indonesia-China Business Forum 2026",
-   "link": "https://www.antarafoto.com/id/view/2911047/presiden-prabowo-hadiri-indonesia-china-business-forum-2026",
-   "pubDate": "Sat, 21 Nov 2026 01:50:02 +0700",
-   "description": "Presiden Prabowo Subianto (kiri) berbincang dengan Duta Besar China untuk Indonesia Wang Lutong saat menghadiri IndonesiaâChina Business Forum 2026 di Shenzhen, China, Jumat (20/11/2026). Dalam acara tersebut juga dilakukan penandatanganan 35 perjanjian investasi antara pengusaha Indonesia dan China senilai total 15 miliar dolar AS (sekitar Rp280 triliun) dengan potensi penyerapan tenaga kerja 30 ribu orang. ANTARA FOTO/Desca Lidya Natalia/nym.",
-   "fetched_at": "2026-11-20T18:51:15+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 450
+   "title": "Feedback dalam Hubungan Bukan Sekadar Kritik, Ini Cara Membuat Pasangan Saling Memahami",
+   "link": "https://timesindonesia.co.id/gaya-hidup/618611/feedback-dalam-hubungan-bukan-sekadar-kritik-ini-cara-membuat-pasangan-saling-memahami",
+   "pubDate": "Sat, 21 Nov 2026 03:27:00 +0000",
+   "description": "Feedback dalam hubungan membantu pasangan membangun komunikasi sehat, menghindari kesalahpahaman, dan menjaga keharmonisan. Kenali manfaat serta lima cara menyampaikannya.",
+   "fetched_at": "2026-11-21T00:29:19+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 3537
   },
   {
-   "source": "antarafoto",
+   "source": "timesindonesia",
    "getter": "auto",
-   "title": "Presiden Prabowo hadiri Indonesia-China Business Forum 2026",
-   "link": "https://www.antarafoto.com/id/view/2911043/presiden-prabowo-hadiri-indonesia-china-business-forum-2026",
-   "pubDate": "Sat, 21 Nov 2026 01:50:02 +0700",
-   "description": "Presiden Prabowo Subianto menyampaikan pidato saat IndonesiaâChina Business Forum 2026 di Shenzhen, China, Jumat (20/11/2026). Dalam acara tersebut juga dilakukan penandatanganan 35 perjanjian investasi antara pengusaha Indonesia dan China senilai total 15 miliar dolar AS (sekitar Rp280 triliun) dengan potensi penyerapan tenaga kerja 30 ribu orang. ANTARA FOTO/Desca Lidya Natalia/nym.",
-   "fetched_at": "2026-11-20T18:51:15+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 389
+   "title": "Teh Jahe Jadi Pilihan untuk Redakan Efek Makanan Pedas, Ini Alasannya",
+   "link": "https://timesindonesia.co.id/kesehatan/618604/teh-jahe-jadi-pilihan-untuk-redakan-efek-makanan-pedas-ini-alasannya",
+   "pubDate": "Sat, 21 Nov 2026 02:22:00 +0000",
+   "description": "Teh jahe direkomendasikan untuk membantu meredakan gangguan pencernaan setelah makan pedas. Simak manfaat jahe dan minuman yang sebaiknya dihindari.",
+   "fetched_at": "2026-11-21T00:29:19+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 2351
   },
   {
    "source": "timesindonesia",
@@ -1087,7 +1170,7 @@
    "link": "https://timesindonesia.co.id/english/618572/strait-of-hormuz-crisis-reshapes-global-energy-outlook-as-countries-accelerate-energy-transition",
    "pubDate": "Sat, 21 Nov 2026 01:23:00 +0000",
    "description": "The Strait of Hormuz crisis is reshaping the global energy outlook, prompting countries to accelerate investment in renewables, nuclear power, and electrification.",
-   "fetched_at": "2026-11-20T18:51:13+07:00",
+   "fetched_at": "2026-11-21T00:29:19+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 3008
@@ -1099,10 +1182,22 @@
    "link": "https://timesindonesia.co.id/otomotif/618570/harga-lebih-murah-rp19-juta-suzuki-sv7s-siap-gantikan-sv650",
    "pubDate": "Sat, 21 Nov 2026 00:21:00 +0000",
    "description": "Suzuki SV-7S hadir sebagai penerus SV650 di Inggris dengan harga 6.599 pound sterling. Motor ini mempertahankan mesin V-twin 645 cc dan mendapat fitur elektronik baru.",
-   "fetched_at": "2026-11-20T18:51:13+07:00",
+   "fetched_at": "2026-11-21T00:29:19+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 2078
+  },
+  {
+   "source": "timesindonesia",
+   "getter": "auto",
+   "title": "Kemenag Sumenep Studi Tiru Aplikasi PRISMA Kemenag Kota Malang, Dorong Inovasi Madrasah Swasta",
+   "link": "https://timesindonesia.co.id/pendidikan/618666/kemenag-sumenep-studi-tiru-aplikasi-prisma-kemenag-kota-malang-dorong-inovasi-madrasah-swasta",
+   "pubDate": "Fri, 20 Nov 2026 23:49:00 +0000",
+   "description": "Kemenag Sumenep melakukan studi tiru aplikasi PRISMA Kota Malang untuk memperkuat digitalisasi, tata kelola, dan peningkatan prestasi madrasah swasta.",
+   "fetched_at": "2026-11-21T00:29:19+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 3520
   },
   {
    "source": "timesindonesia",
@@ -1111,178 +1206,75 @@
    "link": "https://timesindonesia.co.id/entertainment/618659/angkat-latar-1999-film-ayah-60-detik-tebar-kehangatan-hubungan-ayah-dan-anak",
    "pubDate": "Fri, 20 Nov 2026 22:50:00 +0000",
    "description": "Film pendek karya Rama Angga berjudul Ayah 60 Detik sukses mengangkat memori perjalanan seorang anak dan ayah. Film garapan Orlena Janeeta Sugiarta, anak dari Oneng Sugiarta tersebut berdurasi tujuh menit.",
-   "fetched_at": "2026-11-20T18:51:13+07:00",
+   "fetched_at": "2026-11-21T00:29:19+07:00",
    "categories": [],
    "content_status": "full",
    "content_chars": 2913
   },
   {
-   "source": "timesindonesia",
+   "source": "cnbcindonesia",
    "getter": "auto",
-   "title": "Wisuda 226 Sarjana IAIHM Malang, Dirjen Pendis Kemenag Ingatkan Pentingnya Birrul Walidain dan Soft Skills",
-   "link": "https://timesindonesia.co.id/pendidikan/618663/wisuda-226-sarjana-iaihm-malang-dirjen-pendis-kemenag-ingatkan-pentingnya-birrul-walidain-dan-soft-skills",
-   "pubDate": "Fri, 20 Nov 2026 22:25:00 +0000",
-   "description": "Direktur Jenderal Pendidikan Islam Kementerian Agama RI, Prof Dr H Amien Suyitno, M.Ag., mengingatkan lulusan perguruan tinggi Islam agar tidak hanya mengandalkan ijazah dan kemampuan akademik.",
-   "fetched_at": "2026-11-20T18:51:13+07:00",
+   "title": "8 Ojol Setop Layanan di RI hingga Ada yang Bangkrut, Ini Daftarnya",
+   "link": "https://www.cnbcindonesia.com/tech/20261121065224-37-787148/8-ojol-setop-layanan-di-ri-hingga-ada-yang-bangkrut-ini-daftarnya",
+   "pubDate": "Sat, 21 Nov 2026 07:20:00 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/20/green-sm-bike-1795169291738_169.png?w=1200&amp;q=90\"/> Ojek online (ojol) mengubah industri transportasi Indonesia. Namun, banyak platform ojol yang gagal bertahan. Temukan 8 ojol yang sudah hilang di sini.",
+   "fetched_at": "2026-11-21T00:29:18+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 3677
+  },
+  {
+   "source": "cnbcindonesia",
+   "getter": "auto",
+   "title": "Ada Apa dengan Emas? Harga Ambruk 5 Hari Beruntun, Terburuk 8 Bulan",
+   "link": "https://www.cnbcindonesia.com/research/20261121062036-128-787146/ada-apa-dengan-emas-harga-ambruk-5-hari-beruntun-terburuk-8-bulan",
+   "pubDate": "Sat, 21 Nov 2026 07:00:00 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2025/10/08/china-kazakhstan-terus-borong-emas-diam-diam-ri-malah-obral-1759921852343_169.png?w=1200&amp;q=90\"/> Harga emas dunia masih mengalami tekanan jual hingga kembali ditutup terkoreksi pada penutupan perdagangan terakhir pekan ini, Jumat (20/11/2026).",
+   "fetched_at": "2026-11-21T00:29:18+07:00",
+   "categories": [],
+   "content_status": "full",
+   "content_chars": 4822
+  },
+  {
+   "source": "cnbcindonesia",
+   "getter": "auto",
+   "title": "Hujan Deras dan Angin Kencang Menerjang Dini Hari, Kota Lumpuh-3 Tewas",
+   "link": "https://www.cnbcindonesia.com/news/20261121062254-4-787147/hujan-deras-dan-angin-kencang-menerjang-dini-hari-kota-lumpuh-3-tewas",
+   "pubDate": "Sat, 21 Nov 2026 06:40:00 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/21/brazil-climate-weather-storm-1795217246449_169.jpeg?w=1200&amp;q=90\"/> Badai dahsyat menerjang Brasil, menewaskan 3 orang dan menghancurkan 5.000 rumah. Kota Tupancireta mengalami kerusakan parah, akses jalan terputus.",
+   "fetched_at": "2026-11-21T00:29:18+07:00",
+   "categories": [
+    "bencana",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 3097
+  },
+  {
+   "source": "cnbcindonesia",
+   "getter": "auto",
+   "title": "Resmi! UMP Bali 2027 Naik 42,15% Jadi Rp 4,55 Juta, Ini Rinciannya",
+   "link": "https://www.cnbcindonesia.com/news/20261121061458-4-787145/resmi-ump-bali-2027-naik-4215-jadi-rp-455-juta-ini-rinciannya",
+   "pubDate": "Sat, 21 Nov 2026 06:20:24 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2025/04/15/gubernur-bali-wayan-koster-youtubepemprov-bali-1744717852653_169.jpeg?w=1200&amp;q=90\"/> Pemerintah Provinsi Bali menetapkan UMP 2027 sebesar Rp4.559.287, naik 42,15% dari tahun sebelumnya. Keputusan ini berlaku mulai 1 Januari 2027.",
+   "fetched_at": "2026-11-21T00:29:18+07:00",
    "categories": [
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 3923
+   "content_chars": 2964
   },
   {
-   "source": "timesindonesia",
+   "source": "cnbcindonesia",
    "getter": "auto",
-   "title": "Dirjen Pendis Kemenag Luncurkan IAI Hasyim Muzadi Malang, Kukuhkan 226 Lulusan",
-   "link": "https://timesindonesia.co.id/pendidikan/618662/dirjen-pendis-kemenag-luncurkan-iai-hasyim-muzadi-malang-kukuhkan-226-lulusan",
-   "pubDate": "Fri, 20 Nov 2026 22:19:00 +0000",
-   "description": "Direktur Jenderal Pendidikan Islam Kementerian Agama RI, Prof Dr H Amien Suyitno, M.Ag., menghadiri peluncuran Institut Agama Islam KH Ahmad Hasyim Muzadi (IAIHM) Malang",
-   "fetched_at": "2026-11-20T18:51:13+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 3634
-  },
-  {
-   "source": "timesindonesia",
-   "getter": "auto",
-   "title": "Danlanud Abdulrachman Saleh Raih Juara 2 Kejuaraan Menembak Antar Komandan Satuan 2026",
-   "link": "https://timesindonesia.co.id/peristiwa-daerah/618646/danlanud-abdulrachman-saleh-raih-juara-2-kejuaraan-menembak-antar-komandan-satuan-2026",
-   "pubDate": "Fri, 20 Nov 2026 21:35:00 +0000",
-   "description": "Danlanud Abdulrachman Saleh Marsma TNI Reza R.R. Sastranegara meraih juara 2 Kejuaraan Menembak Antar Komandan Satuan 2026 kategori Pati Bintang Satu.",
-   "fetched_at": "2026-11-20T18:51:13+07:00",
+   "title": "Penampakan Kabut Beracun Pekat Selimuti Ibu Kota, Ada Apa?",
+   "link": "https://www.cnbcindonesia.com/news/20261120190547-7-787120/penampakan-kabut-beracun-pekat-selimuti-ibu-kota-ada-apa",
+   "pubDate": "Sat, 21 Nov 2026 06:00:00 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/20/orang-orang-berjalan-di-tengah-kabut-asap-dan-polusi-udara-di-halaman-makam-kaisar-mughal-jahangir-yang-bersejarah-pada-pagi-h-1795176263519_169.jpeg?w=1200&amp;q=90\"/> Polusi udara di New Delhi mencapai AQI 181, kategori tidak sehat. Warga mengeluhkan infeksi dan gangguan pernapasan akibat kualitas udara buruk.",
+   "fetched_at": "2026-11-21T00:29:18+07:00",
    "categories": [],
-   "content_status": "full",
-   "content_chars": 833
-  },
-  {
-   "source": "timesindonesia",
-   "getter": "auto",
-   "title": "Mengenal Asal Mula Yogurt, Olahan Susu yang Sudah Ada Sejak Ribuan Tahun",
-   "link": "https://timesindonesia.co.id/news-commerce/618623/mengenal-asal-mula-yogurt-olahan-susu-yang-sudah-ada-sejak-ribuan-tahun",
-   "pubDate": "Fri, 20 Nov 2026 21:16:00 +0000",
-   "description": "Sejumlah catatan sejarah dan kajian pangan mengaitkan kemunculannya dengan masyarakat peternak kuno di kawasan Asia Tengah dan Timur Tengah.",
-   "fetched_at": "2026-11-20T18:51:13+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3631
-  },
-  {
-   "source": "timesindonesia",
-   "getter": "auto",
-   "title": "Sambut Libur Nataru, Batik Air dan Tourism Malaysia Gelar Pameran Perjalanan di Surabaya",
-   "link": "https://timesindonesia.co.id/gaya-hidup/618641/sambut-libur-nataru-batik-air-dan-tourism-malaysia-gelar-pameran-perjalanan-di-surabaya",
-   "pubDate": "Fri, 20 Nov 2026 20:44:00 +0000",
-   "description": "Batik Air dan Tourism Malaysia menggelar pameran perjalanan di Pakuwon Mall Surabaya pada 20–22 November 2026 menyambut liburan Nataru 2026/2027.",
-   "fetched_at": "2026-11-20T18:51:13+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 4453
-  },
-  {
-   "source": "timesindonesia",
-   "getter": "auto",
-   "title": "Alat Terapi Stroke Pulley Rings, Perangkat Latihan Tangan dan Bahu untuk Mendukung Pemulihan Pasien Stroke",
-   "link": "https://timesindonesia.co.id/news-commerce/618603/alat-terapi-stroke-pulley-rings-perangkat-latihan-tangan-dan-bahu-untuk-mendukung-pemulihan-pasien-stroke",
-   "pubDate": "Fri, 20 Nov 2026 20:34:00 +0000",
-   "description": "Pulley Rings merupakan alat bantu latihan rehabilitasi yang memanfaatkan sistem tali dan katrol untuk membantu menggerakkan lengan. Penggunaannya memungkinkan pasien melakukan latihan gerakan menarik dan mengangkat tangan secara bertahap.",
-   "fetched_at": "2026-11-20T18:51:13+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 3852
-  },
-  {
-   "source": "timesindonesia",
-   "getter": "auto",
-   "title": "Kasus Kekerasan Anak Lampaui Target Penanganan, Pemkot Tasikmalaya Soroti Over Capacity",
-   "link": "https://timesindonesia.co.id/peristiwa-daerah/618647/kasus-kekerasan-anak-lampaui-target-penanganan-pemkot-tasikmalaya-soroti-over-capacity",
-   "pubDate": "Fri, 20 Nov 2026 20:33:00 +0000",
-   "description": "Data agregat UPTD PPA Pemkot Tasikmalaya memperlihatkan, bahwa kelompok anak menjadi korban kekerasan paling dominan.",
-   "fetched_at": "2026-11-20T18:51:13+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 9587
-  },
-  {
-   "source": "darilaut",
-   "getter": "auto",
-   "title": "Perundingan COP31 Terancam Gagal, Negara-negara Menuntut Kesepakatan Iklim yang Lebih Kuat",
-   "link": "https://darilaut.id/berita/perundingan-cop31-terancam-gagal-negara-negara-menuntut-kesepakatan-iklim-yang-lebih-kuat",
-   "pubDate": "Fri, 20 Nov 2026 17:50:47 +0000",
-   "description": "<p>Darilaut &#8211; Ketegangan meningkat menjelang akhir perundingan COP31 di Antalya, Turki, pada Jumat (20/11). Para aktivis memperingatkan bahwa perundingan ini terancam gagal, sementara para negosiator berupaya keras mencari kesepakatan yang dapat diterima oleh hampir 200 pemerintah. Sementara sekelompok negara dari Eropa, Afrika, Amerika Latin, dan Pasifik menentang draf kesepakatan COP31 yang diusulkan. Mereka menuntut tindakan [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/berita/",
-   "fetched_at": "2026-11-20T18:51:11+07:00",
-   "categories": [
-    "pemerintahan"
-   ],
-   "content_status": "full",
-   "content_chars": 1585
-  },
-  {
-   "source": "darilaut",
-   "getter": "auto",
-   "title": "Konferensi Internasional Bahas Konservasi Perairan Tawar Sulawesi",
-   "link": "https://darilaut.id/berita/konferensi-internasional-bahas-konservasi-perairan-tawar-sulawesi",
-   "pubDate": "Fri, 20 Nov 2026 11:00:49 +0000",
-   "description": "<p>Darilaut &#8211; Konferensi internasional membahas isu strategis pelestarian keanekaragaman hayati dan keberlanjutan ekosistem perairan tawar Sulawesi, berlangsung 16–20 November 2026 di Makassar. Isu konservasi perairan tawar tersebut memiliki keterkaitan erat dengan potensi sumber daya alam di Gorontalo, termasuk keberadaan Danau Limboto yang memiliki peran penting bagi kehidupan masyarakat dan keberlanjutan sumber daya perikanan daerah. Melalui [&#8230;]</p>\n<p>The post <a href=\"https://da",
-   "fetched_at": "2026-11-20T18:51:11+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 1512
-  },
-  {
-   "source": "darilaut",
-   "getter": "auto",
-   "title": "Pengaruh Iklim Global Berbeda di Setiap Wilayah Indonesia",
-   "link": "https://darilaut.id/berita/pengaruh-iklim-global-berbeda-di-setiap-wilayah-indonesia",
-   "pubDate": "Fri, 20 Nov 2026 06:38:18 +0000",
-   "description": "<p>Darilaut &#8211; Dalam sepekan ke depan, kondisi cuaca di Indonesia diprakirakan masih dipengaruhi oleh interaksi berbagai fenomena atmosfer, baik pada skala global, regional, maupun lokal. Badan Meteorologi, Klimatologi, dan Geofisika (BMKG)&#160;mengatakan meskipun fenomena El Niño saat ini masih berada pada kategori kuat dan Indian Ocean Dipole (IOD) menunjukkan kondisi positif, sebagian wilayah Indonesia telah memasuki [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/berita/pengaruh",
-   "fetched_at": "2026-11-20T18:51:11+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 1408
-  },
-  {
-   "source": "darilaut",
-   "getter": "auto",
-   "title": "Sejumlah Wilayah di Sumatera, Kalimantan dan Jawa Memasuki Musim Hujan",
-   "link": "https://darilaut.id/berita/sejumlah-wilayah-di-sumatera-kalimantan-dan-jawa-memasuki-musim-hujan",
-   "pubDate": "Fri, 20 Nov 2026 06:13:15 +0000",
-   "description": "<p>Darilaut &#8211; Potensi hujan lebat berlanjut di sejumlah wilayah Indonesia. Hasil pemantauan Badan Meteorologi, Klimatologi, dan Geofisika (BMKG)&#160; sekitar 10,6% Zona Musim (ZOM) di Indonesia telah memasuki musim hujan, terutama di sebagian wilayah Sumatera, Kalimantan, dan Jawa. Kondisi ini menunjukkan bahwa pengaruh fenomena iklim global dapat berbeda di setiap wilayah, sehingga hujan dengan intensitas tinggi [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/berita/sejumlah-wilay",
-   "fetched_at": "2026-11-20T18:51:11+07:00",
-   "categories": [],
-   "content_status": "full",
-   "content_chars": 1635
-  },
-  {
-   "source": "darilaut",
-   "getter": "auto",
-   "title": "El Niño Bukan Satu-satunya Penyebab Meningkatnya Karhutla di Indonesia",
-   "link": "https://darilaut.id/berita/el-nino-bukan-satu-satunya-penyebab-meningkatnya-karhutla-di-indonesia",
-   "pubDate": "Thu, 19 Nov 2026 19:46:31 +0000",
-   "description": "<p>Darilaut &#8211; Tanda-tanda awal meningkatnya aktivitas kebakaran di Indonesia muncul pada minggu terakhir bulan Juli. Peristiwa El Niño bukanlah satu-satunya penyebab kebakaran hebat di Indonesia. Data Copernicus Atmosphere Monitoring Service (CAMS) Global Fire Assimilation System (GFAS) menunjukkan emisi dari Kalimantan Barat dan Kalimantan Tengah melampaui rata-rata periode 2003–2025. Peningkatan ini berlanjut hingga awal Agustus, dengan [&#8230;]</p>\n<p>The post <a href=\"https://darilaut",
-   "fetched_at": "2026-11-20T18:51:11+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "full",
-   "content_chars": 1615
-  },
-  {
-   "source": "darilaut",
-   "getter": "auto",
-   "title": "Kualitas Udara Sangat Buruk, Emisi Kebakaran di Indonesia Bertepatan Fenomena El Niño Menguat",
-   "link": "https://darilaut.id/berita/kualitas-udara-sangat-buruk-emisi-kebakaran-di-indonesia-bertepatan-fenomena-el-nino-menguat",
-   "pubDate": "Thu, 19 Nov 2026 17:52:54 +0000",
-   "description": "<p>Darilaut – Kebakaran hutan dan lahan (karhutla) di sejumlah wilayah di Indonesia memicu kabut asap yang meluas di wilayah terdampak dan mencapai Malaysia, Singapura dan Filipina. Tingkat emisi kebakaran luar biasa tersebut bertepatan dengan fenomena El Niño yang menguat. Kabut asap yang meluas terus berdampak pada kawasan ini sepanjang bulan Oktober hingga November 2026. Menurut [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/berita/kualitas-udara-sangat-buruk-emisi-kebakaran-di-indone",
-   "fetched_at": "2026-11-20T18:51:11+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "full",
-   "content_chars": 1467
+   "content_status": "partial",
+   "content_chars": 144
   }
  ]
 }
