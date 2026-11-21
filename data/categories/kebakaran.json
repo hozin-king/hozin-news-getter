@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-11-21T19:09:16+07:00",
+ "updated_at": "2026-11-22T02:06:31+07:00",
  "category": "kebakaran",
- "count": 11,
+ "count": 6,
  "articles": [
+  {
+   "source": "pesisirselatankab",
+   "getter": "auto",
+   "title": "Damkar Selamatkan Rumah Permanen, Pelajaran dari Korek Api.",
+   "link": "https://pesisirselatankab.go.id/berita/damkar-selamatkan-rumah-permanen-pelajaran-dari-korek-api",
+   "pubDate": "Sat, 21 Nov 2026 18:45:00 +0700",
+   "description": "Suasana siang hari di kawasan Pasar Bukit, Nagari Pasar Tapan, Kecamatan Basa Ampek Balai Tapan, mendadak riuh oleh kepanikan pada Sabtu (21/11/2026) sekitar pukul 13.40 WIB. Kepulan asap muncul dari dalam kamar sebuah rumah permanen milik Aurelia Median Chaniago (27), setelah sebuah kasur…",
+   "fetched_at": "2026-11-21T15:39:47+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 291,
+   "content": "Suasana siang hari di kawasan Pasar Bukit, Nagari Pasar Tapan, Kecamatan Basa Ampek Balai Tapan, mendadak riuh oleh kepanikan pada Sabtu (21/11/2026) sekitar pukul 13.40 WIB. Kepulan asap muncul dari dalam kamar sebuah rumah permanen milik Aurelia Median Chaniago (27), setelah sebuah kasur…"
+  },
   {
    "source": "pesisirselatankab",
    "getter": "auto",
@@ -10,7 +25,7 @@
    "link": "https://pesisirselatankab.go.id/berita/ular-sawah-masuk-rumah-warga-tim-animal-rescue-damkar-pessel-bergerak",
    "pubDate": "Sat, 21 Nov 2026 10:45:01 +0700",
    "description": "Rumah seharusnya menjadi tempat paling nyaman bagi penghuninya. Namun, suasana itu seketika berubah ketika seekor ular sawah ditemukan masuk ke dalam rumah warga di kawasan Painan Utara, Sabtu (21/11/2026) pagi. Kehadiran reptil tersebut membuat penghuni rumah ketakutan dan panik. Tidak ingin…",
-   "fetched_at": "2026-11-21T07:43:48+07:00",
+   "fetched_at": "2026-11-21T15:39:47+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -25,7 +40,7 @@
    "link": "https://pesisirselatankab.go.id/berita/damkar-kembalikan-ketenangan-warga-menjelang-tengah-malam-pulang-dengan-hati-lega",
    "pubDate": "Sat, 21 Nov 2026 06:01:34 +0700",
    "description": "Jarum jam baru saja melewati pukul 23.30 WIB pada Jumat (20/11/2026) malam. Saat sebagian besar warga Kabupaten Pesisir Selatan mulai terlelap melepas penat, keheningan di Markas Komando (Mako) Pemadam Kebakaran dan Penyelamatan (Damkarmat) Painan justru kedatangan seorang tamu yang diliputi rasa…",
-   "fetched_at": "2026-11-21T07:43:48+07:00",
+   "fetched_at": "2026-11-21T15:39:47+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -34,28 +49,13 @@
    "content": "Jarum jam baru saja melewati pukul 23.30 WIB pada Jumat (20/11/2026) malam. Saat sebagian besar warga Kabupaten Pesisir Selatan mulai terlelap melepas penat, keheningan di Markas Komando (Mako) Pemadam Kebakaran dan Penyelamatan (Damkarmat) Painan justru kedatangan seorang tamu yang diliputi rasa…"
   },
   {
-   "source": "vidio",
-   "getter": "auto",
-   "title": "TERKUAK! Kebakaran Permukiman Baduy, Ini Penyebabnya",
-   "link": "https://www.vidio.com/watch/9764656-terkuak-kebakaran-permukiman-baduy-ini-penyebabnya",
-   "pubDate": "Sat, 21 Nov 2026 13:52:28 +0700",
-   "description": "BANTEN, KOMPAS.TV  Kebakaran melanda permukiman masyarakat Baduy di Kampung Cipaler Pasir, Desa Kanekes, Kecamatan Leuwidamar, Kabupaten Lebak, Banten, sejak Kamis (19/11/2026).\n\nBupati Lebak Mochamad Hasbi Asyidiki Jayabaya kemudian meninjau langsung lokasi kebakaran. Berdasarkan pendataan sementara, sebanyak 32 unit rumah terdampak dalam peristiwa tersebut.\n\nDari jumlah itu, 21 rumah hangus terbakar tanpa sisa, sementara 11 rumah lainnya mengalami kerusakan.\n\n\"Yang kita syukuri tidak ada korba",
-   "fetched_at": "2026-11-21T07:39:46+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "BANTEN, KOMPAS.TV  Kebakaran melanda permukiman masyarakat Baduy di Kampung Cipaler Pasir, Desa Kanekes, Kecamatan Leuwidamar, Kabupaten Lebak, Banten, sejak Kamis (19/11/2026).\n\nBupati Lebak Mochamad Hasbi Asyidiki Jayabaya kemudian meninjau langsung lokasi kebakaran. Berdasarkan pendataan sementara, sebanyak 32 unit rumah terdampak dalam peristiwa tersebut.\n\nDari jumlah itu, 21 rumah hangus terbakar tanpa sisa, sementara 11 rumah lainnya mengalami kerusakan.\n\n\"Yang kita syukuri tidak ada korba"
-  },
-  {
    "source": "darilaut",
    "getter": "auto",
    "title": "El Niño Bukan Satu-satunya Penyebab Meningkatnya Karhutla di Indonesia",
    "link": "https://darilaut.id/berita/el-nino-bukan-satu-satunya-penyebab-meningkatnya-karhutla-di-indonesia",
    "pubDate": "Thu, 19 Nov 2026 19:46:31 +0000",
    "description": "<p>Darilaut &#8211; Tanda-tanda awal meningkatnya aktivitas kebakaran di Indonesia muncul pada minggu terakhir bulan Juli. Peristiwa El Niño bukanlah satu-satunya penyebab kebakaran hebat di Indonesia. Data Copernicus Atmosphere Monitoring Service (CAMS) Global Fire Assimilation System (GFAS) menunjukkan emisi dari Kalimantan Barat dan Kalimantan Tengah melampaui rata-rata periode 2003–2025. Peningkatan ini berlanjut hingga awal Agustus, dengan [&#8230;]</p>\n<p>The post <a href=\"https://darilaut",
-   "fetched_at": "2026-11-21T07:39:38+07:00",
+   "fetched_at": "2026-11-21T15:39:31+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -70,7 +70,7 @@
    "link": "https://darilaut.id/berita/kualitas-udara-sangat-buruk-emisi-kebakaran-di-indonesia-bertepatan-fenomena-el-nino-menguat",
    "pubDate": "Thu, 19 Nov 2026 17:52:54 +0000",
    "description": "<p>Darilaut – Kebakaran hutan dan lahan (karhutla) di sejumlah wilayah di Indonesia memicu kabut asap yang meluas di wilayah terdampak dan mencapai Malaysia, Singapura dan Filipina. Tingkat emisi kebakaran luar biasa tersebut bertepatan dengan fenomena El Niño yang menguat. Kabut asap yang meluas terus berdampak pada kawasan ini sepanjang bulan Oktober hingga November 2026. Menurut [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/berita/kualitas-udara-sangat-buruk-emisi-kebakaran-di-indone",
-   "fetched_at": "2026-11-21T07:39:38+07:00",
+   "fetched_at": "2026-11-21T15:39:31+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -79,28 +79,13 @@
    "content": "Kualitas Udara Sangat Buruk, Emisi Kebakaran di Indonesia Bertepatan Fenomena El Niño Menguat\n\nDarilaut – Kebakaran hutan dan lahan (karhutla) di sejumlah wilayah di Indonesia memicu kabut asap yang meluas di wilayah terdampak dan mencapai Malaysia, Singapura dan Filipina. Tingkat emisi kebakaran luar biasa tersebut bertepatan dengan fenomena El Niño yang menguat.\n\nKabut asap yang meluas terus berdampak pada kawasan ini sepanjang bulan Oktober hingga November 2026.\n\nMenurut Copernicus Atmosphere Monitoring Service (CAMS), Kalimantan, Sumatra, Singapura, dan Semenanjung Malaysia mengalami hari-hari dengan kualitas udara yang sangat buruk seiring dengan terus berlangsungnya kebakaran.\n\nSingapura mengalami salah satu episode kabut asap terburuk dalam beberapa tahun terakhir, yang menimbulkan dampak besar bagi kesehatan masyarakat serta kerugian ekonomi yang diperkirakan mencapai miliaran dolar.\n\nBerdasarkan data dari CAMS Global Fire Assimilation System (GFAS), total emisi di Indonesia tersebut mencakup perbedaan yang cukup signifikan antarprovinsi.\n\nHingga akhir Oktober, akumulasi total emisi harian akibat kebakaran di Kalimantan Tengah dan Papua menunjukkan angka yang hampir setara dengan tahun 2015—tahun lain dengan tingkat emisi kebakaran luar biasa yang bertepatan dengan fenomena El Niño yang kuat—yakni sekitar 75 megaton karbon (Mt C).\n\nMenginformasikan berbagai perihal tentang laut, pesisir, ikan, kapal, berita terkini dan lain sebagainya."
   },
   {
-   "source": "darilaut",
-   "getter": "auto",
-   "title": "Copernicus Atmosphere Memantau Secara Cermat Karhutla di Indonesia Diperparah El Niño yang Memicu Kabut Asap di Asia Tenggara",
-   "link": "https://darilaut.id/berita/copernicus-atmosphere-memantau-secara-cermat-karhutla-di-indonesia-diperparah-el-nino-yang-memicu-kabut-asap-di-asia-tenggara",
-   "pubDate": "Thu, 19 Nov 2026 13:01:49 +0000",
-   "description": "<p>Darilaut – Copernicus Atmosphere Monitoring Service (CAMS) memantau secara cermat (saksama) peristiwa El Niño di Indonesia tahun ini. Kebakaran hutan dan lahan (karhutla) serta sebaran kabut asap yang meluas terus terjadi di seluruh wilayah Indonesia sepanjang bulan Oktober hingga November 2026, seiring menguatnya El Niño. “Berdasarkan indikasi awal adanya El Niño yang kuat serta data [&#8230;]</p>\n<p>The post <a href=\"https://darilaut.id/berita/copernicus-atmosphere-memantau-secara-cermat-ka",
-   "fetched_at": "2026-11-21T07:39:38+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "full",
-   "content_chars": 1505,
-   "content": "Copernicus Atmosphere Memantau Secara Cermat Karhutla di Indonesia Diperparah El Niño yang Memicu Kabut Asap di Asia Tenggara\n\nDarilaut – Copernicus Atmosphere Monitoring Service (CAMS) memantau secara cermat (saksama) peristiwa El Niño di Indonesia tahun ini. Kebakaran hutan dan lahan (karhutla) serta sebaran kabut asap yang meluas terus terjadi di seluruh wilayah Indonesia sepanjang bulan Oktober hingga November 2026, seiring menguatnya El Niño.\n\n“Berdasarkan indikasi awal adanya El Niño yang kuat serta data yang kami peroleh untuk Indonesia selama tahun-tahun El Niño lainnya baru-baru ini, kami telah bersiap untuk memantau wilayah tersebut secara saksama tahun ini,” kata Ilmuwan Senior CAMS, Mark Parrington.\n\nMeskipun total emisi Indonesia secara keseluruhan masih di bawah tingkat ekstrem tahun 2015, satu hal yang mencolok tahun ini adalah terus berlangsungnya kebakaran serta perbedaan yang signifikan antarprovinsi.\n\n”Prakiraan kami menyoroti dampak buruk dan berkepanjangan terhadap kualitas udara dan kesehatan akibat kabut asap, serta penyebaran asap lintas wilayah di seluruh Indonesia dan kawasan Benua Maritim yang lebih luas,” ujar Parrington.\n\nKebakaran hutan dan lahan serta kabut asap yang meluas menyebabkan kualitas udara yang sangat buruk selama berhari-hari secara berturut-turut di Kalimantan dan Sumatra, serta di negara tetangga Singapura dan Semenanjung Malaysia.\n\nMenginformasikan berbagai perihal tentang laut, pesisir, ikan, kapal, berita terkini dan lain sebagainya."
-  },
-  {
    "source": "forestinsights",
    "getter": "auto",
    "title": "Perubahan Pola Angin dan Tantangan Mitigasi Bencana Hidrometeorologi",
    "link": "https://forestinsights.id/perubahan-pola-angin-dan-tantangan-mitigasi-bencana-hidrometeorologi/?utm_source=rss&utm_medium=rss&utm_campaign=perubahan-pola-angin-dan-tantangan-mitigasi-bencana-hidrometeorologi",
    "pubDate": "Thu, 19 Nov 2026 23:30:49 +0000",
    "description": "<p>Oleh: A. Karsidi Perubahan pola pergerakan massa udara di wilayah Indonesia pada pertengahan November 2026 menjadi pengingat penting bahwa dinamika cuaca tidak hanya berkaitan dengan potensi hujan, tetapi juga menentukan kesiapan menghadapi bencana hidrometeorologi dan risiko kebakaran hutan serta lahan. Pengamat lingkungan dan cuaca A. Karsidi menjelaskan bahwa melemahnya aliran massa udara dari Australia dan [&#8230;]</p>\n<p>The post <a href=\"https://forestinsights.id/perubahan-pola-angin-d",
-   "fetched_at": "2026-11-21T07:39:31+07:00",
+   "fetched_at": "2026-11-21T15:39:19+07:00",
    "categories": [
     "bencana",
     "kebakaran"
@@ -108,67 +93,6 @@
    "content_status": "full",
    "content_chars": 8999,
    "content": "Oleh: A. Karsidi\n\nPerubahan pola pergerakan massa udara di wilayah Indonesia pada pertengahan November 2026 menjadi pengingat penting bahwa dinamika cuaca tidak hanya berkaitan dengan potensi hujan, tetapi juga menentukan kesiapan menghadapi bencana hidrometeorologi dan risiko kebakaran hutan serta lahan.\n\nPengamat lingkungan dan cuaca A. Karsidi menjelaskan bahwa melemahnya aliran massa udara dari Australia dan mulai masuknya massa udara basah dari kawasan Asia menunjukkan perubahan kondisi atmosfer yang perlu terus dipantau. Perubahan tersebut dapat memengaruhi distribusi curah hujan antardaerah, meskipun dampaknya belum tentu berlangsung secara seragam di seluruh wilayah Indonesia.\n\n“Wilayah Indonesia mulai mendapatkan asupan massa udara basah dari kawasan Asia, namun masih lemah,” tulis Karsidi dalam laporan pengamatan cuaca pada 19 November 2026.\n\nMenurut dia, pergerakan massa udara dari Australia melalui Indonesia bagian timur dan dari perairan barat Australia menuju selatan Jawa mulai melemah. Sementara itu, pusaran massa udara masih terpantau di perairan barat daya Sumatera dan sebelah timur Sri Lanka.\n\nKondisi tersebut menunjukkan bahwa perubahan pola angin belum secara otomatis menghasilkan peningkatan curah hujan secara merata. Faktor lokal, suhu permukaan laut, kelembapan atmosfer, dan pergerakan massa udara dari Samudra Hindia tetap berperan dalam menentukan pembentukan awan dan peluang hujan di berbagai wilayah.\n\n“Perubahan pola angin perlu dicermati secara berkelanjutan karena peningkatan pasokan massa udara basah tidak selalu menghasilkan hujan dengan intensitas dan sebaran yang sama di setiap wilayah,” demikian penilaian Karsidi.\n\nDinamika awan dan distribusi hujan\n\nBerdasarkan pengamatan citra satelit Himawari BMKG pada 19 November 2026 pukul 03.30, pertumbuhan awan teridentifikasi di perairan barat Sumatera, Sumatera Utara, Riau bagian utara, Jambi, sejumlah wilayah Lampung, Selat Karimata, Kalimantan Barat bagian timur, serta beberapa wilayah Papua.\n\nKarsidi menjelaskan bahwa potensi pertumbuhan awan hujan pada saat pengamatan lebih terlihat di wilayah Indonesia bagian barat, terutama akibat pengaruh massa udara dari Samudra Hindia.\n\n“Peluang hujan di wilayah Indonesia kemungkinan terjadi di wilayah yang dilintasi massa udara basah yang datang dari Samudra Hindia atau dari perairan selatan Jawa, dan pengaruh faktor lokal,” tulis Karsidi.\n\nHasil pemodelan potensi hujan tiga jam-an menggunakan Windy memperlihatkan bahwa pada pagi hari sebagian besar wilayah daratan Indonesia diprakirakan cerah, sementara hujan lebat berpotensi terjadi di pesisir barat Sumatera Barat dan perairan Kepulauan Mentawai.\n\nMemasuki siang hingga sore hari, peluang hujan diprakirakan meningkat di sejumlah wilayah Sumatera, Jawa, Kalimantan, Sulawesi, Maluku, dan Papua. Pada sore hari, hujan sedang hingga lebat berpotensi terjadi di Aceh, Sumatera Utara, Riau bagian utara, Sumatera Selatan, Lampung, Jawa, Kalimantan Barat, Sulawesi Selatan, dan Sulawesi Tengah.\n\nPada malam hari, hujan lebat diprakirakan terjadi di sejumlah wilayah, antara lain Sumatera Utara, Sumatera Selatan, Jawa Timur, Kalimantan Barat, Kalimantan Tengah, Kalimantan Utara, serta Papua bagian timur.\n\nMenurut Karsidi, perbedaan waktu dan intensitas hujan tersebut memperlihatkan pentingnya pemantauan cuaca secara berkala agar informasi prakiraan dapat dimanfaatkan sebagai dasar kesiapsiagaan, terutama di wilayah yang memiliki kerentanan terhadap banjir, tanah longsor, dan gangguan aktivitas masyarakat.\n\n“Informasi prakiraan cuaca harus diketahui impeknya apa serta diterjemahkan menjadi langkah antisipasi yang tepat sesuai kondisi wilayah, sehingga potensi bencana dapat dikenali dan ditangani sebelum menimbulkan dampak yang lebih besar,” ujarnya.\n\nKewaspadaan terhadap risiko kebakaran lahan\n\nSelain potensi hujan, Karsidi menyoroti pentingnya informasi mengenai tingkat kemudahan terbakarnya bahan bakar halus di permukaan tanah sebagai salah satu indikator kesiapsiagaan terhadap kebakaran hutan dan lahan.\n\nBerdasarkan sistem peringatan dini kebakaran hutan dan lahan atau Fire Danger Rating System (FDRS) BMKG pada 19 November 2026, indikator Fine Fuel Moisture Code (FFMC) menunjukkan sebagian besar wilayah Sumatera, Jawa hingga Nusa Tenggara Timur, Kalimantan Selatan, serta sejumlah wilayah Sulawesi, Halmahera, dan Papua berada pada kategori relatif aman atau tidak mudah terbakar.\n\nNamun, tingkat kemudahan terbakar kategori moderat masih teridentifikasi di ujung barat Sumatera Selatan, Kalimantan Tengah, Kalimantan Timur bagian selatan, Kalimantan Utara, pesisir timur Sulawesi Selatan, serta Sulawesi Tenggara.\n\nKarsidi menilai bahwa peningkatan peluang hujan tidak serta-merta menghilangkan risiko kebakaran hutan dan lahan di seluruh wilayah. Karena itu, informasi FDRS perlu digunakan sebagai salah satu dasar untuk menentukan prioritas patroli, pemantauan kondisi lahan, kesiapsiagaan personel, dan tindakan pencegahan kebakaran.\n\n“Potensi hujan tidak berarti seluruh wilayah telah terbebas dari risiko kebakaran. Pemantauan tingkat kemudahan terbakar harus tetap dilakukan, terutama pada kawasan yang memiliki kerentanan tinggi terhadap kekeringan dan kebakaran lahan,” kata Karsidi.\n\nKhusus pada ekosistem gambut, ia menekankan perlunya memperhatikan kondisi hidrologi, terutama tinggi muka air tanah, kelembapan gambut, serta riwayat kekeringan pada suatu kawasan. Indikator FFMC menggambarkan kemudahan terbakarnya bahan bakar halus di permukaan sehingga tidak dapat digunakan sebagai satu-satunya ukuran risiko kebakaran gambut yang dapat berlangsung di bawah permukaan tanah.\n\nMengintegrasikan informasi cuaca dengan kebijakan pencegahan\n\nKarsidi berpandangan bahwa pengamatan cuaca akan memberikan manfaat lebih besar apabila hasilnya terhubung dengan sistem pengambilan keputusan pemerintah pusat, pemerintah daerah, dunia usaha, dan masyarakat.\n\nMenurut dia, informasi pergerakan massa udara, pertumbuhan awan, prakiraan curah hujan, dan tingkat bahaya kebakaran tidak seharusnya berhenti sebagai laporan teknis, tetapi menjadi dasar penyusunan langkah mitigasi yang sesuai dengan karakteristik wilayah.\n\n“Keberhasilan mitigasi bencana tidak hanya ditentukan oleh ketepatan prakiraan cuaca, tetapi juga oleh kemampuan pemerintah dan para pemangku kepentingan untuk mengubah informasi ilmiah menjadi tindakan pencegahan yang cepat, tepat, dan terkoordinasi,” ujar Karsidi.\n\nDi kawasan rawan banjir dan tanah longsor, informasi prakiraan hujan perlu diintegrasikan dengan kondisi daerah aliran sungai, tutupan lahan, sistem drainase, serta kesiapan infrastruktur pengendali banjir.\n\nSementara itu, di kawasan rawan kebakaran hutan dan lahan, informasi cuaca dapat digunakan untuk memperkuat sistem peringatan dini, patroli terpadu, pengelolaan tata air gambut, serta koordinasi antara pemerintah, perusahaan, dan masyarakat peduli api.\n\nPendekatan tersebut penting karena perubahan kondisi cuaca dapat terjadi dalam waktu relatif singkat, sedangkan dampak bencana sering kali dipengaruhi oleh kerentanan lingkungan yang telah terbentuk dalam jangka panjang.\n\nMemperkuat kesiapsiagaan berbasis sains\n\nKarsidi juga menekankan pentingnya memperkuat sistem pemantauan cuaca yang mengintegrasikan data satelit, model atmosfer, pengamatan lapangan, serta informasi kondisi lingkungan setempat.\n\nPemanfaatan teknologi seperti citra satelit Himawari, pemantauan pergerakan massa udara, dan pemodelan curah hujan dapat membantu meningkatkan pemahaman mengenai perkembangan kondisi atmosfer. Namun, hasil pemodelan tetap harus dipahami sebagai prakiraan yang memiliki tingkat ketidakpastian.\n\n“Pemanfaatan teknologi pemantauan cuaca perlu disertai pembaruan data secara berkala dan verifikasi kondisi lapangan agar informasi yang dihasilkan benar-benar dapat mendukung pengambilan keputusan dan perlindungan masyarakat,” kata Karsidi.\n\nBagi sektor kehutanan, informasi tersebut juga relevan untuk mendukung pengelolaan lanskap berkelanjutan, perlindungan ekosistem gambut, pengendalian kebakaran hutan dan lahan, serta pencapaian target Indonesia’s FOLU Net Sink 2030.\n\nKe depan, Indonesia perlu terus memperkuat integrasi antara sistem pemantauan cuaca, pengelolaan risiko bencana, dan kebijakan lingkungan melalui kolaborasi pemerintah, lembaga penelitian, dunia usaha, serta masyarakat.\n\nPerubahan pola angin dan distribusi hujan merupakan fenomena alam yang tidak dapat dikendalikan. Namun, risiko dan dampaknya dapat dikurangi melalui pemanfaatan informasi ilmiah, perencanaan berbasis risiko, serta kesiapsiagaan yang dilakukan sebelum bencana terjadi.\n\nPada akhirnya, kualitas pengelolaan lingkungan tidak hanya tercermin dari kemampuan merespons bencana, tetapi juga dari keberhasilan mencegah kerugian melalui keputusan yang tepat, berbasis sains, dan berpihak pada keselamatan masyarakat serta keberlanjutan ekosistem.\n\n***\n\nThe post Perubahan Pola Angin dan Tantangan Mitigasi Bencana Hidrometeorologi appeared first on Forest Insights Indonesia ."
-  },
-  {
-   "source": "wartaekonomi",
-   "getter": "auto",
-   "title": "Kebakaran Hanguskan Gedung Bersejarah Kunstkring di Menteng, 21 Mobil Damkar Dikerahkan",
-   "link": "https://wartaekonomi.co.id/read649438/kebakaran-hanguskan-gedung-bersejarah-kunstkring-di-menteng-21-mobil-damkar-dikerahkan",
-   "pubDate": "Sat, 21 Nov 2026 13:07:00 +0700",
-   "description": "Kebakaran menghanguskan hampir seluruh ruangan gedung bersejarah Kunstkring di Menteng. Sebanyak 21 unit damkar dikerahkan.",
-   "fetched_at": "2026-11-21T07:39:20+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 123,
-   "content": "Kebakaran menghanguskan hampir seluruh ruangan gedung bersejarah Kunstkring di Menteng. Sebanyak 21 unit damkar dikerahkan."
-  },
-  {
-   "source": "harianjogja",
-   "getter": "auto",
-   "title": "Indonesia Perkuat Pengendalian Karhutla dengan Teknologi Satelit",
-   "link": "https://ecologic.harianjogja.com/r-1279738/indonesia-perkuat-pengendalian-karhutla-dengan-teknologi-satelit",
-   "pubDate": "Sat, 21 Nov 2026 13:57:41 +0700",
-   "description": "Indonesia memperkuat pengendalian karhutla melalui SiPongi+, 2.500 personel Manggala Agni, lebih dari 14.000 anggota MPA, dan restorasi gambut.",
-   "fetched_at": "2026-11-21T07:39:18+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 143,
-   "content": "Indonesia memperkuat pengendalian karhutla melalui SiPongi+, 2.500 personel Manggala Agni, lebih dari 14.000 anggota MPA, dan restorasi gambut."
-  },
-  {
-   "source": "sindonews",
-   "getter": "auto",
-   "title": "Banjir dan Karhutla Landa 9 Provinsi, BNPB Imbau Warga Waspadai Cuaca Ekstrem",
-   "link": "https://daerah.sindonews.com/read/1774591/174/banjir-dan-karhutla-landa-9-provinsi-bnpb-imbau-warga-waspadai-cuaca-ekstrem-1795241504",
-   "pubDate": "Sat, 21 Nov 2026 13:13:34 +0700",
-   "description": "Bencana hidrometeorologi basah hingga kebakaran hutan dan lahan (Karhutla) menerjang sejumlah daerah di Indonesia secara beruntun dalam beberapa hari terakhir.",
-   "fetched_at": "2026-11-21T07:39:15+07:00",
-   "categories": [
-    "bencana",
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 159,
-   "content": "Bencana hidrometeorologi basah hingga kebakaran hutan dan lahan (Karhutla) menerjang sejumlah daerah di Indonesia secara beruntun dalam beberapa hari terakhir."
-  },
-  {
-   "source": "inews",
-   "getter": "auto",
-   "title": "Mesin Terbakar, Pesawat Maskapai Papua Nugini Bawa 146 Orang Mendarat Darurat di Filipina",
-   "link": "https://www.inews.id/news/internasional/mesin-terbakar-pesawat-maskapai-papua-nugini-bawa-146-orang-mendarat-darurat-di-filipina",
-   "pubDate": "Sat, 21 Nov 2026 12:34:00 +0700",
-   "description": "Pesawat maskapai Air Niugini membawa 146 penumpang dan kru, mendarat darurat di Filipina, Sabtu (21/11) dini hari, akibat dugaan mesin terbakar.",
-   "fetched_at": "2026-11-21T07:39:15+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 144,
-   "content": "Pesawat maskapai Air Niugini membawa 146 penumpang dan kru, mendarat darurat di Filipina, Sabtu (21/11) dini hari, akibat dugaan mesin terbakar."
   }
  ]
 }
