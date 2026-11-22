@@ -1,13 +1,13 @@
 {
- "updated_at": "2026-11-22T11:46:36+07:00",
- "mode": "argos",
+ "updated_at": "2026-11-22T20:02:04+07:00",
+ "mode": "google",
  "translated": [
-  "43a48af4dc5b8692",
-  "46535d00b051dcbb",
-  "43a48af4dc5b8692",
-  "46535d00b051dcbb"
+  "1ffa1633388497ec",
+  "636375d0829e5453",
+  "5dd6c7285a54ef8f",
+  "1de3379a6edc8628"
  ],
  "failed": [],
- "held_partial": 2062,
+ "held_partial": 2126,
  "candidates": 4
 }

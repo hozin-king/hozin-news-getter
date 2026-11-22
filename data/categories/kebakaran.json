@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-11-22T11:46:38+07:00",
+ "updated_at": "2026-11-22T20:02:04+07:00",
  "category": "kebakaran",
- "count": 10,
+ "count": 8,
  "articles": [
+  {
+   "source": "pesisirselatankab",
+   "getter": "auto",
+   "title": "Ketulusan di Balik Seragam: Kisah Damkar Selamatkan Induk Kucing Melahirkan yang Melahirkan",
+   "link": "https://pesisirselatankab.go.id/berita/ketulusan-di-balik-seragam-kisah-damkar-selamatkan-induk-kucing-melahirkan-yang-melahirkan",
+   "pubDate": "Sun, 22 Nov 2026 15:18:06 +0700",
+   "description": "Siang hari pada Minggu (22/11/2026) di kawasan Perumahan Kampung Nelayan, Jalan Pramuka, Nagari Painan Selatan, Kecamatan IV Jurai, diwarnai panggilan tugas yang tak biasa bagi personel Pemadam Kebakaran dan Penyelamatan (Damkarmat) Kabupaten Pesisir Selatan. Bukan kobaran api atau ancaman satwa…",
+   "fetched_at": "2026-11-22T08:38:19+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 297,
+   "content": "Siang hari pada Minggu (22/11/2026) di kawasan Perumahan Kampung Nelayan, Jalan Pramuka, Nagari Painan Selatan, Kecamatan IV Jurai, diwarnai panggilan tugas yang tak biasa bagi personel Pemadam Kebakaran dan Penyelamatan (Damkarmat) Kabupaten Pesisir Selatan. Bukan kobaran api atau ancaman satwa…"
+  },
   {
    "source": "pesisirselatankab",
    "getter": "auto",
@@ -10,7 +25,7 @@
    "link": "https://pesisirselatankab.go.id/berita/damkar-lakukan-ott-kekhawatiran-warga-teratasi",
    "pubDate": "Sun, 22 Nov 2026 07:14:58 +0700",
    "description": "Bagi para pengguna jalan yang melintas di ruas Jalan Lintas Padang–Painan, tepatnya di kawasan Taluk Lokan, Nagari Pasar Baru, Kecamatan Bayang, beberapa hari terakhir terasa lebih menegangkan dari biasanya. Tepat di atas jalur utama penghubung antarwilayah tersebut, tergantung sebuah sarang koloni…",
-   "fetched_at": "2026-11-22T01:22:19+07:00",
+   "fetched_at": "2026-11-22T08:38:19+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -25,7 +40,7 @@
    "link": "https://pesisirselatankab.go.id/berita/damkar-selamatkan-rumah-permanen-pelajaran-dari-korek-api",
    "pubDate": "Sat, 21 Nov 2026 18:45:00 +0700",
    "description": "Suasana siang hari di kawasan Pasar Bukit, Nagari Pasar Tapan, Kecamatan Basa Ampek Balai Tapan, mendadak riuh oleh kepanikan pada Sabtu (21/11/2026) sekitar pukul 13.40 WIB. Kepulan asap muncul dari dalam kamar sebuah rumah permanen milik Aurelia Median Chaniago (27), setelah sebuah kasur…",
-   "fetched_at": "2026-11-22T01:22:19+07:00",
+   "fetched_at": "2026-11-22T08:38:19+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -34,64 +49,19 @@
    "content": "Suasana siang hari di kawasan Pasar Bukit, Nagari Pasar Tapan, Kecamatan Basa Ampek Balai Tapan, mendadak riuh oleh kepanikan pada Sabtu (21/11/2026) sekitar pukul 13.40 WIB. Kepulan asap muncul dari dalam kamar sebuah rumah permanen milik Aurelia Median Chaniago (27), setelah sebuah kasur…"
   },
   {
-   "source": "pesisirselatankab",
-   "getter": "auto",
-   "title": "Ular Sawah Masuk Rumah Warga, Tim Animal Rescue Damkar Pessel Bergerak",
-   "link": "https://pesisirselatankab.go.id/berita/ular-sawah-masuk-rumah-warga-tim-animal-rescue-damkar-pessel-bergerak",
-   "pubDate": "Sat, 21 Nov 2026 10:45:01 +0700",
-   "description": "Rumah seharusnya menjadi tempat paling nyaman bagi penghuninya. Namun, suasana itu seketika berubah ketika seekor ular sawah ditemukan masuk ke dalam rumah warga di kawasan Painan Utara, Sabtu (21/11/2026) pagi. Kehadiran reptil tersebut membuat penghuni rumah ketakutan dan panik. Tidak ingin…",
-   "fetched_at": "2026-11-22T01:22:19+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 294,
-   "content": "Rumah seharusnya menjadi tempat paling nyaman bagi penghuninya. Namun, suasana itu seketika berubah ketika seekor ular sawah ditemukan masuk ke dalam rumah warga di kawasan Painan Utara, Sabtu (21/11/2026) pagi. Kehadiran reptil tersebut membuat penghuni rumah ketakutan dan panik. Tidak ingin…"
-  },
-  {
    "source": "vidio",
    "getter": "auto",
-   "title": "Pabrik Susu dan Permen Terbakar, Puluhan Pekerja Hilang Kontak | Fokus",
-   "link": "https://www.vidio.com/watch/9765726-pabrik-susu-dan-permen-terbakar-puluhan-pekerja-hilang-kontak-fokus",
-   "pubDate": "Sun, 22 Nov 2026 06:29:59 +0700",
-   "description": "Sebuah pabrik susu, permen, dan makanan ringan di kawasan Cikande, Serang, Banten, terbakar hebat pada Sabtu sore. Kebakaran memunculkan kekhawatiran lantaran puluhan pekerja di dalam pabrik hilang kontak dan diduga terjebak",
-   "fetched_at": "2026-11-22T01:22:09+07:00",
+   "title": "Kepala Basarnas: 19 Pekerja Selamat, 39 Masih Dicari Usai Kebakaran Pabrik di Serang | Liputan 6",
+   "link": "https://m.vidio.com/watch/9766462-kepala-basarnas-19-pekerja-selamat-39-masih-dicari-usai-kebakaran-pabrik-di-serang-liputan-6",
+   "pubDate": "Sun, 22 Nov 2026 15:24:33 +0700",
+   "description": "Kebakaran melanda pabrik permen di Kawasan Industri Pancatama, Kecamatan Cikande, Kabupaten Serang, Banten, pada Sabtu (21/11/2026) sore. Basarnas melaporkan 19 pekerja berhasil selamat, sementara 39 orang lainnya masih dalam pencarian. Tim SAR gabungan terus menyisir sejumlah area bangunan yang terbakar untuk menemukan para pekerja yang belum diketahui keberadaannya. Proses pencarian dilakukan dengan mengutamakan keselamatan petugas, mengingat kondisi bangunan terdampak kebakaran. Sejumlah unsu",
+   "fetched_at": "2026-11-22T08:38:10+07:00",
    "categories": [
     "kebakaran"
    ],
    "content_status": "partial",
-   "content_chars": 224,
-   "content": "Sebuah pabrik susu, permen, dan makanan ringan di kawasan Cikande, Serang, Banten, terbakar hebat pada Sabtu sore. Kebakaran memunculkan kekhawatiran lantaran puluhan pekerja di dalam pabrik hilang kontak dan diduga terjebak"
-  },
-  {
-   "source": "vidio",
-   "getter": "auto",
-   "title": "Pembangkit Listrik Irak Terbakar, 4 Tewas | Liputan 6",
-   "link": "https://www.vidio.com/watch/9765719-pembangkit-listrik-irak-terbakar-4-tewas-liputan-6",
-   "pubDate": "Sun, 22 Nov 2026 06:18:07 +0700",
-   "description": "Kebakaran melanda sebuah pembangkit listrik di wilayah selatan Irak, menewaskan sedikitnya empat orang, dan melukai 35 orang lainnya.",
-   "fetched_at": "2026-11-22T01:22:09+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 133,
-   "content": "Kebakaran melanda sebuah pembangkit listrik di wilayah selatan Irak, menewaskan sedikitnya empat orang, dan melukai 35 orang lainnya."
-  },
-  {
-   "source": "darilaut",
-   "getter": "auto",
-   "title": "El Niño Bukan Satu-satunya Penyebab Meningkatnya Karhutla di Indonesia",
-   "link": "https://darilaut.id/berita/el-nino-bukan-satu-satunya-penyebab-meningkatnya-karhutla-di-indonesia",
-   "pubDate": "Thu, 19 Nov 2026 19:46:31 +0000",
-   "description": "<p>Darilaut &#8211; Tanda-tanda awal meningkatnya aktivitas kebakaran di Indonesia muncul pada minggu terakhir bulan Juli. Peristiwa El Niño bukanlah satu-satunya penyebab kebakaran hebat di Indonesia. Data Copernicus Atmosphere Monitoring Service (CAMS) Global Fire Assimilation System (GFAS) menunjukkan emisi dari Kalimantan Barat dan Kalimantan Tengah melampaui rata-rata periode 2003–2025. Peningkatan ini berlanjut hingga awal Agustus, dengan [&#8230;]</p>\n<p>The post <a href=\"https://darilaut",
-   "fetched_at": "2026-11-22T01:22:00+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "full",
-   "content_chars": 1615,
-   "content": "El Niño Bukan Satu-satunya Penyebab Meningkatnya Karhutla di Indonesia\n\nDarilaut – Tanda-tanda awal meningkatnya aktivitas kebakaran di Indonesia muncul pada minggu terakhir bulan Juli. Peristiwa El Niño bukanlah satu-satunya penyebab kebakaran hebat di Indonesia.\n\nData Copernicus Atmosphere Monitoring Service (CAMS) Global Fire Assimilation System (GFAS) menunjukkan emisi dari Kalimantan Barat dan Kalimantan Tengah melampaui rata-rata periode 2003–2025.\n\nPeningkatan ini berlanjut hingga awal Agustus, dengan tingkat emisi di Kalimantan Barat, Kalimantan Tengah, dan Kalimantan Selatan jauh di atas rata-rata untuk periode tersebut.\n\nPrakiraan global CAMS menunjukkan nilai aerosol optical depth (AOD) untuk materi organik yang tinggi, yakni melebihi 1,0 di sekitar lokasi kebakaran di Kalimantan Barat dan Kalimantan Tengah pada awal Agustus.\n\nAOD merupakan ukuran untuk materi partikulat dan aerosol—dalam hal ini partikel asap—yang tersebar di dalam kolom udara, mulai dari permukaan Bumi hingga ke lapisan atmosfer paling atas.\n\nPerbandingan dengan pengukuran dari situs pemantauan AERONET di Pontianak dan Palangkaraya menunjukkan kesesuaian yang baik, baik dari segi waktu maupun besaran nilai AOD, termasuk peningkatan yang jelas setelah tanggal 20 Juli.\n\nMenjelang 20 Agustus, nilai AOD serta konsentrasi materi partikulat halus (PM2.5) dan polutan atmosfer lainnya yang terkait dengan pembakaran biomassa terus meningkat, terutama di Kalimantan, dan juga meluas ke sejumlah provinsi di Sumatra.\n\nMenginformasikan berbagai perihal tentang laut, pesisir, ikan, kapal, berita terkini dan lain sebagainya."
+   "content_chars": 500,
+   "content": "Kebakaran melanda pabrik permen di Kawasan Industri Pancatama, Kecamatan Cikande, Kabupaten Serang, Banten, pada Sabtu (21/11/2026) sore. Basarnas melaporkan 19 pekerja berhasil selamat, sementara 39 orang lainnya masih dalam pencarian. Tim SAR gabungan terus menyisir sejumlah area bangunan yang terbakar untuk menemukan para pekerja yang belum diketahui keberadaannya. Proses pencarian dilakukan dengan mengutamakan keselamatan petugas, mengingat kondisi bangunan terdampak kebakaran. Sejumlah unsu"
   },
   {
    "source": "forestinsights",
@@ -100,7 +70,7 @@
    "link": "https://forestinsights.id/perubahan-pola-angin-dan-tantangan-mitigasi-bencana-hidrometeorologi/?utm_source=rss&utm_medium=rss&utm_campaign=perubahan-pola-angin-dan-tantangan-mitigasi-bencana-hidrometeorologi",
    "pubDate": "Thu, 19 Nov 2026 23:30:49 +0000",
    "description": "<p>Oleh: A. Karsidi Perubahan pola pergerakan massa udara di wilayah Indonesia pada pertengahan November 2026 menjadi pengingat penting bahwa dinamika cuaca tidak hanya berkaitan dengan potensi hujan, tetapi juga menentukan kesiapan menghadapi bencana hidrometeorologi dan risiko kebakaran hutan serta lahan. Pengamat lingkungan dan cuaca A. Karsidi menjelaskan bahwa melemahnya aliran massa udara dari Australia dan [&#8230;]</p>\n<p>The post <a href=\"https://forestinsights.id/perubahan-pola-angin-d",
-   "fetched_at": "2026-11-22T01:21:49+07:00",
+   "fetched_at": "2026-11-22T08:37:53+07:00",
    "categories": [
     "bencana",
     "kebakaran"
@@ -110,50 +80,49 @@
    "content": "Oleh: A. Karsidi\n\nPerubahan pola pergerakan massa udara di wilayah Indonesia pada pertengahan November 2026 menjadi pengingat penting bahwa dinamika cuaca tidak hanya berkaitan dengan potensi hujan, tetapi juga menentukan kesiapan menghadapi bencana hidrometeorologi dan risiko kebakaran hutan serta lahan.\n\nPengamat lingkungan dan cuaca A. Karsidi menjelaskan bahwa melemahnya aliran massa udara dari Australia dan mulai masuknya massa udara basah dari kawasan Asia menunjukkan perubahan kondisi atmosfer yang perlu terus dipantau. Perubahan tersebut dapat memengaruhi distribusi curah hujan antardaerah, meskipun dampaknya belum tentu berlangsung secara seragam di seluruh wilayah Indonesia.\n\n“Wilayah Indonesia mulai mendapatkan asupan massa udara basah dari kawasan Asia, namun masih lemah,” tulis Karsidi dalam laporan pengamatan cuaca pada 19 November 2026.\n\nMenurut dia, pergerakan massa udara dari Australia melalui Indonesia bagian timur dan dari perairan barat Australia menuju selatan Jawa mulai melemah. Sementara itu, pusaran massa udara masih terpantau di perairan barat daya Sumatera dan sebelah timur Sri Lanka.\n\nKondisi tersebut menunjukkan bahwa perubahan pola angin belum secara otomatis menghasilkan peningkatan curah hujan secara merata. Faktor lokal, suhu permukaan laut, kelembapan atmosfer, dan pergerakan massa udara dari Samudra Hindia tetap berperan dalam menentukan pembentukan awan dan peluang hujan di berbagai wilayah.\n\n“Perubahan pola angin perlu dicermati secara berkelanjutan karena peningkatan pasokan massa udara basah tidak selalu menghasilkan hujan dengan intensitas dan sebaran yang sama di setiap wilayah,” demikian penilaian Karsidi.\n\nDinamika awan dan distribusi hujan\n\nBerdasarkan pengamatan citra satelit Himawari BMKG pada 19 November 2026 pukul 03.30, pertumbuhan awan teridentifikasi di perairan barat Sumatera, Sumatera Utara, Riau bagian utara, Jambi, sejumlah wilayah Lampung, Selat Karimata, Kalimantan Barat bagian timur, serta beberapa wilayah Papua.\n\nKarsidi menjelaskan bahwa potensi pertumbuhan awan hujan pada saat pengamatan lebih terlihat di wilayah Indonesia bagian barat, terutama akibat pengaruh massa udara dari Samudra Hindia.\n\n“Peluang hujan di wilayah Indonesia kemungkinan terjadi di wilayah yang dilintasi massa udara basah yang datang dari Samudra Hindia atau dari perairan selatan Jawa, dan pengaruh faktor lokal,” tulis Karsidi.\n\nHasil pemodelan potensi hujan tiga jam-an menggunakan Windy memperlihatkan bahwa pada pagi hari sebagian besar wilayah daratan Indonesia diprakirakan cerah, sementara hujan lebat berpotensi terjadi di pesisir barat Sumatera Barat dan perairan Kepulauan Mentawai.\n\nMemasuki siang hingga sore hari, peluang hujan diprakirakan meningkat di sejumlah wilayah Sumatera, Jawa, Kalimantan, Sulawesi, Maluku, dan Papua. Pada sore hari, hujan sedang hingga lebat berpotensi terjadi di Aceh, Sumatera Utara, Riau bagian utara, Sumatera Selatan, Lampung, Jawa, Kalimantan Barat, Sulawesi Selatan, dan Sulawesi Tengah.\n\nPada malam hari, hujan lebat diprakirakan terjadi di sejumlah wilayah, antara lain Sumatera Utara, Sumatera Selatan, Jawa Timur, Kalimantan Barat, Kalimantan Tengah, Kalimantan Utara, serta Papua bagian timur.\n\nMenurut Karsidi, perbedaan waktu dan intensitas hujan tersebut memperlihatkan pentingnya pemantauan cuaca secara berkala agar informasi prakiraan dapat dimanfaatkan sebagai dasar kesiapsiagaan, terutama di wilayah yang memiliki kerentanan terhadap banjir, tanah longsor, dan gangguan aktivitas masyarakat.\n\n“Informasi prakiraan cuaca harus diketahui impeknya apa serta diterjemahkan menjadi langkah antisipasi yang tepat sesuai kondisi wilayah, sehingga potensi bencana dapat dikenali dan ditangani sebelum menimbulkan dampak yang lebih besar,” ujarnya.\n\nKewaspadaan terhadap risiko kebakaran lahan\n\nSelain potensi hujan, Karsidi menyoroti pentingnya informasi mengenai tingkat kemudahan terbakarnya bahan bakar halus di permukaan tanah sebagai salah satu indikator kesiapsiagaan terhadap kebakaran hutan dan lahan.\n\nBerdasarkan sistem peringatan dini kebakaran hutan dan lahan atau Fire Danger Rating System (FDRS) BMKG pada 19 November 2026, indikator Fine Fuel Moisture Code (FFMC) menunjukkan sebagian besar wilayah Sumatera, Jawa hingga Nusa Tenggara Timur, Kalimantan Selatan, serta sejumlah wilayah Sulawesi, Halmahera, dan Papua berada pada kategori relatif aman atau tidak mudah terbakar.\n\nNamun, tingkat kemudahan terbakar kategori moderat masih teridentifikasi di ujung barat Sumatera Selatan, Kalimantan Tengah, Kalimantan Timur bagian selatan, Kalimantan Utara, pesisir timur Sulawesi Selatan, serta Sulawesi Tenggara.\n\nKarsidi menilai bahwa peningkatan peluang hujan tidak serta-merta menghilangkan risiko kebakaran hutan dan lahan di seluruh wilayah. Karena itu, informasi FDRS perlu digunakan sebagai salah satu dasar untuk menentukan prioritas patroli, pemantauan kondisi lahan, kesiapsiagaan personel, dan tindakan pencegahan kebakaran.\n\n“Potensi hujan tidak berarti seluruh wilayah telah terbebas dari risiko kebakaran. Pemantauan tingkat kemudahan terbakar harus tetap dilakukan, terutama pada kawasan yang memiliki kerentanan tinggi terhadap kekeringan dan kebakaran lahan,” kata Karsidi.\n\nKhusus pada ekosistem gambut, ia menekankan perlunya memperhatikan kondisi hidrologi, terutama tinggi muka air tanah, kelembapan gambut, serta riwayat kekeringan pada suatu kawasan. Indikator FFMC menggambarkan kemudahan terbakarnya bahan bakar halus di permukaan sehingga tidak dapat digunakan sebagai satu-satunya ukuran risiko kebakaran gambut yang dapat berlangsung di bawah permukaan tanah.\n\nMengintegrasikan informasi cuaca dengan kebijakan pencegahan\n\nKarsidi berpandangan bahwa pengamatan cuaca akan memberikan manfaat lebih besar apabila hasilnya terhubung dengan sistem pengambilan keputusan pemerintah pusat, pemerintah daerah, dunia usaha, dan masyarakat.\n\nMenurut dia, informasi pergerakan massa udara, pertumbuhan awan, prakiraan curah hujan, dan tingkat bahaya kebakaran tidak seharusnya berhenti sebagai laporan teknis, tetapi menjadi dasar penyusunan langkah mitigasi yang sesuai dengan karakteristik wilayah.\n\n“Keberhasilan mitigasi bencana tidak hanya ditentukan oleh ketepatan prakiraan cuaca, tetapi juga oleh kemampuan pemerintah dan para pemangku kepentingan untuk mengubah informasi ilmiah menjadi tindakan pencegahan yang cepat, tepat, dan terkoordinasi,” ujar Karsidi.\n\nDi kawasan rawan banjir dan tanah longsor, informasi prakiraan hujan perlu diintegrasikan dengan kondisi daerah aliran sungai, tutupan lahan, sistem drainase, serta kesiapan infrastruktur pengendali banjir.\n\nSementara itu, di kawasan rawan kebakaran hutan dan lahan, informasi cuaca dapat digunakan untuk memperkuat sistem peringatan dini, patroli terpadu, pengelolaan tata air gambut, serta koordinasi antara pemerintah, perusahaan, dan masyarakat peduli api.\n\nPendekatan tersebut penting karena perubahan kondisi cuaca dapat terjadi dalam waktu relatif singkat, sedangkan dampak bencana sering kali dipengaruhi oleh kerentanan lingkungan yang telah terbentuk dalam jangka panjang.\n\nMemperkuat kesiapsiagaan berbasis sains\n\nKarsidi juga menekankan pentingnya memperkuat sistem pemantauan cuaca yang mengintegrasikan data satelit, model atmosfer, pengamatan lapangan, serta informasi kondisi lingkungan setempat.\n\nPemanfaatan teknologi seperti citra satelit Himawari, pemantauan pergerakan massa udara, dan pemodelan curah hujan dapat membantu meningkatkan pemahaman mengenai perkembangan kondisi atmosfer. Namun, hasil pemodelan tetap harus dipahami sebagai prakiraan yang memiliki tingkat ketidakpastian.\n\n“Pemanfaatan teknologi pemantauan cuaca perlu disertai pembaruan data secara berkala dan verifikasi kondisi lapangan agar informasi yang dihasilkan benar-benar dapat mendukung pengambilan keputusan dan perlindungan masyarakat,” kata Karsidi.\n\nBagi sektor kehutanan, informasi tersebut juga relevan untuk mendukung pengelolaan lanskap berkelanjutan, perlindungan ekosistem gambut, pengendalian kebakaran hutan dan lahan, serta pencapaian target Indonesia’s FOLU Net Sink 2030.\n\nKe depan, Indonesia perlu terus memperkuat integrasi antara sistem pemantauan cuaca, pengelolaan risiko bencana, dan kebijakan lingkungan melalui kolaborasi pemerintah, lembaga penelitian, dunia usaha, serta masyarakat.\n\nPerubahan pola angin dan distribusi hujan merupakan fenomena alam yang tidak dapat dikendalikan. Namun, risiko dan dampaknya dapat dikurangi melalui pemanfaatan informasi ilmiah, perencanaan berbasis risiko, serta kesiapsiagaan yang dilakukan sebelum bencana terjadi.\n\nPada akhirnya, kualitas pengelolaan lingkungan tidak hanya tercermin dari kemampuan merespons bencana, tetapi juga dari keberhasilan mencegah kerugian melalui keputusan yang tepat, berbasis sains, dan berpihak pada keselamatan masyarakat serta keberlanjutan ekosistem.\n\n***\n\nThe post Perubahan Pola Angin dan Tantangan Mitigasi Bencana Hidrometeorologi appeared first on Forest Insights Indonesia ."
   },
   {
-   "source": "republika",
+   "source": "beritajatim",
    "getter": "auto",
-   "title": "Kebakaran PT Fonusa di Cikande Belum Padam Basarnas Kerahkan Tim",
-   "link": "https://republika.co.id/page/shorts/yt-tovor1904574349/kebakaran-pt-fonusa-di-cikande-belum-padam-basarnas-kerahkan-tim",
-   "pubDate": "Sun, 22 Nov 2026 07:45:01 +0700",
-   "description": "Basarnas mengerahkan tim penyelamat untuk membantu proses evakuasi menyusul dugaan adanya korban jiwa yang terjebak dalam kebakaran pabrik di kawasan industri PT Fonusa Agung Mulia, Kabupaten Serang, Banten, Ahad...",
-   "fetched_at": "2026-11-22T01:21:21+07:00",
+   "title": "Kebakaran Penampungan Afalan Spon di Wedoro Sidoarjo, Api Merembet ke Rumah Kontrakan Warga",
+   "link": "https://beritajatim.com/kebakaran-penampungan-afalan-spon-di-wedoro-sidoarjo-api-merembet-ke-rumah-kontrakan-warga",
+   "pubDate": "Sun, 22 Nov 2026 08:16:50 +0000",
+   "description": "<a href=\"https://beritajatim.com/kebakaran-penampungan-afalan-spon-di-wedoro-sidoarjo-api-merembet-ke-rumah-kontrakan-warga\" title=\"Kebakaran Penampungan Afalan Spon di Wedoro Sidoarjo, Api Merembet ke Rumah Kontrakan Warga\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://beritajatim.com/wp-content/uploads/2026/11/foto-media20261122011.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" li",
+   "fetched_at": "2026-11-22T08:37:40+07:00",
    "categories": [
     "kebakaran"
    ],
    "content_status": "partial",
-   "content_chars": 215,
-   "content": "Basarnas mengerahkan tim penyelamat untuk membantu proses evakuasi menyusul dugaan adanya korban jiwa yang terjebak dalam kebakaran pabrik di kawasan industri PT Fonusa Agung Mulia, Kabupaten Serang, Banten, Ahad..."
+   "content_chars": 500,
+   "content": "<a href=\"https://beritajatim.com/kebakaran-penampungan-afalan-spon-di-wedoro-sidoarjo-api-merembet-ke-rumah-kontrakan-warga\" title=\"Kebakaran Penampungan Afalan Spon di Wedoro Sidoarjo, Api Merembet ke Rumah Kontrakan Warga\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://beritajatim.com/wp-content/uploads/2026/11/foto-media20261122011.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" li"
   },
   {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "Kebakaran pabrik di Cikande, 16 karyawan dinyatakan selamat",
-   "link": "https://www.antaranews.com/berita/5870431/kebakaran-pabrik-di-cikande-16-karyawan-dinyatakan-selamat",
-   "pubDate": "Sun, 22 Nov 2026 07:39:01 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/22/1001164069.jpg\" align=\"left\" border=\"0\" />Pusat Pengendalian Operasi (Pusdalops) Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Serang mencatat sebanyak 16 ...",
-   "fetched_at": "2026-11-22T01:20:51+07:00",
+   "source": "inews",
+   "getter": "auto",
+   "title": "Basarnas Kerahkan Tim Cari 39 Korban Kebakaran Pabrik Permen Fonusa di Serang",
+   "link": "https://www.inews.id/regional/regional/basarnas-kerahkan-tim-cari-39-korban-kebakaran-pabrik-permen-fonusa-di-serang",
+   "pubDate": "Sun, 22 Nov 2026 14:38:00 +0700",
+   "description": "Basarnas Banten mengerahkan tim untuk mencari 39 korban kebakaran Pabrik permen PT Fonusa Agung Mulia di Kawasan Industri Pancatama, Serang.",
+   "fetched_at": "2026-11-22T08:37:35+07:00",
    "categories": [
     "kebakaran"
    ],
    "content_status": "partial",
-   "content_chars": 227,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/22/1001164069.jpg\" align=\"left\" border=\"0\" />Pusat Pengendalian Operasi (Pusdalops) Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Serang mencatat sebanyak 16 ..."
+   "content_chars": 140,
+   "content": "Basarnas Banten mengerahkan tim untuk mencari 39 korban kebakaran Pabrik permen PT Fonusa Agung Mulia di Kawasan Industri Pancatama, Serang."
   },
   {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "Basarnas kerahkan tim evakuasi korban kebakaran pabrik di Serang",
-   "link": "https://www.antaranews.com/berita/5870355/basarnas-kerahkan-tim-evakuasi-korban-kebakaran-pabrik-di-serang",
-   "pubDate": "Sun, 22 Nov 2026 04:30:30 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/21/1001163508.jpg\" align=\"left\" border=\"0\" />Basarnas mengerahkan tim penyelamat untuk membantu proses evakuasi menyusul dugaan adanya korban jiwa yang terjebak ...",
-   "fetched_at": "2026-11-22T01:20:51+07:00",
+   "source": "inews",
+   "getter": "auto",
+   "title": "Kebakaran Pabrik Permen Fonusa di Serang, Keluarga Cemas Menanti Kabar Korban Hilang",
+   "link": "https://www.inews.id/regional/regional/kebakaran-pabrik-permen-fonusa-di-serang-keluarga-cemas-menanti-kabar-korban-hilang",
+   "pubDate": "Sun, 22 Nov 2026 14:21:00 +0700",
+   "description": "Suasana haru menyelimuti area PT Fonusa Agung Mulia, Cikande, Kabupaten Serang, Banten, Minggu (22/11/2026).",
+   "fetched_at": "2026-11-22T08:37:35+07:00",
    "categories": [
-    "bencana",
     "kebakaran"
    ],
    "content_status": "partial",
-   "content_chars": 223,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/21/1001163508.jpg\" align=\"left\" border=\"0\" />Basarnas mengerahkan tim penyelamat untuk membantu proses evakuasi menyusul dugaan adanya korban jiwa yang terjebak ..."
+   "content_chars": 108,
+   "content": "Suasana haru menyelimuti area PT Fonusa Agung Mulia, Cikande, Kabupaten Serang, Banten, Minggu (22/11/2026)."
   }
  ]
 }
