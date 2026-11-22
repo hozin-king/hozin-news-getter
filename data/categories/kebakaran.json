@@ -1,8 +1,23 @@
 {
- "updated_at": "2026-11-22T06:46:46+07:00",
+ "updated_at": "2026-11-22T11:46:38+07:00",
  "category": "kebakaran",
- "count": 8,
+ "count": 10,
  "articles": [
+  {
+   "source": "pesisirselatankab",
+   "getter": "auto",
+   "title": "Damkar Lakukan OTT, Kekhawatiran Warga Teratasi",
+   "link": "https://pesisirselatankab.go.id/berita/damkar-lakukan-ott-kekhawatiran-warga-teratasi",
+   "pubDate": "Sun, 22 Nov 2026 07:14:58 +0700",
+   "description": "Bagi para pengguna jalan yang melintas di ruas Jalan Lintas Padang–Painan, tepatnya di kawasan Taluk Lokan, Nagari Pasar Baru, Kecamatan Bayang, beberapa hari terakhir terasa lebih menegangkan dari biasanya. Tepat di atas jalur utama penghubung antarwilayah tersebut, tergantung sebuah sarang koloni…",
+   "fetched_at": "2026-11-22T01:22:19+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 300,
+   "content": "Bagi para pengguna jalan yang melintas di ruas Jalan Lintas Padang–Painan, tepatnya di kawasan Taluk Lokan, Nagari Pasar Baru, Kecamatan Bayang, beberapa hari terakhir terasa lebih menegangkan dari biasanya. Tepat di atas jalur utama penghubung antarwilayah tersebut, tergantung sebuah sarang koloni…"
+  },
   {
    "source": "pesisirselatankab",
    "getter": "auto",
@@ -10,7 +25,7 @@
    "link": "https://pesisirselatankab.go.id/berita/damkar-selamatkan-rumah-permanen-pelajaran-dari-korek-api",
    "pubDate": "Sat, 21 Nov 2026 18:45:00 +0700",
    "description": "Suasana siang hari di kawasan Pasar Bukit, Nagari Pasar Tapan, Kecamatan Basa Ampek Balai Tapan, mendadak riuh oleh kepanikan pada Sabtu (21/11/2026) sekitar pukul 13.40 WIB. Kepulan asap muncul dari dalam kamar sebuah rumah permanen milik Aurelia Median Chaniago (27), setelah sebuah kasur…",
-   "fetched_at": "2026-11-21T21:11:04+07:00",
+   "fetched_at": "2026-11-22T01:22:19+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -25,7 +40,7 @@
    "link": "https://pesisirselatankab.go.id/berita/ular-sawah-masuk-rumah-warga-tim-animal-rescue-damkar-pessel-bergerak",
    "pubDate": "Sat, 21 Nov 2026 10:45:01 +0700",
    "description": "Rumah seharusnya menjadi tempat paling nyaman bagi penghuninya. Namun, suasana itu seketika berubah ketika seekor ular sawah ditemukan masuk ke dalam rumah warga di kawasan Painan Utara, Sabtu (21/11/2026) pagi. Kehadiran reptil tersebut membuat penghuni rumah ketakutan dan panik. Tidak ingin…",
-   "fetched_at": "2026-11-21T21:11:04+07:00",
+   "fetched_at": "2026-11-22T01:22:19+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -34,19 +49,34 @@
    "content": "Rumah seharusnya menjadi tempat paling nyaman bagi penghuninya. Namun, suasana itu seketika berubah ketika seekor ular sawah ditemukan masuk ke dalam rumah warga di kawasan Painan Utara, Sabtu (21/11/2026) pagi. Kehadiran reptil tersebut membuat penghuni rumah ketakutan dan panik. Tidak ingin…"
   },
   {
-   "source": "pesisirselatankab",
+   "source": "vidio",
    "getter": "auto",
-   "title": "Damkar Kembalikan Ketenangan Warga Menjelang Tengah Malam, Pulang Dengan Hati Lega",
-   "link": "https://pesisirselatankab.go.id/berita/damkar-kembalikan-ketenangan-warga-menjelang-tengah-malam-pulang-dengan-hati-lega",
-   "pubDate": "Sat, 21 Nov 2026 06:01:34 +0700",
-   "description": "Jarum jam baru saja melewati pukul 23.30 WIB pada Jumat (20/11/2026) malam. Saat sebagian besar warga Kabupaten Pesisir Selatan mulai terlelap melepas penat, keheningan di Markas Komando (Mako) Pemadam Kebakaran dan Penyelamatan (Damkarmat) Painan justru kedatangan seorang tamu yang diliputi rasa…",
-   "fetched_at": "2026-11-21T21:11:04+07:00",
+   "title": "Pabrik Susu dan Permen Terbakar, Puluhan Pekerja Hilang Kontak | Fokus",
+   "link": "https://www.vidio.com/watch/9765726-pabrik-susu-dan-permen-terbakar-puluhan-pekerja-hilang-kontak-fokus",
+   "pubDate": "Sun, 22 Nov 2026 06:29:59 +0700",
+   "description": "Sebuah pabrik susu, permen, dan makanan ringan di kawasan Cikande, Serang, Banten, terbakar hebat pada Sabtu sore. Kebakaran memunculkan kekhawatiran lantaran puluhan pekerja di dalam pabrik hilang kontak dan diduga terjebak",
+   "fetched_at": "2026-11-22T01:22:09+07:00",
    "categories": [
     "kebakaran"
    ],
    "content_status": "partial",
-   "content_chars": 298,
-   "content": "Jarum jam baru saja melewati pukul 23.30 WIB pada Jumat (20/11/2026) malam. Saat sebagian besar warga Kabupaten Pesisir Selatan mulai terlelap melepas penat, keheningan di Markas Komando (Mako) Pemadam Kebakaran dan Penyelamatan (Damkarmat) Painan justru kedatangan seorang tamu yang diliputi rasa…"
+   "content_chars": 224,
+   "content": "Sebuah pabrik susu, permen, dan makanan ringan di kawasan Cikande, Serang, Banten, terbakar hebat pada Sabtu sore. Kebakaran memunculkan kekhawatiran lantaran puluhan pekerja di dalam pabrik hilang kontak dan diduga terjebak"
+  },
+  {
+   "source": "vidio",
+   "getter": "auto",
+   "title": "Pembangkit Listrik Irak Terbakar, 4 Tewas | Liputan 6",
+   "link": "https://www.vidio.com/watch/9765719-pembangkit-listrik-irak-terbakar-4-tewas-liputan-6",
+   "pubDate": "Sun, 22 Nov 2026 06:18:07 +0700",
+   "description": "Kebakaran melanda sebuah pembangkit listrik di wilayah selatan Irak, menewaskan sedikitnya empat orang, dan melukai 35 orang lainnya.",
+   "fetched_at": "2026-11-22T01:22:09+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 133,
+   "content": "Kebakaran melanda sebuah pembangkit listrik di wilayah selatan Irak, menewaskan sedikitnya empat orang, dan melukai 35 orang lainnya."
   },
   {
    "source": "darilaut",
@@ -55,7 +85,7 @@
    "link": "https://darilaut.id/berita/el-nino-bukan-satu-satunya-penyebab-meningkatnya-karhutla-di-indonesia",
    "pubDate": "Thu, 19 Nov 2026 19:46:31 +0000",
    "description": "<p>Darilaut &#8211; Tanda-tanda awal meningkatnya aktivitas kebakaran di Indonesia muncul pada minggu terakhir bulan Juli. Peristiwa El Niño bukanlah satu-satunya penyebab kebakaran hebat di Indonesia. Data Copernicus Atmosphere Monitoring Service (CAMS) Global Fire Assimilation System (GFAS) menunjukkan emisi dari Kalimantan Barat dan Kalimantan Tengah melampaui rata-rata periode 2003–2025. Peningkatan ini berlanjut hingga awal Agustus, dengan [&#8230;]</p>\n<p>The post <a href=\"https://darilaut",
-   "fetched_at": "2026-11-21T21:10:46+07:00",
+   "fetched_at": "2026-11-22T01:22:00+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -70,7 +100,7 @@
    "link": "https://forestinsights.id/perubahan-pola-angin-dan-tantangan-mitigasi-bencana-hidrometeorologi/?utm_source=rss&utm_medium=rss&utm_campaign=perubahan-pola-angin-dan-tantangan-mitigasi-bencana-hidrometeorologi",
    "pubDate": "Thu, 19 Nov 2026 23:30:49 +0000",
    "description": "<p>Oleh: A. Karsidi Perubahan pola pergerakan massa udara di wilayah Indonesia pada pertengahan November 2026 menjadi pengingat penting bahwa dinamika cuaca tidak hanya berkaitan dengan potensi hujan, tetapi juga menentukan kesiapan menghadapi bencana hidrometeorologi dan risiko kebakaran hutan serta lahan. Pengamat lingkungan dan cuaca A. Karsidi menjelaskan bahwa melemahnya aliran massa udara dari Australia dan [&#8230;]</p>\n<p>The post <a href=\"https://forestinsights.id/perubahan-pola-angin-d",
-   "fetched_at": "2026-11-21T21:10:37+07:00",
+   "fetched_at": "2026-11-22T01:21:49+07:00",
    "categories": [
     "bencana",
     "kebakaran"
@@ -80,50 +110,50 @@
    "content": "Oleh: A. Karsidi\n\nPerubahan pola pergerakan massa udara di wilayah Indonesia pada pertengahan November 2026 menjadi pengingat penting bahwa dinamika cuaca tidak hanya berkaitan dengan potensi hujan, tetapi juga menentukan kesiapan menghadapi bencana hidrometeorologi dan risiko kebakaran hutan serta lahan.\n\nPengamat lingkungan dan cuaca A. Karsidi menjelaskan bahwa melemahnya aliran massa udara dari Australia dan mulai masuknya massa udara basah dari kawasan Asia menunjukkan perubahan kondisi atmosfer yang perlu terus dipantau. Perubahan tersebut dapat memengaruhi distribusi curah hujan antardaerah, meskipun dampaknya belum tentu berlangsung secara seragam di seluruh wilayah Indonesia.\n\n“Wilayah Indonesia mulai mendapatkan asupan massa udara basah dari kawasan Asia, namun masih lemah,” tulis Karsidi dalam laporan pengamatan cuaca pada 19 November 2026.\n\nMenurut dia, pergerakan massa udara dari Australia melalui Indonesia bagian timur dan dari perairan barat Australia menuju selatan Jawa mulai melemah. Sementara itu, pusaran massa udara masih terpantau di perairan barat daya Sumatera dan sebelah timur Sri Lanka.\n\nKondisi tersebut menunjukkan bahwa perubahan pola angin belum secara otomatis menghasilkan peningkatan curah hujan secara merata. Faktor lokal, suhu permukaan laut, kelembapan atmosfer, dan pergerakan massa udara dari Samudra Hindia tetap berperan dalam menentukan pembentukan awan dan peluang hujan di berbagai wilayah.\n\n“Perubahan pola angin perlu dicermati secara berkelanjutan karena peningkatan pasokan massa udara basah tidak selalu menghasilkan hujan dengan intensitas dan sebaran yang sama di setiap wilayah,” demikian penilaian Karsidi.\n\nDinamika awan dan distribusi hujan\n\nBerdasarkan pengamatan citra satelit Himawari BMKG pada 19 November 2026 pukul 03.30, pertumbuhan awan teridentifikasi di perairan barat Sumatera, Sumatera Utara, Riau bagian utara, Jambi, sejumlah wilayah Lampung, Selat Karimata, Kalimantan Barat bagian timur, serta beberapa wilayah Papua.\n\nKarsidi menjelaskan bahwa potensi pertumbuhan awan hujan pada saat pengamatan lebih terlihat di wilayah Indonesia bagian barat, terutama akibat pengaruh massa udara dari Samudra Hindia.\n\n“Peluang hujan di wilayah Indonesia kemungkinan terjadi di wilayah yang dilintasi massa udara basah yang datang dari Samudra Hindia atau dari perairan selatan Jawa, dan pengaruh faktor lokal,” tulis Karsidi.\n\nHasil pemodelan potensi hujan tiga jam-an menggunakan Windy memperlihatkan bahwa pada pagi hari sebagian besar wilayah daratan Indonesia diprakirakan cerah, sementara hujan lebat berpotensi terjadi di pesisir barat Sumatera Barat dan perairan Kepulauan Mentawai.\n\nMemasuki siang hingga sore hari, peluang hujan diprakirakan meningkat di sejumlah wilayah Sumatera, Jawa, Kalimantan, Sulawesi, Maluku, dan Papua. Pada sore hari, hujan sedang hingga lebat berpotensi terjadi di Aceh, Sumatera Utara, Riau bagian utara, Sumatera Selatan, Lampung, Jawa, Kalimantan Barat, Sulawesi Selatan, dan Sulawesi Tengah.\n\nPada malam hari, hujan lebat diprakirakan terjadi di sejumlah wilayah, antara lain Sumatera Utara, Sumatera Selatan, Jawa Timur, Kalimantan Barat, Kalimantan Tengah, Kalimantan Utara, serta Papua bagian timur.\n\nMenurut Karsidi, perbedaan waktu dan intensitas hujan tersebut memperlihatkan pentingnya pemantauan cuaca secara berkala agar informasi prakiraan dapat dimanfaatkan sebagai dasar kesiapsiagaan, terutama di wilayah yang memiliki kerentanan terhadap banjir, tanah longsor, dan gangguan aktivitas masyarakat.\n\n“Informasi prakiraan cuaca harus diketahui impeknya apa serta diterjemahkan menjadi langkah antisipasi yang tepat sesuai kondisi wilayah, sehingga potensi bencana dapat dikenali dan ditangani sebelum menimbulkan dampak yang lebih besar,” ujarnya.\n\nKewaspadaan terhadap risiko kebakaran lahan\n\nSelain potensi hujan, Karsidi menyoroti pentingnya informasi mengenai tingkat kemudahan terbakarnya bahan bakar halus di permukaan tanah sebagai salah satu indikator kesiapsiagaan terhadap kebakaran hutan dan lahan.\n\nBerdasarkan sistem peringatan dini kebakaran hutan dan lahan atau Fire Danger Rating System (FDRS) BMKG pada 19 November 2026, indikator Fine Fuel Moisture Code (FFMC) menunjukkan sebagian besar wilayah Sumatera, Jawa hingga Nusa Tenggara Timur, Kalimantan Selatan, serta sejumlah wilayah Sulawesi, Halmahera, dan Papua berada pada kategori relatif aman atau tidak mudah terbakar.\n\nNamun, tingkat kemudahan terbakar kategori moderat masih teridentifikasi di ujung barat Sumatera Selatan, Kalimantan Tengah, Kalimantan Timur bagian selatan, Kalimantan Utara, pesisir timur Sulawesi Selatan, serta Sulawesi Tenggara.\n\nKarsidi menilai bahwa peningkatan peluang hujan tidak serta-merta menghilangkan risiko kebakaran hutan dan lahan di seluruh wilayah. Karena itu, informasi FDRS perlu digunakan sebagai salah satu dasar untuk menentukan prioritas patroli, pemantauan kondisi lahan, kesiapsiagaan personel, dan tindakan pencegahan kebakaran.\n\n“Potensi hujan tidak berarti seluruh wilayah telah terbebas dari risiko kebakaran. Pemantauan tingkat kemudahan terbakar harus tetap dilakukan, terutama pada kawasan yang memiliki kerentanan tinggi terhadap kekeringan dan kebakaran lahan,” kata Karsidi.\n\nKhusus pada ekosistem gambut, ia menekankan perlunya memperhatikan kondisi hidrologi, terutama tinggi muka air tanah, kelembapan gambut, serta riwayat kekeringan pada suatu kawasan. Indikator FFMC menggambarkan kemudahan terbakarnya bahan bakar halus di permukaan sehingga tidak dapat digunakan sebagai satu-satunya ukuran risiko kebakaran gambut yang dapat berlangsung di bawah permukaan tanah.\n\nMengintegrasikan informasi cuaca dengan kebijakan pencegahan\n\nKarsidi berpandangan bahwa pengamatan cuaca akan memberikan manfaat lebih besar apabila hasilnya terhubung dengan sistem pengambilan keputusan pemerintah pusat, pemerintah daerah, dunia usaha, dan masyarakat.\n\nMenurut dia, informasi pergerakan massa udara, pertumbuhan awan, prakiraan curah hujan, dan tingkat bahaya kebakaran tidak seharusnya berhenti sebagai laporan teknis, tetapi menjadi dasar penyusunan langkah mitigasi yang sesuai dengan karakteristik wilayah.\n\n“Keberhasilan mitigasi bencana tidak hanya ditentukan oleh ketepatan prakiraan cuaca, tetapi juga oleh kemampuan pemerintah dan para pemangku kepentingan untuk mengubah informasi ilmiah menjadi tindakan pencegahan yang cepat, tepat, dan terkoordinasi,” ujar Karsidi.\n\nDi kawasan rawan banjir dan tanah longsor, informasi prakiraan hujan perlu diintegrasikan dengan kondisi daerah aliran sungai, tutupan lahan, sistem drainase, serta kesiapan infrastruktur pengendali banjir.\n\nSementara itu, di kawasan rawan kebakaran hutan dan lahan, informasi cuaca dapat digunakan untuk memperkuat sistem peringatan dini, patroli terpadu, pengelolaan tata air gambut, serta koordinasi antara pemerintah, perusahaan, dan masyarakat peduli api.\n\nPendekatan tersebut penting karena perubahan kondisi cuaca dapat terjadi dalam waktu relatif singkat, sedangkan dampak bencana sering kali dipengaruhi oleh kerentanan lingkungan yang telah terbentuk dalam jangka panjang.\n\nMemperkuat kesiapsiagaan berbasis sains\n\nKarsidi juga menekankan pentingnya memperkuat sistem pemantauan cuaca yang mengintegrasikan data satelit, model atmosfer, pengamatan lapangan, serta informasi kondisi lingkungan setempat.\n\nPemanfaatan teknologi seperti citra satelit Himawari, pemantauan pergerakan massa udara, dan pemodelan curah hujan dapat membantu meningkatkan pemahaman mengenai perkembangan kondisi atmosfer. Namun, hasil pemodelan tetap harus dipahami sebagai prakiraan yang memiliki tingkat ketidakpastian.\n\n“Pemanfaatan teknologi pemantauan cuaca perlu disertai pembaruan data secara berkala dan verifikasi kondisi lapangan agar informasi yang dihasilkan benar-benar dapat mendukung pengambilan keputusan dan perlindungan masyarakat,” kata Karsidi.\n\nBagi sektor kehutanan, informasi tersebut juga relevan untuk mendukung pengelolaan lanskap berkelanjutan, perlindungan ekosistem gambut, pengendalian kebakaran hutan dan lahan, serta pencapaian target Indonesia’s FOLU Net Sink 2030.\n\nKe depan, Indonesia perlu terus memperkuat integrasi antara sistem pemantauan cuaca, pengelolaan risiko bencana, dan kebijakan lingkungan melalui kolaborasi pemerintah, lembaga penelitian, dunia usaha, serta masyarakat.\n\nPerubahan pola angin dan distribusi hujan merupakan fenomena alam yang tidak dapat dikendalikan. Namun, risiko dan dampaknya dapat dikurangi melalui pemanfaatan informasi ilmiah, perencanaan berbasis risiko, serta kesiapsiagaan yang dilakukan sebelum bencana terjadi.\n\nPada akhirnya, kualitas pengelolaan lingkungan tidak hanya tercermin dari kemampuan merespons bencana, tetapi juga dari keberhasilan mencegah kerugian melalui keputusan yang tepat, berbasis sains, dan berpihak pada keselamatan masyarakat serta keberlanjutan ekosistem.\n\n***\n\nThe post Perubahan Pola Angin dan Tantangan Mitigasi Bencana Hidrometeorologi appeared first on Forest Insights Indonesia ."
   },
   {
-   "source": "wartaekonomi",
-   "getter": "auto",
-   "title": "Pulihkan Ekosistem, 1.000 Pohon Ditanam di Gunung Masigit Kareumbi",
-   "link": "https://wartaekonomi.co.id/read649506/pulihkan-ekosistem-1000-pohon-ditanam-di-gunung-masigit-kareumbi",
-   "pubDate": "Sat, 21 Nov 2026 22:34:00 +0700",
-   "description": "Upaya pemulihan ekosistem hutan membutuhkan keterlibatan berbagai pihak, terutama untuk menjaga keberlanjutan kawasan hijau",
-   "fetched_at": "2026-11-21T21:10:27+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "full",
-   "content_chars": 3712,
-   "content": "Home / News / Daerah Pulihkan Ekosistem, 1.000 Pohon Ditanam di Gunung Masigit Kareumbi Sabtu, 21 November 2026, 22:34 WIB\n\nUpaya pemulihan ekosistem hutan membutuhkan keterlibatan berbagai pihak, terutama untuk menjaga keberlanjutan kawasan hijau dan mengurangi risiko kerusakan lingkungan.\n\nSalah satu langkah yang dilakukan adalah penanaman pohon sebagai bagian dari upaya memperbaiki kondisi kawasan hutan dan menjaga keseimbangan ekosistem.\n\nSebanyak 1.000 pohon ditanam di Kawasan Konservasi Taman Buru Gunung Masigit Kareumbi, Kabupaten Bandung. Penanaman yang berlangsung di Desa Leuwiliang dan Desa Tanjungwangi, Kecamatan Cicalengka, tersebut melibatkan anak-anak yatim, donatur, dan masyarakat melalui kegiatan bertajuk Jejak Kasih Ayah.\n\nKegiatan yang digelar Rumah Yatim bersama MyFundAction itu mengangkat isu pelestarian lingkungan sekaligus mendorong keterlibatan masyarakat dalam menjaga kawasan hutan. Keberadaan pohon memiliki peran penting dalam mempertahankan fungsi ekologis, menjaga tata air, memulihkan tutupan lahan, serta mendukung upaya mengurangi dampak degradasi hutan dan kebakaran hutan dan lahan (karhutla).\n\nPenanaman 1.000 pohon tersebut juga menjadi bagian dari edukasi lingkungan bagi anak-anak yatim. Bagi anak-anak yatim pohon menjadi simbol harapan bahwa setiap kehidupan memiliki kesempatan untuk tumbuh dan berkembang. Keterlibatan donatur pun merepresentasikan sosok ayah yang menghadirkan perhatian, perlindungan, dan dukungan melalui kepedulian yang diberikan.\n\nMelalui keterlibatan langsung, mereka diperkenalkan pada pentingnya menjaga kelestarian alam dan memahami bahwa pemulihan ekosistem membutuhkan tanggung jawab bersama dalam jangka panjang.\n\nDirektur Sosialisasi dan Penghimpunan Rumah Yatim, Sani Ramdani, mengatakan kepedulian terhadap lingkungan merupakan salah satu bentuk tanggung jawab yang manfaatnya dapat dirasakan oleh generasi mendatang.\n\n\"Kasih sayang dapat diwujudkan dalam banyak bentuk. Ada anak-anak yang menanam pohon sebagai simbol harapan masa depan, ada donatur yang menghadirkan kepedulian layaknya sosok ayah, dan ada tanggung jawab bersama untuk menjaga lingkungan. Apa yang kita tanam hari ini mungkin belum kita nikmati hasilnya, tetapi kelak dapat menjadi sumber kehidupan dan manfaat bagi banyak orang,” ungkapnya, Sabtu (21/11/2026).\n\nSelain penanaman pohon, kegiatan tersebut diisi dengan doa untuk negeri, penampilan kabaret Green Yatim dari Asrama Antapani, pembacaan puisi bertema ayah, serta edukasi lingkungan melalui sesi Eco-Briefing.\n\nMomentum Hari Ayah yang menjadi latar kegiatan turut dimaknai melalui pesan tentang kepedulian dan tanggung jawab terhadap masa depan. Penanaman pohon dipandang sebagai bentuk kontribusi lintas generasi karena manfaat ekologisnya tidak hanya dirasakan saat ini, tetapi juga dalam jangka panjang.\n\nMeski demikian, keberhasilan pemulihan kawasan hutan tidak cukup diukur dari jumlah bibit yang ditanam. Pemeliharaan, pemantauan pertumbuhan, serta tingkat kelangsungan hidup tanaman menjadi faktor penting untuk memastikan kegiatan penghijauan memberikan dampak ekologis secara berkelanjutan.\n\nKeterlibatan masyarakat dalam kegiatan konservasi juga diperlukan agar upaya menjaga kawasan hutan tidak berhenti pada kegiatan penanaman. Kesadaran untuk melindungi lingkungan perlu dibangun melalui edukasi dan partisipasi yang berlangsung secara konsisten.\n\nMelalui penanaman 1.000 pohon di Gunung Masigit Kareumbi, isu pemulihan ekosistem kembali menjadi perhatian. Upaya tersebut sekaligus menjadi bagian pelestarian lingkungan yang merupakan investasi jangka panjang danmembutuhkan partisipasi berbagai elemen masyarakat demi menjaga keberlanjutan sumber daya alam bagi generasi berikutnya."
-  },
-  {
-   "source": "inews",
-   "getter": "auto",
-   "title": "Pengelola Ungkap Kondisi saat Tugu Kunstkring Paleis Terbakar, Pastikan Gedung Kosong saat Api Muncul",
-   "link": "https://www.inews.id/news/megapolitan/pengelola-ungkap-kondisi-saat-tugu-kunstkring-paleis-terbakar-pastikan-gedung-kosong-saat-api-muncul",
-   "pubDate": "Sun, 22 Nov 2026 03:30:00 +0700",
-   "description": "Pengelola gedung Tugu Kunstkring Paleis menyebut gedung dalam keadaan tutup saat kebakaran terjadi dan memastikan tidak ada korban jiwa maupun luka.",
-   "fetched_at": "2026-11-21T21:10:21+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 148,
-   "content": "Pengelola gedung Tugu Kunstkring Paleis menyebut gedung dalam keadaan tutup saat kebakaran terjadi dan memastikan tidak ada korban jiwa maupun luka."
-  },
-  {
    "source": "republika",
    "getter": "auto",
-   "title": "Gubernur Banten Andra Soni Instruksikan Percepatan Penanganan Warga Badui Terdampak Kebakaran",
-   "link": "https://news.republika.co.id/berita/tova7d130000/gubernur-banten-andra-soni-instruksikan-percepatan-penanganan-warga-badui-terdampak-kebakaran",
-   "pubDate": "Sun, 22 Nov 2026 02:30:49 +0700",
-   "description": "REPUBLIKA.CO.ID, LEBAK, – Gubernur Banten Andra Soni menginstruksikan jajarannya untuk mempercepat penanganan warga Badui yang terdampak kebakaran di Kampung Cipaler Girang, Desa Kanekes, Kecamatan Leuwidamar, Kabupaten Lebak. Musibah yang...",
-   "fetched_at": "2026-11-21T21:10:20+07:00",
+   "title": "Kebakaran PT Fonusa di Cikande Belum Padam Basarnas Kerahkan Tim",
+   "link": "https://republika.co.id/page/shorts/yt-tovor1904574349/kebakaran-pt-fonusa-di-cikande-belum-padam-basarnas-kerahkan-tim",
+   "pubDate": "Sun, 22 Nov 2026 07:45:01 +0700",
+   "description": "Basarnas mengerahkan tim penyelamat untuk membantu proses evakuasi menyusul dugaan adanya korban jiwa yang terjebak dalam kebakaran pabrik di kawasan industri PT Fonusa Agung Mulia, Kabupaten Serang, Banten, Ahad...",
+   "fetched_at": "2026-11-22T01:21:21+07:00",
    "categories": [
-    "kebakaran",
-    "pemerintahan"
+    "kebakaran"
    ],
    "content_status": "partial",
-   "content_chars": 242,
-   "content": "REPUBLIKA.CO.ID, LEBAK, – Gubernur Banten Andra Soni menginstruksikan jajarannya untuk mempercepat penanganan warga Badui yang terdampak kebakaran di Kampung Cipaler Girang, Desa Kanekes, Kecamatan Leuwidamar, Kabupaten Lebak. Musibah yang..."
+   "content_chars": 215,
+   "content": "Basarnas mengerahkan tim penyelamat untuk membantu proses evakuasi menyusul dugaan adanya korban jiwa yang terjebak dalam kebakaran pabrik di kawasan industri PT Fonusa Agung Mulia, Kabupaten Serang, Banten, Ahad..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Kebakaran pabrik di Cikande, 16 karyawan dinyatakan selamat",
+   "link": "https://www.antaranews.com/berita/5870431/kebakaran-pabrik-di-cikande-16-karyawan-dinyatakan-selamat",
+   "pubDate": "Sun, 22 Nov 2026 07:39:01 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/22/1001164069.jpg\" align=\"left\" border=\"0\" />Pusat Pengendalian Operasi (Pusdalops) Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Serang mencatat sebanyak 16 ...",
+   "fetched_at": "2026-11-22T01:20:51+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 227,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/22/1001164069.jpg\" align=\"left\" border=\"0\" />Pusat Pengendalian Operasi (Pusdalops) Badan Penanggulangan Bencana Daerah (BPBD) Kabupaten Serang mencatat sebanyak 16 ..."
+  },
+  {
+   "source": "antara",
+   "getter": "getter2",
+   "title": "Basarnas kerahkan tim evakuasi korban kebakaran pabrik di Serang",
+   "link": "https://www.antaranews.com/berita/5870355/basarnas-kerahkan-tim-evakuasi-korban-kebakaran-pabrik-di-serang",
+   "pubDate": "Sun, 22 Nov 2026 04:30:30 +0700",
+   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/21/1001163508.jpg\" align=\"left\" border=\"0\" />Basarnas mengerahkan tim penyelamat untuk membantu proses evakuasi menyusul dugaan adanya korban jiwa yang terjebak ...",
+   "fetched_at": "2026-11-22T01:20:51+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 223,
+   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/21/1001163508.jpg\" align=\"left\" border=\"0\" />Basarnas mengerahkan tim penyelamat untuk membantu proses evakuasi menyusul dugaan adanya korban jiwa yang terjebak ..."
   }
  ]
 }
