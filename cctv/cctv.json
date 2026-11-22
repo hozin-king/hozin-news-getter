@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-22T09:51:51+07:00",
+ "updated_at": "2026-11-22T17:46:00+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3220,13 +3220,6 @@
    "logo": "https://raw.githubusercontent.com/hozin-king/hozin-news-getter/main/cctv/logos/bpjt.png",
    "kamera": [
     {
-     "nama": "MR STA 10",
-     "lokasi": "MR STA 10",
-     "stream": "https://cctv.ctptollways.com:2254/streams/cam_21/index.m3u8",
-     "lat": -6.206427,
-     "lon": 107.081255
-    },
-    {
      "nama": "MR STA 11",
      "lokasi": "MR STA 11",
      "stream": "https://cctv.ctptollways.com:2254/streams/cam_22/index.m3u8",
@@ -3246,13 +3239,6 @@
      "stream": "https://cctv.ctptollways.com:2254/streams/cam_24/index.m3u8",
      "lat": -6.181536,
      "lon": 107.071263
-    },
-    {
-     "nama": "MR STA 23",
-     "lokasi": "MR STA 23",
-     "stream": "https://cctv.ctptollways.com:2254/streams/cam_34/index.m3u8",
-     "lat": -6.112215,
-     "lon": 107.028939
     },
     {
      "nama": "MR STA 5",
@@ -3374,13 +3360,6 @@
      "lon": -6.9072386
     },
     {
-     "nama": "KM 260 JALUR A",
-     "lokasi": "KM 260 JALUR A",
-     "stream": "https://pptrlive.co.id/memfs/db727a06-dbbc-4124-aa8f-b0cc6bc5ca9f.m3u8",
-     "lat": -6.904499,
-     "lon": 108.9833
-    },
-    {
      "nama": "KM 260 JALUR B",
      "lokasi": "KM 260 JALUR B",
      "stream": "https://pptrlive.co.id/memfs/fe188de6-b336-4807-ace1-79f9d4ece915.m3u8",
@@ -3435,20 +3414,6 @@
      "stream": "https://pptrlive.co.id/memfs/d1b42cca-422e-4df6-a59a-3083d4ea7434.m3u8",
      "lat": -6.926089,
      "lon": 109.0969
-    },
-    {
-     "nama": "KM 274 JALUR B",
-     "lokasi": "KM 274 JALUR B",
-     "stream": "https://pptrlive.co.id/memfs/f0a96354-8aed-41b0-a3cd-441029a47090.m3u8",
-     "lat": 1.090970595,
-     "lon": -6.925904
-    },
-    {
-     "nama": "KM 306 + 700 JALUR A",
-     "lokasi": "KM 306 + 700 JALUR A",
-     "stream": "https://pptrlive.co.id/memfs/2489b488-da4c-45cb-922f-215c8b01ace0.m3u8",
-     "lat": -6.934058,
-     "lon": 109.3863
     },
     {
      "nama": "KM 306 + 700 JALUR B",
