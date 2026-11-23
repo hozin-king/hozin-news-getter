@@ -1,6 +1,24 @@
 {
- "updated_at": "2026-11-23T17:12:04+07:00",
+ "updated_at": "2026-11-24T05:29:53+07:00",
  "category": "korupsi",
- "count": 0,
- "articles": []
+ "count": 1,
+ "articles": [
+  {
+   "source": "jpnn",
+   "getter": "auto",
+   "title": "Eks Bupati Pekalongan Fadia Arafiq Divonis 4 Tahun Penjara",
+   "link": "https://jateng.jpnn.com/kriminal/21742/eks-bupati-pekalongan-fadia-arafiq-divonis-4-tahun-penjara",
+   "pubDate": "Mon, 23 Nov 2026 17:45:00 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/jatim/news/normal/2026/07/23/bupati-non-aktif-pekalongan-fadia-arafiq-saat-menjalani-sida-2al9.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jateng.jpnn.com</strong>, SEMARANG - Mantan Bupati Pekalongan <a title=\"Semua artikel tentang Fadia Arafiq\" href=\"https://jateng.jpnn.com/tag/fadia-arafiq\">Fadia Arafiq</a> harus menjalani hukuman empat tahun penjara setelah majelis hakim Pengadilan Tindak Pidana Korupsi (Tipikor) Semarang menyatakan di",
+   "fetched_at": "2026-11-23T11:22:01+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 500,
+   "content": "<img src=\"https://cloud.jpnn.com/photo/jatim/news/normal/2026/07/23/bupati-non-aktif-pekalongan-fadia-arafiq-saat-menjalani-sida-2al9.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jateng.jpnn.com</strong>, SEMARANG - Mantan Bupati Pekalongan <a title=\"Semua artikel tentang Fadia Arafiq\" href=\"https://jateng.jpnn.com/tag/fadia-arafiq\">Fadia Arafiq</a> harus menjalani hukuman empat tahun penjara setelah majelis hakim Pengadilan Tindak Pidana Korupsi (Tipikor) Semarang menyatakan di"
+  }
+ ]
 }
