@@ -1,8 +1,39 @@
 {
- "updated_at": "2026-11-24T13:42:27+07:00",
+ "updated_at": "2026-11-25T01:36:34+07:00",
  "category": "kebakaran",
- "count": 6,
+ "count": 4,
  "articles": [
+  {
+   "source": "pesisirselatankab",
+   "getter": "auto",
+   "title": "Berjibaku Hingga Dini Hari, Damkar Tapan Berhasil Atasi Api",
+   "link": "https://pesisirselatankab.go.id/berita/berjibaku-hingga-dini-hari-damkar-tapan-berhasil-atasi-api",
+   "pubDate": "Tue, 24 Nov 2026 06:22:25 +0700",
+   "description": "Keheningan larut malam di Kampung Tegal Sari, Nagari Lunang Satu, Kecamatan Lunang, mendadak pecah oleh kobaran api pada Senin (23/11/2026) menjelang tengah malam. Si jago merah melalap sebuah bengkel las milik warga lanjut usia, Suratno (76), memicu kekhawatiran warga sekitar akan potensi rambatan…",
+   "fetched_at": "2026-11-24T06:51:45+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 300,
+   "content": "Keheningan larut malam di Kampung Tegal Sari, Nagari Lunang Satu, Kecamatan Lunang, mendadak pecah oleh kobaran api pada Senin (23/11/2026) menjelang tengah malam. Si jago merah melalap sebuah bengkel las milik warga lanjut usia, Suratno (76), memicu kekhawatiran warga sekitar akan potensi rambatan…"
+  },
+  {
+   "source": "pesisirselatankab",
+   "getter": "auto",
+   "title": "Bukan Kebakaran, Kali Ini Munsang di Loteng Rumah Dinas Wakil Bupati Jadi Sasaran Evakuasi Damkar",
+   "link": "https://pesisirselatankab.go.id/berita/bukan-kebakaran-kali-ini-munsang-di-loteng-rumah-dinas-wakil-bupati-jadi-sasaran-evakuasi-damkar",
+   "pubDate": "Tue, 24 Nov 2026 05:52:52 +0700",
+   "description": "Tidak semua panggilan darurat datang bersama kobaran api. Ada kalanya, gangguan justru muncul dari tempat yang tak terduga, seperti seekor munsang yang berkeliaran di atas loteng Rumah Dinas Wakil Bupati Kabupaten Pesisir Selatan. Kehadirannya membuat penghuni rumah merasa resah hingga bantuan…",
+   "fetched_at": "2026-11-24T06:51:45+07:00",
+   "categories": [
+    "kebakaran",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 295,
+   "content": "Tidak semua panggilan darurat datang bersama kobaran api. Ada kalanya, gangguan justru muncul dari tempat yang tak terduga, seperti seekor munsang yang berkeliaran di atas loteng Rumah Dinas Wakil Bupati Kabupaten Pesisir Selatan. Kehadirannya membuat penghuni rumah merasa resah hingga bantuan…"
+  },
   {
    "source": "pesisirselatankab",
    "getter": "auto",
@@ -10,7 +41,7 @@
    "link": "https://pesisirselatankab.go.id/berita/damkar-cegah-api-merembet-dua-rumah-permanen-selamat",
    "pubDate": "Mon, 23 Nov 2026 19:08:35 +0700",
    "description": "Kepulan asap yang membumbung dari bagian belakang rumah warga di Kampung Tanjung Gadang, Sungai Liku Tengah, Nagari Sungai Liku Pelangi, Kecamatan Ranah Pesisir, sempat memicu kepanikan warga sekitar pada Senin (23/11/2026) siang. Api dilaporkan mulai membakar bagian dapur dan gudang milik seorang…",
-   "fetched_at": "2026-11-23T22:52:48+07:00",
+   "fetched_at": "2026-11-24T06:51:45+07:00",
    "categories": [
     "kebakaran"
    ],
@@ -25,7 +56,7 @@
    "link": "https://www.unas.ac.id/berita/indonesia-menjaga-keseimbangan-di-tengah-badai/",
    "pubDate": "Mon, 23 Nov 2026 03:50:50 +0000",
    "description": "*Robi Nurhadi, PhDDosen Hubungan Internasional, FISIP Universitas Nasional* Dalam dua minggu terakhir, nama Indonesia muncul di hampir semua pemberitaan internasional.",
-   "fetched_at": "2026-11-23T22:52:37+07:00",
+   "fetched_at": "2026-11-24T06:51:35+07:00",
    "categories": [
     "hukum-kriminal",
     "kebakaran",
@@ -34,66 +65,6 @@
    "content_status": "full",
    "content_chars": 7195,
    "content": "Dalam dua minggu terakhir, nama Indonesia muncul di hampir semua pemberitaan internasional. Bukan karena satu peristiwa, melainkan karena beberapa peristiwa yang terjadi bersamaan: KTT APEC di Shenzhen, kemitraan ekonomi dengan Uni Eropa, persoalan kabut asap lintas batas, hingga dinamika politik dalam negeri.\n\nRangkaian ini mudah dibaca sebagai tanda kerapuhan. Saya justru membacanya sebagai cermin dari apa yang dalam Hubungan Internasional disebut sebagai middle power: sedang belajar menyeimbangkan diri. Konsep middle power_ini dikembangkan oleh Andrew F. Cooper (1997) dalam bukunya _Niche Diplomacy: Middle Powers after the Cold War, yang menjelaskan bahwa negara menengah tidak mengandalkan kekuatan militer, melainkan diplomasi, mediasi, dan pembangunan koalisi.\n\nIndonesia adalah negara seperti itu: populasi keempat terbesar di dunia, ekonomi terbesar di Asia Tenggara, dan posisi geografis yang membuat setiap langkahnya diperhatikan.\n\nPada 19-20 November 2026, Presiden Prabowo Subianto menghadiri KTT APEC ke-33 di Shenzhen. Dalam pertemuan itu, Indonesia dan Tiongkok menyepakati empat kemitraan strategis senilai 71,8 miliar dolar AS, termasuk pengembangan 10 kota pintar dan kerja sama konversi batu bara menjadi etanol (Sekretariat Presiden, 2026). Sehari kemudian, 35 kesepakatan bisnis baru senilai 15 miliar dolar AS disepakati, termasuk di bidang pusat data dan energi terbarukan (Reuters, 2026).\n\nDi saat yang sama, Indonesia dan Tiongkok mengumumkan dimulainya negosiasi Kemitraan Ekonomi Komprehensif (Xinhua, 2026).\n\nSebagian pengamat Barat membaca ini sebagai condong ke Tiongkok. Pembacaan itu terlalu sederhana. Dalam teori hedging yang dikembangkan oleh Evelyn Goh (2005) dalam bukunya Meeting the China Challenge: The U.S. in Southeast Asian Regional Security Strategies, negara menengah justru membangun hubungan dengan semua pihak untuk memperbesar ruang geraknya dan mengurangi ketergantungan pada satu pihak.\n\nBuktinya, pada saat yang sama Indonesia juga menyelesaikan Kemitraan Ekonomi Komprehensif dengan Uni Eropa (IEU-CEPA), yang ditandatangani pada 21 November 2026 (Kementerian Luar Negeri, 2026). Jika kerja sama dengan Tiongkok membuka akses investasi, kerja sama dengan Uni Eropa membuka akses pasar. Keduanya bukan pertentangan, melainkan pelengkap.\n\nJika Shenzhen menunjukkan ambisi Indonesia di luar, kabut asap menunjukkan pekerjaan rumah di dalam. Kebakaran hutan dan lahan tahun 2026 disebut sebagai yang terparah dalam 11 tahun terakhir, diperburuk oleh El Niño terkuat dalam empat dekade (Kementerian Lingkungan Hidup dan Kehutanan, 2026). Asapnya menyeberang ke Singapura dan Malaysia, menutup sekolah dan mengganggu penerbangan.\n\nPada KTT ASEAN ke-49 di Manila, 15 November 2026, Presiden Prabowo menyampaikan permintaan maaf kepada Singapura dan Malaysia, dan menyampaikan bahwa 17 konsesi perusahaan telah dicabut dan 26 lainnya sedang diselidiki (Sekretariat Presiden, 2026).\n\nPersoalan ini menunjukkan apa yang disebut Robert O. Keohane dan Joseph S. Nye (1977) dalam bukunya Power and Interdependence sebagai environmental interdependence: masalah lingkungan tidak mengenal kedaulatan. Asap dari satu negara akan menjadi masalah bagi negara lain, dan pada akhirnya kembali menjadi masalah bagi negara asalnya dalam bentuk rusaknya citra dan turunnya kepercayaan.\n\nPerjanjian ASEAN tentang Pencemaran Asap Lintas Batas sejak 2003 belum memiliki mekanisme penegakan yang kuat. Karena itu, persoalan kabut asap bukan hanya persoalan lingkungan, tetapi persoalan kepercayaan. Dan kepercayaan adalah mata uang terpenting dalam hubungan internasional.\n\nDi dalam negeri, Indonesia juga mengalami dinamika yang tidak ringan. Pada awal November 2026, publik dikejutkan oleh pengungkapan kasus dugaan penyadapan ilegal terhadap Presiden Prabowo, yang berujung pada penetapan beberapa perwira tinggi Polri sebagai tersangka (Bareskrim Polri, 2026). Pada saat yang hampir bersamaan, TNI mengerahkan 20.980 personel ke Jakarta dalam rangka kesiapsiagaan (Mabes TNI, 2026). Pada 12 November, Wakil Presiden Gibran Rakabuming Raka mengajukan pengunduran diri, dan MPR dijadwalkan memilih wakil presiden pengganti dalam kurun waktu yang telah ditentukan (Sekretariat MPR, 2026).\n\nRangkaian ini mudah dibaca sebagai krisis. Namun, ada cara lain untuk membacanya. Dalam teori democratic consolidation yang dikembangkan oleh Juan J. Linz dan Alfred Stepan (1996) dalam bukunya Problems of Democratic Transition and Consolidation, demokrasi yang matang bukan demokrasi yang tidak pernah mengalami krisis, melainkan demokrasi yang mampu menyelesaikan krisis melalui lembaga, bukan melalui kekerasan.\n\nFakta bahwa kasus penyadapan diproses melalui jalur hukum, dan kekosongan jabatan wakil presiden diselesaikan melalui mekanisme MPR, menunjukkan Indonesia masih bekerja melalui jalurnya.\n\nTentu, proses ini ada harganya. Rupiah melemah hingga Rp18.245 per dolar AS pada 17 November 2026, dan Bank Indonesia menaikkan suku bunga acuan menjadi 6% untuk menjaga stabilitas (Bank Indonesia, 2026). Dana asing sempat keluar dari pasar saham sebesar 900 juta dolar AS pada kuartal IV 2026 (Bank Indonesia, 2026).\n\nTetapi, pada 19 November 2026, DPR mengesahkan Undang-Undang Perampasan Aset setelah dibahas cukup lama (DPR RI, 2026). Ini adalah langkah penting untuk memperkuat pemberantasan korupsi.\n\nJika kita menarik benang merah dari semua peristiwa ini, kita menemukan satu pelajaran: di dunia yang saling terhubung, tidak ada lagi persoalan dalam negeri yang murni dalam negeri, dan tidak ada lagi persoalan luar negeri yang murni luar negeri.\n\nKabut asap dari Kalimantan menjadi persoalan di Singapura. Perekrutan tentara bayaran di Moskow — yang berujung pada penangkapan seorang warga negara Indonesia berusia 49 tahun asal Blitar oleh otoritas Ukraina (Kementerian Luar Negeri, 2026) — menjadi persoalan di Jakarta. Krisis politik di Jakarta menjadi persoalan bagi investor di New York dan Singapura.\n\nKarena itu, strategi terbaik bagi Indonesia bukan memilih satu blok, melainkan menjaga keseimbangan. Keseimbangan antara Tiongkok dan Uni Eropa. Keseimbangan antara ambisi global dan pekerjaan rumah. Keseimbangan antara pertumbuhan ekonomi dan kelestarian lingkungan.\n\nIndonesia tidak perlu menjadi sempurna untuk dihormati dunia. Indonesia hanya perlu menjadi jujur, konsisten, dan mau memperbaiki diri. Karena pada akhirnya, dalam hubungan internasional, seperti dalam kehidupan, yang paling dihormati bukanlah yang tidak pernah salah, melainkan yang berani mengakui kesalahan dan berani memperbaikinya. (***)\n\n*Robi Nurhadi, PhDDosen Hubungan Internasional, FISIP Universitas Nasional* Bagikan :\n\nJAKARTA (UNAS) – Program Studi Ilmu Komunikasi Fakultas Ilmu Sosial dan Ilmu Politik (FISIP) Universitas Nasional (UNAS) memperluas jejaring kerja\n\nFilm pendek Nis’Kala karya mahasiswa Universitas Nasional meraih medali emas pada ajang DICE 4.0 di Malaysia dengan mengangkat tema pelestarian warisan bahasa Indonesia.\n\n*Robi Nurhadi, PhDDosen Hubungan Internasional, FISIP Universitas Nasional* Dalam dua minggu terakhir, nama Indonesia muncul di hampir semua pemberitaan internasional.\n\nTelp: (021) 7806700Faks: (021) 7802718Email: info@unas.ac.id"
-  },
-  {
-   "source": "muhammadiyah",
-   "getter": "auto",
-   "title": "Kebakaran Hanguskan 23 Rumah di Baduy, Muhammadiyah Salurkan Bantuan Kemanusiaan",
-   "link": "https://muhammadiyah.or.id/2026/11/kebakaran-hanguskan-23-rumah-di-baduy-muhammadiyah-salurkan-bantuan-kemanusiaan/",
-   "pubDate": "Mon, 23 Nov 2026 07:35:04 +0000",
-   "description": "<p>MUHAMMADIYAH.OR.ID, BANTEN – Kebakaran yang melanda Kampung Cipaler Girang, Desa Kanekes, Kecamatan Leuwidamar, Kabupaten Lebak, Banten, pada Kamis (19/11) tengah malam menyisakan duka bagi warga adat Baduy. Puluhan rumah hangus terbakar dalam peristiwa tersebut. Beruntung, tidak ada korban jiwa dilaporkan. Berdasarkan laporan kaji cepat sementara Badan Penanggulangan Bencana Daerah (BPBD) Provinsi Banten yang dikutip dari [&#8230;]</p>\n<p>The post <a href=\"https://muhammadiyah.or.id/2026/11/",
-   "fetched_at": "2026-11-23T22:52:12+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "<p>MUHAMMADIYAH.OR.ID, BANTEN – Kebakaran yang melanda Kampung Cipaler Girang, Desa Kanekes, Kecamatan Leuwidamar, Kabupaten Lebak, Banten, pada Kamis (19/11) tengah malam menyisakan duka bagi warga adat Baduy. Puluhan rumah hangus terbakar dalam peristiwa tersebut. Beruntung, tidak ada korban jiwa dilaporkan. Berdasarkan laporan kaji cepat sementara Badan Penanggulangan Bencana Daerah (BPBD) Provinsi Banten yang dikutip dari [&#8230;]</p>\n<p>The post <a href=\"https://muhammadiyah.or.id/2026/11/"
-  },
-  {
-   "source": "wartaekonomi",
-   "getter": "auto",
-   "title": "Kebakaran Pabrik Permen Cikande Diduga Akibat Korsleting AC, Said Iqbal Minta Polisi Selidiki Dugaan Pelanggaran K3",
-   "link": "https://wartaekonomi.co.id/read649910/kebakaran-pabrik-permen-cikande-diduga-akibat-korsleting-ac-said-iqbal-minta-polisi-selidiki-dugaan-pelanggaran-k3",
-   "pubDate": "Tue, 24 Nov 2026 03:30:00 +0700",
-   "description": "Penasihat Khusus Presiden Said Iqbal mengaku belum memperoleh gambaran lengkap mengenai kronologi kejadian karena baru tiba di lokasi.",
-   "fetched_at": "2026-11-23T22:52:08+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 134,
-   "content": "Penasihat Khusus Presiden Said Iqbal mengaku belum memperoleh gambaran lengkap mengenai kronologi kejadian karena baru tiba di lokasi."
-  },
-  {
-   "source": "jpnn",
-   "getter": "auto",
-   "title": "Dea Puspita Korban Kebakaran Pabrik Permen di Cikande, Undangan Pernikahannya Sudah Dicetak",
-   "link": "https://www.jpnn.com/news/dea-puspita-korban-kebakaran-pabrik-permen-di-cikande-undangan-pernikahannya-sudah-dicetak",
-   "pubDate": "Tue, 24 Nov 2026 05:12:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/11/24/mahpudin-ayah-kandung-dea-puspita-menunjukkan-undangan-perni-2mpz.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong> - TANGERANG &ndash; Dea Puspita (23), karyawan PT Fonusa Agung Mulia (<a href=\"https://www.jpnn.com/tag/fam\" title=\"Semua artikel tentang FAM\">FAM</a>), hingga Senin (23/11) kemarin belum ditemukan.",
-   "fetched_at": "2026-11-23T22:52:03+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 407,
-   "content": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/11/24/mahpudin-ayah-kandung-dea-puspita-menunjukkan-undangan-perni-2mpz.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong> - TANGERANG &ndash; Dea Puspita (23), karyawan PT Fonusa Agung Mulia (<a href=\"https://www.jpnn.com/tag/fam\" title=\"Semua artikel tentang FAM\">FAM</a>), hingga Senin (23/11) kemarin belum ditemukan."
-  },
-  {
-   "source": "katadata",
-   "getter": "auto",
-   "title": "Ahli Waris Korban Kebakaran Pabrik Milkita Akan Dapat Santunan 48 Kali Upah",
-   "link": "https://katadata.co.id/berita/industri/6b043b58a548d/ahli-waris-korban-kebakaran-pabrik-milkita-akan-dapat-santunan-48-kali-upah",
-   "pubDate": "Mon, 23 Nov 2026 20:10:00 +0700",
-   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/11/22/2026_11_22-11_01_00_3b537e8e-e649-11f1-a46b-0242ac120005_620x413_thumb.jpg\" alt=\"Kebakaran pabrik permen di Kabupaten Serang\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Ahli waris pekerja yang meninggal akibat kebakaran pabrik Milkita berhak mendapat santunan JKK 48 kali upah hingga beasiswa pendidikan anak maksimal Rp 174 juta.</p>",
-   "fetched_at": "2026-11-23T22:51:59+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 416,
-   "content": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2026/11/22/2026_11_22-11_01_00_3b537e8e-e649-11f1-a46b-0242ac120005_620x413_thumb.jpg\" alt=\"Kebakaran pabrik permen di Kabupaten Serang\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>Ahli waris pekerja yang meninggal akibat kebakaran pabrik Milkita berhak mendapat santunan JKK 48 kali upah hingga beasiswa pendidikan anak maksimal Rp 174 juta.</p>"
   }
  ]
 }
