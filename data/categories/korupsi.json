@@ -1,56 +1,69 @@
 {
- "updated_at": "2026-11-25T19:02:11+07:00",
+ "updated_at": "2026-11-26T04:35:47+07:00",
  "category": "korupsi",
- "count": 3,
+ "count": 4,
  "articles": [
   {
-   "source": "fajar",
+   "source": "cnbcindonesia",
    "getter": "auto",
-   "title": "Dugaan Korupsi Internet Rp2 M Diskominfo Barru, Kejari Geledah Kantor Telkom dan Desnet Makassar",
-   "link": "https://fajar.co.id/2026/11/25/dugaan-korupsi-internet-rp2-m-diskominfo-barru-kejari-geledah-kantor-telkom-dan-desnet-makassar/",
-   "pubDate": "Wed, 25 Nov 2026 10:53:48 +0000",
-   "description": "FAJAR.CO.ID, MAKASSAR &#8212; Kantor PT Telekomunikasi (Telkom) Indonesia Witel Parepare digeledah tim penyidik Seksi Pidana...",
-   "fetched_at": "2026-11-25T11:51:42+07:00",
+   "title": "Dilelang! Intip Penampakan Tas Mewah hingga Ducati Noel Sitaan KPK",
+   "link": "https://www.cnbcindonesia.com/news/20261125135003-7-788357/dilelang-intip-penampakan-tas-mewah-hingga-ducati-noel-sitaan-kpk",
+   "pubDate": "Wed, 25 Nov 2026 21:20:00 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/25/kpk-menggelar-lelang-barang-rampasan-kasus-korupsi-dalam-rangka-memperingati-hari-antikorupsi-sedunia-hakordia-2026-di-jakarta-1795590608686_169.jpeg?w=1200&amp;q=90\"/> KPK melelang barang rampasan kasus korupsi, termasuk tas mewah, perhiasan, mobil, dan motor Ducati milik Noel, melalui lelang.go.id.",
+   "fetched_at": "2026-11-25T21:22:40+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 200,
+   "content": "Dilelang! Intip Penampakan Tas Mewah hingga Ducati Noel Sitaan KPK\n\nKPK melelang barang rampasan kasus korupsi, termasuk tas mewah, perhiasan, mobil, dan motor Ducati milik Noel, melalui lelang.go.id."
+  },
+  {
+   "source": "wartaekonomi",
+   "getter": "auto",
+   "title": "Catatan Harta Amran dan Sugiono 'Bersih', Diharap Tak Punya Beban pada Pemberantasan Korupsi",
+   "link": "https://wartaekonomi.co.id/read650498/catatan-harta-amran-dan-sugiono-bersih-diharap-tak-punya-beban-pada-pemberantasan-korupsi",
+   "pubDate": "Thu, 26 Nov 2026 03:30:00 +0700",
+   "description": "Ketua KPK menilai dukungan Wakil Presiden terhadap pemberantasan korupsi dapat membantu meningkatkan efektivitas kerja KPK.",
+   "fetched_at": "2026-11-25T21:21:55+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 123,
+   "content": "Ketua KPK menilai dukungan Wakil Presiden terhadap pemberantasan korupsi dapat membantu meningkatkan efektivitas kerja KPK."
+  },
+  {
+   "source": "sindonews",
+   "getter": "auto",
+   "title": "Kejagung Sita Rp55,8 Miliar dan Emas 37,8 Kg terkait Kasus TPPU Tambang Arif Kurniawan",
+   "link": "https://nasional.sindonews.com/read/1776333/13/kejagung-sita-rp558-miliar-dan-emas-378-kg-terkait-kasus-tppu-tambang-arif-kurniawan-1795619510",
+   "pubDate": "Wed, 25 Nov 2026 22:44:11 +0700",
+   "description": "Kejaksaan Agung (Kejagung) menyita uang tunai senilai Rp55,8 miliar dan emas batangan seberat 37,8 kilogram dalam pengembangan penyidikan kasus dugaan tindak pidana pencucian uang (TPPU) tata kelola usaha pertambangan nikel di Sulawesi Tenggara periode 2013-2025.",
+   "fetched_at": "2026-11-25T21:21:47+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 263,
+   "content": "Kejaksaan Agung (Kejagung) menyita uang tunai senilai Rp55,8 miliar dan emas batangan seberat 37,8 kilogram dalam pengembangan penyidikan kasus dugaan tindak pidana pencucian uang (TPPU) tata kelola usaha pertambangan nikel di Sulawesi Tenggara periode 2013-2025."
+  },
+  {
+   "source": "republika",
+   "getter": "auto",
+   "title": "Polisi Tunggu Audit BPK untuk Tetapkan Tersangka Korupsi Seragam Sekolah di Gowa",
+   "link": "https://news.republika.co.id/berita/tp2tpf1330000/polisi-tunggu-audit-bpk-untuk-tetapkan-tersangka-korupsi-seragam-sekolah-di-gowa",
+   "pubDate": "Thu, 26 Nov 2026 04:15:15 +0700",
+   "description": "REPUBLIKA.CO.ID, MAKASSAR, – Penyidik Subdit Tindak Pidana Korupsi (Tipidkor) Polda Sulawesi Selatan masih menunggu hasil audit perhitungan kerugian negara dari Badan Pemeriksa Keuangan (BPK) RI. Penantian ini berkaitan dengan...",
+   "fetched_at": "2026-11-25T21:21:46+07:00",
    "categories": [
     "hukum-kriminal",
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 127,
-   "content": "FAJAR.CO.ID, MAKASSAR &#8212; Kantor PT Telekomunikasi (Telkom) Indonesia Witel Parepare digeledah tim penyidik Seksi Pidana..."
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Demo AKM, Tuntut Kejari dan DPRD Kabupaten Malang Usut Korupsi Pasar Karangploso",
-   "link": "https://beritajatim.com/demo-akm-tuntut-kejari-dan-dprd-kabupaten-malang-usut-korupsi-pasar-karangploso",
-   "pubDate": "Wed, 25 Nov 2026 11:21:50 +0000",
-   "description": "<a href=\"https://beritajatim.com/demo-akm-tuntut-kejari-dan-dprd-kabupaten-malang-usut-korupsi-pasar-karangploso\" title=\"Demo AKM, Tuntut Kejari dan DPRD Kabupaten Malang Usut Korupsi Pasar Karangploso\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://beritajatim.com/wp-content/uploads/2026/11/DPRD-malang.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async",
-   "fetched_at": "2026-11-25T11:51:38+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "<a href=\"https://beritajatim.com/demo-akm-tuntut-kejari-dan-dprd-kabupaten-malang-usut-korupsi-pasar-karangploso\" title=\"Demo AKM, Tuntut Kejari dan DPRD Kabupaten Malang Usut Korupsi Pasar Karangploso\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://beritajatim.com/wp-content/uploads/2026/11/DPRD-malang.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async"
-  },
-  {
-   "source": "katadata",
-   "getter": "auto",
-   "title": "Tim MPR Sambangi KPK, Verifikasi Data LHKPN Calon Wapres",
-   "link": "https://katadata.co.id/berita/nasional/6b06c3aa86abb/tim-mpr-sambangi-kpk-verifikasi-data-lhkpn-calon-wapres",
-   "pubDate": "Wed, 25 Nov 2026 18:16:00 +0700",
-   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2019/06/13/2019_06_13-12_59_45_5be1fe5c8aba7716c3e6b18cfcb105aa_620x413_thumb.jpg\" alt=\"Gedung KPK\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>MPR memverifikasi data Calon Wakil Presiden Amran Sulaiman dan Sugiono ke KPK, termasuk LHKPN serta ada tidaknya laporan masyarakat.</p>",
-   "fetched_at": "2026-11-25T11:51:32+07:00",
-   "categories": [
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 350,
-   "content": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2019/06/13/2019_06_13-12_59_45_5be1fe5c8aba7716c3e6b18cfcb105aa_620x413_thumb.jpg\" alt=\"Gedung KPK\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>MPR memverifikasi data Calon Wakil Presiden Amran Sulaiman dan Sugiono ke KPK, termasuk LHKPN serta ada tidaknya laporan masyarakat.</p>"
+   "content_chars": 229,
+   "content": "REPUBLIKA.CO.ID, MAKASSAR, – Penyidik Subdit Tindak Pidana Korupsi (Tipidkor) Polda Sulawesi Selatan masih menunggu hasil audit perhitungan kerugian negara dari Badan Pemeriksa Keuangan (BPK) RI. Penantian ini berkaitan dengan..."
   }
  ]
 }
