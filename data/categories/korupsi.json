@@ -1,88 +1,23 @@
 {
- "updated_at": "2026-11-25T01:36:34+07:00",
+ "updated_at": "2026-11-25T09:56:23+07:00",
  "category": "korupsi",
- "count": 5,
+ "count": 1,
  "articles": [
   {
-   "source": "antarafoto",
+   "source": "inews",
    "getter": "auto",
-   "title": "Sidang perdana kasus suap Bupati Langkat nonaktif",
-   "link": "https://www.antarafoto.com/id/view/2913107/sidang-perdana-kasus-suap-bupati-langkat-nonaktif",
-   "pubDate": "Tue, 24 Nov 2026 13:50:01 +0700",
-   "description": "Terdakwa kasus suap pengaturan proyek serta mutasi jabatan Syah Afandin (kanan) menjalani sidang perdana di Pengadilan Negeri Medan, Sumatera Utara, Selasa (24/11/2026). Sidang perdana tersebut beragendakan pembacaan dakwaan kepada Bupati Langkat nonaktif Syah Afandin perihal suap dan gratifikasi sebesar Rp3,6 miliar terkait pengaturan proyek serta mutasi jabatan. ANTARA FOTO/Yudi Manar/YU",
-   "fetched_at": "2026-11-24T06:51:32+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 392,
-   "content": "Terdakwa kasus suap pengaturan proyek serta mutasi jabatan Syah Afandin (kanan) menjalani sidang perdana di Pengadilan Negeri Medan, Sumatera Utara, Selasa (24/11/2026). Sidang perdana tersebut beragendakan pembacaan dakwaan kepada Bupati Langkat nonaktif Syah Afandin perihal suap dan gratifikasi sebesar Rp3,6 miliar terkait pengaturan proyek serta mutasi jabatan. ANTARA FOTO/Yudi Manar/YU"
-  },
-  {
-   "source": "antarafoto",
-   "getter": "auto",
-   "title": "Sidang perdana kasus suap Bupati Langkat nonaktif",
-   "link": "https://www.antarafoto.com/id/view/2913087/sidang-perdana-kasus-suap-bupati-langkat-nonaktif",
-   "pubDate": "Tue, 24 Nov 2026 13:50:01 +0700",
-   "description": "Terdakwa kasus suap pengaturan proyek serta mutasi jabatan Syah Afandin menjalani sidang perdana di Pengadilan Negeri Medan, Sumatera Utara, Selasa (24/11/2026). Sidang perdana tersebut beragendakan pembacaan dakwaan kepada Bupati Langkat nonaktif Syah Afandin perihal suap dan gratifikasi sebesar Rp3,6 miliar terkait pengaturan proyek serta mutasi jabatan. ANTARA FOTO/Yudi Manar/YU",
-   "fetched_at": "2026-11-24T06:51:32+07:00",
-   "categories": [
-    "hukum-kriminal",
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 384,
-   "content": "Terdakwa kasus suap pengaturan proyek serta mutasi jabatan Syah Afandin menjalani sidang perdana di Pengadilan Negeri Medan, Sumatera Utara, Selasa (24/11/2026). Sidang perdana tersebut beragendakan pembacaan dakwaan kepada Bupati Langkat nonaktif Syah Afandin perihal suap dan gratifikasi sebesar Rp3,6 miliar terkait pengaturan proyek serta mutasi jabatan. ANTARA FOTO/Yudi Manar/YU"
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Ketua DPRD Surabaya Bantah Isu Aliran Dana Korupsi KBS, Sebut Honor Narasumber Sesuai Aturan",
-   "link": "https://beritajatim.com/ketua-dprd-surabaya-bantah-isu-aliran-dana-korupsi-kbs-sebut-honor-narasumber-sesuai-aturan",
-   "pubDate": "Tue, 24 Nov 2026 06:46:12 +0000",
-   "description": "<a href=\"https://beritajatim.com/ketua-dprd-surabaya-bantah-isu-aliran-dana-korupsi-kbs-sebut-honor-narasumber-sesuai-aturan\" title=\"Ketua DPRD Surabaya Bantah Isu Aliran Dana Korupsi KBS, Sebut Honor Narasumber Sesuai Aturan\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://beritajatim.com/wp-content/uploads/2026/11/foto-media20261124018.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" ",
-   "fetched_at": "2026-11-24T06:51:04+07:00",
-   "categories": [
-    "korupsi",
-    "pemerintahan"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "<a href=\"https://beritajatim.com/ketua-dprd-surabaya-bantah-isu-aliran-dana-korupsi-kbs-sebut-honor-narasumber-sesuai-aturan\" title=\"Ketua DPRD Surabaya Bantah Isu Aliran Dana Korupsi KBS, Sebut Honor Narasumber Sesuai Aturan\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://beritajatim.com/wp-content/uploads/2026/11/foto-media20261124018.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" "
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Kejari Blitar Selidiki Dugaan Korupsi BUMDes Ngadirenggo, Warga Malah Minta Kasus Dihentikan",
-   "link": "https://beritajatim.com/kejari-blitar-selidiki-dugaan-korupsi-bumdes-ngadirenggo-warga-malah-minta-kasus-dihentikan",
-   "pubDate": "Tue, 24 Nov 2026 06:24:09 +0000",
-   "description": "<a href=\"https://beritajatim.com/kejari-blitar-selidiki-dugaan-korupsi-bumdes-ngadirenggo-warga-malah-minta-kasus-dihentikan\" title=\"Kejari Blitar Selidiki Dugaan Korupsi BUMDes Ngadirenggo, Warga Malah Minta Kasus Dihentikan\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://beritajatim.com/wp-content/uploads/2026/11/foto-media20261124014.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" ",
-   "fetched_at": "2026-11-24T06:51:04+07:00",
+   "title": "Dilaporkan Tasya Farasya ke Polisi, Ahmad Assegaf Terancam 28 Tahun Penjara",
+   "link": "https://www.inews.id/lifestyle/seleb/dilaporkan-tasya-farasya-ke-polisi-ahmad-assegaf-terancam-28-tahun-penjara",
+   "pubDate": "Wed, 25 Nov 2026 08:21:00 +0700",
+   "description": "Ahmad Assegaf terancam hukuman maksimal 28 tahun penjara setelah dilaporkan Tasya Farasya ke Polda Metro Jaya atas dugaan penggelapan hingga pencucian uang.",
+   "fetched_at": "2026-11-25T02:50:28+07:00",
    "categories": [
     "hukum-kriminal",
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 500,
-   "content": "<a href=\"https://beritajatim.com/kejari-blitar-selidiki-dugaan-korupsi-bumdes-ngadirenggo-warga-malah-minta-kasus-dihentikan\" title=\"Kejari Blitar Selidiki Dugaan Korupsi BUMDes Ngadirenggo, Warga Malah Minta Kasus Dihentikan\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://beritajatim.com/wp-content/uploads/2026/11/foto-media20261124014.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" "
-  },
-  {
-   "source": "jpnn",
-   "getter": "auto",
-   "title": "Terseret Kasus Dugaan Korupsi KBS, Pengurus PWNU Jatim MS Dinonaktifkan",
-   "link": "https://jatim.jpnn.com/jatim-terkini/50468/terseret-kasus-dugaan-korupsi-kbs-pengurus-pwnu-jatim-ms-dinonaktifkan",
-   "pubDate": "Tue, 24 Nov 2026 13:32:00 +0700",
-   "description": "<img src=\"https://cloud.jpnn.com/photo/jatim/news/normal/2026/11/24/gus-firjaun-bersama-jajaran-pwnu-jawa-timur-foto-source-for-jjz8.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jatim.jpnn.com</strong>, SURABAYA - Pengurus Wilayah Nahdlatul Ulama (PWNU) Jawa Timur menonaktifkan sementara salah satu pengurusnya berinisial MS dari jabatan A&rsquo;wan PWNU Jatim.",
-   "fetched_at": "2026-11-24T06:51:01+07:00",
-   "categories": [
-    "korupsi"
-   ],
-   "content_status": "partial",
-   "content_chars": 379,
-   "content": "<img src=\"https://cloud.jpnn.com/photo/jatim/news/normal/2026/11/24/gus-firjaun-bersama-jajaran-pwnu-jawa-timur-foto-source-for-jjz8.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jatim.jpnn.com</strong>, SURABAYA - Pengurus Wilayah Nahdlatul Ulama (PWNU) Jawa Timur menonaktifkan sementara salah satu pengurusnya berinisial MS dari jabatan A&rsquo;wan PWNU Jatim."
+   "content_chars": 156,
+   "content": "Ahmad Assegaf terancam hukuman maksimal 28 tahun penjara setelah dilaporkan Tasya Farasya ke Polda Metro Jaya atas dugaan penggelapan hingga pencucian uang."
   }
  ]
 }
