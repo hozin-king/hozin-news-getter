@@ -1,8 +1,38 @@
 {
- "updated_at": "2026-11-25T09:56:23+07:00",
+ "updated_at": "2026-11-25T19:02:11+07:00",
  "category": "kebakaran",
- "count": 5,
+ "count": 4,
  "articles": [
+  {
+   "source": "pesisirselatankab",
+   "getter": "auto",
+   "title": "Kepedulian Warga dan Kesigapan Damkar Tapan Selamatkan Rumah Permanen",
+   "link": "https://pesisirselatankab.go.id/berita/kepedulian-warga-dan-kesigapan-damkar-tapan-selamatkan-rumah-permanen",
+   "pubDate": "Wed, 25 Nov 2026 17:22:27 +0700",
+   "description": "Meninggalkan rumah untuk mencari nafkah di siang hari tentu dilakukan dengan harapan tempat tinggal tetap aman hingga waktu pulang tiba. Namun, ujian tak terduga menyapa Kasmawati (50), warga Kampung Sungai Gedang, Nagari Lunang Tengah, Kecamatan Lunang, pada Rabu (25/11/2026) siang, ketika…",
+   "fetched_at": "2026-11-25T11:52:50+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 292,
+   "content": "Meninggalkan rumah untuk mencari nafkah di siang hari tentu dilakukan dengan harapan tempat tinggal tetap aman hingga waktu pulang tiba. Namun, ujian tak terduga menyapa Kasmawati (50), warga Kampung Sungai Gedang, Nagari Lunang Tengah, Kecamatan Lunang, pada Rabu (25/11/2026) siang, ketika…"
+  },
+  {
+   "source": "pesisirselatankab",
+   "getter": "auto",
+   "title": "Bengkel Motor Terbakar, Kesigapan Damkar Pessel Cegah Api Merembet ke Permukiman.",
+   "link": "https://pesisirselatankab.go.id/berita/bengkel-motor-terbakar-kesigapan-damkar-pessel-cegah-api-merembet-ke-permukiman",
+   "pubDate": "Wed, 25 Nov 2026 14:25:11 +0700",
+   "description": "Di tengah lelapnya warga beristirahat pada dini hari yang sunyi, kobaran api mendadak memecah ketenangan kawasan padat Pasar Surantih, Kecamatan Sutera, Kabupaten Pesisir Selatan, Rabu (25/11/2026) sekitar pukul 00.03 WIB. Musibah yang melalap sebuah bengkel motor milik Reni Zulfarina (41) . tiu…",
+   "fetched_at": "2026-11-25T11:52:50+07:00",
+   "categories": [
+    "kebakaran"
+   ],
+   "content_status": "partial",
+   "content_chars": 297,
+   "content": "Di tengah lelapnya warga beristirahat pada dini hari yang sunyi, kobaran api mendadak memecah ketenangan kawasan padat Pasar Surantih, Kecamatan Sutera, Kabupaten Pesisir Selatan, Rabu (25/11/2026) sekitar pukul 00.03 WIB. Musibah yang melalap sebuah bengkel motor milik Reni Zulfarina (41) . tiu…"
+  },
   {
    "source": "unas",
    "getter": "auto",
@@ -10,7 +40,7 @@
    "link": "https://www.unas.ac.id/berita/indonesia-menjaga-keseimbangan-di-tengah-badai/",
    "pubDate": "Mon, 23 Nov 2026 03:50:50 +0000",
    "description": "*Robi Nurhadi, PhDDosen Hubungan Internasional, FISIP Universitas Nasional* Dalam dua minggu terakhir, nama Indonesia muncul di hampir semua pemberitaan internasional.",
-   "fetched_at": "2026-11-25T02:51:08+07:00",
+   "fetched_at": "2026-11-25T11:52:34+07:00",
    "categories": [
     "hukum-kriminal",
     "kebakaran",
@@ -21,64 +51,20 @@
    "content": "Dalam dua minggu terakhir, nama Indonesia muncul di hampir semua pemberitaan internasional. Bukan karena satu peristiwa, melainkan karena beberapa peristiwa yang terjadi bersamaan: KTT APEC di Shenzhen, kemitraan ekonomi dengan Uni Eropa, persoalan kabut asap lintas batas, hingga dinamika politik dalam negeri.\n\nRangkaian ini mudah dibaca sebagai tanda kerapuhan. Saya justru membacanya sebagai cermin dari apa yang dalam Hubungan Internasional disebut sebagai middle power: sedang belajar menyeimbangkan diri. Konsep middle power_ini dikembangkan oleh Andrew F. Cooper (1997) dalam bukunya _Niche Diplomacy: Middle Powers after the Cold War, yang menjelaskan bahwa negara menengah tidak mengandalkan kekuatan militer, melainkan diplomasi, mediasi, dan pembangunan koalisi.\n\nIndonesia adalah negara seperti itu: populasi keempat terbesar di dunia, ekonomi terbesar di Asia Tenggara, dan posisi geografis yang membuat setiap langkahnya diperhatikan.\n\nPada 19-20 November 2026, Presiden Prabowo Subianto menghadiri KTT APEC ke-33 di Shenzhen. Dalam pertemuan itu, Indonesia dan Tiongkok menyepakati empat kemitraan strategis senilai 71,8 miliar dolar AS, termasuk pengembangan 10 kota pintar dan kerja sama konversi batu bara menjadi etanol (Sekretariat Presiden, 2026). Sehari kemudian, 35 kesepakatan bisnis baru senilai 15 miliar dolar AS disepakati, termasuk di bidang pusat data dan energi terbarukan (Reuters, 2026).\n\nDi saat yang sama, Indonesia dan Tiongkok mengumumkan dimulainya negosiasi Kemitraan Ekonomi Komprehensif (Xinhua, 2026).\n\nSebagian pengamat Barat membaca ini sebagai condong ke Tiongkok. Pembacaan itu terlalu sederhana. Dalam teori hedging yang dikembangkan oleh Evelyn Goh (2005) dalam bukunya Meeting the China Challenge: The U.S. in Southeast Asian Regional Security Strategies, negara menengah justru membangun hubungan dengan semua pihak untuk memperbesar ruang geraknya dan mengurangi ketergantungan pada satu pihak.\n\nBuktinya, pada saat yang sama Indonesia juga menyelesaikan Kemitraan Ekonomi Komprehensif dengan Uni Eropa (IEU-CEPA), yang ditandatangani pada 21 November 2026 (Kementerian Luar Negeri, 2026). Jika kerja sama dengan Tiongkok membuka akses investasi, kerja sama dengan Uni Eropa membuka akses pasar. Keduanya bukan pertentangan, melainkan pelengkap.\n\nJika Shenzhen menunjukkan ambisi Indonesia di luar, kabut asap menunjukkan pekerjaan rumah di dalam. Kebakaran hutan dan lahan tahun 2026 disebut sebagai yang terparah dalam 11 tahun terakhir, diperburuk oleh El Niño terkuat dalam empat dekade (Kementerian Lingkungan Hidup dan Kehutanan, 2026). Asapnya menyeberang ke Singapura dan Malaysia, menutup sekolah dan mengganggu penerbangan.\n\nPada KTT ASEAN ke-49 di Manila, 15 November 2026, Presiden Prabowo menyampaikan permintaan maaf kepada Singapura dan Malaysia, dan menyampaikan bahwa 17 konsesi perusahaan telah dicabut dan 26 lainnya sedang diselidiki (Sekretariat Presiden, 2026).\n\nPersoalan ini menunjukkan apa yang disebut Robert O. Keohane dan Joseph S. Nye (1977) dalam bukunya Power and Interdependence sebagai environmental interdependence: masalah lingkungan tidak mengenal kedaulatan. Asap dari satu negara akan menjadi masalah bagi negara lain, dan pada akhirnya kembali menjadi masalah bagi negara asalnya dalam bentuk rusaknya citra dan turunnya kepercayaan.\n\nPerjanjian ASEAN tentang Pencemaran Asap Lintas Batas sejak 2003 belum memiliki mekanisme penegakan yang kuat. Karena itu, persoalan kabut asap bukan hanya persoalan lingkungan, tetapi persoalan kepercayaan. Dan kepercayaan adalah mata uang terpenting dalam hubungan internasional.\n\nDi dalam negeri, Indonesia juga mengalami dinamika yang tidak ringan. Pada awal November 2026, publik dikejutkan oleh pengungkapan kasus dugaan penyadapan ilegal terhadap Presiden Prabowo, yang berujung pada penetapan beberapa perwira tinggi Polri sebagai tersangka (Bareskrim Polri, 2026). Pada saat yang hampir bersamaan, TNI mengerahkan 20.980 personel ke Jakarta dalam rangka kesiapsiagaan (Mabes TNI, 2026). Pada 12 November, Wakil Presiden Gibran Rakabuming Raka mengajukan pengunduran diri, dan MPR dijadwalkan memilih wakil presiden pengganti dalam kurun waktu yang telah ditentukan (Sekretariat MPR, 2026).\n\nRangkaian ini mudah dibaca sebagai krisis. Namun, ada cara lain untuk membacanya. Dalam teori democratic consolidation yang dikembangkan oleh Juan J. Linz dan Alfred Stepan (1996) dalam bukunya Problems of Democratic Transition and Consolidation, demokrasi yang matang bukan demokrasi yang tidak pernah mengalami krisis, melainkan demokrasi yang mampu menyelesaikan krisis melalui lembaga, bukan melalui kekerasan.\n\nFakta bahwa kasus penyadapan diproses melalui jalur hukum, dan kekosongan jabatan wakil presiden diselesaikan melalui mekanisme MPR, menunjukkan Indonesia masih bekerja melalui jalurnya.\n\nTentu, proses ini ada harganya. Rupiah melemah hingga Rp18.245 per dolar AS pada 17 November 2026, dan Bank Indonesia menaikkan suku bunga acuan menjadi 6% untuk menjaga stabilitas (Bank Indonesia, 2026). Dana asing sempat keluar dari pasar saham sebesar 900 juta dolar AS pada kuartal IV 2026 (Bank Indonesia, 2026).\n\nTetapi, pada 19 November 2026, DPR mengesahkan Undang-Undang Perampasan Aset setelah dibahas cukup lama (DPR RI, 2026). Ini adalah langkah penting untuk memperkuat pemberantasan korupsi.\n\nJika kita menarik benang merah dari semua peristiwa ini, kita menemukan satu pelajaran: di dunia yang saling terhubung, tidak ada lagi persoalan dalam negeri yang murni dalam negeri, dan tidak ada lagi persoalan luar negeri yang murni luar negeri.\n\nKabut asap dari Kalimantan menjadi persoalan di Singapura. Perekrutan tentara bayaran di Moskow — yang berujung pada penangkapan seorang warga negara Indonesia berusia 49 tahun asal Blitar oleh otoritas Ukraina (Kementerian Luar Negeri, 2026) — menjadi persoalan di Jakarta. Krisis politik di Jakarta menjadi persoalan bagi investor di New York dan Singapura.\n\nKarena itu, strategi terbaik bagi Indonesia bukan memilih satu blok, melainkan menjaga keseimbangan. Keseimbangan antara Tiongkok dan Uni Eropa. Keseimbangan antara ambisi global dan pekerjaan rumah. Keseimbangan antara pertumbuhan ekonomi dan kelestarian lingkungan.\n\nIndonesia tidak perlu menjadi sempurna untuk dihormati dunia. Indonesia hanya perlu menjadi jujur, konsisten, dan mau memperbaiki diri. Karena pada akhirnya, dalam hubungan internasional, seperti dalam kehidupan, yang paling dihormati bukanlah yang tidak pernah salah, melainkan yang berani mengakui kesalahan dan berani memperbaikinya. (***)\n\n*Robi Nurhadi, PhDDosen Hubungan Internasional, FISIP Universitas Nasional* Bagikan :\n\nJAKARTA (UNAS) – Program Studi Ilmu Komunikasi Fakultas Ilmu Sosial dan Ilmu Politik (FISIP) Universitas Nasional (UNAS) memperluas jejaring kerja\n\nFilm pendek Nis’Kala karya mahasiswa Universitas Nasional meraih medali emas pada ajang DICE 4.0 di Malaysia dengan mengangkat tema pelestarian warisan bahasa Indonesia.\n\n*Robi Nurhadi, PhDDosen Hubungan Internasional, FISIP Universitas Nasional* Dalam dua minggu terakhir, nama Indonesia muncul di hampir semua pemberitaan internasional.\n\nTelp: (021) 7806700Faks: (021) 7802718Email: info@unas.ac.id"
   },
   {
-   "source": "antarafoto",
+   "source": "cnbcindonesia",
    "getter": "auto",
-   "title": "Kepolisian identifikasi jenazah korban kebakaran pabrik permen",
-   "link": "https://www.antarafoto.com/id/view/2913779/kepolisian-identifikasi-jenazah-korban-kebakaran-pabrik-permen",
-   "pubDate": "Wed, 25 Nov 2026 09:50:02 +0700",
-   "description": "Kapusdokkes Polri Brigjen Pol Nariyana (tengah) didampingi Wakapolda Banten Brigjen Pol Zain Dwi Nugroho (kiri) dan Kabiddokkes Polda Banten Kombes Pol I Gusti Gede Dharma Arimbawa (kanan) menyampaikan keterangan pers hasil identifikasi jenazah korban kebakaran pabrik permen di Rumah Sakit Bhayangkara Polda Banten, Kota Serang, Banten, Selasa (24/11/2026). Kepolisian mengidentifikasi satu jenazah atas nama Muhamad Maârupin melalui pencocokan sampel DNA dan langsung diserahkan kepada pihak kelu",
-   "fetched_at": "2026-11-25T02:51:05+07:00",
+   "title": "Pemerintah Umumkan 154.052 Formasi CPNS 2026",
+   "link": "https://www.cnbcindonesia.com/news/20261125171611-8-788465/pemerintah-umumkan-154052-formasi-cpns-2026",
+   "pubDate": "Wed, 25 Nov 2026 18:40:43 +0700",
+   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/25/pemerintah-umumkan-154052-formasi-cpns-2026-1795602131212_169.png?w=1200&amp;q=90\"/> Pemerintah Umumkan 154.052 Formasi CPNS 2026",
+   "fetched_at": "2026-11-25T11:52:27+07:00",
    "categories": [
-    "kebakaran"
-   ],
-   "content_status": "full",
-   "content_chars": 618,
-   "content": "Kepolisian identifikasi jenazah korban kebakaran pabrik permen\n\nKapusdokkes Polri Brigjen Pol Nariyana (tengah) didampingi Wakapolda Banten Brigjen Pol Zain Dwi Nugroho (kiri) dan Kabiddokkes Polda Banten Kombes Pol I Gusti Gede Dharma Arimbawa (kanan) menyampaikan keterangan pers hasil identifikasi jenazah korban kebakaran pabrik permen di Rumah Sakit Bhayangkara Polda Banten, Kota Serang, Banten, Selasa (24/11/2026). Kepolisian mengidentifikasi satu jenazah atas nama Muhamad Maârupin melalui pencocokan sampel DNA dan langsung diserahkan kepada pihak keluarga untuk dimakamkan. ANTARA FOTO/Rafsanjani/pma/nym."
-  },
-  {
-   "source": "antarafoto",
-   "getter": "auto",
-   "title": "Kepolisian identifikasi jenazah korban kebakaran pabrik permen",
-   "link": "https://www.antarafoto.com/id/view/2913775/kepolisian-identifikasi-jenazah-korban-kebakaran-pabrik-permen",
-   "pubDate": "Wed, 25 Nov 2026 09:50:02 +0700",
-   "description": "Polisi bersama petugas membawa peti berisi jenazah korban kebakaran pabrik permen untuk dimasukkan ke dalam mobil ambulans di Rumah Sakit Bhayangkara Polda Banten, Kota Serang, Banten, Selasa (24/11/2026). Kepolisian mengidentifikasi satu jenazah atas nama Muhamad Maârupin melalui pencocokan sampel DNA dan langsung diserahkan kepada pihak keluarga untuk dimakamkan. ANTARA FOTO/Rafsanjani/pma/nym.",
-   "fetched_at": "2026-11-25T02:51:05+07:00",
-   "categories": [
-    "kebakaran"
+    "kebakaran",
+    "pemerintahan"
    ],
    "content_status": "partial",
-   "content_chars": 465,
-   "content": "Kepolisian identifikasi jenazah korban kebakaran pabrik permen\n\nPolisi bersama petugas membawa peti berisi jenazah korban kebakaran pabrik permen untuk dimasukkan ke dalam mobil ambulans di Rumah Sakit Bhayangkara Polda Banten, Kota Serang, Banten, Selasa (24/11/2026). Kepolisian mengidentifikasi satu jenazah atas nama Muhamad Maârupin melalui pencocokan sampel DNA dan langsung diserahkan kepada pihak keluarga untuk dimakamkan. ANTARA FOTO/Rafsanjani/pma/nym."
-  },
-  {
-   "source": "antarafoto",
-   "getter": "auto",
-   "title": "Kepolisian identifikasi jenazah korban kebakaran pabrik permen",
-   "link": "https://www.antarafoto.com/id/view/2913771/kepolisian-identifikasi-jenazah-korban-kebakaran-pabrik-permen",
-   "pubDate": "Wed, 25 Nov 2026 09:50:02 +0700",
-   "description": "Wakapolda Banten Brigjen Pol Zain Dwi Nugroho (kiri) menyerahkan berkas hasil identifikasi kepada perwakilan keluarga korban kebakaran pabrik permen disaksikan Kapusdokkes Polri Brigjen Pol Nariyana (kanan) dan Kabid Humas Polda Banten Kombes Pol Maruli Ahiles Hutapea (kedua kiri) di Rumah Sakit Bhayangkara Polda Banten, Kota Serang, Banten, Selasa (24/11/2026). Kepolisian mengidentifikasi satu jenazah atas nama Muhamad Maârupin melalui pencocokan sampel DNA dan langsung diserahkan kepada piha",
-   "fetched_at": "2026-11-25T02:51:05+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "full",
-   "content_chars": 624,
-   "content": "Kepolisian identifikasi jenazah korban kebakaran pabrik permen\n\nWakapolda Banten Brigjen Pol Zain Dwi Nugroho (kiri) menyerahkan berkas hasil identifikasi kepada perwakilan keluarga korban kebakaran pabrik permen disaksikan Kapusdokkes Polri Brigjen Pol Nariyana (kanan) dan Kabid Humas Polda Banten Kombes Pol Maruli Ahiles Hutapea (kedua kiri) di Rumah Sakit Bhayangkara Polda Banten, Kota Serang, Banten, Selasa (24/11/2026). Kepolisian mengidentifikasi satu jenazah atas nama Muhamad Maârupin melalui pencocokan sampel DNA dan langsung diserahkan kepada pihak keluarga untuk dimakamkan. ANTARA FOTO/Rafsanjani/pma/nym."
-  },
-  {
-   "source": "inews",
-   "getter": "auto",
-   "title": "Unifam Dampingi Keluarga Korban Kebakaran Cikande, Beri Santunan dan Dukungan Pemulihan",
-   "link": "https://www.inews.id/news/nasional/unifam-dampingi-keluarga-korban-kebakaran-cikande-beri-santunan-dan-dukungan-pemulihan",
-   "pubDate": "Wed, 25 Nov 2026 08:21:00 +0700",
-   "description": "Unifam melalui PT FAM mendampingi keluarga korban kebakaran Cikande. Perusahaan memberikan santunan, dukungan moral, dan pendampingan pemulihan.",
-   "fetched_at": "2026-11-25T02:50:28+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 144,
-   "content": "Unifam melalui PT FAM mendampingi keluarga korban kebakaran Cikande. Perusahaan memberikan santunan, dukungan moral, dan pendampingan pemulihan."
+   "content_chars": 418,
+   "content": "Jakarta, CNBC Indonesia - Pemerintah menetapkan pengadaan calon pegawai negeri sipil atau CPNS tahun 2026 sebanyak 154.052 formasi. Pengadaan ini difokuskan untuk memaksimalkan pelayanan masyarakat, terutama di bidang kesehatan, pendidikan, pengentasan kemiskinan, penanganan kebakaran hutan dan lahan, serta prioritas presiden lainnya.\n\nSelengkapnya dalam program Profit CNBC Indonesia (Rabu, 25/11/2026) berikut ini."
   }
  ]
 }

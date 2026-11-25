@@ -1,23 +1,56 @@
 {
- "updated_at": "2026-11-25T09:56:23+07:00",
+ "updated_at": "2026-11-25T19:02:11+07:00",
  "category": "korupsi",
- "count": 1,
+ "count": 3,
  "articles": [
   {
-   "source": "inews",
+   "source": "fajar",
    "getter": "auto",
-   "title": "Dilaporkan Tasya Farasya ke Polisi, Ahmad Assegaf Terancam 28 Tahun Penjara",
-   "link": "https://www.inews.id/lifestyle/seleb/dilaporkan-tasya-farasya-ke-polisi-ahmad-assegaf-terancam-28-tahun-penjara",
-   "pubDate": "Wed, 25 Nov 2026 08:21:00 +0700",
-   "description": "Ahmad Assegaf terancam hukuman maksimal 28 tahun penjara setelah dilaporkan Tasya Farasya ke Polda Metro Jaya atas dugaan penggelapan hingga pencucian uang.",
-   "fetched_at": "2026-11-25T02:50:28+07:00",
+   "title": "Dugaan Korupsi Internet Rp2 M Diskominfo Barru, Kejari Geledah Kantor Telkom dan Desnet Makassar",
+   "link": "https://fajar.co.id/2026/11/25/dugaan-korupsi-internet-rp2-m-diskominfo-barru-kejari-geledah-kantor-telkom-dan-desnet-makassar/",
+   "pubDate": "Wed, 25 Nov 2026 10:53:48 +0000",
+   "description": "FAJAR.CO.ID, MAKASSAR &#8212; Kantor PT Telekomunikasi (Telkom) Indonesia Witel Parepare digeledah tim penyidik Seksi Pidana...",
+   "fetched_at": "2026-11-25T11:51:42+07:00",
    "categories": [
     "hukum-kriminal",
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 156,
-   "content": "Ahmad Assegaf terancam hukuman maksimal 28 tahun penjara setelah dilaporkan Tasya Farasya ke Polda Metro Jaya atas dugaan penggelapan hingga pencucian uang."
+   "content_chars": 127,
+   "content": "FAJAR.CO.ID, MAKASSAR &#8212; Kantor PT Telekomunikasi (Telkom) Indonesia Witel Parepare digeledah tim penyidik Seksi Pidana..."
+  },
+  {
+   "source": "beritajatim",
+   "getter": "auto",
+   "title": "Demo AKM, Tuntut Kejari dan DPRD Kabupaten Malang Usut Korupsi Pasar Karangploso",
+   "link": "https://beritajatim.com/demo-akm-tuntut-kejari-dan-dprd-kabupaten-malang-usut-korupsi-pasar-karangploso",
+   "pubDate": "Wed, 25 Nov 2026 11:21:50 +0000",
+   "description": "<a href=\"https://beritajatim.com/demo-akm-tuntut-kejari-dan-dprd-kabupaten-malang-usut-korupsi-pasar-karangploso\" title=\"Demo AKM, Tuntut Kejari dan DPRD Kabupaten Malang Usut Korupsi Pasar Karangploso\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://beritajatim.com/wp-content/uploads/2026/11/DPRD-malang.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async",
+   "fetched_at": "2026-11-25T11:51:38+07:00",
+   "categories": [
+    "hukum-kriminal",
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 500,
+   "content": "<a href=\"https://beritajatim.com/demo-akm-tuntut-kejari-dan-dprd-kabupaten-malang-usut-korupsi-pasar-karangploso\" title=\"Demo AKM, Tuntut Kejari dan DPRD Kabupaten Malang Usut Korupsi Pasar Karangploso\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://beritajatim.com/wp-content/uploads/2026/11/DPRD-malang.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async"
+  },
+  {
+   "source": "katadata",
+   "getter": "auto",
+   "title": "Tim MPR Sambangi KPK, Verifikasi Data LHKPN Calon Wapres",
+   "link": "https://katadata.co.id/berita/nasional/6b06c3aa86abb/tim-mpr-sambangi-kpk-verifikasi-data-lhkpn-calon-wapres",
+   "pubDate": "Wed, 25 Nov 2026 18:16:00 +0700",
+   "description": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2019/06/13/2019_06_13-12_59_45_5be1fe5c8aba7716c3e6b18cfcb105aa_620x413_thumb.jpg\" alt=\"Gedung KPK\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>MPR memverifikasi data Calon Wakil Presiden Amran Sulaiman dan Sugiono ke KPK, termasuk LHKPN serta ada tidaknya laporan masyarakat.</p>",
+   "fetched_at": "2026-11-25T11:51:32+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 350,
+   "content": "<img src=\"https://cdn1.katadata.co.id/media/images/thumb/2019/06/13/2019_06_13-12_59_45_5be1fe5c8aba7716c3e6b18cfcb105aa_620x413_thumb.jpg\" alt=\"Gedung KPK\" width=\"620\" height=\"413\" class=\"media-object\"/> <br/> <p>MPR memverifikasi data Calon Wakil Presiden Amran Sulaiman dan Sugiono ke KPK, termasuk LHKPN serta ada tidaknya laporan masyarakat.</p>"
   }
  ]
 }
