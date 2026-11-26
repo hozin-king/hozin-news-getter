@@ -1,70 +1,101 @@
 {
- "updated_at": "2026-11-26T10:55:35+07:00",
+ "updated_at": "2026-11-26T20:31:01+07:00",
  "category": "korupsi",
- "count": 4,
+ "count": 6,
  "articles": [
+  {
+   "source": "kemenag",
+   "getter": "auto",
+   "title": "Kemenag Perkuat Tata Kelola dan Pencegahan Korupsi melalui SPIP Terintegrasi",
+   "link": "https://kemenag.go.id/nasional/kemenag-perkuat-tata-kelola-dan-pencegahan-korupsi-melalui-spip-terintegrasi-cKtDu",
+   "pubDate": "Thu, 26 Nov 2026 09:45:00 GMT",
+   "description": "Kementerian Agama memperkuat tata kelola pemerintahan, manajemen risiko, dan sistem pencegahan korupsi melalui penerapan Keputusan Menteri Agama (KMA) Nomor 96 Tahun 2026 tentang Pedoman Penyelenggaraan Sistem Pengendalian Intern Pemerintah (SPIP) Terintegrasi.",
+   "fetched_at": "2026-11-26T13:16:08+07:00",
+   "categories": [
+    "korupsi",
+    "pemerintahan"
+   ],
+   "content_status": "partial",
+   "content_chars": 261,
+   "content": "Kementerian Agama memperkuat tata kelola pemerintahan, manajemen risiko, dan sistem pencegahan korupsi melalui penerapan Keputusan Menteri Agama (KMA) Nomor 96 Tahun 2026 tentang Pedoman Penyelenggaraan Sistem Pengendalian Intern Pemerintah (SPIP) Terintegrasi."
+  },
   {
    "source": "timesindonesia",
    "getter": "auto",
-   "title": "Kemenhaj Luncurkan Aplikasi Lapor Pak Haji untuk Perkuat Pengawasan Gratifikasi",
-   "link": "https://timesindonesia.co.id/peristiwa-nasional/619440/kemenhaj-luncurkan-aplikasi-lapor-pak-haji-untuk-perkuat-pengawasan-gratifikasi",
-   "pubDate": "Thu, 26 Nov 2026 08:10:00 +0000",
-   "description": "Kemenhaj meluncurkan Aplikasi Lapor Pak Haji untuk memperkuat pengawasan gratifikasi, transparansi, dan integritas pegawai dalam pelayanan jemaah haji.",
-   "fetched_at": "2026-11-26T03:45:22+07:00",
+   "title": "Pemkab Probolinggo Kembali Sabet Penghargaan KPK di Pariwara Antikorupsi 2026",
+   "link": "https://timesindonesia.co.id/pemerintahan/619593/pemkab-probolinggo-kembali-sabet-penghargaan-kpk-di-pariwara-antikorupsi-2026",
+   "pubDate": "Thu, 26 Nov 2026 19:43:00 +0000",
+   "description": "Pemkab Probolinggo raih penghargaan KPK di Pariwara Antikorupsi 2026 berkat kampanye antikorupsi humanis dan slogan \"Gak Jujur Gak Sae\".",
+   "fetched_at": "2026-11-26T13:15:44+07:00",
    "categories": [
     "korupsi",
     "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 2691,
-   "content": "Kementerian Haji dan Umrah ( Kemenhaj ) meluncurkan Aplikasi Lapor Pak Haji sebagai instrumen penguatan pengawasan dan pengendalian gratifikasi di lingkungan kementerian. Melalui aplikasi yang diinisiasi Inspektorat Jenderal (Itjen) Kemenhaj ini, pemerintah mendorong transparansi sekaligus membangun budaya kerja yang berintegritas dalam penyelenggaraan pelayanan haji.\n\nMenteri Haji dan Umrah, Mochamad Irfan Yusuf , mengatakan peluncuran aplikasi tersebut merupakan bentuk keseriusan Kemenhaj dalam mewujudkan tata kelola pemerintahan yang bersih, akuntabel, dan berkualitas.\n\nMenurutnya, aplikasi ini tidak sekadar menjadi sarana pelaporan, tetapi juga instrumen untuk memperkuat pengawasan dan memastikan setiap pelaksanaan tugas serta pelayanan berjalan sesuai prinsip integritas.\n\n“Aplikasi Lapor Pak Haji ini bukan untuk main-main. Hal ini merupakan keseriusan dan komitmen bersama untuk menciptakan pemerintahan yang bersih, akuntabel, dan berkualitas,” ujar Irfan Yusuf di Jakarta, Selasa (24/11/2026).\n\nIa menegaskan, integritas harus menjadi prinsip utama yang melekat dalam setiap tindakan dan pelaksanaan tugas pegawai Kemenhaj. Nilai tersebut tidak cukup hanya disampaikan melalui slogan atau komitmen tertulis, tetapi harus diwujudkan dalam perilaku sehari-hari, terutama saat memberikan pelayanan kepada jemaah haji.\n\nIrfan juga mengingatkan seluruh pegawai Kemenhaj mengenai tanggung jawab besar dalam melayani jemaah. Sebagai pelayan tamu-tamu Allah, setiap pegawai dituntut menjaga amanah, menjunjung kejujuran, dan menghindari tindakan yang dapat merusak kepercayaan masyarakat terhadap institusi.\n\n“Kita ini pelayan tamu-tamu Allah, jangan bermain-main dengan tamu Allah,” tegasnya.\n\nPeluncuran Aplikasi Lapor Pak Haji tersebut dirangkaikan dengan Bimbingan Teknis (Bimtek) Pengendalian Gratifikasi. Kegiatan ini diharapkan meningkatkan pemahaman seluruh jajaran Kemenhaj mengenai pencegahan gratifikasi sekaligus mendorong penerapan prinsip integritas di lingkungan kerja.\n\nMelalui kegiatan tersebut, Kemenhaj juga menekankan bahwa pengawasan dan pencegahan penyimpangan bukan hanya menjadi tanggung jawab unit tertentu, melainkan seluruh pegawai.\n\nSelain itu, seluruh jajaran Kemenhaj diajak menjaga nama baik institusi dengan membangun lingkungan kerja yang profesional, transparan, dan bertanggung jawab. Setiap amanah pelayanan harus dijalankan dengan baik agar kepercayaan masyarakat tetap terjaga dan kualitas pelayanan kepada jemaah semakin meningkat.\n\nKemenhaj menyatakan penguatan integritas dan pengendalian gratifikasi akan terus menjadi bagian dari upaya mewujudkan pelayanan haji yang profesional, transparan, dan berorientasi pada kepentingan jemaah. (*)"
+   "content_chars": 1777,
+   "content": "Pemkab Probolinggo , Jatim, kembali mencatatkan prestasi gemilang di tingkat nasional dengan meraih penghargaan dari Komisi Pemberantasan Korupsi (KPK) RI dalam ajang Pariwara Antikorupsi 2026. Penghargaan bergengsi ini menjadi pencapaian kali kedua secara berturut-turut.\n\nSetelah pada tahun 2025 lalu sukses menyabet penghargaan untuk kategori khusus, pada tahun ini Pemkab Probolinggo berhasil membawa pulang penghargaan untuk kategori kampanye terintegrasi.\n\nBupati Probolinggo, Gus dr. Mohammad Haris, hadir secara langsung untuk menerima penghargaan tersebut di Taman Ismail Marzuki (TIM), Jakarta, Kamis (26/11/2026).\n\nDi atas panggung kehormatan, Gus Haris menyampaikan apresiasi dan rasa terima kasihnya atas dedikasi serta kerja keras tim Inspektorat Kabupaten Probolinggo. Menurutnya, selama ini tim telah berupaya maksimal menebar edukasi antikorupsi secara masif ke berbagai lini, mulai dari lingkungan sekolah, lembaga, hingga tempat-tempat pelayanan publik.\n\nGus Haris mengungkapkan, Pemkab Probolinggo memiliki cara pendekatan tersendiri yang lebih humanis dan kreatif dalam mengampanyekan nilai-nilai integritas. Salah satu media yang digunakan adalah kesenian mural agar pesan-pesan antikorupsi dapat tersampaikan dengan ramah dan mudah diterima oleh seluruh lapisan masyarakat.\n\n\"Kita juga punya slogan 'Gak Jujur Gak Sae' untuk selalu digaungkan, agar budaya antikorupsi semakin masif dan tertanam dalam benak masyarakat sejak dini,\" tegas Gus Haris usai menerima penghargaan.\n\nKeberhasilan mempertahankan penghargaan dari lembaga antirasuah ini menjadi bukti nyata komitmen Pemkab Probolinggo dalam membangun tata kelola pemerintahan yang bersih, transparan, serta terus berinovasi dalam mengedukasi masyarakat terkait pencegahan tindak pidana korupsi. (*)"
   },
   {
-   "source": "cnbcindonesia2",
+   "source": "timesindonesia",
    "getter": "auto",
-   "title": "Bos Djarum Bakal Dipanggil KPK? Ini Jawaban Jubir KPK",
-   "link": "https://www.cnbcindonesia.com/news/20261126081142-4-788577/bos-djarum-bakal-dipanggil-kpk-ini-jawaban-jubir-kpk",
-   "pubDate": "Thu, 26 Nov 2026 09:35:43 +0700",
-   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/10/22/komisi-pemberantasan-korupsi-kpk-1792652194685_169.jpeg?w=1200&amp;q=90\"/> KPK belum tentukan jadwal pemanggilan PT Djarum terkait dugaan korupsi cukai hasil tembakau. Penyidik terus kumpulkan bukti dari penggeledahan.",
-   "fetched_at": "2026-11-26T03:45:21+07:00",
+   "title": "Soroti Pengawasan dan Tata Kelola, DPRD Jatim Gelar Forum Komunikasi Komisi A di Surabaya",
+   "link": "https://timesindonesia.co.id/pemerintahan/619579/soroti-pengawasan-dan-tata-kelola-dprd-jatim-gelar-forum-komunikasi-komisi-a-di-surabaya",
+   "pubDate": "Thu, 26 Nov 2026 19:08:00 +0000",
+   "description": "Ketua DPRD Jatim Musyafak Rouf mengingatkan pengawasan DPRD tidak sekadar formalitas saat membuka Forum Komunikasi Komisi A se-Indonesia di Surabaya.",
+   "fetched_at": "2026-11-26T13:15:44+07:00",
    "categories": [
-    "korupsi"
+    "korupsi",
+    "pemerintahan"
    ],
    "content_status": "full",
-   "content_chars": 2109,
-   "content": "Jakarta, CNBC Indonesia - Komisi Pemberantasan Korupsi (KPK) belum memastikan jadwal pemanggilan pihak PT Djarum terkait penyidikan dugaan korupsi tata kelola dan penetapan tarif cukai hasil tembakau.\n\nJuru Bicara KPK Budi Prasetyo mengatakan, pemeriksaan terhadap pihak Djarum diperlukan untuk mengonfirmasi temuan penyidik saat melakukan penggeledahan di kantor pusat perusahaan tersebut maupun bukti-bukti lain yang telah dikumpulkan.\n\n\"Untuk pemeriksaan dari pihak PT Djarum tentu itu juga dibutuhkan untuk dikonfirmasi, baik dari temuan penggeledahan ataupun dari bukti-bukti lain yang didapatkan oleh penyidik,\" ujar Budi kepada wartawan, Kamis (26/11/2026).\n\nMeski demikian, Budi belum mengungkapkan kapan pemeriksaan akan dilakukan maupun siapa saja pihak yang akan dimintai keterangan. KPK akan menyampaikan informasi tersebut pada waktunya.\n\n\"Namun untuk waktunya kapan, siapa saja yang akan diminta keterangan, pada saatnya nanti kami akan sampaikan pas pada waktunya,\" katanya.\n\nSebelumnya, KPK telah menggeledah kantor pusat PT Djarum serta sejumlah perusahaan yang diduga terafiliasi dengan perusahaan tersebut. Penyidik juga tengah mengonfirmasi temuan dari penggeledahan tersebut untuk menyusun konstruksi perkara secara utuh.\n\nBudi menjelaskan, penyidikan perkara ini masih berfokus pada dugaan penyimpangan tata kelola dan penetapan tarif cukai. KPK juga mendalami pihak-pihak yang diduga memiliki peran signifikan dalam perkara yang disinyalir merugikan keuangan negara tersebut.\n\nKPK turut memeriksa sejumlah saksi dari lingkungan Direktorat Jenderal Bea dan Cukai, termasuk dari Kantor Pengawasan dan Pelayanan Bea dan Cukai (KPPBC) Kudus dan Semarang serta kantor pusat Bea Cukai.\n\n\"Untuk itu, dari sisi Bea Cukai, penyidik juga tidak hanya melakukan pendalaman kepada tim Bea Cukai di wilayah Kudus saja, tapi juga ada pemeriksaan kepada saksi dari KPPBC Semarang, Jawa Tengah, bahkan Pusat,\" tegas Budi.\n\nPemeriksaan tersebut dilakukan untuk mendalami kewenangan penetapan tarif cukai yang berjenjang serta mekanisme pengawasan terhadap perusahaan-perusahaan pengolahan hasil tembakau."
+   "content_chars": 3312,
+   "content": "Ketua DPRD Jawa Timur Musyafak Rouf mengingatkan jajaran legislatif daerah agar tidak menjadikan fungsi pengawasan sekadar formalitas kelembagaan. Pesan tersebut disampaikan saat ia membuka Forum Komunikasi Komisi A DPRD Provinsi se-Indonesia di Hotel Shangri-La Surabaya pada Rabu (25/11/2026).\n\nForum dua hari yang berlangsung hingga Kamis (26/11/2026) ini mempertemukan pimpinan dan anggota DPRD provinsi se-Indonesia, pimpinan serta anggota komisi bidang pemerintahan DPRD kabupaten/kota se-Jawa Timur, dan para sekretaris DPRD.\n\nAnggota dewan memegang tiga mandat utama: pembentukan peraturan daerah, penganggaran, dan pengawasan. Perubahan regulasi serta tuntutan warga menuntut ketiga fungsi tersebut berjalan optimal. Pengawasan yang longgar berisiko membuat kebijakan pembangunan meleset dari kebutuhan masyarakat dan membuka celah inefisiensi birokrasi.\n\n\"Pengawasan hendaknya dilaksanakan secara objektif, konstruktif, dan bertanggung jawab, dengan mengedepankan upaya perbaikan tata kelola pemerintahan,\" ujar Ketua DPRD Jatim Musyafak Rouf.\n\nMenurut Musyafak, pengawasan perlu mendorong perbaikan tata kelola, meningkatkan standar pelayanan publik, dan memastikan program pemerintah daerah dirasakan masyarakat. Ia menilai persoalan daerah tidak bisa diatasi lewat cara kerja sektoral atau tambal sulam. Tanpa komunikasi dan penyamaan persepsi antara DPRD provinsi, DPRD kabupaten/kota, serta pemerintah pusat, koordinasi kebijakan rawan tersendat.\n\nMusyafak juga mengingatkan agar pertemuan lintas daerah tersebut tidak berhenti pada tukar informasi semata.\n\n\"Saya berharap forum ini tidak berhenti pada kegiatan seremonial maupun pertukaran informasi semata, tetapi mampu menghasilkan rumusan pemikiran, rekomendasi, serta langkah tindak lanjut,\" kata Ketua DPRD Jawa Timur Musyafak Rouf.\n\nIa menegaskan, keberhasilan pertemuan tidak hanya diukur dari jumlah peserta atau acara pembukaan, melainkan penerapan rekomendasi di daerah masing-masing. Produk hukum dan kebijakan daerah pun diminta melampaui pemenuhan syarat administratif agar memberi dampak bagi warga.\n\nAgenda forum melibatkan sejumlah instansi selama dua hari pelaksanaan. Pada hari pertama, forum menghadirkan Ketua Komisi II DPR RI serta Direktur Jenderal Otonomi Daerah Kementerian Dalam Negeri Cheka Virgowansyah untuk membahas otonomi daerah dan sinkronisasi kebijakan pusat-daerah.\n\nPada hari kedua, Kamis (26/11/2026), pembahasan mengarah pada pengelolaan keuangan daerah dan integritas. Forum mengundang narasumber dari Direktorat Pembiayaan dan Perekonomian Daerah, Sekretariat Direktorat Jenderal Bina Keuangan Daerah Kementerian Dalam Negeri, Komisi Pemberantasan Korupsi (KPK), serta Badan Pemeriksa Keuangan (BPK).\n\nKehadiran unsur pengawas keuangan negara dan pemberantasan korupsi menjadi pengingat bagi parlemen daerah. Fungsi penganggaran dan pengawasan DPRD perlu memperhatikan temuan pemeriksaan keuangan, celah pengelolaan APBD, serta risiko penyimpangan dalam pengadaan dan layanan publik.\n\nMelalui forum komunikasi ini, legislatif daerah diharapkan memperkuat jejaring kerja sekaligus membangun komitmen mewujudkan pemerintahan yang transparan, akuntabel, demokratis, dan berpihak pada kesejahteraan masyarakat. Penerapan rekomendasi forum di daerah menjadi penentu tindak lanjut dari pertemuan di Surabaya. (*)"
   },
   {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "KPK duga adik eks Kepala BNPB beri proyek ke swasta agar dapat imbalan",
-   "link": "https://www.antaranews.com/berita/5879355/kpk-duga-adik-eks-kepala-bnpb-beri-proyek-ke-swasta-agar-dapat-imbalan",
-   "pubDate": "Thu, 26 Nov 2026 10:16:34 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/25/pemeriksaan-tersangka-bima-setiawan-2914591.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) menduga BS selaku adik mantan Kepala Badan Nasional Penanggulangan Bencana (BNPB) ...",
-   "fetched_at": "2026-11-26T03:44:23+07:00",
+   "source": "akurat",
+   "getter": "auto",
+   "title": "Prabowo: Negara Akan Hancur Jika Para Jenderalnya Korupsi dan Polisinya Brengsek",
+   "link": "https://www.akurat.co/nasional/910045/prabowo-negara-akan-hancur-jika-para-jenderalnya-korupsi-dan-polisinya-brengsek",
+   "pubDate": "Thu, 26 Nov 2026 17:23:36 +0700",
+   "description": "",
+   "fetched_at": "2026-11-26T13:15:20+07:00",
    "categories": [
-    "bencana",
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 257,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/25/pemeriksaan-tersangka-bima-setiawan-2914591.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) menduga BS selaku adik mantan Kepala Badan Nasional Penanggulangan Bencana (BNPB) ..."
+   "content_chars": 0,
+   "content": ""
   },
   {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "KPK dalami peran tersangka kasus iklan saat periksa eks komisaris BJB",
-   "link": "https://www.antaranews.com/berita/5879351/kpk-dalami-peran-tersangka-kasus-iklan-saat-periksa-eks-komisaris-bjb",
-   "pubDate": "Thu, 26 Nov 2026 10:13:59 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/24/pemeriksaan-tersangka-widi-hartoto-2913495.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) mendalami peran tersangka kasus dugaan korupsi pengadaan iklan PT Bank Pembangunan ...",
-   "fetched_at": "2026-11-26T03:44:23+07:00",
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "BNN Geledah Rumah di Geblagan Bantul Terkait TPPU Narkoba Rp57,7 M, Ini Kata Dukuh",
+   "link": "https://jogjapolitan.harianjogja.com/r-1280397/bnn-geledah-rumah-di-geblagan-bantul-terkait-tppu-narkoba-rp577-m-ini-kata-dukuh",
+   "pubDate": "Thu, 26 Nov 2026 19:17:15 +0700",
+   "description": "Dukuh Geblagan Bantul mengaku tidak mengetahui penggeledahan BNN terkait kasus TPPU narkoba Rp57,7 miliar sebelum informasinya beredar.",
+   "fetched_at": "2026-11-26T13:15:18+07:00",
    "categories": [
     "hukum-kriminal",
     "korupsi"
    ],
    "content_status": "partial",
-   "content_chars": 257,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/24/pemeriksaan-tersangka-widi-hartoto-2913495.jpg\" align=\"left\" border=\"0\" />Komisi Pemberantasan Korupsi (KPK) mendalami peran tersangka kasus dugaan korupsi pengadaan iklan PT Bank Pembangunan ..."
+   "content_chars": 135,
+   "content": "Dukuh Geblagan Bantul mengaku tidak mengetahui penggeledahan BNN terkait kasus TPPU narkoba Rp57,7 miliar sebelum informasinya beredar."
+  },
+  {
+   "source": "jpnn",
+   "getter": "auto",
+   "title": "Prabowo: Kalau Polisi Brengsek dan Korupsi Merajalela, Negara Bisa Hancur",
+   "link": "https://www.jpnn.com/news/prabowo-kalau-polisi-brengsek-dan-korupsi-merajalela-negara-bisa-hancur",
+   "pubDate": "Thu, 26 Nov 2026 20:06:00 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/11/26/presiden-prabowo-subianto-tengah-dalam-acara-pemusnahan-nark-yzra.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong> - Presiden Prabowo Subianto memberi peringatan keras kepada aparat tentang pentingnya integritas dalam menegakkan hukum dan menjaga keberlangsungan negara.",
+   "fetched_at": "2026-11-26T13:15:17+07:00",
+   "categories": [
+    "korupsi"
+   ],
+   "content_status": "partial",
+   "content_chars": 364,
+   "content": "<img src=\"https://cloud.jpnn.com/photo/arsip/normal/2026/11/26/presiden-prabowo-subianto-tengah-dalam-acara-pemusnahan-nark-yzra.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>JPNN.com</strong> - Presiden Prabowo Subianto memberi peringatan keras kepada aparat tentang pentingnya integritas dalam menegakkan hukum dan menjaga keberlangsungan negara."
   }
  ]
 }
