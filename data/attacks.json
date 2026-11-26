@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-25T22:23:59Z",
+  "generated_at": "2026-11-26T04:54:43Z",
   "source": "SANS Internet Storm Center (DShield)",
   "source_url": "https://isc.sans.edu/",
   "window": "100 sumber penyerang teratas + 10 IP teratas 24 jam (SANS DShield)",
-  "total_reports_today": 11199602,
-  "total_sources_today": 150575,
+  "total_reports_today": 175420,
+  "total_sources_today": 20633,
   "countries": [
     {
       "c": "US",
-      "n": 667233,
-      "ips": 16
+      "n": 687297,
+      "ips": 30
     },
     {
       "c": "ES",
@@ -18,62 +18,77 @@
     },
     {
       "c": "HK",
-      "n": 165349,
-      "ips": 5
+      "n": 167440,
+      "ips": 9
     },
     {
       "c": "SC",
-      "n": 96279,
-      "ips": 1
+      "n": 109709,
+      "ips": 5
     },
     {
       "c": "BG",
-      "n": 18471,
-      "ips": 53
+      "n": 11871,
+      "ips": 29
     },
     {
       "c": "GB",
-      "n": 904,
-      "ips": 13
+      "n": 3213,
+      "ips": 7
     },
     {
-      "c": "DE",
-      "n": 677,
-      "ips": 2
+      "c": "SG",
+      "n": 2780,
+      "ips": 6
     },
     {
-      "c": "KZ",
-      "n": 453,
+      "c": "TR",
+      "n": 1750,
+      "ips": 4
+    },
+    {
+      "c": "NL",
+      "n": 1286,
+      "ips": 3
+    },
+    {
+      "c": "RO",
+      "n": 1118,
       "ips": 2
     },
     {
       "c": "UA",
-      "n": 427,
-      "ips": 1
-    },
-    {
-      "c": "NL",
-      "n": 358,
-      "ips": 1
+      "n": 846,
+      "ips": 2
     },
     {
       "c": "FR",
-      "n": 170,
-      "ips": 2
-    },
-    {
-      "c": "SG",
-      "n": 136,
-      "ips": 2
-    },
-    {
-      "c": "BR",
-      "n": 58,
+      "n": 505,
       "ips": 1
     },
     {
-      "c": "RU",
-      "n": 58,
+      "c": "PA",
+      "n": 450,
+      "ips": 1
+    },
+    {
+      "c": "KN",
+      "n": 443,
+      "ips": 1
+    },
+    {
+      "c": "NO",
+      "n": 439,
+      "ips": 1
+    },
+    {
+      "c": "CN",
+      "n": 432,
+      "ips": 1
+    },
+    {
+      "c": "IR",
+      "n": 418,
       "ips": 1
     }
   ]
