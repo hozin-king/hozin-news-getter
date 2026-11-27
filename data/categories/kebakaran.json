@@ -1,37 +1,6 @@
 {
- "updated_at": "2026-11-27T05:46:46+07:00",
+ "updated_at": "2026-11-27T11:51:17+07:00",
  "category": "kebakaran",
- "count": 2,
- "articles": [
-  {
-   "source": "cnbcindonesia",
-   "getter": "auto",
-   "title": "Potret Kilang Minyak Thailand Meledak dan Terbakar, Korban Berjatuhan",
-   "link": "https://www.cnbcindonesia.com/news/20261126173509-7-788856/potret-kilang-minyak-thailand-meledak-dan-terbakar-korban-berjatuhan",
-   "pubDate": "Thu, 26 Nov 2026 21:40:00 +0700",
-   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/26/ebakaran-terjadi-menyusul-ledakan-di-sebuah-kilang-minyak-di-distrik-phra-khanong-bangkok-thailand-pada-kamis-26112026-sore-1795689277848_169.jpeg?w=1200&amp;q=90\"/> Kebakaran terjadi menyusul ledakan di sebuah kilang minyak di Distrik Phra Khanong, Bangkok, Thailand.",
-   "fetched_at": "2026-11-26T22:27:20+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 173,
-   "content": "Potret Kilang Minyak Thailand Meledak dan Terbakar, Korban Berjatuhan\n\nKebakaran terjadi menyusul ledakan di sebuah kilang minyak di Distrik Phra Khanong, Bangkok, Thailand."
-  },
-  {
-   "source": "beritajatim",
-   "getter": "auto",
-   "title": "Mesin Filter Ekstruder Pabrik Daur Ulang Plastik PET di Mojokerto Terbakar",
-   "link": "https://beritajatim.com/mesin-filter-ekstruder-pabrik-daur-ulang-plastik-pet-di-mojokerto-terbakar",
-   "pubDate": "Thu, 26 Nov 2026 15:57:04 +0000",
-   "description": "<a href=\"https://beritajatim.com/mesin-filter-ekstruder-pabrik-daur-ulang-plastik-pet-di-mojokerto-terbakar\" title=\"Mesin Filter Ekstruder Pabrik Daur Ulang Plastik PET di Mojokerto Terbakar\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://beritajatim.com/wp-content/uploads/2026/11/foto-media20261126056.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\"",
-   "fetched_at": "2026-11-26T22:26:59+07:00",
-   "categories": [
-    "kebakaran"
-   ],
-   "content_status": "partial",
-   "content_chars": 500,
-   "content": "<a href=\"https://beritajatim.com/mesin-filter-ekstruder-pabrik-daur-ulang-plastik-pet-di-mojokerto-terbakar\" title=\"Mesin Filter Ekstruder Pabrik Daur Ulang Plastik PET di Mojokerto Terbakar\" rel=\"nofollow\"><img width=\"900\" height=\"600\" src=\"https://beritajatim.com/wp-content/uploads/2026/11/foto-media20261126056.webp\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"Foto BeritaJatim.com\" style=\"display: block; margin-bottom: 5px; clear:both;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\""
-  }
- ]
+ "count": 0,
+ "articles": []
 }
