@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-27T10:33:15+07:00",
+ "updated_at": "2026-11-27T20:31:39+07:00",
  "sumber_gagal": [
   "Lewatmana: kamera offline (endpoint /camvidurl kosong)",
   "Travoy: tidak terjangkau; kamera Jasa Marga tercover via BPJT",
@@ -3234,20 +3234,6 @@
      "lon": -6.8927742
     },
     {
-     "nama": "GT. TEGAL ENTRANCE",
-     "lokasi": "GT. TEGAL ENTRANCE",
-     "stream": "https://pptrlive.co.id/memfs/04fccbae-9259-4428-85e3-62deea874e95.m3u8",
-     "lat": -6.929706,
-     "lon": 109.1419
-    },
-    {
-     "nama": "GT. TEGAL EXIT",
-     "lokasi": "GT. TEGAL EXIT",
-     "stream": "https://pptrlive.co.id/memfs/5e34210d-1260-47ef-a56a-65465c5065ae.m3u8",
-     "lat": 1.091419367,
-     "lon": -6.9297062
-    },
-    {
      "nama": "KM 250 JALUR A",
      "lokasi": "KM 250 JALUR A",
      "stream": "https://pptrlive.co.id/memfs/be49f2cd-535e-49a1-89e7-99b80a97f683.m3u8",
@@ -3304,13 +3290,6 @@
      "lon": -6.8989487
     },
     {
-     "nama": "KM 268 JALUR A",
-     "lokasi": "KM 268 JALUR A",
-     "stream": "https://pptrlive.co.id/memfs/e20e7a2a-c748-4e1e-80ce-445cdbe8d408.m3u8",
-     "lat": -6.897566,
-     "lon": 109.0549
-    },
-    {
      "nama": "KM 268 JALUR B",
      "lokasi": "KM 268 JALUR B",
      "stream": "https://pptrlive.co.id/memfs/d779afed-62ef-4d56-93cd-7c1584ed3ca4.m3u8",
@@ -3330,13 +3309,6 @@
      "stream": "https://pptrlive.co.id/memfs/f291992a-5818-478f-a9ff-ee35bace1a36.m3u8",
      "lat": 1.09386326,
      "lon": -6.9340581
-    },
-    {
-     "nama": "TI 275 JALUR A",
-     "lokasi": "TI 275 JALUR A",
-     "stream": "https://pptrlive.co.id/memfs/0ddf763e-ec6d-42f9-b0d8-eee6c0706d23.m3u8",
-     "lat": -6.932491,
-     "lon": 109.1092
     }
    ]
   },
