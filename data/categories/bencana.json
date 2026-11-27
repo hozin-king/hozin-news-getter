@@ -1,128 +1,71 @@
 {
- "updated_at": "2026-11-27T11:51:17+07:00",
+ "updated_at": "2026-11-27T21:40:59+07:00",
  "category": "bencana",
- "count": 8,
+ "count": 4,
  "articles": [
   {
-   "source": "antarafoto",
+   "source": "forestinsights",
    "getter": "auto",
-   "title": "Banjir luapan Sungai Citarum",
-   "link": "https://www.antarafoto.com/id/view/2915731/banjir-luapan-sungai-citarum",
-   "pubDate": "Fri, 27 Nov 2026 11:25:01 +0700",
-   "description": "Warga menggunakan perahu kayu untuk melintasi genangan air saat banjir yang melanda Kampung Bojongasih, Dayeuhkolot, Kabupaten Bandung, Jawa Barat, Jumat (27/11/2026). Data dari BPBD Kabupaten Bandung mencatat, sebanyak 19.798 jiwa atau 6.106 KK di Kecamatan Dayeuhkolot terdampak banjir luapan Sungai Citarum sejak Kamis 26 November 2026 akibat hujan dengan intensitas tinggi di Kawasan Bandung Raya. ANTARA FOTO/Raisan Al Farisi/sgd",
-   "fetched_at": "2026-11-27T04:28:28+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 434,
-   "content": "Warga menggunakan perahu kayu untuk melintasi genangan air saat banjir yang melanda Kampung Bojongasih, Dayeuhkolot, Kabupaten Bandung, Jawa Barat, Jumat (27/11/2026). Data dari BPBD Kabupaten Bandung mencatat, sebanyak 19.798 jiwa atau 6.106 KK di Kecamatan Dayeuhkolot terdampak banjir luapan Sungai Citarum sejak Kamis 26 November 2026 akibat hujan dengan intensitas tinggi di Kawasan Bandung Raya. ANTARA FOTO/Raisan Al Farisi/sgd"
-  },
-  {
-   "source": "antarafoto",
-   "getter": "auto",
-   "title": "Banjir luapan Sungai Citarum",
-   "link": "https://www.antarafoto.com/id/view/2915727/banjir-luapan-sungai-citarum",
-   "pubDate": "Fri, 27 Nov 2026 11:25:01 +0700",
-   "description": "Warga menggunakan perahu kayu untuk melintasi genangan air saat banjir yang melanda Kampung Bojongasih, Dayeuhkolot, Kabupaten Bandung, Jawa Barat, Jumat (27/11/2026). Data dari BPBD Kabupaten Bandung mencatat, sebanyak 19.798 jiwa atau 6.106 KK di Kecamatan Dayeuhkolot terdampak banjir luapan Sungai Citarum sejak Kamis 26 November 2026 akibat hujan dengan intensitas tinggi di Kawasan Bandung Raya. ANTARA FOTO/Raisan Al Farisi/sgd",
-   "fetched_at": "2026-11-27T04:28:28+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 434,
-   "content": "Warga menggunakan perahu kayu untuk melintasi genangan air saat banjir yang melanda Kampung Bojongasih, Dayeuhkolot, Kabupaten Bandung, Jawa Barat, Jumat (27/11/2026). Data dari BPBD Kabupaten Bandung mencatat, sebanyak 19.798 jiwa atau 6.106 KK di Kecamatan Dayeuhkolot terdampak banjir luapan Sungai Citarum sejak Kamis 26 November 2026 akibat hujan dengan intensitas tinggi di Kawasan Bandung Raya. ANTARA FOTO/Raisan Al Farisi/sgd"
-  },
-  {
-   "source": "antarafoto",
-   "getter": "auto",
-   "title": "Banjir luapan Sungai Citarum",
-   "link": "https://www.antarafoto.com/id/view/2915723/banjir-luapan-sungai-citarum",
-   "pubDate": "Fri, 27 Nov 2026 11:25:01 +0700",
-   "description": "Anak-anak bermain di genangan air saat banjir yang melanda Kampung Bojongasih, Dayeuhkolot, Kabupaten Bandung, Jawa Barat, Jumat (27/11/2026). Data dari BPBD Kabupaten Bandung mencatat, sebanyak 19.798 jiwa atau 6.106 KK di Kecamatan Dayeuhkolot terdampak banjir luapan Sungai Citarum sejak Kamis 26 November 2026 akibat hujan dengan intensitas tinggi di Kawasan Bandung Raya. ANTARA FOTO/Raisan Al Farisi/sgd",
-   "fetched_at": "2026-11-27T04:28:28+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 409,
-   "content": "Anak-anak bermain di genangan air saat banjir yang melanda Kampung Bojongasih, Dayeuhkolot, Kabupaten Bandung, Jawa Barat, Jumat (27/11/2026). Data dari BPBD Kabupaten Bandung mencatat, sebanyak 19.798 jiwa atau 6.106 KK di Kecamatan Dayeuhkolot terdampak banjir luapan Sungai Citarum sejak Kamis 26 November 2026 akibat hujan dengan intensitas tinggi di Kawasan Bandung Raya. ANTARA FOTO/Raisan Al Farisi/sgd"
-  },
-  {
-   "source": "antarafoto",
-   "getter": "auto",
-   "title": "Banjir luapan Sungai Citarum",
-   "link": "https://www.antarafoto.com/id/view/2915719/banjir-luapan-sungai-citarum",
-   "pubDate": "Fri, 27 Nov 2026 11:25:01 +0700",
-   "description": "Warga menggunakan perahu kayu untuk melintasi genangan air saat banjir yang melanda Kampung Bojongasih, Dayeuhkolot, Kabupaten Bandung, Jawa Barat, Jumat (27/11/2026). Data dari BPBD Kabupaten Bandung mencatat, sebanyak 19.798 jiwa atau 6.106 KK di Kecamatan Dayeuhkolot terdampak banjir luapan Sungai Citarum sejak Kamis 26 November 2026 akibat hujan dengan intensitas tinggi di Kawasan Bandung Raya. ANTARA FOTO/Raisan Al Farisi/sgd",
-   "fetched_at": "2026-11-27T04:28:28+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 434,
-   "content": "Warga menggunakan perahu kayu untuk melintasi genangan air saat banjir yang melanda Kampung Bojongasih, Dayeuhkolot, Kabupaten Bandung, Jawa Barat, Jumat (27/11/2026). Data dari BPBD Kabupaten Bandung mencatat, sebanyak 19.798 jiwa atau 6.106 KK di Kecamatan Dayeuhkolot terdampak banjir luapan Sungai Citarum sejak Kamis 26 November 2026 akibat hujan dengan intensitas tinggi di Kawasan Bandung Raya. ANTARA FOTO/Raisan Al Farisi/sgd"
-  },
-  {
-   "source": "cnbcindonesia2",
-   "getter": "auto",
-   "title": "Asa Keluarga Penambang Emas Terjebak di Lubang Tunggu Hasil Evakuasi",
-   "link": "https://www.cnbcindonesia.com/news/20261126191815-7-788882/asa-keluarga-penambang-emas-terjebak-di-lubang-tunggu-hasil-evakuasi",
-   "pubDate": "Fri, 27 Nov 2026 10:57:45 +0700",
-   "description": "<img src=\"https://awsimages.detik.net.id/visual/2026/11/26/foto-udara-menujukkan-tim-penyelamat-sedang-bekerja-di-dekat-lokasi-pertambangan-tempat-sejumlah-pekerja-terjebak-di-dalam-tam-1795695873523_169.jpeg?w=1200&amp;q=90\"/> Keluarga penambang yang dilaporkan terjebak di dalam lubang tambang menggelar doa bersama sebagai bentuk ikhtiar dan harapan bagi korban.",
-   "fetched_at": "2026-11-27T04:28:24+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 207,
-   "content": "Asa Keluarga Penambang Emas Terjebak di Lubang Tunggu Hasil Evakuasi\n\nKeluarga penambang yang dilaporkan terjebak di dalam lubang tambang menggelar doa bersama sebagai bentuk ikhtiar dan harapan bagi korban."
-  },
-  {
-   "source": "inews",
-   "getter": "auto",
-   "title": "Banjir Dayeuhkolot Bandung Belum Surut, Ratusan Rumah Terendam hingga 1 Meter",
-   "link": "https://www.inews.id/regional/jabar/banjir-dayeuhkolot-bandung-belum-surut-ratusan-rumah-terendam-hingga-1-meter",
-   "pubDate": "Fri, 27 Nov 2026 11:01:00 +0700",
-   "description": "Banjir luapan Sungai Citarum masih merendam ratusan rumah di Dayeuhkolot, Bandung, hingga satu meter. Sebagian warga mulai mengungsi.",
-   "fetched_at": "2026-11-27T04:27:58+07:00",
-   "categories": [
-    "bencana"
-   ],
-   "content_status": "partial",
-   "content_chars": 133,
-   "content": "Banjir luapan Sungai Citarum masih merendam ratusan rumah di Dayeuhkolot, Bandung, hingga satu meter. Sebagian warga mulai mengungsi."
-  },
-  {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "Polda NTB siagakan 1.010 personel untuk antisipasi bencana alam",
-   "link": "https://www.antaranews.com/berita/5881899/polda-ntb-siagakan-1010-personel-untuk-antisipasi-bencana-alam",
-   "pubDate": "Fri, 27 Nov 2026 10:42:58 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/27/apel-kesiapsiagaan-bencana-alam-polda-ntb.jpg\" align=\"left\" border=\"0\" />Kepolisian Daerah Nusa Tenggara Barat menyiagakan sebanyak 1.010 personel untuk mengantisipasi potensi bencana alam ...",
-   "fetched_at": "2026-11-27T04:27:35+07:00",
+   "title": "Badak Jawa Hadapi Krisis Genetik di Ujung Kulon",
+   "link": "https://forestinsights.id/badak-jawa-hadapi-krisis-genetik-di-ujung-kulon/?utm_source=rss&utm_medium=rss&utm_campaign=badak-jawa-hadapi-krisis-genetik-di-ujung-kulon",
+   "pubDate": "Wed, 25 Nov 2026 01:55:12 +0000",
+   "description": "<p>Populasi badak Jawa (Rhinoceros sondaicus) di Taman Nasional Ujung Kulon (TNUK), Banten, menghadapi tekanan konservasi yang semakin kompleks. Meskipun jumlahnya relatif bertahan dan kelahiran alami masih terjadi, keterbatasan habitat, penurunan keragaman genetik, serta ancaman penyakit dan bencana alam meningkatkan risiko terhadap kelangsungan hidup spesies tersebut. Menghadapi kondisi itu, Kementerian Kehutanan memperkuat program konservasi melalui Operasi [&#8230;]</p>\n<p>The post <a href=\"",
+   "fetched_at": "2026-11-27T14:14:09+07:00",
    "categories": [
     "bencana",
-    "hukum-kriminal"
+    "hukum-kriminal",
+    "pemerintahan"
    ],
-   "content_status": "partial",
-   "content_chars": 254,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/27/apel-kesiapsiagaan-bencana-alam-polda-ntb.jpg\" align=\"left\" border=\"0\" />Kepolisian Daerah Nusa Tenggara Barat menyiagakan sebanyak 1.010 personel untuk mengantisipasi potensi bencana alam ..."
+   "content_status": "full",
+   "content_chars": 13340,
+   "content": "Populasi badak Jawa ( Rhinoceros sondaicus ) di Taman Nasional Ujung Kulon (TNUK), Banten, menghadapi tekanan konservasi yang semakin kompleks. Meskipun jumlahnya relatif bertahan dan kelahiran alami masih terjadi, keterbatasan habitat, penurunan keragaman genetik, serta ancaman penyakit dan bencana alam meningkatkan risiko terhadap kelangsungan hidup spesies tersebut.\n\nMenghadapi kondisi itu, Kementerian Kehutanan memperkuat program konservasi melalui Operasi Merah Putih dan pengembangan Javan Rhino Study and Conservation Area (JRSCA) di Blok Gunung Honje, kawasan Taman Nasional Ujung Kulon. Program ini diarahkan untuk meningkatkan kualitas pengelolaan populasi, memperbaiki kondisi genetik, serta memperluas pengetahuan ilmiah mengenai kesehatan dan reproduksi badak Jawa.\n\nData populasi menunjukkan bahwa pada 2022, pendugaan menggunakan metode album identifikasi individu kumulatif mencatat sebanyak 76 ekor badak Jawa. Pada 2024, penghitungan menggunakan model Spatial Count berdasarkan 140 kamera jebak yang ditempatkan dalam 35 klaster menghasilkan estimasi 75–100 individu, dengan kepadatan 0,34 individu per kilometer persegi.\n\nSementara itu, survei kamera jebak terbaru pada 2026 memperkirakan populasi berada pada kisaran 74–99 individu, dengan nilai estimasi terbaik 91 ekor. Kementerian Kehutanan memperkirakan jumlahnya berada pada rentang 87–100 individu.\n\nNamun, data tersebut masih memerlukan penghitungan lebih lanjut menggunakan metode, jaringan kamera, dan parameter statistik yang sama agar hasil survei 2026 dapat dibandingkan secara konsisten dengan tahun-tahun sebelumnya.\n\nMenurut data Balai Taman Nasional Ujung Kulon per November 2026, seluruh populasi liar badak Jawa yang tersisa di dunia hanya bertahan di satu kawasan semenanjung. Kondisi ini membuat spesies tersebut rentan karena tidak memiliki populasi liar penyangga di habitat lain.\n\nKeterbatasan ruang menjadi salah satu persoalan utama. Daya tampung alami Semenanjung Ujung Kulon diperkirakan berkisar antara 70 individu berdasarkan kajian Ramono pada 1990 hingga sekitar 100 individu menurut sejumlah literatur lainnya. Dengan estimasi populasi saat ini, kapasitas habitat dinilai semakin terbatas untuk mendukung pertumbuhan alami.\n\nPola persebaran selama survei 2024–2026 juga menunjukkan konsentrasi populasi di bagian tengah dan selatan semenanjung, terutama di zona inti dan zona rimba. Pada 2024, kawasan dengan kepadatan tinggi membentuk satu hamparan luas, sedangkan pada 2025 persebarannya terpecah menjadi beberapa titik konsentrasi yang meluas ke arah tenggara.\n\nSelain keterbatasan ruang, perubahan kualitas habitat turut memengaruhi ketersediaan pakan. Dari total 26.830 hektare wilayah studi di semenanjung, habitat yang dinilai layak pada musim hujan mencapai 11.510 hektare atau 42,9 persen. Namun, saat musim kemarau, luasnya menyusut menjadi 4.303 hektare atau 16 persen akibat berkurangnya area yang memiliki ketersediaan kubangan.\n\nBahkan, habitat dengan kategori sesuai dan optimal tercatat kurang dari satu persen. Kondisi ini semakin diperburuk oleh penyebaran tanaman langkap ( Arenga obtusifolia ) yang mendominasi sejumlah kawasan, termasuk wilayah dengan kepadatan badak tertinggi.\n\nData suksesi vegetasi periode 2011–2020 menunjukkan bahwa 47,6 persen kawasan berada pada fase klimaks, meliputi hutan primer, langkap, dan bambu. Sementara itu, fase intermediate yang menjadi sumber utama tumbuhan pakan badak hanya tersisa 35,5 persen.\n\nTajuk tanaman langkap dapat menyerap lebih dari 95 persen cahaya matahari sebelum mencapai lantai hutan. Kondisi tersebut menghambat pertumbuhan tumbuhan bawah, menurunkan indeks keanekaragaman hayati hingga di bawah 2,5, serta mengurangi regenerasi vegetasi secara signifikan.\n\nJumlah semai yang sebelumnya mencapai 35.492 per hektare tercatat menurun hingga hanya 1.280 pancang per hektare. Meski demikian, penelitian di lokasi percontohan Cijengkol menunjukkan bahwa pemulihan ekosistem masih memungkinkan. Uji coba pembukaan seluruh tanaman langkap di area tersebut menghasilkan kemunculan kembali 149 jenis tumbuhan.\n\nSementara itu, Blok Gunung Honje di bagian timur kawasan Ujung Kulon relatif terbebas dari invasi langkap sehingga dinilai memiliki peluang untuk pengembangan habitat tambahan.\n\nPersoalan lain yang tidak kalah serius adalah penurunan kualitas genetik akibat perkawinan sedarah atau inbreeding depression . Analisis terhadap 61 sampel DNA badak Jawa periode 2019–2024 yang dilakukan Balai TNUK bersama IPB University dan ALERT menemukan bahwa populasi saat ini hanya memiliki dua garis keturunan mitokondria.\n\nHasil analisis menunjukkan 42 dari 61 sampel termasuk Haplotipe 1 dengan tingkat perkawinan sedarah sebesar 58,5 persen. Sementara itu, 19 sampel lainnya termasuk Haplotipe 2 dengan tingkat sebesar 6,5 persen. Keseragaman genetik populasi tercatat mencapai 62 persen.\n\nAnalisis tersebut juga mengidentifikasi sekitar 55 persen badak betina tidak produktif serta 13 individu mengalami kelainan bawaan. Temuan ini menunjukkan bahwa persoalan penurunan kualitas genetik telah menjadi tantangan nyata bagi keberlanjutan populasi.\n\nKepala Balai TNUK Ardi Andono mengatakan dampak penurunan kualitas genetik mulai terlihat pada kondisi fisik sejumlah individu. Ia menyebut terdapat indikasi perubahan morfologi, termasuk ukuran kaki yang lebih kecil dibandingkan ukuran yang selama ini tercatat.\n\n“Akibat inbreeding depression ini ada yang sakit, dan 55 persen betinanya mandul. Secara morfologi juga terlihat pergeseran; ukuran kaki badak yang biasanya di atas 30 sentimeter, sekarang paling besar 28 sentimeter,” kata Ardi.\n\nSelain ancaman genetik, populasi badak Jawa juga menghadapi risiko perburuan, penyakit, serta bencana alam seperti letusan gunung berapi dan gempa bumi. Dalam kasus perburuan sebelumnya, tercatat 10 ekor badak Jawa mati dibunuh. Penegakan hukum pada 2024–2025 menghasilkan vonis penjara 11–12 tahun terhadap tujuh pelaku perburuan.\n\nDari sisi kesehatan, badak Jawa rentan terhadap antraks, parasit darah, serta berbagai penyakit lain yang penyebabnya belum sepenuhnya teridentifikasi. Karena seluruh populasi berada dalam satu kawasan tanpa pemisahan antarpopulasi, penyebaran wabah berpotensi berdampak luas.\n\nAncaman bencana juga menjadi perhatian serius. Letusan Gunung Krakatau pada 1883 meninggalkan endapan abu setebal rata-rata 16–20 sentimeter di Semenanjung Ujung Kulon, bahkan mencapai 21–30 sentimeter di sejumlah lokasi. Endapan tersebut mengubur lapisan tumbuhan pakan di lantai hutan, sementara aliran awan panas menjangkau wilayah laut hingga sekitar 40 kilometer.\n\nPemodelan tsunami yang dilakukan Setiawan dan rekan-rekannya pada 2017 menunjukkan bahwa gelombang dengan ketinggian rayapan 10–25 meter berpotensi menggenangi dataran rendah yang juga menjadi kawasan dengan kepadatan badak tertinggi. Dengan demikian, wilayah habitat penting bagi badak Jawa sekaligus memiliki kerentanan terhadap bencana alam.\n\nUntuk mengatasi berbagai tantangan tersebut, Kementerian Kehutanan mengembangkan JRSCA di Blok Gunung Honje melalui program Operasi Merah Putih yang dimulai pada Agustus–September 2025. Program ini didukung kerja sama dengan TNI, termasuk penggunaan kendaraan amfibi KAPA K-61 Korps Marinir TNI Angkatan Laut dalam proses translokasi internal dari semenanjung menuju kandang perawatan atau paddock JRSCA.\n\nArdi menjelaskan bahwa pemantauan menggunakan kamera jebak selama ini hanya memberikan informasi mengenai aktivitas dan kondisi fisik yang terlihat dari luar. Sementara itu, pemeriksaan kesehatan internal, kondisi reproduksi, dan kualitas biologis badak membutuhkan observasi serta pemeriksaan medis secara langsung.\n\n“Yang menjadi masalah, kita tidak tahu bagaimana kondisi badak Jawa secara biologis, apakah dia sakit atau bagaimana. Untuk mengecek kondisi biologisnya, mereka harus ditangkap dulu,” ujarnya.\n\nMenurut Ardi, pengetahuan ilmiah mengenai reproduksi dan kesehatan badak Jawa masih terbatas. Sejumlah informasi, termasuk perkiraan masa kebuntingan selama 16 bulan, masih mengacu pada literatur mengenai badak India karena keduanya berada dalam genus yang sama.\n\nKeterbatasan tersebut menjadi salah satu alasan pengembangan pengelolaan terkontrol di JRSCA, terutama dengan memprioritaskan individu betina dari Haplotipe 2 yang memiliki tingkat perkawinan sedarah lebih rendah.\n\nNamun, pelaksanaan translokasi sebelumnya memberikan pelajaran penting. Pada November 2025, Balai TNUK melakukan pemindahan internal pertama dengan memindahkan pejantan alfa bernama Musofa pada 3–5 November. Meskipun proses pemindahan berlangsung tanpa luka fisik, Musofa kemudian mengalami kondisi kritis dan mati pada 7 November 2025.\n\nHasil pemeriksaan nekropsi oleh tim patologi IPB University pada 8 November mengungkapkan bahwa Musofa diperkirakan telah berusia 45 tahun. Pemeriksaan juga menemukan infeksi kronis akibat tujuh hingga sembilan jenis parasit cacing di usus, lambung, dan jaringan otot.\n\nArdi mengatakan kondisi kesehatan Musofa sebenarnya telah mengalami penurunan sebelum proses penangkapan. Pemeriksaan juga menemukan tidak adanya jaringan lemak di bawah kulit serta penumpukan cairan di bagian perut dan otak akibat kekurangan protein berat.\n\nBerdasarkan evaluasi tersebut, Balai TNUK memperbarui prosedur operasional standar translokasi internal. Seleksi calon individu kini lebih ketat, dengan prioritas badak berusia di atas enam tahun dan di bawah 25 tahun yang riwayat usianya dapat diverifikasi melalui rekaman kamera jebak sejak lahir.\n\nPemilihan juga memprioritaskan betina Haplotipe 2 serta pejantan dari Haplotipe 1 maupun Haplotipe 2. Selain itu, metode penangkapan diubah menggunakan sistem penggiringan menuju kandang besar berbahan kayu atau boma yang dibangun langsung di dalam hutan.\n\nMelalui metode tersebut, dokter hewan dapat memeriksa kondisi kesehatan dan tingkat stres badak sebelum menentukan langkah berikutnya. Individu yang memenuhi persyaratan akan menjalani pengobatan, karantina, dan proses adaptasi dengan perawat satwa atau keeper sebelum dipindahkan ke JRSCA.\n\nSebaliknya, apabila pemeriksaan menunjukkan kondisi kesehatan yang terlalu parah untuk ditangani, badak akan dilepaskan kembali ke habitat asalnya guna mengurangi risiko kematian akibat proses pemindahan.\n\nDalam jangka panjang, JRSCA ditargetkan dapat menghasilkan sedikitnya dua individu anak badak dalam kurun waktu 10 tahun. Keturunan tersebut diharapkan dapat dikembalikan ke habitat liar Ujung Kulon untuk membantu memperkaya keragaman genetik populasi.\n\nMenteri Kehutanan Raja Juli Antoni menegaskan bahwa Taman Nasional Ujung Kulon akan tetap menjadi habitat utama badak Jawa. Pemerintah akan melanjutkan rehabilitasi hutan, pemulihan ekosistem, penambahan kamera jebak, serta penguatan patroli perlindungan kawasan.\n\nIa juga memastikan tidak akan menerbitkan persetujuan penggunaan kawasan hutan untuk kegiatan pertambangan di Taman Nasional Ujung Kulon maupun perairan sekitarnya.\n\n“Saya berjanji tidak akan pernah menerbitkan PPKH tambang di Taman Nasional Ujung Kulon,” tegas Raja Juli.\n\nSelain itu, Kementerian Kehutanan bekerja sama dengan IPB University untuk membangun fasilitas biobank guna menyimpan materi genetik dan sperma badak Jawa sebagai cadangan sumber daya genetik jangka panjang.\n\nTerkait wacana pembentukan habitat kedua yang telah dibahas kalangan ilmuwan sejak 1980-an, pemerintah belum menetapkan lokasi, jumlah individu, metode, maupun jadwal pelaksanaannya. Menteri Kehutanan menegaskan bahwa pemerintah tidak akan memindahkan seluruh populasi badak Jawa dari Ujung Kulon dan setiap keputusan harus didasarkan pada rekomendasi ilmiah.\n\n“Kita tidak akan pernah mengambil keputusan tanpa ada rekomendasi dari para ilmuwan,” ujar Raja Juli, seraya menyebut keterlibatan akademisi dari IPB University, Universitas Gadjah Mada, dan mitra penelitian internasional.\n\nDi tengah berbagai tantangan tersebut, kelahiran alami badak Jawa masih memberikan harapan bagi upaya konservasi. Rekaman kamera jebak pada 10 Oktober 2026 pukul 21.35 WIB memperlihatkan seekor anak badak berusia sekitar satu hingga dua bulan sedang beraktivitas bersama induknya, Desy.\n\nAnak badak tersebut merupakan individu kelima yang dilahirkan Desy sejak 2013, setelah Arjuna pada 2013, Arum pada 2015, Hawa pada 2018, dan Syauki pada 2024. Kelahiran ini juga melengkapi catatan kelahiran anak badak dari induk Arum di Blok Cigenter pada 29 Januari 2026.\n\nPelaksana Tugas Direktur Jenderal Konservasi Sumber Daya Alam dan Ekosistem Kementerian Kehutanan Mahfudz mengatakan kelahiran tersebut menunjukkan bahwa habitat Ujung Kulon masih mendukung reproduksi alami badak Jawa.\n\n“Ini bukan hanya kebahagiaan TNUK, tapi kebahagiaan Indonesia dan dunia. Kami berkomitmen untuk terus memperkuat perlindungan, termasuk upaya rasionalisasi habitat melalui Javan Rhino Study and Conservation Area (JRSCA),” kata Mahfudz.\n\nPemerintah berharap penguatan konservasi di Ujung Kulon melalui perlindungan habitat, pengelolaan genetik, pemeriksaan kesehatan, dan pengembangan JRSCA dapat meningkatkan peluang kelangsungan hidup badak Jawa. Upaya tersebut menjadi penting untuk memastikan spesies yang kini hanya memiliki satu populasi liar di dunia itu tetap bertahan bagi generasi mendatang. (**)\n\nThe post Badak Jawa Hadapi Krisis Genetik di Ujung Kulon appeared first on Forest Insights Indonesia ."
   },
   {
-   "source": "antara",
-   "getter": "getter2",
-   "title": "Hujan deras, ribuan warga Dayeuhkolot terdampak banjir luapan Sungai Citarum",
-   "link": "https://www.antaranews.com/foto/5881887/hujan-deras-ribuan-warga-dayeuhkolot-terdampak-banjir-luapan-sungai-citarum",
-   "pubDate": "Fri, 27 Nov 2026 10:31:56 +0700",
-   "description": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/27/Banjir-Luapan-Sungai-Citarum-Di-Kabupaten-Bandung-271126-rai-3.jpg\" align=\"left\" border=\"0\" />Anak-anak bermain di genangan air saat banjir yang melanda Kampung Bojongasih, Dayeuhkolot, Kabupaten Bandung, Jawa ...",
-   "fetched_at": "2026-11-27T04:27:35+07:00",
+   "source": "forestinsights",
+   "getter": "auto",
+   "title": "Kemenhut Peringatkan Ancaman Banjir dan Longsor",
+   "link": "https://forestinsights.id/kemenhut-peringatkan-ancaman-banjir-dan-longsor/?utm_source=rss&utm_medium=rss&utm_campaign=kemenhut-peringatkan-ancaman-banjir-dan-longsor",
+   "pubDate": "Wed, 25 Nov 2026 01:50:45 +0000",
+   "description": "<p>Kementerian Kehutanan (Kemenhut) mengimbau masyarakat meningkatkan kewaspadaan terhadap potensi banjir, banjir bandang, dan tanah longsor seiring puncak musim hujan yang diperkirakan berlangsung pada November hingga Desember 2026. Aceh, Sumatera Utara, dan Sumatera Barat menjadi wilayah yang mendapat perhatian khusus karena memiliki sejumlah daerah aliran sungai (DAS) dengan tingkat kerawanan bencana. Berdasarkan analisis spasial Kemenhut yang [&#8230;]</p>\n<p>The post <a href=\"https://forest",
+   "fetched_at": "2026-11-27T14:14:09+07:00",
+   "categories": [
+    "bencana",
+    "kebakaran",
+    "pemerintahan"
+   ],
+   "content_status": "full",
+   "content_chars": 5016,
+   "content": "Kementerian Kehutanan (Kemenhut) mengimbau masyarakat meningkatkan kewaspadaan terhadap potensi banjir, banjir bandang, dan tanah longsor seiring puncak musim hujan yang diperkirakan berlangsung pada November hingga Desember 2026. Aceh, Sumatera Utara, dan Sumatera Barat menjadi wilayah yang mendapat perhatian khusus karena memiliki sejumlah daerah aliran sungai (DAS) dengan tingkat kerawanan bencana.\n\nBerdasarkan analisis spasial Kemenhut yang menggabungkan data kejadian banjir berulang periode 2020–2024, bencana banjir besar dan banjir bandang pada 2025, karakteristik bentang alam, kemiringan lereng, bekas kebakaran hutan dan lahan, sebaran material kayu, serta prakiraan curah hujan Badan Meteorologi, Klimatologi, dan Geofisika (BMKG), terdapat potensi kerawanan banjir pada 98 DAS di tiga provinsi tersebut.\n\nRinciannya meliputi 33 DAS di Aceh, 24 DAS di Sumatera Utara, dan 41 DAS di Sumatera Barat. Pemetaan tersebut dilakukan untuk mengidentifikasi wilayah yang berpotensi terdampak pada dasarian ketiga November 2026.\n\nKemenhut menjelaskan bahwa wilayah pantai barat Sumatera memiliki karakteristik geografis berupa lereng relatif terjal dengan kemiringan berkisar 15–70 persen serta aliran sungai yang cenderung pendek. Kondisi tersebut memungkinkan air hujan dari kawasan hulu mengalir dengan cepat menuju hilir sehingga meningkatkan risiko banjir bandang dan tanah longsor ketika hujan berintensitas tinggi terjadi.\n\nSebaliknya, wilayah pantai timur Sumatera yang memiliki bentang alam relatif landai lebih rentan terhadap luapan sungai dan genangan air yang dapat bertahan dalam waktu lebih lama.\n\nPemantauan lapangan menggunakan pesawat nirawak atau drone oleh Balai Pengelolaan Daerah Aliran Sungai (BPDAS) di DAS Aek Pandan, Sumatera Utara, dan DAS Air Dingin, Sumatera Barat, menemukan sejumlah indikasi kerawanan. Temuan tersebut mencakup longsoran di kawasan hulu, pendangkalan sungai, serta keberadaan material kayu di badan sungai.\n\nKondisi tersebut menjadi perhatian pemerintah karena material longsoran dan kayu yang terbawa aliran air berpotensi meningkatkan risiko bencana, terutama bagi masyarakat yang tinggal di sekitar sungai.\n\nMasyarakat yang bermukim di bantaran sungai, lereng terjal, dataran rendah, serta kawasan yang memiliki riwayat banjir dan longsor diminta mengenali tanda-tanda awal bencana. Indikator yang perlu diwaspadai antara lain kenaikan debit sungai secara tiba-tiba, perubahan warna air menjadi keruh disertai material hanyutan, suara gemuruh dari arah hulu, serta munculnya retakan atau pergerakan tanah di sekitar lereng.\n\nWarga juga diminta mengantisipasi kemungkinan banjir kiriman, termasuk ketika hujan tidak turun di wilayah tempat tinggal mereka. Kondisi ini dapat terjadi akibat curah hujan tinggi di kawasan hulu yang menyebabkan peningkatan debit air menuju daerah hilir.\n\nMenteri Kehutanan Raja Juli Antoni telah mengarahkan jajarannya untuk memperkuat upaya pencegahan dan kesiapsiagaan, khususnya di Aceh, Sumatera Utara, dan Sumatera Barat. Menindaklanjuti arahan tersebut, unit pelaksana teknis Kemenhut di daerah meningkatkan pemantauan DAS dari kawasan hulu hingga hilir serta mengidentifikasi titik-titik yang berpotensi mengalami bencana.\n\nKoordinasi juga diperkuat bersama Badan Nasional Penanggulangan Bencana (BNPB), BMKG, pemerintah daerah, dan instansi terkait guna memastikan informasi kerawanan dapat segera ditindaklanjuti melalui langkah antisipasi dan penyampaian peringatan dini kepada masyarakat.\n\nSelain pemantauan menggunakan citra satelit dan drone, Kemenhut menyiapkan pengecekan langsung di lapangan, pembentukan posko kesiapsiagaan, penanganan sisa material kayu hanyutan, serta patroli perlindungan hutan. Pemerintah juga mempertimbangkan penutupan sementara lokasi wisata berbasis air yang berpotensi terdampak banjir bandang.\n\nPemetaan wilayah prioritas akan diperbarui setiap sepuluh hari dengan mengintegrasikan perkembangan prakiraan curah hujan BMKG hingga musim hujan berakhir. Langkah tersebut diharapkan membantu pemerintah memperbarui informasi risiko dan menentukan tindakan pencegahan sesuai kondisi terkini.\n\nKemenhut mengajak masyarakat secara aktif memantau informasi cuaca dan peringatan dini melalui kanal resmi BMKG, BNPB, Badan Penanggulangan Bencana Daerah (BPBD), serta pemerintah daerah. Warga juga diminta menghindari aktivitas di sekitar sungai dan lokasi wisata berbasis air ketika hujan lebat berlangsung.\n\nSelain itu, masyarakat perlu mengetahui jalur dan lokasi evakuasi terdekat agar dapat segera menyelamatkan diri apabila muncul tanda-tanda bahaya. Pemerintah menegaskan bahwa masyarakat tidak perlu menunggu bencana terjadi untuk menuju tempat yang lebih aman.\n\nPeningkatan kewaspadaan, kesiapsiagaan, dan tindakan antisipasi sejak dini menjadi bagian penting dalam mengurangi risiko bencana hidrometeorologi sekaligus melindungi keselamatan masyarakat selama puncak musim hujan. (**)\n\nThe post Kemenhut Peringatkan Ancaman Banjir dan Longsor appeared first on Forest Insights Indonesia ."
+  },
+  {
+   "source": "harianjogja",
+   "getter": "auto",
+   "title": "Basarnas DIY Siaga Hadapi Bencana Hidrometeorologi 2026/2027",
+   "link": "https://jogjapolitan.harianjogja.com/r-1280534/basarnas-diy-siaga-hadapi-bencana-hidrometeorologi-20262027",
+   "pubDate": "Fri, 27 Nov 2026 20:27:02 +0700",
+   "description": "Basarnas Yogyakarta menggelar apel kesiapsiagaan menghadapi potensi banjir, longsor, angin kencang, dan cuaca ekstrem pada musim hujan 2026/2027.",
+   "fetched_at": "2026-11-27T14:13:56+07:00",
    "categories": [
     "bencana"
    ],
    "content_status": "partial",
-   "content_chars": 275,
-   "content": "<img src=\"https://img.antaranews.com/cache/800x533/2026/11/27/Banjir-Luapan-Sungai-Citarum-Di-Kabupaten-Bandung-271126-rai-3.jpg\" align=\"left\" border=\"0\" />Anak-anak bermain di genangan air saat banjir yang melanda Kampung Bojongasih, Dayeuhkolot, Kabupaten Bandung, Jawa ..."
+   "content_chars": 145,
+   "content": "Basarnas Yogyakarta menggelar apel kesiapsiagaan menghadapi potensi banjir, longsor, angin kencang, dan cuaca ekstrem pada musim hujan 2026/2027."
+  },
+  {
+   "source": "jpnn",
+   "getter": "auto",
+   "title": "Longsor Terjang Lima Titik di Pagerwojo Tulungagung, Dua Rumah Warga Rusak",
+   "link": "https://jatim.jpnn.com/jatim-terkini/50566/longsor-terjang-lima-titik-di-pagerwojo-tulungagung-dua-rumah-warga-rusak",
+   "pubDate": "Fri, 27 Nov 2026 21:00:00 +0700",
+   "description": "<img src=\"https://cloud.jpnn.com/photo/jatim/news/normal/2026/11/27/petugas-badan-penanggulangan-bencana-daerah-bpbd-kabupaten-2-a1yb.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jatim.jpnn.com</strong>, TULUNGAGUNG - Bencana tanah longsor menerjang lima titik di wilayah Kecamatan Pagerwojo, Kabupaten Tulungagung, Jawa Timur. Peristiwa tersebut dipicu hujan deras yang mengguyur kawasan lereng Gunung Wilis sejak Kamis (26/11) sore.",
+   "fetched_at": "2026-11-27T14:13:55+07:00",
+   "categories": [
+    "bencana"
+   ],
+   "content_status": "partial",
+   "content_chars": 451,
+   "content": "<img src=\"https://cloud.jpnn.com/photo/jatim/news/normal/2026/11/27/petugas-badan-penanggulangan-bencana-daerah-bpbd-kabupaten-2-a1yb.jpg\" align=\"left\" hspace=\"7\" width=\"120\" height=\"90\"/><strong>jatim.jpnn.com</strong>, TULUNGAGUNG - Bencana tanah longsor menerjang lima titik di wilayah Kecamatan Pagerwojo, Kabupaten Tulungagung, Jawa Timur. Peristiwa tersebut dipicu hujan deras yang mengguyur kawasan lereng Gunung Wilis sejak Kamis (26/11) sore."
   }
  ]
 }
